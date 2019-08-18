@@ -13,3 +13,4 @@ date: 2019-08-17
 5. [Fire Extinguishers](fire-and-fuels/slides/5-fire-extinguishers.html)
 6. [Complete and Incomplete Combustion](fire-and-fuels/slides/6-complete-incomplete-combustion.html)
 7. [Hydrocarbons](fire-and-fuels/slides/7-hydrocarbons.html)
+8. [Balancing Equations](fire-and-fuels/slides/8-balancing-equations.html)
