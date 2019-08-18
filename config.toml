@@ -1,19 +1,17 @@
-baseurl = "https://finnito.gitlab.io/science/"
+baseurl = "https://science.lesueur.nz"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
 title = "Science with LSF"
 canonifyurls  = true
 uglyurls = true
-staticDir = ["static", "submodules/reveal.js-fork", "content"]
+staticDir = ["static", "content"]
 
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
 
 [Params]
   subtitle = "Science Courses taught by Finn LeSueur"
