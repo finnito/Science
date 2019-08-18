@@ -4,7 +4,7 @@ layoutdir     = "layouts"
 publishdir    = "public"
 title = "Science with LSF"
 canonifyurls  = true
-uglyurls = true
+uglyurls = false
 staticDir = ["static", "content"]
 
 DefaultContentLanguage = "en"
