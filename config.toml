@@ -4,6 +4,7 @@ layoutdir     = "layouts"
 publishdir    = "public"
 title = "Science with LSF"
 canonifyurls  = true
+uglyurls = true
 staticDir = ["static", "submodules/reveal.js-fork"]
 
 DefaultContentLanguage = "en"
