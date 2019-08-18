@@ -7,11 +7,11 @@ url: /10scie/fire-and-fuels/
 
 ## Slides
 
-1. [Introduction](fire-and-fuels/slides/1-introduction.html)
-2. [Why Have a Wick](fire-and-fuels/slides/2-why-have-a-wick.html)
-3. [Burning](fire-and-fuels/slides/3-burning.html)
-4. [Products of Combustion](fire-and-fuels/slides/4-products-of-combustion.html)
-5. [Fire Extinguishers](fire-and-fuels/slides/5-fire-extinguishers.html)
-6. [Complete and Incomplete Combustion](fire-and-fuels/slides/6-complete-incomplete-combustion.html)
-7. [Hydrocarbons](fire-and-fuels/slides/7-hydrocarbons.html)
-8. [Balancing Equations](fire-and-fuels/slides/8-balancing-equations.html)
+1. [Introduction](slides/1-introduction.html)
+2. [Why Have a Wick](slides/2-why-have-a-wick.html)
+3. [Burning](slides/3-burning.html)
+4. [Products of Combustion](slides/4-products-of-combustion.html)
+5. [Fire Extinguishers](slides/5-fire-extinguishers.html)
+6. [Complete and Incomplete Combustion](slides/6-complete-incomplete-combustion.html)
+7. [Hydrocarbons](slides/7-hydrocarbons.html)
+8. [Balancing Equations](slides/8-balancing-equations.html)
