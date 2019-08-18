@@ -2,7 +2,7 @@ baseurl = "https://finnito.gitlab.io/science/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Science by LSF"
+title = "Science with LSF"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -14,7 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Science Courses taught by Finn LeSUeur"
+  subtitle = "Science Courses taught by Finn LeSueur"
   logo = "logo.png"
   favicon = "favicon.ico"
   dateFormat = "January 2, 2006"
