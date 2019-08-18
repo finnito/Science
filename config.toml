@@ -15,8 +15,8 @@ pygmentCodeFences = true
 
 [Params]
   subtitle = "Science Courses taught by Finn LeSUeur"
-  logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
+  logo = "static/logo.png.png"
+  favicon = "static/favicon.png"
   dateFormat = "January 2, 2006"
   commit = true
   rss = true
@@ -41,13 +41,13 @@ pygmentCodeFences = true
 # ====================
 [[menu.main]]
     name = "10SCIE"
-    url = "/10SCIE"
+    url = "/10scie"
     weight = 2
 
 [[menu.main]]
-    parent = "10SCCIE"
+    parent = "10SCIE"
     name = "Fire & Fuels"
-    url = "10SCIE/fire-and-fuels"
+    url = "10scie/fire-and-fuels"
     weight = 5
 
 # ====================
