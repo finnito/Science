@@ -5,7 +5,7 @@ publishdir    = "public"
 title = "Science with LSF"
 canonifyurls  = true
 uglyurls = true
-staticDir = ["static", "submodules/reveal.js-fork"]
+staticDir = ["static", "submodules/reveal.js-fork", "content"]
 
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
