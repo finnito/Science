@@ -1,12 +1,8 @@
-![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)
+# ![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg) [https://science.lesueur.nz](https://science.lesueur.nz)
 
----
-
-# What is This?
+## What is This?
 
 This repository serves a Gitlab Pages site which contains and displays all my teaching materials as a High School Science & Physics teacher.
-
-# [https://science.lesueur.nz](https://science.lesueur.nz)
 
 These notes and resources are all a work-in-progress. I am completing them as I teach each unit and each year group, so it is likely that you will find them incomplete in many areas.
 
