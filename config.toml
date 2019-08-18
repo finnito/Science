@@ -15,7 +15,7 @@ pygmentCodeFences = true
 
 [Params]
   subtitle = "Science Courses taught by Finn LeSUeur"
-  logo = "static/logo.png.png"
+  logo = "static/logo.png"
   favicon = "static/favicon.png"
   dateFormat = "January 2, 2006"
   commit = true
