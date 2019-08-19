@@ -14,3 +14,4 @@ url: /10scie/fire-and-fuels/
 6. [Complete and Incomplete Combustion](slides/6-complete-incomplete-combustion.html) [(PDF)](pdfs/6-complete-incomplete-combustion.pdf)
 7. [Hydrocarbons](slides/7-hydrocarbons.html) [(PDF)](pdfs/7-hydrocarbons.pdf)
 8. [Balancing Equations](slides/8-balancing-equations.html) [(PDF)](pdfs/8-balancing-equations.pdf)
+9. [Environmental Impact](slides/9-environmental-impact.html) [(PDF)](pdfs/9-environmental-impact.pdf)
