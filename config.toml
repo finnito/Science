@@ -50,6 +50,12 @@ pygmentCodeFences = true
     url = "10scie/fire-and-fuels"
     weight = 5
 
+[[menu.main]]
+    parent = "10SCIE"
+    name = "Geology"
+    url = "10scie/geology"
+    weight = 6
+
 # ====================
 # 11SCIE
 # ====================
