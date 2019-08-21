@@ -21,7 +21,7 @@ pages:
 
 assets:
   before_script:
-    - apt-get install texlive
-    - apt-get install pandoc
+    - apk install texlive
+    - apk install pandoc
   script:
     - sh ci-build.sh
