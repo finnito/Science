@@ -20,6 +20,6 @@ pages:
   - master
 
 assets:
-  image: jpbernius/pandoc
+  image: jagregory/pandoc
   script:
     - sh ci-build.sh
