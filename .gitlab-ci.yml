@@ -23,6 +23,7 @@ assets:
   before_script:
     - echo "http://nl.alpinelinux.org/alpine/edge/community" >> /etc/apk/repositories
     - echo "http://nl.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
+    - apk add curl
     - apk add ghc
     - apk add cabal
     - cabal v1-install Cabal cabal-install
