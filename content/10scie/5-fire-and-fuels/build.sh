@@ -1,1 +1,0 @@
-../core/teaching-notes-build-script/build.sh
