@@ -1,5 +1,11 @@
 #!/bin/bash
-cd "$(dirname "$0")"
+
+# Ensure the script runs from
+# the directory it's located in.
+currentDir="$(dirname "$0")"
+cd currentDir
+
+
 
 # Check if an argument is given
 # If no argument is give, build all MD files,
