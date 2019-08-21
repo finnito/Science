@@ -22,4 +22,6 @@ pages:
 assets:
   image: ntwrkguru/pandoc-gitlab-ci
   script:
-    - ls
+    - cp ci-build.sh public/
+    - cd public/
+    - sh ci-build.sh
