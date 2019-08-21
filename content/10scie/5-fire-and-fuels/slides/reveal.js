@@ -1,1 +1,1 @@
-../../core/reveal.js-fork
+../../../../submodules/reveal.js-fork
