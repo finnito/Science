@@ -21,6 +21,7 @@ pages:
 
 assets:
   before_script:
+    - echo "http://dl-cdn.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
     - apk add texlive
     - apk add pandoc
   script:
