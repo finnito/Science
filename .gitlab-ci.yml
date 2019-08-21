@@ -20,15 +20,6 @@ pages:
   - master
 
 assets:
-  before_script:
-    - echo "http://nl.alpinelinux.org/alpine/edge/community" >> /etc/apk/repositories
-    - echo "http://nl.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
-    - apk add curl
-    - apk add ghc
-    - apk add cabal
-    - cabal v1-configure --disable-library-vanilla --enable-shared --enable-executable-dynamic --ghc-options=-dynamic
-    - cabal v1-update
-    - cabal v1-install pandoc
-    - apk add texlive
+  image: jpbernius/pandoc
   script:
     - sh ci-build.sh
