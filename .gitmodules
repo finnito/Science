@@ -1,6 +1,3 @@
-[submodule "submodules/10-science"]
-	path = submodules/10-science
-	url = https://gitlab.com/Finnito/10-science
 [submodule "submodules/reveal.js-fork"]
 	path = submodules/reveal.js-fork
 	url = https://gitlab.com/Finnito/reveal.js-fork
