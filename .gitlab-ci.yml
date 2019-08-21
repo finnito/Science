@@ -26,6 +26,7 @@ assets:
     - apk add curl
     - apk add ghc
     - apk add cabal
+    - apk add stack
     - cabal v1-update
     - cabal v1-install HsYAML
     - cabal v1-install pandoc
