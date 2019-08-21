@@ -22,4 +22,5 @@ pages:
 assets:
   image: jagregory/pandoc
   script:
+    - chmod +x ./ci-build.sh
     - /bin/bash ci-build.sh
