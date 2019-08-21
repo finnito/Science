@@ -25,8 +25,8 @@ assets:
     - echo "http://nl.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
     - apk add ghc
     - apk add cabal
-    - cabal install Cabal cabal-install
-    - cabal install pandoc
+    - cabal v1-install Cabal cabal-install
+    - cabal v1-install pandoc
     - apk add texlive
   script:
     - sh ci-build.sh
