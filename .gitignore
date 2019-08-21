@@ -1,1 +1,17 @@
 public/
+
+# Ignore Admin Folders
+content/**/0-*
+
+# Ignore Incomplete Modules
+content/10scie/1-ecology
+content/10scie/2-electricity
+content/10scie/3-phun-reactions
+content/10scie/4-science-fair
+
+content/11sci/1-chemical-investigation
+content/11sci/2-microbes
+content/11sci/3-chemical-reactions
+
+content/12phy/1-waves
+content/12phy/2-mechanics
