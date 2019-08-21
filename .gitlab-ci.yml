@@ -26,6 +26,7 @@ assets:
     - apk add curl
     - apk add ghc
     - apk add cabal
+    - cabal update
     - cabal v1-install pandoc
     - apk add texlive
   script:
