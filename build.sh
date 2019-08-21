@@ -2,10 +2,8 @@
 
 # Ensure the script runs from
 # the directory it's located in.
-currentDir="$(dirname "$0")"
-cd currentDir
-
-
+scriptDir="$(dirname "$0")"
+cd scriptDir
 
 # Check if an argument is given
 # If no argument is give, build all MD files,
@@ -30,9 +28,3 @@ fi
 mv *.html slides/
 mv *.pdf pdfs/
 cp -r assets/ slides/assets
-
-# Generate new ZIP
-topic=${PWD##*/}
-cd pdfs
-zip "$topic".zip *
-mv *.zip ../
