@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Finn LeSueur">
+  <meta name="dcterms.date" content="2019-01-01">
+  <title>Resistance &amp; Ohm’s Law</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reset.css">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="reveal.js/css/theme/finn.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+  
+  
+  
+  
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Resistance &amp; Ohm’s Law</h1>
+  <p class="subtitle">12PHYS - Electricity</p>
+  <p class="author">Finn LeSueur</p>
+  <p class="date">2019</p>
+</section>
+
+<section id="starter" class="slide level1">
+<h1>Starter</h1>
+<p>Give the definition, symbol, unit and formula for the following:</p>
+<ol type="1">
+<li class="fragment">Electric Field</li>
+<li class="fragment">Electric Potential Energy</li>
+<li class="fragment">Current</li>
+<li class="fragment">Voltage</li>
+<li class="fragment">Power</li>
+</ol>
+</section>
+<section class="slide level1">
+
+<p>Recall that a circuit is an energy delivery system!</p>
+<h2 id="curent">Curent</h2>
+<p><span class="math display">\[\begin{align*}
+    &amp; current = \frac{charge}{time} \\
+    &amp; I = \frac{q}{t}
+\end{align*}\]</span></p>
+</section>
+<section class="slide level1">
+
+<h2 id="voltage">Voltage</h2>
+<p><span class="math display">\[\begin{align*}
+    &amp; voltage = \frac{\text{Electric field strength}}{charge} \\
+    &amp; V = \frac{E}{q}
+\end{align*}\]</span></p>
+</section>
+<section class="slide level1">
+
+<h2 id="power">Power</h2>
+<p><span class="math display">\[\begin{align*}
+    &amp; power = current \times voltage \\
+    &amp; P = IV
+\end{align*}\]</span></p>
+<p>What are we missing?</p>
+</section>
+<section id="resistance" class="slide level1">
+<h1>Resistance</h1>
+<ul>
+<li class="fragment"><p>What carries the charge in a circuit?</p></li>
+<li class="fragment"><p>Why are they able to flow in metals?</p></li>
+<li class="fragment"><p><strong>Resistance</strong> is the measure of how much electrons are impeded in a circuit. How much they are <em>slowed down</em>.</p></li>
+</ul>
+</section>
+<section class="slide level1">
+
+<h2 id="symbol-units">Symbol &amp; Units</h2>
+<p><strong>Resistance</strong> has symbol <strong>R</strong> in equations and has the unit <strong>Ohms</strong> (<span class="math inline">\(\Omega\)</span>).</p>
+</section>
+<section class="slide level1">
+
+<h2 id="resistance-heat">Resistance &amp; Heat</h2>
+<p>When current moves through a material with resistance the electrons <em>bump</em> into the nuclei. This causes energy to be transferred in the form of vibrations (<strong>heat</strong>)!</p>
+<p>The higher the resistance, the more heat produced!</p>
+</section>
+<section class="slide level1">
+
+<iframe width="1206" height="678" src="https://www.youtube.com/embed/Y-LPERlRHYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</section>
+<section class="slide level1">
+
+<h2 id="ohms-law">Ohm’s Law</h2>
+<p><span class="math display">\[\begin{align*}
+    &amp; V = IR \\
+    &amp; voltage = current \times resistance \\
+\end{align*}\]</span></p>
+<ul>
+<li class="fragment">Voltage is measured in..</li>
+<li class="fragment">Current is measured in..</li>
+<li class="fragment">Resistance is measured in..</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<h3 id="examples">Examples</h3>
+<ol type="1">
+<li class="fragment">The resistance of a light bulb is <span class="math inline">\(1.5k\Omega\)</span>. Calculate the current through the bulb when it is connected across a <span class="math inline">\(12V\)</span> power supply.</li>
+<li class="fragment">When <span class="math inline">\(9V\)</span> is applied to a resistor, <span class="math inline">\(0.03mA\)</span> of current flows through it. Calculate the resistance of the resistor.</li>
+<li class="fragment">How much voltage is required to produce <span class="math inline">\(180\mu A\)</span> of current flowing through a <span class="math inline">\(0.6M\Omega\)</span> resistor?</li>
+</ol>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/math/math.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>

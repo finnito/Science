@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Finn LeSueur">
+  <meta name="dcterms.date" content="2019-01-01">
+  <title>Voltage &amp; Power</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reset.css">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="reveal.js/css/theme/finn.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+  
+  
+  
+  
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Voltage &amp; Power</h1>
+  <p class="subtitle">12PHYS - Electricity</p>
+  <p class="author">Finn LeSueur</p>
+  <p class="date">2019</p>
+</section>
+
+<section id="starter" class="slide level1">
+<h1>Starter</h1>
+<ol type="1">
+<li class="fragment">Draw a series circuit with 6V power supply, a bulb and a resistor. Indicate the positive and negative terminals on the power supply, and indicate the direction of conventional current and the actual movement of electrons.</li>
+<li class="fragment">What is the definition of current?</li>
+<li class="fragment">Give an equation that relates to the definition.</li>
+<li class="fragment">A circuit draws 0.4A and in total 2.5C goes past a certain point. How long did was the circuit on for?</li>
+</ol>
+</section>
+<section class="slide level1">
+
+<p>Yesterday we talked about current and how it is the rate of transfer of charge per unit time.</p>
+<p><span class="math display">\[\begin{align*}
+    &amp; I = \frac{q}{t}
+\end{align*}\]</span></p>
+</section>
+<section id="what-is-a-circuit" class="slide level1">
+<h1>What is a circuit?</h1>
+<figure>
+<img data-src="assets/4-basic-circuit.png" title="Circuit Diagram" style="width:50.0%" alt="" /><figcaption>Circuit Diagram</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<h2 id="answer">Answer</h2>
+<p>A circuit is a way to deliver energy to different components!</p>
+<p><a href="https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_en.html">PhET DC Circuit Construction Simulation</a></p>
+</section>
+<section id="voltage" class="slide level1">
+<h1>Voltage</h1>
+<ul>
+<li class="fragment">The <strong>charge carriers</strong> flowing around a circuit are <strong>energy carriers</strong></li>
+<li class="fragment">The <strong>charge carriers</strong> carry <strong>electrical energy</strong> which comes from the power supply</li>
+<li class="fragment"><strong>Voltage is the amount of energy in one coulomb of charge</strong></li>
+</ul>
+<p><span class="math display">\[\begin{align*}
+    &amp; V = \frac{E_{p}}{q} \\
+    &amp; V = \text{ voltage measured in...} \\
+    &amp; E_{p} = \text{ electrical energy measured in... } \\
+    &amp; q = \text{ charge measured in...}
+\end{align*}\]</span></p>
+</section>
+<section id="power" class="slide level1">
+<h1>Power</h1>
+<ul>
+<li class="fragment">The amount of energy transformed per second</li>
+<li class="fragment">E.g. A 100W light bulb transforms 100J of electrical energy per second into light and heat energy.</li>
+</ul>
+<p><span class="math display">\[\begin{align*}
+    &amp; P = IV \\
+    &amp; P = \text{ power measured in...} \\
+    &amp; I = \text{ current measured in...} \\
+    &amp; V = \text{ voltage measured in...}
+\end{align*}\]</span></p>
+</section>
+<section id="voltage-power-summary" class="slide level1">
+<h1>Voltage &amp; Power Summary</h1>
+<p><span class="math display">\[\begin{align*}
+    &amp; I = \frac{q}{t} \\
+    &amp; V = \frac{E_{p}}{q} \\
+    &amp; \\
+    &amp; P = I \times V = \frac{q}{t} \times \frac{E_{p}}{q} = \frac{E_{p}}{t}
+\end{align*}\]</span></p>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/math/math.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
