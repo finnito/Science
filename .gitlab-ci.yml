@@ -21,9 +21,11 @@ pages:
 
 assets:
   before_script:
-    - docker pull pandoc/core
-    - echo "http://dl-cdn.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
+    - echo "http://nl.alpinelinux.org/alpine/edge/community" >> /etc/apk/repositories
+    - echo "http://nl.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
+    - apk add cabal
+    - cabal update
+    - cabal install pandoc
     - apk add texlive
-    - apk add pandoc
   script:
     - sh ci-build.sh
