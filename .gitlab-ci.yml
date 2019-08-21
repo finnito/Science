@@ -26,9 +26,8 @@ assets:
     - apk add curl
     - apk add ghc
     - apk add cabal
-    - apk add stack
+    - cabal configure --disable-library-vanilla --enable-shared --enable-executable-dynamic --ghc-options=-dynamic
     - cabal v1-update
-    - cabal v1-install HsYAML
     - cabal v1-install pandoc
     - apk add texlive
   script:
