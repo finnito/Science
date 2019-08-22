@@ -27,8 +27,11 @@ for i in "${modulesToBuild[@]}"; do
     # Build the HTML slides and
     # PDFs for all markdown docs.
     for filename in markdown/*.md; do
+        echo $filename
         file=${filename##*/}
+        echo $file
         name=${file%%.*}
+        echo $name
         echo "Building $name.html"
         $PWD ntwrkguru/pandoc-gitlab-ci pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
         echo "Building $name.pdf"
