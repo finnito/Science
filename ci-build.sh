@@ -1,11 +1,5 @@
 #!/bin/sh
 
-# Ensure the script runs from
-# the directory it's located in.
-# scriptDir="$(dirname "$0")"
-# cd $scriptDir
-cd content/
-
 modulesToBuild=(
     "/builds/Finnito/science/content/10sci/5-fire-and-fuels"
     "/builds/Finnito/science/content/10scie/6-geology"
@@ -20,8 +14,6 @@ for i in "${modulesToBuild[@]}"; do
     # Navigate to the directory.
     echo "Navigating to $i"
     cd $i
-    # ls
-    # echo ""
 
     # Build the HTML slides and
     # PDFs for all markdown docs.
@@ -29,13 +21,10 @@ for i in "${modulesToBuild[@]}"; do
         file=${filename##*/}
         name=${file%%.*}
         echo "Building $name.html"
-        $PWD pandoc/latex pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
+        pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
         echo "Building $name.pdf"
-        $PWD pandoc/latex pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+        pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
     done
-
-    # ls
-    # echo ""
 
     # Put the HTML slides and
     # PDFs into the right place.
@@ -51,11 +40,4 @@ for i in "${modulesToBuild[@]}"; do
     zip "$topic".zip *
     mv *.zip ../
     cd ../
-
-    # Head back to the script
-    # directory to do the next
-    # module.
-    # echo "Navigating back up"
-    # echo ""
-    # cd ../../
 done
