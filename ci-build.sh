@@ -1,10 +1,9 @@
-#!/bin/bash
+#!/bin/sh
 
 # Ensure the script runs from
 # the directory it's located in.
 # scriptDir="$(dirname "$0")"
 # cd $scriptDir
-
 cd content/
 
 modulesToBuild=(
