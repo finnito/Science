@@ -2,8 +2,8 @@
 
 # Ensure the script runs from
 # the directory it's located in.
-scriptDir="$(dirname "$0")"
-cd $scriptDir
+# scriptDir="$(dirname "$0")"
+# cd $scriptDir
 
 modulesToBuild=(
     "content/10scie/5-fire-and-fuels"
