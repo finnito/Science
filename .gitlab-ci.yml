@@ -20,7 +20,7 @@ pages:
   - master
 
 assets:
-  image: jagregory/pandoc
+  image: ntwrkguru/pandoc-gitlab-ci
   script:
     - chmod +x ci-build.sh
     - ./ci-build.sh
