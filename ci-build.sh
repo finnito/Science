@@ -21,25 +21,27 @@ for i in "${modulesToBuild[@]}"; do
     # Navigate to the directory.
     echo "Navigating to $i"
     cd $i
-    ls
-    echo ""
+    # ls
+    # echo ""
 
     # Build the HTML slides and
     # PDFs for all markdown docs.
     for filename in markdown/*.md; do
-        echo $filename
+        # echo $filename
         file=${filename##*/}
-        echo $file
+        # echo $file
         name=${file%%.*}
-        echo $name
+        echo "markdown/$name.md"
+        echo "$name.html"
+        echo "$name.pdf"
         echo "Building $name.html"
-        $PWD ntwrkguru/pandoc-gitlab-ci pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
+        jagregory/pandoc pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
         echo "Building $name.pdf"
-        $PWD ntwrkguru/pandoc-gitlab-ci pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+        jagregory/pandoc pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
     done
 
-    ls
-    echo ""
+    # ls
+    # echo ""
 
     # Put the HTML slides and
     # PDFs into the right place.
