@@ -35,9 +35,9 @@ for i in "${modulesToBuild[@]}"; do
         echo "$name.html"
         echo "$name.pdf"
         echo "Building $name.html"
-        jagregory/pandoc pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
+        `pwd` jagregory/pandoc pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
         echo "Building $name.pdf"
-        jagregory/pandoc pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+        `pwd` jagregory/pandoc pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
     done
 
     # ls
