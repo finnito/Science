@@ -19,6 +19,8 @@ for i in "${modulesToBuild[@]}"; do
     # Navigate to the directory.
     echo "Navigating to $i"
     cd $i
+    ls
+    echo ""
 
     # Build the HTML slides and
     # PDFs for all markdown docs.
@@ -30,6 +32,9 @@ for i in "${modulesToBuild[@]}"; do
         echo "Building $name.pdf"
         $PWD ntwrkguru/pandoc-gitlab-ci pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
     done
+
+    ls
+    echo ""
 
     # Put the HTML slides and
     # PDFs into the right place.
