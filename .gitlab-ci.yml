@@ -22,4 +22,4 @@ pages:
 assets:
   image: ntwrkguru/pandoc-gitlab-ci
   script:
-    - sh ci-build.sh
+    - ./ci-build.sh
