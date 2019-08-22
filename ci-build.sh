@@ -30,10 +30,9 @@ for i in "${modulesToBuild[@]}"; do
         file=${filename##*/}
         name=${file%%.*}
         echo "Building $name.html"
-        $PWD ntwrkguru/pandoc-gitlab-ci pandoc
-        # $PWD ntwrkguru/pandoc-gitlab-ci pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
+        $PWD pandoc/latex pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
         echo "Building $name.pdf"
-        # $PWD ntwrkguru/pandoc-gitlab-ci pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+        $PWD pandoc/latex pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
     done
 
     # ls
