@@ -26,9 +26,9 @@ for i in "${modulesToBuild[@]}"; do
         file=${filename##*/}
         name=${file%%.*}
         echo "Building $name.html"
-        $PWD:/build ntwrkguru/pandoc-gitlab-ci pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
+        $PWD ntwrkguru/pandoc-gitlab-ci pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
         echo "Building $name.pdf"
-        $PWD:/build ntwrkguru/pandoc-gitlab-ci pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+        $PWD ntwrkguru/pandoc-gitlab-ci pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
     done
 
     # Put the HTML slides and
