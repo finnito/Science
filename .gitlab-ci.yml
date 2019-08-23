@@ -27,6 +27,5 @@ assets:
     name: pandoc/latex:2.6
     entrypoint: ["/bin/sh"]
   script:
-    - apk add bash
     - chmod +x ci-build.sh
-    - /bin/sh ci-build.sh
+    - ./ci-build.sh
