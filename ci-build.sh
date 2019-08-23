@@ -24,7 +24,6 @@ for i in "${modulesToBuild[@]}"; do
     # PDFs for all markdown docs.
     cd markdown
     for filename in *.md; do
-        [ -f "$i" ] || break
         file=${filename##*/}
         name=${file%%.*}
         echo "Building $name.html"
@@ -32,6 +31,7 @@ for i in "${modulesToBuild[@]}"; do
         echo "Building $name.pdf"
         pandoc "$name.md" -o "$name.pdf" --pdf-engine=pdflatex
     done
+    ls
 
     # Put the HTML slides and
     # PDFs into the right place.
