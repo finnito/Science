@@ -1,12 +1,12 @@
 #!/bin/sh
 
 modulesToBuild=(
-    "/builds/Finnito/science/content/10sci/5-fire-and-fuels"
-    "/builds/Finnito/science/content/10scie/6-geology"
-    "/builds/Finnito/science/content/11sci/4-mechanics"
-    "/builds/Finnito/science/content/11sci/5-genetics"
-    "/builds/Finnito/science/content/12phy/2-mechanics"
-    "/builds/Finnito/science/content/12phy/3-electricity"
+    "builds/Finnito/science/content/10sci/5-fire-and-fuels"
+    "builds/Finnito/science/content/10scie/6-geology"
+    "builds/Finnito/science/content/11sci/4-mechanics"
+    "builds/Finnito/science/content/11sci/5-genetics"
+    "builds/Finnito/science/content/12phy/2-mechanics"
+    "builds/Finnito/science/content/12phy/3-electricity"
 )
 
 for i in "${modulesToBuild[@]}"; do
@@ -40,4 +40,6 @@ for i in "${modulesToBuild[@]}"; do
     zip "$topic".zip *
     mv *.zip ../
     cd ../
+
+    cd ../../../../../
 done
