@@ -22,7 +22,8 @@ for i in "${modulesToBuild[@]}"; do
 
     # Build the HTML slides and
     # PDFs for all markdown docs.
-    for filename in *.md; do
+    cd markdown
+    for filename in markdown/*.md; do
         file=${filename##*/}
         name=${file%%.*}
         echo "Building $name.html"
