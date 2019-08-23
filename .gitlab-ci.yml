@@ -29,4 +29,4 @@ assets:
   script:
     - apk add bash
     - chmod +x ci-build.sh
-    - sh ci-build.sh
+    - /bin/sh -c ci-build.sh
