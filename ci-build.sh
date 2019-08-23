@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo $PWD
+
 echo "Navigating to content"
 cd content
 ls
@@ -46,7 +48,7 @@ for i in "${modulesToBuild[@]}"; do
     topic=${PWD##*/}
     cd pdfs
     zip "$topic".zip *
-    mv *.zip ../
+    mv "$topic".zip ../
     cd ../
 
     cd ../../
