@@ -1,6 +1,8 @@
 #!/bin/bash
 
+echo "Navigating to content"
 cd content
+ls
 
 modulesToBuild=(
     "10sci/5-fire-and-fuels"
@@ -15,8 +17,8 @@ for i in "${modulesToBuild[@]}"; do
 
     # Navigate to the directory.
     echo "Navigating to $i"
-    ls
     cd $i
+    ls
 
     # Build the HTML slides and
     # PDFs for all markdown docs.
@@ -46,4 +48,6 @@ for i in "${modulesToBuild[@]}"; do
     zip "$topic".zip *
     mv *.zip ../
     cd ../
+
+    cd ../../
 done
