@@ -20,7 +20,7 @@ pages:
   - master
 
 assets:
-  image: pandoc/latex
+  image: pandoc/latex:2.6
   script:
     - chmod +x ci-build.sh
-    - sh ci-build.sh
+    - docker run --volume "`pwd`:/builds" --entrypoint "`pwd`/ci-build.sh" pandoc/latex:2.6
