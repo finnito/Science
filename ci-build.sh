@@ -18,6 +18,8 @@ for i in "${modulesToBuild[@]}"; do
     echo "Navigating to $i"
     cd $i
 
+    cp -r assets/ slides/assets
+
     # Build the HTML slides and
     # PDFs for all markdown docs.
     for filename in markdown/*.md; do
