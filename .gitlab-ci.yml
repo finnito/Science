@@ -25,7 +25,8 @@ assets:
   stage: deploy
   image:
     name: pandoc/latex:2.6
-    entrypoint: []
+    entrypoint: ["/bin/bash"]
   script:
+    - apk add bash
     - chmod +x ci-build.sh
-    - ./ci-build.sh
+    - /bin/bash ci-build.sh
