@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 modulesToBuild=(
     "/builds/Finnito/science/content/10sci/5-fire-and-fuels"
     "/builds/Finnito/science/content/10scie/6-geology"
