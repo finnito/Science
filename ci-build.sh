@@ -21,9 +21,9 @@ for i in "${modulesToBuild[@]}"; do
         file=${filename##*/}
         name=${file%%.*}
         echo "Building $name.html"
-        pandoc/latex:2.6 -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
+        pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
         echo "Building $name.pdf"
-        pandoc/latex:2.6 "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+        pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
     done
 
     # Put the HTML slides and
