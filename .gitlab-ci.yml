@@ -23,10 +23,14 @@ pages:
 
 assets:
   stage: deploy
+  artifacts:
+    paths:
+    - public
   image:
     name: pandoc/latex:2.6
     entrypoint: ["/bin/sh", "-c"]
   script:
+    - hugo
     - apk add bash
     - apk add zip
     - chmod +x ci-build.sh
