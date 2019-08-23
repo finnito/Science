@@ -28,6 +28,6 @@ assets:
     entrypoint: ["/bin/sh", "-c"]
   script:
     - echo "Modifying script permissions"
-    - chmod u+x ci-build.sh
+    - chmod +x ci-build.sh
     - echo "Calling the build script"
-    - sh ci-build.sh
+    - /bin/bash ci-build.sh
