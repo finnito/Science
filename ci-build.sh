@@ -12,6 +12,7 @@ for i in "${modulesToBuild[@]}"; do
 
     # Navigate to the directory.
     echo "Navigating to $i"
+    ls
     cd $i
 
     # Build the HTML slides and
