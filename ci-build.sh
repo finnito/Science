@@ -5,7 +5,7 @@ cd content
 ls
 
 modulesToBuild=(
-    "10sci/5-fire-and-fuels"
+    "10scie/5-fire-and-fuels"
     "10scie/6-geology"
     "11sci/4-mechanics"
     "11sci/5-genetics"
