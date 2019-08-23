@@ -1,18 +1,16 @@
 #!/bin/bash
 
-base=${PWD}
-
 echo "Navigating to content"
 cd content
 ls
 
 modulesToBuild=(
-    "$base/10scie/5-fire-and-fuels"
-    "$base/10scie/6-geology"
-    "$base/11sci/4-mechanics"
-    "$base/11sci/5-genetics"
-    "$base/12phy/2-mechanics"
-    "$base/12phy/3-electricity"
+    "10scie/5-fire-and-fuels"
+    "10scie/6-geology"
+    "11sci/4-mechanics"
+    "11sci/5-genetics"
+    "12phy/2-mechanics"
+    "12phy/3-electricity"
 )
 
 for i in "${modulesToBuild[@]}"; do
