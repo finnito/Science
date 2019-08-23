@@ -5,12 +5,14 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 test:
+  stage: test
   script:
   - hugo
   except:
   - master
 
 pages:
+  stage: deploy
   script:
   - hugo
   artifacts:
@@ -20,7 +22,11 @@ pages:
   - master
 
 assets:
+  stage: deploy
   image: pandoc/latex:2.6
   script:
-    - chmod +x ci-build.sh
-    - docker run --volume "`pwd`:/builds" --entrypoint "`pwd`/ci-build.sh" pandoc/latex:2.6
+    - chmod u+x test.sh
+    - echo "Modifying script permissions"
+    - chmod u+x ci-build.sh
+    - echo "Calling the build script"
+    - ./ci-build.sh
