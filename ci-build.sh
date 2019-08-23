@@ -2,7 +2,6 @@
 
 echo "Navigating to content"
 cd content
-ls
 
 modulesToBuild=(
     "10scie/5-fire-and-fuels"
@@ -18,11 +17,9 @@ for i in "${modulesToBuild[@]}"; do
     # Navigate to the directory.
     echo "Navigating to $i"
     cd $i
-    ls
 
     # Build the HTML slides and
     # PDFs for all markdown docs.
-    ls
     for filename in markdown/*.md; do
         file=${filename##*/}
         name=${file%%.*}
@@ -31,7 +28,6 @@ for i in "${modulesToBuild[@]}"; do
         echo "Building $name.pdf"
         pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
     done
-    ls
 
     # Put the HTML slides and
     # PDFs into the right place.
