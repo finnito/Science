@@ -48,4 +48,6 @@ for i in "${modulesToBuild[@]}"; do
     zip "$topic".zip *
     mv "$topic".zip ../
     cd ../
+
+    cd ../../
 done
