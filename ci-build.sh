@@ -16,24 +16,26 @@ for i in "${modulesToBuild[@]}"; do
 
     # Build the HTML slides and
     # PDFs for all markdown docs.
-    for filename in markdown/*.md; do
+    cd markdown
+    for filename in *.md; do
         [ -f "$i" ] || break
         file=${filename##*/}
         name=${file%%.*}
         echo "Building $name.html"
-        pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
+        pandoc -s --mathjax -i -t revealjs "$name.md" -o "$name.html"
         echo "Building $name.pdf"
-        pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+        pandoc "$name.md" -o "$name.pdf" --pdf-engine=pdflatex
     done
 
     # Put the HTML slides and
     # PDFs into the right place.
     echo "Moving slides & PDFs"
-    mv *.html slides/
-    mv *.pdf pdfs/
+    mv *.html ../slides/
+    mv *.pdf ../pdfs/
 
     # Create a ZIP of the PDFs
     # available for download.
+    cd ../
     echo "Creating .zip"
     topic=${PWD##*/}
     cd pdfs
