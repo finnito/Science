@@ -23,9 +23,10 @@ pages:
 
 assets:
   stage: deploy
-  image: pandoc/latex:2.6
+  image:
+    name: pandoc/latex:2.6
+    entrypoint: ["/bin/sh", "-c"]
   script:
-    - chmod u+x test.sh
     - echo "Modifying script permissions"
     - chmod u+x ci-build.sh
     - echo "Calling the build script"
