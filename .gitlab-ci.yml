@@ -22,6 +22,5 @@ pages:
 assets:
   image: pandoc/latex
   script:
-    - echo "Hello!"
     - chmod +x ci-build.sh
     - sh ci-build.sh
