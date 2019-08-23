@@ -28,5 +28,6 @@ assets:
     entrypoint: ["/bin/sh", "-c"]
   script:
     - apk add bash
+    - apk add zip
     - chmod +x ci-build.sh
     - ./ci-build.sh
