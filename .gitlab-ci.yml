@@ -30,4 +30,4 @@ assets:
     - echo "Modifying script permissions"
     - chmod u+x ci-build.sh
     - echo "Calling the build script"
-    - ./ci-build.sh
+    - sh ci-build.sh
