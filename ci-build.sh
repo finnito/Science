@@ -40,6 +40,4 @@ for i in "${modulesToBuild[@]}"; do
     zip "$topic".zip *
     mv *.zip ../
     cd ../
-
-    cd ../../../../../
 done
