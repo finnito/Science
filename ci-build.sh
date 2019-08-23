@@ -22,7 +22,7 @@ for i in "${modulesToBuild[@]}"; do
 
     # Build the HTML slides and
     # PDFs for all markdown docs.
-    cd markdown
+    ls
     for filename in markdown/*.md; do
         file=${filename##*/}
         name=${file%%.*}
