@@ -27,7 +27,5 @@ assets:
     name: pandoc/latex:2.6
     entrypoint: ["/bin/sh", "-c"]
   script:
-    - echo "Modifying script permissions"
     - chmod +x ci-build.sh
-    - echo "Calling the build script"
-    - /bin/sh ci-build.sh
+    - ./ci-build.sh
