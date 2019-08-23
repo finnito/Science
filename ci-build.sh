@@ -48,3 +48,5 @@ for i in "${modulesToBuild[@]}"; do
 
     cd ../../
 done
+
+cd ../
