@@ -33,7 +33,7 @@ assets:
     - public
 
 pages:
-  image: reg  istry.gitlab.com/pages/hugo:latest
+  image: registry.gitlab.com/pages/hugo:latest
   stage: deploy
   script:
   - hugo
