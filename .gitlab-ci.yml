@@ -41,8 +41,3 @@ pages:
     - public
   only:
   - master
-
-assets:
-  stage: deploy
-  artifacts:
-    paths:
