@@ -1,5 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
 
 echo "Navigating to content"
 cd content
