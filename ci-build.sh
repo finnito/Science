@@ -4,8 +4,6 @@
 echo "Navigating to content"
 cd content
 
-=======
->>>>>>> e36d87c... bash
 modulesToBuild=(
     "10scie/5-fire-and-fuels"
     "10scie/6-geology"
