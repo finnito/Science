@@ -39,14 +39,15 @@ url: /10scie/5-fire-and-fuels/
 
 ## Lesson Sequence
 
-1. Unit Introduction
+### 1. Unit Introduction
 
 __Kaupapa:__ _Perform some basic combustion experiments and get introduced to Fire & Fuels._
 
-__Starter__
+__Starter:__
+
 Video: [Firefighters put jet fuel on a fire](https://www.youtube.com/watch?v=UxC2OOSEPyQ)
 
-1. What temperature does these fuels start burning? Put them in order from coolest to hottest
+What temperature does these fuels start burning? Put them in order from coolest to hottest
 
 - Petrol
 - LPG
@@ -54,8 +55,18 @@ Video: [Firefighters put jet fuel on a fire](https://www.youtube.com/watch?v=UxC
 - Coal
 - Candle
 
-__Notes__: [Introduction](slides/1-introduction.html) [(PDF)](pdfs/1-introduction.pdf)
+__Notes:__ [Introduction](slides/1-introduction.html) [(PDF)](pdfs/1-introduction.pdf)
 
-__Practical__: Workbook: Burning Things (pg. 2)
+__Practical:__ Workbook: Burning Things (pg. 2)
 
 ---
+
+### 2. Why Have A Wick?
+
+__Kaupapa:__ _What is the purpose of a wick?_
+
+__Starter:__ Walking water demonstration
+
+__Notes:__ [Why Have a Wick](slides/2-why-have-a-wick.html) [(PDF)](pdfs/2-why-have-a-wick.pdf)
+
+__Practical:__ Workbook: Why Have a Wick (pg. 4)
