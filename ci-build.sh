@@ -18,7 +18,7 @@ for i in "${modulesToBuild[@]}"; do
     echo "Navigating to $i"
     cd $i
 
-    cp -r assets/ slides/assets
+    rsync -ra assets slides/
 
     # Build the HTML slides and
     # PDFs for all markdown docs.
