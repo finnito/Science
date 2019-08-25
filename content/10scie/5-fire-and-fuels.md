@@ -15,3 +15,5 @@ url: /10scie/fire-and-fuels/
 7. [Hydrocarbons](slides/7-hydrocarbons.html) [(PDF)](pdfs/7-hydrocarbons.pdf)
 8. [Balancing Equations](slides/8-balancing-equations.html) [(PDF)](pdfs/8-balancing-equations.pdf)
 9. [Environmental Impact](slides/9-environmental-impact.html) [(PDF)](pdfs/9-environmental-impact.pdf)
+
+[Download All PDFs](5-fire-and-fuels.zip)
