@@ -1,7 +1,7 @@
 ---
 title: Fire & Fuels
 date: 2019-08-17
-url: /10scie/fire-and-fuels/
+url: /10scie/5-fire-and-fuels/
 ---
 
 ## Slides
