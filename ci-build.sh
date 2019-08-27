@@ -26,9 +26,9 @@ for i in "${modulesToBuild[@]}"; do
         file=${filename##*/}
         name=${file%%.*}
         echo "Building $name.html"
-        pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
+        pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "slides/$name.html"
         echo "Building $name.pdf"
-        pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+        pandoc "markdown/$name.md" -o "pdfs/$name.pdf" --pdf-engine=pdflatex
     done
 
     # Put the HTML slides and
@@ -39,8 +39,8 @@ for i in "${modulesToBuild[@]}"; do
 
     # Create a ZIP of the PDFs
     # available for download.
-    echo "Creating .zip"
     topic=${PWD##*/}
+    echo "Creating $topic.zip"
     cd pdfs
     zip "$topic".zip *
     mv "$topic".zip ../
