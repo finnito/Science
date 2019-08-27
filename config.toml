@@ -64,6 +64,12 @@ pygmentCodeFences = true
     url = ""
     weight = 3
 
+[[menu.main]]
+    parent = "11SCI"
+    name = "Genetics"
+    url = "11sci/5-genetics"
+    weight = 5
+
 # ====================
 # 12PHY
 # ====================
