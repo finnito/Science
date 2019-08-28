@@ -19,7 +19,8 @@ for i in "${modulesToBuild[@]}"; do
     cd $i
     ls
 
-    cp -a assets slides/assets
+    echo "Copying assets into slides"
+    cp -av assets slides/assets
 
     # Build the HTML slides and
     # PDFs for all markdown docs.
@@ -36,13 +37,14 @@ for i in "${modulesToBuild[@]}"; do
     # Put the HTML slides and
     # PDFs into the right place.
     echo "Moving slides & PDFs"
-    mv -v *.html slides/.
-    mv -v *.pdf pdfs/.
+    mv -v *.html slides/
+    mv -v *.pdf pdfs/
 
     # Create a ZIP of the PDFs
     # available for download.
     topic=${PWD##*/}
     echo "Creating $topic.zip"
+    ls
     cd pdfs
     zip "$topic".zip *
     mv -v "$topic".zip ../
