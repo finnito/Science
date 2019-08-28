@@ -20,7 +20,7 @@ content/12phy/1-waves
 *.html
 *.pdf
 *.zip
+!content/**/**/pdfs/
 
 # Ignore assets copied during Gitlab CI
-
 content/**/**/slides/assets
