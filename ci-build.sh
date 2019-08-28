@@ -19,6 +19,9 @@ for i in "${modulesToBuild[@]}"; do
     cd $i
     ls
 
+    echo "Making pdfs directory"
+    mkdir pdfs
+
     echo "Copying assets into slides"
     cp -av assets slides/assets
 
