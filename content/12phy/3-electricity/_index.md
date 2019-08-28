@@ -15,6 +15,6 @@ url: /12phy/3-electricity/
 7. [Series and Parallel Circuits](slides/7-series-and-parallel-circuits.html) [(PDF)](pdfs/7-series-and-parallel-circuits.pdf)
 8. [Term 2 Revision](slides/99-term-2-revision.html) [(PDF)](pdfs/99-term-2-revision.pdf)
 9. [Magnetic Fields](slides/8-magnetic-fields.html) [(PDF)](pdfs/8-magnetic-fields.pdf)
+10. [Magnetism](slides/9-magnetism.html) [(PDF)](pdfs/9-magnetism.pdf)
 
 [Download All PDFs](3-electricity.zip)
-

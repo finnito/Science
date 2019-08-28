@@ -101,3 +101,7 @@ I will endevour to call it is the __permeability of free space__ and it has the 
 
 ![](assets/8-magnetic-p-table.jpg){width=75%}
 
+---
+
+
+
