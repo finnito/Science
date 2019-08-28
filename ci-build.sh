@@ -17,6 +17,7 @@ for i in "${modulesToBuild[@]}"; do
     # Navigate to the directory.
     echo "Navigating to $i"
     cd $i
+    ls
 
     cp -r assets slides/
 
@@ -29,6 +30,7 @@ for i in "${modulesToBuild[@]}"; do
         pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
         echo "Building $name.pdf"
         pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+        ls
     done
 
     # Put the HTML slides and
