@@ -36,8 +36,8 @@ for i in "${modulesToBuild[@]}"; do
     # Put the HTML slides and
     # PDFs into the right place.
     echo "Moving slides & PDFs"
-    mv ./*.html slides/
-    mv ./*.pdf pdfs/
+    mv *.html slides/
+    mv *.pdf pdfs/
 
     # Create a ZIP of the PDFs
     # available for download.
