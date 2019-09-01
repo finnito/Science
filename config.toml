@@ -4,11 +4,11 @@ layoutdir     = "layouts"
 publishdir    = "public"
 title = "Science with LSF"
 canonifyurls  = true
-uglyurls = true
+uglyurls = false
 staticDir = ["static", "content"]
 
 DefaultContentLanguage = "en"
-theme = "beautifulhugo"
+theme = "hugo-xmin"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
@@ -29,12 +29,20 @@ pygmentCodeFences = true
 
 
 # ====================
+# HOME
+# ====================
+[[menu.main]]
+   name = "Home"
+   url = "/"
+   weight = 1
+
+# ====================
 # 9SCIE
 # ====================
 # [[menu.main]]
 #    name = "9SCIE"
-#    url = "page/9scie"
-#    weight = 1
+#    url = "/9scie"
+#    weight = 2
 
 # ====================
 # 10SCIE
@@ -42,7 +50,7 @@ pygmentCodeFences = true
 [[menu.main]]
     name = "10SCIE"
     url = "/10scie"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     parent = "10SCIE"
@@ -61,8 +69,8 @@ pygmentCodeFences = true
 # ====================
 [[menu.main]]
     name = "11SCI"
-    url = ""
-    weight = 3
+    url = "/11sci"
+    weight = 4
 
 [[menu.main]]
     parent = "11SCI"
@@ -75,8 +83,8 @@ pygmentCodeFences = true
 # ====================
 [[menu.main]]
     name = "12PHY"
-    url = "12phy"
-    weight = 4
+    url = "/12phy"
+    weight = 5
 
 [[menu.main]]
     parent = "12PHY"
@@ -90,4 +98,4 @@ pygmentCodeFences = true
 #[[menu.main]]
 #    name = "13PHY"
 #    url = ""
-#    weight = 5
+#    weight = 6
