@@ -8,7 +8,7 @@ uglyurls = false
 staticDir = ["static", "content"]
 
 DefaultContentLanguage = "en"
-theme = "beautiful-hugo"
+theme = "hugo-xmin"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
