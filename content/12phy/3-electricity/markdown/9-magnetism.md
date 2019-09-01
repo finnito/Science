@@ -143,3 +143,51 @@ Calculate the magnetic force applied on each proton.
 _If you use your left hand, the particle is negatively charged_
 
 ![](assets/9-right-hand-slap-rule.png){width=50%}
+
+---
+
+## Starter
+
+A charged object ($q=1.6\times10^{-19}C$) moves across a magnetic field with a speed of $4.0\times10^{3}ms^{-1}$. The magnetic field strength is $12T$.
+
+1. Draw a diagram and illustrate the magnetic field lines
+2. Calculate the force applied to the charged object
+3. Describe/draw the direction of the force applied
+
+---
+
+## Recall: Right Hand Grip Rule 1
+
+![](assets/8-right-hand-rule-1.gif){width=50%}
+
+---
+
+## Recall: Right Hand Grip Rule 2
+
+![](assets/8-right-hand-grip-2.png){width=50%}
+
+---
+
+## Right Hand Slap Rule
+
+_If you use your left hand, the particle is negatively charged. Or use you right hand with the backhand slap rule_
+
+![](assets/9-right-hand-slap-rule.png){width=50%}
+
+---
+
+Which direction is the force acting in?
+
+![](assets/9-magnetic-field-q.png){width=75%}
+
+---
+
+## Demo: Cathode Ray Tube
+
+![](assets/9-cathode-ray-tube.png){width=75%}
+
+---
+
+- Worksheet 7 Q4 and 5
+- Homework booklet Q12 and Q14
+
