@@ -2,8 +2,8 @@
 
 stages:
   - test
-  - deploy
   - build
+  - deploy
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
