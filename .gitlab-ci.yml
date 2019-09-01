@@ -2,8 +2,8 @@
 
 stages:
   - test
-  - build
   - deploy
+  - assets
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
@@ -17,7 +17,7 @@ test:
   - master
 
 assets:
-  stage: build
+  stage: assets
   image:
     name: pandoc/latex:2.6
     entrypoint: ["/bin/sh", "-c"]
