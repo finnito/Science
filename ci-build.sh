@@ -23,7 +23,7 @@ for i in "${modulesToBuild[@]}"; do
     mkdir pdfs
 
     echo "Copying assets into slides"
-    cp -av assets slides/assets
+    cp -av assets slides/
 
     # Build the HTML slides and
     # PDFs for all markdown docs.
