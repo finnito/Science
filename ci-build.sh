@@ -17,10 +17,10 @@ for i in "${modulesToBuild[@]}"; do
     # Navigate to the directory.
     echo "Navigating to $i"
     cd $i
-    ls
+    # ls
 
-    echo "Making pdfs directory"
-    mkdir pdfs
+    # echo "Making pdfs directory"
+    # mkdir pdfs
 
     echo "Copying assets into slides"
     cp -av assets slides/
@@ -34,26 +34,26 @@ for i in "${modulesToBuild[@]}"; do
         pandoc-default -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
         echo "Building $name.pdf"
         pandoc-default "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
-        ls
+        # ls
     done
 
     # Put the HTML slides and
     # PDFs into the right place.
-    echo "Moving slides & PDFs"
-    mv -v *.html slides/
-    mv -v *.pdf pdfs/
+    # echo "Moving slides & PDFs"
+    # mv -v *.html slides/
+    # mv -v *.pdf pdfs/
 
     # Create a ZIP of the PDFs
     # available for download.
     topic=${PWD##*/}
     echo "Creating $topic.zip"
-    ls
-    cd pdfs
-    zip "$topic".zip *
-    mv -v "$topic".zip ../
-    cd ../
+    # ls
+    # cd pdfs
+    zip "$topic".zip *.pdf
+    # mv -v "$topic".zip ../
+    # cd ../
 
     echo "Should be back in content"
     cd ../../
-    ls
+    # ls
 done
