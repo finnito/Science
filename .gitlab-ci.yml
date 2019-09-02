@@ -1,21 +1,21 @@
 # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
 
 stages:
-  - test
   - build
+  # - test
   # - deploy
   # - assets
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-test:
-  image: registry.gitlab.com/pages/hugo:latest
-  stage: test
-  script:
-  - hugo
-  except:
-  - master
+# test:
+#   image: registry.gitlab.com/pages/hugo:latest
+#   stage: test
+#   script:
+#   - hugo
+#   except:
+#   - master
 
 # assets:
 #   stage: assets
