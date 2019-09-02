@@ -83,3 +83,41 @@ Each gene has two __alleles__, one __allele__ comes from each parent. E.g. brown
 ## Exercise: Building DNA!
 
 sciPAD pages, cut out the DNA pieces and build some DNA and stick it on the previous page!
+
+---
+
+### Starter: Review!
+
+Discuss with the people around you and create a diagram relating cells, nuclei, DNA, chromosomes, DNA and alleles to each other. Try and do it without using your notes (but look if you need to!).
+
+---
+
+## Allele
+
+A gene has two alleles: one from each parent. The allele is on a chromosome and we call two chromosomes of the same shape a __homologous pair__.
+
+---
+
+### Homozygous and Heterozygous
+
+If you have two of the same allele (e.g. brown and brown) this is _homozygous_. If you have different alleles (e.g. brown and blue) this is _heterozygous_.
+
+---
+
+## Genotype
+
+The genetic make-up of an organism.
+
+---
+
+## Structure of DNA
+
+- Using our diagrams from page 8/9 in our sciPAD we can see that only certain shapes fit with other shapes in DNA. We call this __complementary base pairing__.
+- Which bases pair with which bases and what are they called? Label them on your diagram!
+
+---
+
+### Questions
+
+Answer question 1 and 2 on page 9 of your sciPAD.
+
