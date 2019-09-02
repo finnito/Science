@@ -53,7 +53,7 @@ full:
     - apk add zip
     - chmod +x ci-build.sh
     - apk add -U --repository http://dl-3.alpinelinux.org/alpine/edge/testing
-    - texlive-full
+    - apk add texlive-full
   script:
     - ./ci-build.sh
     - hugo
