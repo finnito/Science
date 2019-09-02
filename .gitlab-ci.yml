@@ -57,6 +57,3 @@ full:
   script:
     - ./ci-build.sh
     - hugo
-  artifacts:
-    paths:
-    - public
