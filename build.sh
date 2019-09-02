@@ -1,30 +1,59 @@
 #!/bin/bash
 
-# Ensure the script runs from
-# the directory it's located in.
-scriptDir="$(dirname "$0")"
-cd scriptDir
+echo "Navigating to content"
+cd content
 
-# Check if an argument is given
-# If no argument is give, build all MD files,
-# else build only the slide given.
-if [ $# -eq 0 ]
-    then
-        for filename in markdown/*.md; do
-            file=${filename##*/}
-            name=${file%%.*}
-            pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
-            pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
-        done
-else
-    filename=$(find ./markdown -name "$1*")
-    file=${filename##*/}
-    name=${file%%.*}
-    pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html" -V revealjs-url=../reveal.js
-    pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
-fi
+modulesToBuild=(
+    "10scie/5-fire-and-fuels"
+    "10scie/6-geology"
+    "11sci/4-mechanics"
+    "11sci/5-genetics"
+    "12phy/2-mechanics"
+    "12phy/3-electricity"
+)
 
-# Put files in correct places
-mv *.html slides/
-mv *.pdf pdfs/
-cp -r assets/ slides/assets
+for i in "${modulesToBuild[@]}"; do
+
+    # Navigate to the directory.
+    echo "Navigating to $i"
+    cd $i
+    # ls
+
+    # echo "Making pdfs directory"
+    mkdir pdfs
+
+    echo "Copying assets into slides"
+    cp -a assets slides/
+
+    # Build the HTML slides and
+    # PDFs for all markdown docs.
+    for filename in markdown/*.md; do
+        file=${filename##*/}
+        name=${file%%.*}
+        echo "Building $name.html"
+        pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html"
+        echo "Building $name.pdf"
+        pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+        # ls
+    done
+
+    # Put the HTML slides and
+    # PDFs into the right place.
+    echo "Moving slides & PDFs"
+    mv *.html slides/
+    mv *.pdf pdfs/
+
+    # Create a ZIP of the PDFs
+    # available for download.
+    topic=${PWD##*/}
+    echo "Creating $topic.zip"
+    # ls
+    cd pdfs
+    zip "$topic".zip *.pdf
+    mv "$topic".zip ../
+    cd ../
+
+    echo "Should be back in content"
+    cd ../../
+    # ls
+done
