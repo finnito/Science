@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Finn LeSueur">
+  <meta name="dcterms.date" content="2019-01-01">
+  <title>Charge &amp; Current</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reset.css">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="reveal.js/css/theme/finn.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+  
+  
+  
+  
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Charge &amp; Current</h1>
+  <p class="subtitle">12PHYS - Electricity</p>
+  <p class="author">Finn LeSueur</p>
+  <p class="date">2019</p>
+</section>
+
+<section id="starter" class="slide level1">
+<h1>Starter</h1>
+<ol type="1">
+<li class="fragment">Define electric field</li>
+<li class="fragment">Draw a uniform electric field between two plates. Make the top plate <strong>negatively charged</strong></li>
+<li class="fragment">Describe the motion of a negatively charged object in the electric field</li>
+<li class="fragment">If the negative charge moves towards the negative plate, does it gain or lose electric potential energy?</li>
+</ol>
+</section>
+<section id="question-what-are-some-common-carriers-of-charge" class="slide level1">
+<h1>Question: What are some common carriers of charge?</h1>
+</section>
+<section class="slide level1">
+
+<h2 id="answer">Answer</h2>
+<p><strong>Electrons</strong> are the charge carriers in metals, ions in solution, electrically charged gas in plasma.</p>
+</section>
+<section id="conductors" class="slide level1">
+<h1>Conductors</h1>
+<p>A conductor is a material through which charge can move freely.</p>
+<p><strong>e.g. electrons move through metal</strong></p>
+</section>
+<section class="slide level1">
+
+<h2 id="current">Current</h2>
+<p>Current is the flow of charge (often electrons).</p>
+<p>It is the measure of the rate at which the charge flows (Amperes).</p>
+<p><strong>Recall:</strong> <span class="math inline">\(1C\)</span> of charge is <span class="math inline">\(6.25\times10^{18}\)</span> electrons</p>
+</section>
+<section class="slide level1">
+
+<p><span class="math display">\[\begin{align*}
+    &amp; I = \frac{q}{t} \\
+    &amp; \text{I = current measured in what?} \\
+    &amp; \text{q = charge measure in what?} \\
+    &amp; \text{t = time measured in what?}
+\end{align*}\]</span></p>
+</section>
+<section class="slide level1">
+
+<h3 id="examples">Examples</h3>
+<ol type="1">
+<li class="fragment">If <span class="math inline">\(10A\)</span> flows through a wire, how much charge passes a point in <span class="math inline">\(5s\)</span>?</li>
+<li class="fragment">A total charge of <span class="math inline">\(0.12C\)</span> passes a point in <span class="math inline">\(5s\)</span>. What is the current?</li>
+<li class="fragment"><span class="math inline">\(20C\)</span> of charge passed through a light bulb in <span class="math inline">\(4s\)</span>. What was the current?</li>
+<li class="fragment"><span class="math inline">\(0.02C\)</span> of charge passed through a resistor in 1 minute. What was the current?</li>
+<li class="fragment">If the current is <span class="math inline">\(0.3A\)</span>, how much charge will pass a point in 10 minutes?</li>
+</ol>
+</section>
+<section class="slide level1">
+
+<h3 id="what-direction-does-current-flow">What Direction Does Current Flow?</h3>
+<figure>
+<img data-src="assets/3-current.jpg" title="Circuit Diagram" style="width:50.0%" alt="" /><figcaption>Circuit Diagram</figcaption>
+</figure>
+</section>
+<section class="slide level1">
+
+<h3 id="conventional-current">Conventional Current</h3>
+<p>Conventional current is the direction that positive charges move in a circuit. From the positive terminal to the negative terminal.</p>
+<p>However, electrons actually move from the negative terminal to the positive terminal, which is <strong>opposite</strong> to <em>conventional current</em>.</p>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/math/math.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
