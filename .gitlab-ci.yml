@@ -55,8 +55,8 @@ full:
     - apk add -U --repository http://dl-3.alpinelinux.org/alpine/edge/testing
     - apk add texlive-full
   script:
-    - hugo
     - ./ci-build.sh
+    - hugo
   artifacts:
     paths:
     - public
