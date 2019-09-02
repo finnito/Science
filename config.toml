@@ -41,7 +41,7 @@ pygmentCodeFences = true
 # ====================
 # [[menu.main]]
 #    name = "9SCIE"
-#    url = "/9scie"
+#    url = "/9scie/"
 #    weight = 2
 
 # ====================
@@ -49,19 +49,19 @@ pygmentCodeFences = true
 # ====================
 [[menu.main]]
     name = "10SCIE"
-    url = "/10scie"
+    url = "/10scie/"
     weight = 3
 
 [[menu.main]]
     parent = "10SCIE"
     name = "Fire & Fuels"
-    url = "10scie/5-fire-and-fuels"
+    url = "10scie/5-fire-and-fuels/"
     weight = 5
 
 [[menu.main]]
     parent = "10SCIE"
     name = "Geology"
-    url = "10scie/6-geology"
+    url = "10scie/6-geology/"
     weight = 6
 
 # ====================
@@ -69,13 +69,13 @@ pygmentCodeFences = true
 # ====================
 [[menu.main]]
     name = "11SCI"
-    url = "/11sci"
+    url = "/11sci/"
     weight = 4
 
 [[menu.main]]
     parent = "11SCI"
     name = "Genetics"
-    url = "11sci/5-genetics"
+    url = "11sci/5-genetics/"
     weight = 5
 
 # ====================
@@ -83,13 +83,13 @@ pygmentCodeFences = true
 # ====================
 [[menu.main]]
     name = "12PHY"
-    url = "/12phy"
+    url = "/12phy/"
     weight = 5
 
 [[menu.main]]
     parent = "12PHY"
     name = "Electricity"
-    url = "12phy/3-electricity"
+    url = "12phy/3-electricity/"
     weight = 3
 
 # ====================
