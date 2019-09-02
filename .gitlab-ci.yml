@@ -49,13 +49,13 @@ full:
     name: klakegg/hugo:pandoc
     entrypoint: ["/bin/sh", "-c"]
   before_script:
-    - apk add bash
-    - apk add zip
-    - chmod +x ci-build.sh
-    - apk add -U --repository http://dl-3.alpinelinux.org/alpine/edge/testing
-    - apk add texlive-full
+    # - apk add bash
+    # - apk add zip
+    # - chmod +x ci-build.sh
+    # - apk add -U --repository http://dl-3.alpinelinux.org/alpine/edge/testing
+    # - apk add texlive-full
   script:
-    - ./ci-build.sh
+    # - ./ci-build.sh
     - hugo
   artifacts:
     paths:
