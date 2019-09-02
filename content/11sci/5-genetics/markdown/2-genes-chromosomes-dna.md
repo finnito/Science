@@ -70,7 +70,7 @@ DNA is a very long chain of _base pairs_ which forms chromosomes.
 
 A gene is a small segment of DNA made of _base pairs_ and are what determine everything about us! Each chromosome carries __many__ genes. Humans have around 25000 genes. That is a lot of genes per chromosome!
 
-![](assets/2-genes.png){width=50%}
+![](assets/2-genes.jpeg){width=50%}
 
 ---
 
