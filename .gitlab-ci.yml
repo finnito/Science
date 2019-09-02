@@ -2,8 +2,9 @@
 
 stages:
   - test
-  - deploy
-  - assets
+  - build
+  # - deploy
+  # - assets
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
@@ -16,10 +17,36 @@ test:
   except:
   - master
 
-assets:
-  stage: assets
+# assets:
+#   stage: assets
+#   image:
+#     name: pandoc/latex:2.6
+#     entrypoint: ["/bin/sh", "-c"]
+#   before_script:
+#     - apk add bash
+#     - apk add zip
+#     - chmod +x ci-build.sh
+#   script:
+#     - ./ci-build.sh
+#   artifacts:
+#     paths:
+#     - public
+
+# pages:
+#   image: registry.gitlab.com/pages/hugo:latest
+#   stage: deploy
+#   script:
+#   - hugo
+#   artifacts:
+#     paths:
+#     - public
+#   only:
+#   - master
+
+full:
+  stage: build
   image:
-    name: pandoc/latex:2.6
+    name: klakegg/hugo:pandoc
     entrypoint: ["/bin/sh", "-c"]
   before_script:
     - apk add bash
@@ -27,17 +54,7 @@ assets:
     - chmod +x ci-build.sh
   script:
     - ./ci-build.sh
+    - hugo
   artifacts:
     paths:
     - public
-
-pages:
-  image: registry.gitlab.com/pages/hugo:latest
-  stage: deploy
-  script:
-  - hugo
-  artifacts:
-    paths:
-    - public
-  only:
-  - master
