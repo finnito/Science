@@ -99,7 +99,7 @@ By comparison air is $1.225kg/m^{3}$ and water is $997/m^{3}$
 
 - __Continental Crust__ has a density of around $2.7g/cm^{3}$ (mostly granite)
 - __Oceanic Crust__ has a density of around $2.9g/cm^{3}$
-- __Mantle__ has a density of around 3.3g/cm^{3}$
+- __Mantle__ has a density of around $3.3g/cm^{3}$
 - Continental crust makes up about 70% of the volume of Earth's crust
 
 ---
