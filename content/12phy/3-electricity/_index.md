@@ -16,5 +16,6 @@ url: /12phy/3-electricity/
 8. [Term 2 Revision](slides/99-term-2-revision.html) [(PDF)](pdfs/99-term-2-revision.pdf)
 9. [Magnetic Fields](slides/8-magnetic-fields.html) [(PDF)](pdfs/8-magnetic-fields.pdf)
 10. [Magnetism](slides/9-magnetism.html) [(PDF)](pdfs/9-magnetism.pdf)
+11. [Motors & Inductors](slides/10-motors-and-inductors.html) [(PDF)](pdfs/10-motors-and-inductors.pdf)
 
 [Download All PDFs](3-electricity.zip)
