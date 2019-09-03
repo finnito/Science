@@ -2,7 +2,8 @@ public/
 builds/
 
 # Ignore Admin Folders
-content/**/0-*
+content/**/0*
+content/**/**/0*
 
 # Ignore Incomplete Modules
 content/10scie/1-ecology
