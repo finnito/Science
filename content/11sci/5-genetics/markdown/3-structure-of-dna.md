@@ -47,24 +47,26 @@ header-includes:
 
 ## Base Pairing
 
-![](assets/3-base-pairing.jpg)
+![](assets/3-base-pairing.png){width=80%}
 
 ---
 
-## Codons
+## Triplets
 
-DNA is read by the cell in chunks of 3 pairs. Each group of 3 pairs is called a __codon__. Each codon tells the cell to use a certain _amino acid_.
+DNA is read by the cell in chunks of 3 pairs. Each group of 3 pairs is called a __triplet__. Each triplet tells the cell to use a certain _amino acid_.
 
 ---
 
 ## Amino Acids
 
-Amino acids are the molecules used to build all living things. There are 21 of them and codons tell the cell which ones to join together.
+Amino acids are the molecules used to build all living things. There are 21 of them and triplets tell the cell which ones to join together.
 
-![](assets/3-codons.gif)
+![](assets/3-triplets.jpg){width=70%}
 
 ---
 
 ## Proteins
 
 We are made up of proteins, which are in turn made of long chains of amino acids.
+
+![](assets/3-protein.jpg){width=70%}
