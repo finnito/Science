@@ -5,7 +5,7 @@ publishdir    = "public"
 title = "Science with LSF"
 canonifyurls  = true
 uglyurls = false
-staticDir = ["static", "content"]
+staticDir = ["static"]
 
 DefaultContentLanguage = "en"
 theme = "hugo-xmin"
