@@ -4,7 +4,7 @@ stages:
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-full:
+deploy:
   stage: deploy
   before_script:
   - apt-get update -qq
@@ -15,11 +15,6 @@ full:
   - ssh-add <(echo "$SSH_PRIVATE_KEY")
   - mkdir -p ~/.ssh
   - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
-deploy_staging:
-  type: deploy
-  environment:
-    name: staging
-    url: science.lesueur.nz
   script:
     - ssh finn@45.56.84.202 "cd /srv/science.lesueur.nz/ && git checkout master && git pull origin master --recurse-submodules && exit"
     - ssh finn@45.56.84.202 "cd /srv/science.lesueur.nz/ && sh build.sh"
