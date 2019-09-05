@@ -8,8 +8,8 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Slides
 
-1. [Reproduction](slides/1-reproduction.html) [(PDF)](pdfs/1-reproduction.pdf)
-2. [Genes, Chromosomes & DNA](slides/2-genes-chromosomes-dna.html) [(PDF)](pdfs/2-genes-chromosomes-dna.pdf)
-3. [Structure of DNA](slides/3-structure-of-dna.html) [(PDF)](pdfs/3-structure-of-dna.pdf)
+1. [Reproduction](slides/1-reproduction/) [(PDF)](pdfs/1-reproduction.pdf)
+2. [Genes, Chromosomes & DNA](slides/2-genes-chromosomes-dna/) [(PDF)](pdfs/2-genes-chromosomes-dna.pdf)
+3. [Structure of DNA](slides/3-structure-of-dna/) [(PDF)](pdfs/3-structure-of-dna.pdf)
 
 [Download All PDFs](5-genetics.zip)
