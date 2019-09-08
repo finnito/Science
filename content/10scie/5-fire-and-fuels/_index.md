@@ -6,15 +6,15 @@ url: /10scie/5-fire-and-fuels/
 
 ## Slides
 
-1. [Introduction](slides/1-introduction.html) [(PDF)](pdfs/1-introduction.pdf)
-2. [Why Have a Wick](slides/2-why-have-a-wick.html) [(PDF)](pdfs/2-why-have-a-wick.pdf)
-3. [Burning](slides/3-burning.html) [(PDF)](pdfs/3-burning.pdf)
-4. [Products of Combustion](slides/4-products-of-combustion.html) [(PDF)](pdfs/4-products-of-combustion.pdf)
-5. [Fire Extinguishers](slides/5-fire-extinguishers.html) [(PDF)](pdfs/5-fire-extinguishers.pdf)
-6. [Complete and Incomplete Combustion](slides/6-complete-incomplete-combustion.html) [(PDF)](pdfs/6-complete-incomplete-combustion.pdf)
-7. [Hydrocarbons](slides/7-hydrocarbons.html) [(PDF)](pdfs/7-hydrocarbons.pdf)
-8. [Balancing Equations](slides/8-balancing-equations.html) [(PDF)](pdfs/8-balancing-equations.pdf)
-9. [Environmental Impact](slides/9-environmental-impact.html) [(PDF)](pdfs/9-environmental-impact.pdf)
+1. [Introduction](slides/1-introduction/) [(PDF)](pdfs/1-introduction.pdf)
+2. [Why Have a Wick](slides/2-why-have-a-wick/) [(PDF)](pdfs/2-why-have-a-wick.pdf)
+3. [Burning](slides/3-burning/) [(PDF)](pdfs/3-burning.pdf)
+4. [Products of Combustion](slides/4-products-of-combustion/) [(PDF)](pdfs/4-products-of-combustion.pdf)
+5. [Fire Extinguishers](slides/5-fire-extinguishers/) [(PDF)](pdfs/5-fire-extinguishers.pdf)
+6. [Complete and Incomplete Combustion](slides/6-complete-incomplete-combustion/) [(PDF)](pdfs/6-complete-incomplete-combustion.pdf)
+7. [Hydrocarbons](slides/7-hydrocarbons/) [(PDF)](pdfs/7-hydrocarbons.pdf)
+8. [Balancing Equations](slides/8-balancing-equations/) [(PDF)](pdfs/8-balancing-equations.pdf)
+9. [Environmental Impact](slides/9-environmental-impact/) [(PDF)](pdfs/9-environmental-impact.pdf)
 
 [Download All PDFs](5-fire-and-fuels.zip)
 
@@ -55,7 +55,7 @@ What temperature does these fuels start burning? Put them in order from coolest 
 - Coal
 - Candle
 
-__Notes:__ [Introduction](slides/1-introduction.html) [(PDF)](pdfs/1-introduction.pdf)
+__Notes:__ [Introduction](slides/1-introduction/) [(PDF)](pdfs/1-introduction.pdf)
 
 __Practical:__ Workbook: Burning Things (pg. 2)
 
@@ -67,6 +67,6 @@ __Kaupapa:__ _What is the purpose of a wick?_
 
 __Starter:__ Walking water demonstration
 
-__Notes:__ [Why Have a Wick](slides/2-why-have-a-wick.html) [(PDF)](pdfs/2-why-have-a-wick.pdf)
+__Notes:__ [Why Have a Wick](slides/2-why-have-a-wick/) [(PDF)](pdfs/2-why-have-a-wick.pdf)
 
 __Practical:__ Workbook: Why Have a Wick (pg. 4)
