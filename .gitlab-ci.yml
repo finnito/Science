@@ -19,6 +19,7 @@ deploy:
     - ssh finn@45.56.84.202 "cd /srv/science.lesueur.nz/ && bash build.sh"
     - ssh finn@45.56.84.202 "cd /srv/science.lesueur.nz/ && rm -rf public/"
     - ssh finn@45.56.84.202 "cd /srv/science.lesueur.nz/ && hugo && exit"
+    - ssh finn@45.56.84.202 "cd /srv/science.lesueur.nz/ && bash post-build.sh && exit"
   only:
     - master
   artifacts:
