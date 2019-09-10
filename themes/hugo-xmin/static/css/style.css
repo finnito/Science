@@ -71,10 +71,6 @@ code {
   background: #ecf0f1;
 }
 
-pre code {
-  background: none;
-}
-
 /* misc elements */
 img,
 iframe,
