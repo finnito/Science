@@ -40,15 +40,33 @@ __Question__: What is the effect of the crusts moving apart?
 
 ---
 
+![](assets/3-divergent-boundary.jpg)
+
+---
+
 __Question__: What is the effect of the crusts moving together?
 
 - This is called a __convergent boundary__ where crust is destroyed as one plate dives under another.
 
 ---
 
+![](assets/3-convergent-boundary.png)
+
+---
+
 __Question__: What happens when plates slide past each other?
 
 - No crust is created or destroyed. The boundary is __conservative__.
+
+---
+
+![](assets/3-conservative-boundary.png)
+
+---
+
+![](assets/3-conservative-boundary.jpg)
+
+---
 
 __Question__: How do the plate boundaries relate to areas of volcanic activity and earthquakes?
 
