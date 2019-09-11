@@ -23,7 +23,6 @@ a:visited {
   color: #2980b9;
 }
 
-/* header and footer areas */
 .menu {
   padding: 0;
 }
@@ -44,8 +43,7 @@ a:visited {
   border-radius: 0.25rem;
 }
 .menu,
-.article-meta,
-footer {
+.article-meta {
   text-align: center;
 }
 
@@ -53,40 +51,8 @@ footer {
   font-size: 1.1em;
 }
 
-footer a {
-  text-decoration: none;
-}
-
 hr {
   border-style: solid;
   color: #bdc3c7;
   margin: 0.5rem auto;
 }
-
-/* code */
-/*pre {
-  border: 1px solid #bdc3c7;
-  box-shadow: 5px 5px 5px #ecf0f1;
-  padding: 1em;
-  overflow-x: auto;
-}
-code {
-  background: #ecf0f1;
-}*/
-
-/* misc elements */
-/*img,
-iframe,
-video {
-  max-width: 100%;
-}
-
-main {
-  hyphens: auto;
-}
-
-blockquote {
-  background: #ecf0f1;
-  border-left: 5px solid #bdc3c7;
-  padding: 3px 1em 3px;
-}*/
