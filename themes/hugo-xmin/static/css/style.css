@@ -1,10 +1,18 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: rgb(51, 51, 51);
+  line-height: 1.75;
+  max-width: 800px;
+  margin: auto;
+  padding: 0 1em;
 }
 code {
   font-family: monospace;
   font-size: 85%;
+}
+
+h1 {
+  margin: 0.5rem auto;
 }
 
 a {
@@ -13,14 +21,6 @@ a {
 
 a:visited {
   color: #2980b9;
-}
-
-
-body {
-  max-width: 800px;
-  margin: auto;
-  padding: 1em;
-  line-height: 1.5em;
 }
 
 /* header and footer areas */
@@ -32,10 +32,13 @@ body {
   display: inline-block;
 }
 
+.menu a {
+  background: #ecf0f1;
+}
+
 .article-meta,
 .menu a {
   text-decoration: none;
-  background: #ecf0f1;
   padding: 0.25rem;
   margin: 0 0.25rem;
   border-radius: 0.25rem;
@@ -57,11 +60,11 @@ footer a {
 hr {
   border-style: solid;
   color: #bdc3c7;
-  margin: 2rem auto;
+  margin: 0.5rem auto;
 }
 
 /* code */
-pre {
+/*pre {
   border: 1px solid #bdc3c7;
   box-shadow: 5px 5px 5px #ecf0f1;
   padding: 1em;
@@ -69,10 +72,10 @@ pre {
 }
 code {
   background: #ecf0f1;
-}
+}*/
 
 /* misc elements */
-img,
+/*img,
 iframe,
 video {
   max-width: 100%;
@@ -86,4 +89,4 @@ blockquote {
   background: #ecf0f1;
   border-left: 5px solid #bdc3c7;
   padding: 3px 1em 3px;
-}
+}*/
