@@ -41,7 +41,9 @@ __Come write them on the board!__
 - Continuous implies that it exists on a smooth continuum.
 - Discontinuous distributions are split into distinct groups.
 
-![](assets/4-distributions.png){width=60%}
+---
+
+![](assets/4-distributions.png){width=80%}
 
 ---
 
@@ -88,3 +90,4 @@ There are four main sources of variation that we are interested in:
 ### Environment
 
 - In some organisms the environment alters the expression of a genotype. Food and nutrient availability, competition, light intensity and disease may modify an expected phenotype.
+
