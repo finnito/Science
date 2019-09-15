@@ -99,3 +99,15 @@ We call the areas where plate boundaries __fault lines__.
 
 ![](assets/4-wellington-faults.png){width=50%}
 
+---
+
+- NZ sits on the boundary of the Pacific and Australian plate.
+- On the East of the NI there is a deep trench as the Pacific Plate goes under the Australian Plate.
+- In the SI the two plates slide past each other, along the Alpine Fault.
+- Below the SI they think that the Australian plate goes under the Pacific plate.
+
+---
+
+According to information published by the Geology Department at New Zealand's, University of Otago, the Alpine transform boundary is unique because the Pacific plate is thrusting over the top of the Australian plate. This behaviour is typically only found at convergent boundaries or subduction zones, and not at transform boundaries. As a result, New Zealand's Southern Alps are increasing in height by approximately seven millimetres per year.
+
+
