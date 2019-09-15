@@ -36,6 +36,9 @@ Explore this website: [http://dinosaurpictures.org/ancient-earth#240](http://din
 
 - The explanation for how the continents move came from observations of seafloor spreading and other effects. In 1967, these ideas were linked in the theory of plate tectonics.
 - According to this theory, the Earth’s crust is like a jigsaw puzzle made up of giant sections called tectonic plates.
+
+---
+
 - These plates ‘float’ on top of the mantle and so can move around the Earth’s surface.
 - There are 10 major tectonic plates and several minor plates.
 
@@ -90,5 +93,5 @@ We call the areas where plate boundaries __fault lines__.
 
 ---
 
-![](assets/4-wellington-faults.png){width=80%}
+![](assets/4-wellington-faults.png){width=50%}
 
