@@ -61,6 +61,10 @@ Explore this website: [http://dinosaurpictures.org/ancient-earth#240](http://din
 - There are 10 major plates and several minor plates on Earth
 - Use your devices to label the plates on the map being handed out!
 - What plates are part of the ring of fire?
+- Use a highlighter to indicate the ring of fire on the map!
+
+---
+
 - Look at this URL to see a live earthquake map: [https://seismo.berkeley.edu/seismo.real.time.map.html](https://seismo.berkeley.edu/seismo.real.time.map.html)
 
 ---
