@@ -108,6 +108,13 @@ We call the areas where plate boundaries __fault lines__.
 
 ---
 
-According to information published by the Geology Department at New Zealand's, University of Otago, the Alpine transform boundary is unique because the Pacific plate is thrusting over the top of the Australian plate. This behaviour is typically only found at convergent boundaries or subduction zones, and not at transform boundaries. As a result, New Zealand's Southern Alps are increasing in height by approximately seven millimetres per year.
+According to information published by the Geology Department at New Zealand's, University of Otago, the Alpine transform boundary is unique because the Pacific plate is thrusting over the top of the Australian plate. This behaviour is typically only found at convergent boundaries or subduction zones, and not at transform boundaries. As a result, New Zealand's Southern Alps are increasing in height by approximately seven millimetres per year.
 
+---
+
+The trench visible north and south of New Zealand shows that the Pacific plate is diving below the Australian plate, creating lots of volcanoes in the north island.
+
+---
+
+![](assets/4-volcanoes.gif){width=50%}
 
