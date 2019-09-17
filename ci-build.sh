@@ -10,6 +10,7 @@ modulesToBuild=(
     "11sci/5-genetics"
     "12phy/2-mechanics"
     "12phy/3-electricity"
+    "12phy/4-nuclear"
 )
 
 for i in "${modulesToBuild[@]}"; do
