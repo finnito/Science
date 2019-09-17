@@ -91,3 +91,19 @@ There are four main sources of variation that we are interested in:
 
 - In some organisms the environment alters the expression of a genotype. Food and nutrient availability, competition, light intensity and disease may modify an expected phenotype.
 
+---
+
+## Meiosis
+
+- Meiosis is the process through which your body produces gametes (sex cells). These are sperm and ova in humans.
+- It has a few key differences from __mitosis__: it produces four daughter cells, the cells are unique, and the cells contain half the original number of chromosomes (haploid).
+
+---
+
+![](assets/4-meiosis.png){width=100%}
+
+---
+
+- Read page 55 and complete page 55, 56 and 57.
+- Read page 58 and complete page 58.
+
