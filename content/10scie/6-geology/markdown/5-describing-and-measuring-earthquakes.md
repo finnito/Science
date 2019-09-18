@@ -68,6 +68,12 @@ header-includes:
 
 ---
 
+## Learning Outcomes
+
+- How do we measure earthquakes?
+
+---
+
 <iframe width="1206" height="678" src="https://www.youtube.com/embed/jhRuUoTnA6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
@@ -85,7 +91,31 @@ The energy ________ travels outwards as _____.  The point in the Earth’s crust
 
 __Words:__ seismographs, focus, location, waves, epicentre, released
 
+---
 
+![](assets/5-earthquake.png){width=80%}
 
+---
 
+- __Hypocenter (focus)__: The point where the earthquake starts
+- __Epicenter__: The point on the surface directly above the hypocenter
 
+---
+
+![](assets/5-earthquake.png){width=40%}
+
+We can see that the epicenter is the closest place on the surface to the focus. This is why the __s waves__ get there first.
+
+---
+
+### Richter Scale
+
+- Uses numbers from 1 to 10
+- Each number has 10x more energy than the previous
+- It doesn't really work because it was designed for use in Southern California for their particular geology
+
+---
+
+### Mercalli Intensity Scale
+
+- This scale uses the impact of the earthquake on the surface, rather than measuring the energy specifically
