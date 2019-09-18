@@ -111,7 +111,7 @@ We can see that the epicenter is the closest place on the surface to the focus. 
 ### Richter Scale
 
 - Uses numbers from 1 to 10
-- Each number has 10x more energy than the previous
+- Each number has 32x more energy than the previous
 - It doesn't really work because it was designed for use in Southern California for their particular geology
 
 ---
