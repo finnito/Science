@@ -8,5 +8,6 @@ url: /12phy/4-nuclear/
 
 1. [Atoms & Isotopes](slides/1-atoms-and-isotopes/) [(PDF)](pdfs/1-atoms-and-isotopes.pdf)
 2. [Discovering the Atomic Structure](slides/2-atomic-structure/) [(PDF)](pdfs/2-atomic-structure.pdf)
+3. [Radioactive Decay](slides/3-radioactive-decay) [(PDF)](pdfs/3-radioactive-decay.pdf)
 
 [Download All PDFs](4-nuclear.zip)
