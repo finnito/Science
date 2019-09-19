@@ -49,13 +49,13 @@ Is it possible to turn copper into gold?
 
 ### Radioactive Decay
 
-![](assets/3-radioactive-decay.jpg){width=80%}
+![](assets/3-radioactive-decay.jpg){width=60%}
 
 ---
 
 Polonium-211
 
-![](assets/3-pl-211.gif){width=70%}
+![](assets/3-pl-211.gif){width=60%}
 
 ---
 
@@ -65,11 +65,11 @@ Polonium-211 is an unstable isotope and goes through __alpha decay__ to become a
 
 ## Alpha Particle
 
-![](assets/3-alpha-particle.png){width=80%}
+![](assets/3-alpha-particle.png){width=70%}
 
 ---
 
-### Alpha Radiation (\alpha)
+### Alpha Radiation ($\alpha$)
 
 - Helium nuclei (positively charged)
 - Made up of two protons and two neutrons
@@ -85,7 +85,7 @@ Polonium-211 is an unstable isotope and goes through __alpha decay__ to become a
 
 Hydrogen-3
 
-![](assets/3-hydrogen-3.png){width=80%}
+![](assets/3-hydrogen-3.png){width=70%}
 
 ---
 
@@ -93,7 +93,7 @@ Hydrogen-3 goes through beta decay to become a more stable helium-3 atom. It doe
 
 ---
 
-### Beta Radiation (\beta)
+### Beta Radiation ($\beta$)
 
 - High-energy electron (negative charge)
 - When emitted, a neutron decays into a proton inside the nucleus
@@ -106,7 +106,7 @@ Hydrogen-3 goes through beta decay to become a more stable helium-3 atom. It doe
 
 ---
 
-### Gamma Radiation (\gamma)
+### Gamma Radiation ($\gamma$)
 
 - Electromagnetic radiation with very high energy
 - Occurs as a result of a nucleus being left in a very excited state after undergoing other types of radioactivity
@@ -119,7 +119,7 @@ Hydrogen-3 goes through beta decay to become a more stable helium-3 atom. It doe
 
 ---
 
-![](assets/3-radiation-comparison.jpg){width=80%}
+![](assets/3-radiation-comparison.jpg){width=70%}
 
 ---
 
@@ -127,6 +127,6 @@ What would happen to each radiation type as it enters a magnetic field (coming o
 
 ---
 
-![](assets/3-radiation-in-b-field.gif){width=80%}
+![](assets/3-radiation-in-b-field.gif){width=70%}
 
 ---
