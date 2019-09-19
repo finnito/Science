@@ -80,7 +80,7 @@ header-includes:
 
 ---
 
-![](assets/2-gold-foil.png)
+![](assets/2-gold-foil.png){width=75%}
 
 ---
 
@@ -98,31 +98,35 @@ header-includes:
 
 #### Conclusions
 
+For each of these conclusions, explain how the results show this.
+
 1. The atom consists of mostly empty space
 2. There is a charged mass within the nucleus
 3. The charged mass is very small
 4. The charged mass is very dense
 
-For each of these conclusions, explain how the results show this.
-
 ---
 
-- __1. The atom consists of mostly empty space__
+1. The atom consists of mostly empty space
+
 - Most alpha particles were found to go straight through the foil, therefore indicating that most of the atom is empty.
 
 ---
 
-- __2. There is a charged mass within the nucleus__
+2. There is a charged mass within the nucleus
+
 - Some alpha particles experienced a small angle of deflection indicating that they did not impact it, but rather were deflected through repulsion of charges.
 
 ---
 
-- __3. The charged mass is very small__
+3. The charged mass is very small
+
 - Very few alpha particles were deflected meaning that the charged mass is very small.
 
 ---
 
-- __4. The charged mass is very dense__
+4. The charged mass is very dense
+
 - Those alpha particles that impacted the mass could be bounced off at a very large angle indicating that is has a mass much greater than the alpha particles.
 
 ---
@@ -140,11 +144,15 @@ For each of these conclusions, explain how the results show this.
 
 ---
 
-1. If the alpha particles had not been travelling through vacuum, they would have been affected by the molecules in the air. Then the results (the deviation in the particles’ paths) would not be dependent only on the atoms of the gold foil.
+1. Explain why the experiment had to be carried out in a vacuum.
+
+- If the alpha particles had not been travelling through vacuum, they would have been affected by the molecules in the air. Then the results (the deviation in the particles’ paths) would not be dependent only on the atoms of the gold foil.
 
 ---
 
-2. Rutherford was aiming to see how alpha particles would behave as they went through the foil. Alpha particles are stopped very easily. If the gold foil was thicker it would have stopped the particles completely and not let any to go through.
+2. Explain why it was necessary for the gold foil to be a few atoms thick.
+
+- Rutherford was aiming to see how alpha particles would behave as they went through the foil. Alpha particles are stopped very easily. If the gold foil was thicker it would have stopped the particles completely and not let any to go through.
 
 ---
 
