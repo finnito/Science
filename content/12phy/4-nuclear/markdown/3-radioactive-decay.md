@@ -119,7 +119,7 @@ Hydrogen-3 goes through beta decay to become a more stable helium-3 atom. It doe
 
 ---
 
-![](assets/3-radiation-comparison.jpg){width=70%}
+![](assets/3-radiation-comparison.png){width=70%}
 
 ---
 
@@ -130,3 +130,80 @@ What would happen to each radiation type as it enters a magnetic field (coming o
 ![](assets/3-radiation-in-b-field.gif){width=70%}
 
 ---
+
+## Starter
+
+1. List the three types of radioactive decay and how damaging the products of each decay can be
+2. Give examples of the kind of protection that would need to have for each type of radiation
+3. How would each type of radiation be affected when moving right to left in a magnetic field going into the page?
+
+---
+
+<iframe width="646" height="363" src="https://www.youtube.com/embed/TJgc28csgV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+Recall: Alpha Radiation
+
+![](assets/3-alpha-particle.png){width=80%}
+
+---
+
+Recall: Beta Radiation
+
+![](assets/3-beta-decay.png){width=80%}
+
+----
+
+Recall: Gamma Decay
+
+![](assets/3-gamma-decay.png){width=80%}
+
+---
+
+## Question: What is nuclear radiation/materials used for?
+
+---
+
+### Nuclear Bombs
+
+They work through nuclear fission or fusion of such materials as plutonium and uranium.
+
+---
+
+### Nuclear Reactors
+
+Our current nuclear power reactors utilise nuclear fission of plutonium to create energy. Unfortunately they also produce radioactive by-products which are hard to dispose of in a safe way.
+
+![](assets/3-nuclear-reactor.jpg){width=30%}
+
+---
+
+### Steralisation
+
+It can also be used to steralise a variety of medical instruments and food.
+
+---
+
+### Tracers
+
+It can also be used in medical imaging and tracers to follow the path of materials through an ecosystem.
+
+![](assets/3-radioactive-tracer.jpg){width=50%}
+
+---
+
+### Smoke Detectors
+
+Inside a the ionisation chamber, americium-241 decays through alpha decay. The alpha particles collide with the air molecules causing them to become ionized. Because are now charged, current can be carried between the two plates inside the chamber. Smoke particles interact with the ionized particles causing them to lose their charge, and therefore cause the current to decrease and the alarm to go off.
+
+---
+
+![](assets/3-smoke-alarm.jpg){width=80%}
+
+---
+
+---
+
+<iframe width="646" height="363" src="https://www.youtube.com/embed/SHZAaGidUbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
