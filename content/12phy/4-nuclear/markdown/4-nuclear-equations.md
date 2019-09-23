@@ -35,7 +35,7 @@ This means that the atomic nunber of the decaying atom is ________ by ________ a
 
 ![](assets/4-a-decay-table-1.png){width=80%}
 
-Notes:
+Note:
 Fill out this table for alpha decay. 
 
 ---
