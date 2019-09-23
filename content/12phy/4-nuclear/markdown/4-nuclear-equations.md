@@ -29,11 +29,14 @@ Be able to write equations for these nuclear reactions:
 
 In alpha emission, the decaying atom loses 2 protons and 2 neutrons.
 
-This means taht the atomic nunber of the decaying atom is ________ by ________ and the mass number is ________ by ________.
+This means that the atomic nunber of the decaying atom is ________ by ________ and the mass number is ________ by ________.
 
 ---
 
 ![](assets/4-a-decay-table-1.png){width=80%}
+
+Notes:
+Fill out this table for alpha decay. 
 
 ---
 
