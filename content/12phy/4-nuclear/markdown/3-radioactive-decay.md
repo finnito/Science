@@ -195,13 +195,13 @@ It can also be used in medical imaging and tracers to follow the path of materia
 
 ### Smoke Detectors
 
-Inside a the ionisation chamber, americium-241 decays through alpha decay. The alpha particles collide with the air molecules causing them to become ionized. Because are now charged, current can be carried between the two plates inside the chamber. Smoke particles interact with the ionized particles causing them to lose their charge, and therefore cause the current to decrease and the alarm to go off.
+Inside an ionisation chamber, americium-241 decays through alpha decay. The alpha particles collide with the air molecules causing them to become ionized. Because they are now charged, current can be carried between the two plates inside the chamber.
+
+Smoke particles interact with the ionized particles causing them to lose their charge, and therefore cause the current to decrease and the alarm to go off.
 
 ---
 
 ![](assets/3-smoke-alarm.jpg){width=80%}
-
----
 
 ---
 
