@@ -106,10 +106,3 @@ Write down the equations for:
 8. A double beta decay of Bismuth-210
 
 ---
-
-## Homework (Due Friday, marked and corrected)
-
-- Worksheets 1, 2 and left haf of 3
-- Homework Booklet: 
-
----
