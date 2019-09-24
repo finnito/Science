@@ -207,3 +207,11 @@ Smoke particles interact with the ionized particles causing them to lose their c
 
 <iframe width="646" height="363" src="https://www.youtube.com/embed/SHZAaGidUbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+## Homework (Due Friday, marked and corrected)
+
+- Worksheets 1, 2 and left half of 3
+- Homework Booklet: Atom Models 2004 Q1, 2005 Q2
+- Homework Booklet: Radioactivity Q1, 3, 4, 5, 6
+
+---
