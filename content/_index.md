@@ -3,14 +3,19 @@ title: Science with LSF
 date: 2019-09-01
 ---
 
-## Welcome
-
-These notes and resources are all a work-in-progress. I am completing them as I teach each unit and each year group, so it is likely that you will find them incomplete in many areas.
+These notes and resources are all a work-in-progress. I write them as I teach each unit and each year group, so it is likely that you will find them incomplete in many areas.
 
 ---
 
-### Git & Credits
+### Gitlab Repository ![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg) [https://science.lesueur.nz](https://science.lesueur.nz)
 
-You can visit the Gitlab repository for this website and all of my notes [over here](https://gitlab.com/Finnito/science).
+This website is generated using [Hugo](https://gohugo.io/) from a Gitlab repository which you can visit [over here](https://gitlab.com/Finnito/science).
 
-Repository logo made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com) as part of the [Renewable Energy Pack](https://www.flaticon.com/packs/reneweable-energy-1) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
+---
+
+### Reporting Issues
+
+You can report issues/ideas/bugs in two ways:
+
+1. Email me [lsf@cashmere.school.nz](mailto:lsf@cashmere.school.nz),
+2. or [open an issue on Gitlab](https://gitlab.com/Finnito/science/issues).
