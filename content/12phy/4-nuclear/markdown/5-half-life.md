@@ -30,12 +30,12 @@ header-includes:
 
 <aside class="notes">
 	\begin{align*}
-		{}^{14}_{6}C \rightarrow {}^{14}_{7}N + \beta^{0}_{-1} \\
-		{}^{14}_{7}N \rightarrow {}^{14}_{8}O + \beta^{0}_{-1}
+		{}^{14}_{6}C \rightarrow {}^{14}_{7}N + {}^{0}_{-1}\beta \\
+		{}^{14}_{7}N \rightarrow {}^{14}_{8}O + {}^{0}_{-1}\beta
 	\end{align*}
 
 	\begin{align*}
-		{}^{241}_{92}U \rightarrow {}^{237}_{87}Fr + \alpha^{4}_{2} + \beta^{0}_{-1}
+		{}^{241}_{92}U \rightarrow {}^{237}_{87}Fr + {}^{4}_{2}\alpha + {}^{0}_{-1}\beta
 	\end{align*}
 
 	\begin{align*}
