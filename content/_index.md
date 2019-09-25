@@ -7,11 +7,9 @@ These notes and resources are all a work-in-progress. I write them as I teach ea
 
 ---
 
-### Gitlab Repository ![Build Status](https://img.shields.io/gitlab/pipeline/Finnito/science?style=flat-square)
+## Gitlab Repository ![Build Status](https://img.shields.io/gitlab/pipeline/Finnito/science?style=flat-square&cacheSeconds=86400)
 
 This website is generated using [Hugo](https://gohugo.io/) from a Gitlab repository which you can visit [over here](https://gitlab.com/Finnito/science).
-
----
 
 ### Reporting Issues
 
