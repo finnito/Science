@@ -17,7 +17,8 @@ header-includes:
 
 ## Learning Outcomes
 
-- Be able to perform half life calculations
+- Be able to make half-life graphs
+- Be able to interpret half-life graphs
 
 ---
 
