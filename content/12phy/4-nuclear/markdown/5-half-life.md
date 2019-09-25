@@ -38,7 +38,7 @@ header-includes:
 	\end{align*}
 
 	\begin{align*}
-		{}^{11}_{6}C + {}^{0}_{1}n \rightarrow {}^{12}_{6}C
+		{}^{11}_{6}C + {}^{0}_{1}n \rightarrow {}^{12}_{6}
 	\end{align*}
 </aside>
 
@@ -73,40 +73,28 @@ A small sample of a radioactive material iodine-131 has been observed for severa
 
 ---
 
-\begin{align*}
-    & A = A_{0} \times (\frac{1}{2})^{\frac{t}{t_{\frac{1}{2}}}}
-\end{align*}
-
-- $A$ is the final amount
-- $A_{0}$ is the starting amount
-- $t$ is elapsed time
-- $t$ is half life
-
----
-
-The half-life of Hydrogen-3 (Tritium) is approximately 12.25 years. If you found a small sample of Tritium containing 5,000,000 undecayed nuclei, how many undecayed nuclei will there be in the sample after:
+The half-life of Hydrogen-3 is approximately 12.25 years. If you found a small sample of Tritium containing 5,000,000 undecayed nuclei, how many undecayed nuclei will there be after:
 
 1. 12.25 years
 2. 24.5 years
 3. 49 years
 4. 196 years
 
-How long will it take for the sample to have less than 2500 undecayed nuclei left?
+How long until there is less than 2500 undecayed nuclei left?
 
 ---
 
-You found a 50 g sample of Cobalt-60. The half-life of Cobalt-60 is 5 years.
+You found a $50 g$ sample of Cobalt-60. The half-life of Cobalt-60 is 5 years.
 What would be the mass of the Cobalt-60 sample after 20 years?
 
-1. Calculate how long it would take for the mass of the 50 g sample to fall just below 1.17 g.
+1. Calculate how long it would take for the mass of the 50 g sample to fall just below $1.17 g$.
 2. Sketch a mass vs. time graph of the Cobalt-60 sample over a 30-year period.
 3. Use the graph to estimate the mass of the sample after 12.5 years.
 
 ---
 
-1. Finish worksheet #3
-2. Finish the homework booklet
+## Homework (Due Friday, marked and corrected)
 
----
-
-
+- Worksheets 1, 2 and left half of 3
+- Homework Booklet: Atom Models 2004 Q1, 2005 Q2
+- Homework Booklet: Radioactivity Q1, 3, 4, 5, 6
