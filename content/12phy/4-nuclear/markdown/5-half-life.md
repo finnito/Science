@@ -27,6 +27,21 @@ header-includes:
 2. An Uranium-241 nucleus emits an alpha particle AND a beta particle. Write down the equation.
 3. An atom of Carbon-11 absorbs a neutron. Write down the nuclear equation.
 
+<aside class="notes">
+	\begin{align*}
+		{}^{14}_{6}C \rightarrow {}^{14}_{7}N + \beta^{0}_{-1} \\
+		{}^{14}_{7}N \rightarrow {}^{14}_{8}O + \beta^{0}_{-1}
+	\end{align*}
+
+	\begin{align*}
+		{}^{241}_{92}U \rightarrow {}^{237}_{87}Fr + \alpha^{4}_{2} + \beta^{0}_{-1}
+	\end{align*}
+
+	\begin{align*}
+		{}^{11}_{6}C + {}^{0}_{1}n \rightarrow {}^{12}_{6}C
+	\end{align*}
+</aside>
+
 ---
 
 - It is impossible to predict when an unstable/radioactive atom will disintegrate (decay), because the actual timing of the decay is random.
