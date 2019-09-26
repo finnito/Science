@@ -20,10 +20,11 @@ a {
 }
 
 a:visited {
-  color: #9b59b6;
+  color: #2980b9;
 }
 
 .menu {
+  margin-top: 1rem;
   padding: 0;
 }
 
