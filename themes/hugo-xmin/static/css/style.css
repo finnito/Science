@@ -6,13 +6,13 @@ body {
   margin: auto;
   padding: 0 1em;
 }
-code {
-  font-family: monospace;
-  font-size: 85%;
-}
 
 h1 {
   margin: 0.5rem auto;
+}
+
+h2 {
+  margin-bottom: 0;
 }
 
 a {
@@ -20,7 +20,7 @@ a {
 }
 
 a:visited {
-  color: #2980b9;
+  color: #9b59b6;
 }
 
 .menu {
@@ -55,4 +55,13 @@ hr {
   border-style: solid;
   color: #bdc3c7;
   margin: 0.5rem auto;
+}
+
+ol, ul {
+  padding-left: 1rem;
+  margin-top: 0;
+}
+
+ol li {
+  margin-bottom: 0.5rem;
 }
