@@ -62,6 +62,6 @@ ol, ul {
   margin-top: 0;
 }
 
-ol li {
+ol > li {
   margin-bottom: 0.5rem;
 }
