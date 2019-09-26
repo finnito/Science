@@ -100,7 +100,6 @@ If the protons are positively charged, why don't they repel each other and the n
 
 - Mass is a form of energy
 - Mass can turn into energy and energy can turn into mass (in nuclear reactions).
-- In nuclear reactions, mass can turn into energy and vice versa
 
 ---
 
