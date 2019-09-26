@@ -1,3 +1,6 @@
 [submodule "static/reveal.js"]
 	path = static/reveal.js
 	url = https://gitlab.com/Finnito/reveal.js-fork
+[submodule "static/hugo-spartan"]
+	path = static/hugo-spartan
+	url = https://gitlab.com/Finnito/hugo-spartan
