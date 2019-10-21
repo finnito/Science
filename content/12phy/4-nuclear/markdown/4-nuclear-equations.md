@@ -29,7 +29,7 @@ Be able to write equations for these nuclear reactions:
 
 In alpha emission, the decaying atom loses 2 protons and 2 neutrons.
 
-This means that the atomic nunber of the decaying atom is ________ by ________ and the mass number is ________ by ________.
+This means that the atomic number of the decaying atom is ________ by ________ and the mass number is ________ by ________.
 
 ---
 
@@ -54,7 +54,7 @@ This means that the atomic nunber of the decaying atom is ________ by ________ a
 
 In a beta emission, a neutron turns into a proton and emits a high-speed electron.
 
-This means that the atomic number of the decay atom is ________ by ________ and the number ________.
+This means that the atomic number of the decay atom is ________ by ________ and the mass number _____________.
 
 ---
 
@@ -86,7 +86,7 @@ In a gamma emission, the decaying atom only loses energy, which means it has the
 ---
 
 \begin{align*}
-    & {}^{201}_{79}Au \rightarrow {}^{201}_{79Au}At + \gamma \\
+    & {}^{201}_{79}Au \rightarrow {}^{201}_{79}Au + \gamma \\
 \end{align*}
 
 ---
