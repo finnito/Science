@@ -4,13 +4,14 @@ echo "Navigating to content"
 cd content
 
 modulesToBuild=(
-    "10scie/5-fire-and-fuels"
-    "10scie/6-geology"
-    "11sci/4-mechanics"
-    "11sci/5-genetics"
-    "12phy/2-mechanics"
-    "12phy/3-electricity"
-    "12phy/4-nuclear"
+    "9scie/1-introduction-to-science"
+    #"10scie/5-fire-and-fuels"
+    #"10scie/6-geology"
+    #"11sci/4-mechanics"
+    #"11sci/5-genetics"
+    #"12phy/2-mechanics"
+    #"12phy/3-electricity"
+    #"12phy/4-nuclear"
 )
 
 for i in "${modulesToBuild[@]}"; do
@@ -22,6 +23,7 @@ for i in "${modulesToBuild[@]}"; do
 
     # echo "Making pdfs directory"
     mkdir pdfs
+    mkdir slides
 
     echo "Copying assets into slides"
     cp -a assets slides/
@@ -53,6 +55,19 @@ for i in "${modulesToBuild[@]}"; do
     zip "$topic".zip *.pdf
     mv "$topic".zip ../
     cd ../
+
+    # Put the .md slide files in the parent
+    # directory for Hugo
+    mv markdown/* ./
+
+    cd ../../../
+    rm -rf public
+    hugo
+    cd content
+    cd $i
+
+    mv ./*.md markdown/
+    mv markdown/_index.md ./
 
     echo "Should be back in content"
     cd ../../
