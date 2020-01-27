@@ -17,9 +17,6 @@ deploy:
   script:
     - ssh finn@104.200.25.232 "cd /srv/science.lesueur.nz/ && git checkout master && git pull origin master --recurse-submodules && exit"
     - ssh finn@104.200.25.232 "cd /srv/science.lesueur.nz/ && bash build.sh"
-    - ssh finn@104.200.25.232 "cd /srv/science.lesueur.nz/ && rm -rf public/"
-    - ssh finn@104.200.25.232 "cd /srv/science.lesueur.nz/ && hugo && exit"
-    - ssh finn@104.200.25.232 "cd /srv/science.lesueur.nz/ && bash post-build.sh && exit"
   only:
     - master
   artifacts:
