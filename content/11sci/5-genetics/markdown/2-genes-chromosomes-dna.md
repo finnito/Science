@@ -30,7 +30,7 @@ Think, pair and share what do you know about __DNA__, __genes__, __chromosomes__
 
 Organisms are made of cells, each cell contains a nucleus, the nucleus contains chromosomes made up of DNA, and DNA contains many genes.
 
-![](assets/2-cell-diagram.jpeg){width=60%}
+![](../assets/2-cell-diagram.jpeg){width=60%}
 
 ---
 
@@ -38,7 +38,7 @@ Organisms are made of cells, each cell contains a nucleus, the nucleus contains 
 
 All organisms on Earth are made of one or more cells
 
-![](assets/2-cell.png){width=50%}
+![](../assets/2-cell.png){width=50%}
 
 ---
 
@@ -53,7 +53,7 @@ Inside each cell is a nucleus. The nucleus holds genome of the cell in the form 
 Chromosomes are located inside the nucleus and are made up of long chains of DNA.
 Humans have 23 pairs of chromosomes, giving us 46 in total!
 
-![](assets/2-chromosomes.jpg){width=40%}
+![](../assets/2-chromosomes.jpg){width=40%}
 
 
 ---
@@ -62,7 +62,7 @@ Humans have 23 pairs of chromosomes, giving us 46 in total!
 
 DNA is a very long chain of _base pairs_ which forms chromosomes.
 
-![](assets/2-dna.png){width=50%}
+![](../assets/2-dna.png){width=50%}
 
 ---
 
@@ -70,7 +70,7 @@ DNA is a very long chain of _base pairs_ which forms chromosomes.
 
 A gene is a small segment of DNA made of _base pairs_ and are what determine everything about us! Each chromosome carries __many__ genes. Humans have around 25000 genes. That is a lot of genes per chromosome!
 
-![](assets/2-genes.jpeg){width=50%}
+![](../assets/2-genes.jpeg){width=50%}
 
 ---
 

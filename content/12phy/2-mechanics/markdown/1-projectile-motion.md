@@ -24,7 +24,9 @@ header-includes:
 # Projectile Motion
 Projectile motion can be thought of as _motion under gravity_.
 
-![](assets/ideal-world-meme.jpg){ width=75% }
+---
+
+![](../assets/ideal-world-meme.jpg){ width=75% }
 
 ---
 
@@ -36,6 +38,8 @@ A ball is thrown vertically upwards. __Describe the direction of the ball's velo
 1. It is going up,
 2. it is going down,
 3. it is at the highest point.
+
+---
 
 __Describe the direction of the ball's acceleration when it is:__
 
