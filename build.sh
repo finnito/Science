@@ -34,7 +34,7 @@ for i in "${modulesToBuild[@]}"; do
         file=${filename##*/}
         name=${file%%.*}
         echo "Building $name.html"
-        pandoc -s --mathjax -i -t revealjs "markdown/$name.md" -o "$name.html" -V revealjs-url=/reveal.js
+        pandoc -s --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js -i -t revealjs "markdown/$name.md" -o "$name.html" -V revealjs-url=/reveal.js
         echo "Building $name.pdf"
         pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
         # ls
