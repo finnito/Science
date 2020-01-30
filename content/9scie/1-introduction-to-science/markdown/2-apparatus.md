@@ -95,13 +95,6 @@ The images on the previous slide are drawings. We will simplify these into 1-dim
 
 ---
 
-## Memory Game
+## Quizlet
 
-- Close your books
-- Get the tray of equipment from your station and test each other to see how many you can remember!
-
----
-
-## Drawing Practice
-
-Hide your notes and see if you can draw these setups from my desk!
+https://quizlet.com/nz/479062590/apparatus-diagrams-flash-cards
