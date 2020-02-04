@@ -91,3 +91,95 @@ A car is driven 3 km east for 200 seconds,  then 4 km south for 250 seconds, the
 ---
 
 ### Textbook Activity 8A
+
+---
+
+## Starter
+
+1. A bird flies $3km$ to the est and then $4km$ to the south. Find the resultant __displacement__ of the bird.
+2. The bird takes $35min$ to complete the flight. Calculate its average __speed__ and __velocity__ in meters per second.
+
+---
+
+## Vectors
+
+- Have both __direction__ and __magnitude__
+- Drawn as an arrow
+- Drawn with a ruler
+- Drawn to scale (on a grid, typically)
+
+---
+
+- Drawn head-to-tail
+- Can be added an subtracted
+- Use pythagoras and SOH CAH TOA to find values
+
+---
+
+### Vector Addition
+
+To add vectors, we simply draw a the next vector from the _arrowhead_ of the previous one.
+
+![Vector Addition](../assets/1-vector-addition.gif)
+
+---
+
+### Vector Subtraction
+
+Think about acceleration: acceleration is in the position direction while deceleration is in the negative direction.
+
+Alternatively we can call this, negative and positive acceleration. All the __negative__ sign does is change the direction. This is the same with vectors.
+
+---
+
+![Vector Subtraction](../assets/1-vector-subtraction.gif)
+
+This works because of algebra:
+
+\begin{align*}
+    & a - b = a + -b \\
+\end{align*}
+
+---
+
+## Vectors with $\Delta$
+
+---
+
+## Vector Components
+
+Similarly to how we create a _resultant vector_ from two vectors, we can decompose a vector into its horizontal and vertical components. We use SOH CAH TOA to do this!
+
+![Vector Decomposition](../assets/1-vector-decomposition.png)
+
+---
+
+![Vector Decomposition](../assets/1-vector-decomposition.png)
+
+Take two minutes and find an equation for the horizontal component of the triangle using the hypotenuse and the angle.
+
+---
+
+![Vector Decomposition](../assets/1-vector-decomposition.png)
+
+To find the horizontal component:
+
+\begin{align*}
+    & a = o / tan(\theta) \\
+\end{align*}
+
+---
+
+![Vector Decomposition](../assets/1-vector-decomposition.png)
+
+Take two minutes and find an equation for the vertical component of the triangle using the hypotenuse and the angle.
+
+---
+
+![Vector Decomposition](../assets/1-vector-decomposition.png)
+
+To find the horizontal component:
+
+\begin{align*}
+    & o = a * tan(\theta) \\
+\end{align*}
