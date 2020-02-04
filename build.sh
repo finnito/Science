@@ -60,16 +60,28 @@ for i in "${modulesToBuild[@]}"; do
     # directory for Hugo
     mv markdown/* ./
 
-    cd ../../../
-    rm -rf public
-    hugo
-    cd content
-    cd $i
+    # cd ../../../
+    # rm -rf public
+    # hugo
+    # cd content
+    # cd $i
 
-    mv ./*.md markdown/
-    mv markdown/_index.md ./
+    # mv ./*.md markdown/
+    # mv markdown/_index.md ./
 
     echo "Should be back in content"
     cd ../../
     # ls
+done
+
+cd ../
+rm -rf public
+hugo
+cd content
+
+for i in "${modulesToBuild[@]}"; do
+    cd $i
+    mv ./*.md markdown/
+    mv markdown/_index.md ./
+    cd ../../
 done
