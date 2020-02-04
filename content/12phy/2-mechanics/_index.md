@@ -31,6 +31,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Slides
 
+1. [Vectors](1-scalars-vs-vectors/) ([Slides](slides/1-scalars-vs-vectors/), [PDF](pdfs/1-scalars-vs-vectors.pdf))
 1. [Projectile Motion](1-projectile-motion/) ([Slides](slides/1-projectile-motion/), [PDF](pdfs/1-projectile-motion.pdf))
 2. [Momentum](2-momentum/) ([Slides](slides/2-momentum/), [PDF](pdfs/2-momentum.pdf))
 3. [Rotational Motion](3-rotational-motion/) ([Slides](slides/3-rotational-motion/), [PDF](pdfs/3-rotational-motion.pdf))
