@@ -144,6 +144,35 @@ This works because of algebra:
 
 ## Vectors with $\Delta$
 
+Velocity is a vector and a change ($\Delta$) is calculated like this: 
+
+\begin{align*}
+    & \Delta v = v_{f} - v_{i} \\
+\end{align*}
+
+Can we turn this into __vector addition__?
+
+---
+
+### \Delta v
+
+\begin{align*}
+    & \Delta v = v_{f} - v_{i} \\
+    & \Delta v = v_{f} + (-v_{i}) \\
+\end{align*}
+
+What does making negative $v_{i}$ do to the vector?
+
+:::notes
+It mirrors its direction.
+:::
+
+---
+
+#### Example
+
+A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebounds at $4ms^{-1}$ in the opposite direction away from the crossbar. Determine the ball's change in velocity.
+
 ---
 
 ## Vector Components
