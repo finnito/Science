@@ -58,7 +58,7 @@ header-includes:
 
 - It stands for __meters per second__
 - E.g. the speed of sound is $330ms^{-1}$
-- _Sound travels 330m in one second_
+- _Sound travels $330m$ in one second_
 
 ---
 
@@ -85,7 +85,7 @@ Ash runs 315m in 45s. Calculate his average speed in __meters per second__.
 - A handgun bullet = $660ms^{-1}$
 - A car on the road = $50km/hr$
 - A flying airplane = $1100kmh^{-1}$
-- Light = $300000000$
+- Light = $300,000,000$
 
 ---
 
@@ -157,7 +157,7 @@ This is the difference between the __initial__ and the __final__ value.
 
 \begin{align*}
     & \Delta = final - initial \\
-    & e.g. \Delta v = v_{f} - v_{i}
+    & \text{e.g. }\Delta v = v_{f} - v_{i}
 \end{align*}
 
 ---
