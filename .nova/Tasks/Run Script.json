@@ -1,0 +1,8 @@
+{
+  "script" : "\/bin\/bash ~\/Documents\/0.Teaching\/science.lesueur.nz\/build.sh",
+  "actions" : [
+    "build"
+  ],
+  "identifier" : "8CBBF87F-DE68-4D39-9FB4-84DC3851F136",
+  "openLogOnRun" : "start"
+}
