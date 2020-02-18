@@ -194,7 +194,7 @@ Take two minutes and find an equation for the horizontal component of the triang
 To find the horizontal component:
 
 \begin{align*}
-    & a = o / tan(\theta) \\
+    & a = \frac{o}{tan(\theta)} \\
 \end{align*}
 
 ---
@@ -210,5 +210,5 @@ Take two minutes and find an equation for the vertical component of the triangle
 To find the horizontal component:
 
 \begin{align*}
-    & o = a * tan(\theta) \\
+    & o = a \times tan(\theta) \\
 \end{align*}

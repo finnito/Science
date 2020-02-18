@@ -20,3 +20,5 @@ In pairs, rearrange this equation 4 times to make each variable the subject. Mak
 \begin{align*}
 	& v_{f}^{2} = v_{i}^{2} + 2ad \\
 \end{align*}
+
+---
