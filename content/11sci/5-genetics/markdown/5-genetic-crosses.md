@@ -91,3 +91,31 @@ If dad is __heterozygous dominant__ for brown eyes and mum is __homozygous reces
 
 ![](../assets/5-punnet-square.jpg){width=80%}
 
+---
+
+### Test Crosses
+
+A test cross used to determine the __genotype__ of an unknown organism. It is done by crossing the organism with an organism that is known to be __homozygous recessive__.
+
+---
+
+#### The Two Outcomes
+
+There are two possible outcomes for a test cross.
+
+1. The organism is __homozygous dominant__,
+2. the organism is __heterozygous__.
+
+---
+
+### Question
+
+A garden pea has two alleles for colour. __Y__ is the dominant allele for yellow, while __y__ is the recessive allele for green.
+
+Mendel wants to figure out whether his yellow pea is __homozygous dominant__ or __heterozygous__. How can he do this?
+
+---
+
+#### Answer
+
+He can breed the pea plants together many times and count the number of yellow and green pea plants produced. He can also perform two punnet squares to figure out which __genotype__ the yellow pea has e.g. YY x yy and Yy x yy.
