@@ -27,6 +27,8 @@ header-includes:
 3. Rearrange the equation for $m$ and $a$
 4. Derive the SI units for F (not Newtons)
 
+---
+
 For a car of __mass 1500kg__ which is accelerating at $3.7ms^{-2}$:
 
 1. What net force is needed to maintain this acceleration?
