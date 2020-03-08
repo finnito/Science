@@ -73,11 +73,11 @@ A force of 9N acting up at a distance of 10cm is needed to lift the top off a bo
 
 A force of 9N acting up at a distance of 10cm is needed to lift the top off a bottle of soft drink. __Calculate the torque applied.__
 
-\begin{equation}
-    \tau = Fd_{\bot} \\
-    \tau = 9 \times 0.1 \\
-    \tau = 0.9 \text{Nm anticlockwise} \\
-\end{equation}
+\begin{align*}
+    & \tau = Fd_{\bot} \\
+    & \tau = 9 \times 0.1 \\
+    & \tau = 0.9 \text{Nm anticlockwise} \\
+\end{align*}
 
 ---
 
@@ -91,11 +91,11 @@ Calculate the torque applied if the lever is stretched to 75cm.
 
 Calculate the torque applied if the lever is stretched to 75cm.
 
-\begin{equation}
-    \tau = Fd_{\bot} \\
-    \tau = 9 \times 0.75 \\
-    \tau = 6.75 \text{Nm anticlockwise} \\
-\end{equation}
+\begin{align*}
+    & \tau = Fd_{\bot} \\
+    & \tau = 9 \times 0.75 \\
+    & \tau = 6.75 \text{Nm anticlockwise} \\
+\end{align*}
 
 ---
 
@@ -109,11 +109,11 @@ Calculate the torque applied if the lever is compressed to 1cm.
 
 Calculate the torque applied if the lever is compressed to 1cm.
 
-\begin{equation}
-    \tau = Fd_{\bot} \\
-    \tau = 9 \times 0.01 \\
-    \tau = 0.09 \text{Nm anticlockwise} \\
-\end{equation}
+\begin{align*}
+    & \tau = Fd_{\bot} \\
+    & \tau = 9 \times 0.01 \\
+    & \tau = 0.09 \text{Nm anticlockwise} \\
+\end{align*}
 
 ---
 
