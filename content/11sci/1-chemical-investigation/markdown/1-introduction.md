@@ -45,7 +45,7 @@ Can you think of any others?
 
 ## Displacement of Gas
 
-![](assets/1-displacement.png){width=75%}
+![](../assets/1-displacement.png){width=75%}
 
 ---
 
