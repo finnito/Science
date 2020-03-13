@@ -7,6 +7,7 @@ date: 2019-12-03
 ## Units
 
 1. [Meteorite Investigation](/12ess/1-investigation/)
+2. [Extreme Earth Events](/12ess/2-extreme-earth-events/)
 
 
 ## 2020 Year Planner
