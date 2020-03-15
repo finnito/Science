@@ -35,7 +35,7 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 
 # Circles
 
-<img src="circle-diagram.png" style="float: right; width: 50%;"/>
+<img src="../assets/circle-diagram.png" style="float: right; width: 50%;"/>
 \begin{equation}
     Center \\
     Radius = r \\
@@ -53,7 +53,7 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 ---
 
 # Question
-<img src="circle-gif.gif" style="float: right; width: 50%;"y/>
+<img src="../assets/circle-gif.gif" style="float: right; width: 50%;"y/>
 
 If the radius is 2m, find:
 
@@ -66,7 +66,7 @@ If the radius is 2m, find:
 
 # Question
 
-<img src="circle-gif.gif" style="float: right; width: 50%;"y/>
+<img src="../assets/circle-gif.gif" style="float: right; width: 50%;"y/>
 
 Is speed constant?
 
@@ -104,7 +104,7 @@ Therefore, centripetal acceleration is caused by an unbalanced force which conti
 
 # Centripetal Force
 
-<img src="assets/centripetal-force.png" style="float: right; width: 50%;"y/>
+<img src="../assets/centripetal-force.png" style="float: right; width: 50%;"y/>
 
 \begin{equation}
     F_{c} = \frac{mv^{2}}{r}
@@ -116,7 +116,7 @@ Centripetal force acts inwards towards the center of the circle, while the veloc
 
 # Starter
 
-<img src="assets/q-49.png" style="max-width: 50%;"/>
+<img src="../assets/q-49.png" style="max-width: 50%;"/>
 
 The plank weighs 22kg and is in equilibrium.
 
