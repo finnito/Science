@@ -114,6 +114,14 @@ Centripetal force acts inwards towards the center of the circle, while the veloc
 
 ---
 
+## Question
+
+Mathieu is swinging a bucket of water above his head. It weighs, 8kg and has a horizontal speed of $4ms^{-1}$ in a circle of radius 1m.
+
+Calculate the force required to keep the ball moving in a circle.
+
+---
+
 # Starter
 
 <img src="../assets/q-49.png" style="max-width: 50%;"/>
