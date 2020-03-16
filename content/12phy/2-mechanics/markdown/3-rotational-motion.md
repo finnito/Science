@@ -36,19 +36,20 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 # Circles
 
 <img src="../assets/circle-diagram.png" style="float: right; width: 50%;"/>
-\begin{equation}
-    Center \\
-    Radius = r \\
-    Diameter = d \\
-    Circumference = 2\pi r \\
-    Period = T \\
-    Frequency = f \\
-    Speed = v \\
-\end{equation}
 
-\begin{equation}
-    v = \frac{2\pi r}{T}
-\end{equation}
+\begin{align*}
+    & Center \\
+    & Radius = r \\
+    & Diameter = d \\
+    & Circumference = 2\pi r \\
+    & Period = T \\
+    & Frequency = f \\
+    & Speed = v \\
+\end{align*}
+
+\begin{align*}
+    & v = \frac{2\pi r}{T} \\
+\end{align*}
 
 ---
 
@@ -84,13 +85,13 @@ Therefore, beacuse the direction is changing, the velocity is changing. Therefor
 
 # Centripetal Acceleration
 
-\begin{equation}
-    a_{c} = \frac{v^{2}}{r}
-\end{equation}
+\begin{align*}
+    & a_{c} = \frac{v^{2}}{r}
+\end{align*}
 
-\begin{equation}
-    v = \frac{2 \pi r}{T}
-\end{equation}
+\begin{align*}
+    & v = \frac{2 \pi r}{T}
+\end{align*}
 
 ---
 
@@ -106,9 +107,9 @@ Therefore, centripetal acceleration is caused by an unbalanced force which conti
 
 <img src="../assets/centripetal-force.png" style="float: right; width: 50%;"y/>
 
-\begin{equation}
-    F_{c} = \frac{mv^{2}}{r}
-\end{equation}
+\begin{align*}
+    & F_{c} = \frac{mv^{2}}{r}
+\end{align*}
 
 Centripetal force acts inwards towards the center of the circle, while the velocity acts along a tangent to the circle at all times.
 
@@ -124,12 +125,12 @@ Calculate the force required to keep the ball moving in a circle.
 
 # Starter
 
-<img src="../assets/q-49.png" style="max-width: 50%;"/>
+<img src="../assets/q-49.png" style="max-width: 40%;"/>
 
 The plank weighs 22kg and is in equilibrium.
 
-1. Draw labelled arrows of appropriate size and position showing the forces acting upon the plank.
-2. Calculate the support force acting on the plank through __Support A__. Use $g=10ms^{-2}$.
+1. Draw labelled arrows showing the forces acting upon the plank.
+2. Calculate the support force of __Support A__. Use $g=10ms^{-2}$.
 
 __Note:__ The plank's weight force acts through its center of mass, therefore the overhanging plank does not matter, other than to reduce the length of certain measurements.
 
@@ -149,8 +150,8 @@ During a hammer throw, a 7kg steel ball is swung horizontallywith a speed of $10
 
 Calculate the force required to keep the ball moving in a circle.
 
-\begin{equation}
-    F = \frac{mv^{2}}{r} \\
-    F = \frac{7 \times 10^{2}}{2} \\
-    F = \text{350N inwards}
-\end{equation}
+\begin{align*}
+    & F = \frac{mv^{2}}{r} \\
+    & F = \frac{7 \times 10^{2}}{2} \\
+    & F = \text{350N inwards}
+\end{align*}
