@@ -19,10 +19,10 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Unit Plan
 
-|          | Lesson 1             | Lesson 2                 | Lesson 3                 | Lesson 4          |
-|:---------|:---------------------|:-------------------------|:-------------------------|:------------------|
-| Week 7   | __Genetics Test__    | Rates of Reaction        | Rates of Reaction        | Collision Theory  |
-| Week 8   |                      |                          |                          |                   |
-| Week 9   |                      |                          |                          |                   |
-| Week 10  |                      |                          |                          |                   |
-| Week 11  | __Group Practical__  | __Individual Write-Up__  | __Individual Write-Up__  | __Good Friday__   |
+|          | Lesson 1                   | Lesson 2                    | Lesson 3                   | Lesson 4                   |
+|:---------|:---------------------------|:----------------------------|:---------------------------|:---------------------------|
+| Week 7   | __Genetics Test__          | Rates of Reaction           | Rates of Reaction          | Collision Theory           |
+| Week 8   | Effect of Temperature      | Effect of Temperature       | Effect of Concentration    | Effect of Concentration    |
+| Week 9   | Effect of Surface Area     | Effect of Catalysts         | Planning an Investigation  | Planning an Investigation  |
+| Week 10  | Planning an Investigation  | Changing the Concentration  | Revision                   | Revision                   |
+| Week 11  | __Group Practical__        | __Individual Write-Up__     | __Individual Write-Up__    | __Good Friday__            |
