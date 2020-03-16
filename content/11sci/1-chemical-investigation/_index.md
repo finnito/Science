@@ -14,6 +14,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 1. [Rate of Reaction](1-rate-of-reaction/) ([Slides](slides/1-rate-of-reaction/), [PDF](pdfs/1-rate-of-reaction.pdf))
 2. [Collision Theory](2-collision-theory/) ([Slides](slides/2-collision-theory/), [PDF](pdfs/2-collision-theory.pdf))
+3. [Changing Temperature](3-changing-temperature/) ([Slides](slides/3-changing-temperature/), [PDF](pdfs/3-changing-temperature.pdf))
 
 [Download All PDFs](1-chemical-investigation.zip)
 
