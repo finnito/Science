@@ -146,10 +146,6 @@ Calculate the force required to keep the ball moving in a circle.
 
 # Answer
 
-During a hammer throw, a 7kg steel ball is swung horizontallywith a speed of $10ms^{-1}$ in a circule of radius 2m.
-
-Calculate the force required to keep the ball moving in a circle.
-
 \begin{align*}
     & F = \frac{mv^{2}}{r} \\
     & F = \frac{7 \times 10^{2}}{2} \\
