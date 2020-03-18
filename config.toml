@@ -13,6 +13,9 @@ metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [Params]
   subtitle = "Science Courses taught by Finn LeSueur"
   logo = "logo.png"
