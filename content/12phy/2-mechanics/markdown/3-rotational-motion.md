@@ -45,9 +45,6 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
     & Period = T \\
     & Frequency = f \\
     & Speed = v \\
-\end{align*}
-
-\begin{align*}
     & v = \frac{2\pi r}{T} \\
 \end{align*}
 
@@ -86,11 +83,11 @@ Therefore, beacuse the direction is changing, the velocity is changing. Therefor
 # Centripetal Acceleration
 
 \begin{align*}
-    & a_{c} = \frac{v^{2}}{r}
+    & a_{c} = \frac{v^{2}}{r} \\
 \end{align*}
 
 \begin{align*}
-    & v = \frac{2 \pi r}{T}
+    & v = \frac{2 \pi r}{T} \\
 \end{align*}
 
 ---
@@ -144,7 +141,7 @@ Calculate the force required to keep the ball moving in a circle.
 
 ---
 
-# Answer
+# Answer 
 
 \begin{align*}
     & F = \frac{mv^{2}}{r} \\
