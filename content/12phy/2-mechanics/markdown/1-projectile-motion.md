@@ -163,6 +163,6 @@ If the cannon ball is fired with a __greated horizontal velocity__ will it take 
 # Question
 A marble rolls of a desk of height 1.25m and with $v_{x} = 1.6ms^{-1}$.
 
-1. Calculate the __duration of the fall__
+1. Calculate the __duration of the fall__.
 2. During the fall, how far does the marble travel __horizontally__?
 3. How far does the marble travel if $v_{x} = 3ms^{-1}$?
