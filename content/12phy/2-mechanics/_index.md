@@ -1,7 +1,7 @@
 ---
 title: AS91171 - Mechanics
 date: 2020-01-20
-url: /12phy/2-mechanics/
+url: /12phy/as91171/
 ---
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91171](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91171)
