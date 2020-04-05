@@ -6,7 +6,7 @@ date: 2020-01-07
 
 ## Units
 
-1. [Introduction to Science](/9scie/1-introduction-to-science/)
+1. [Introduction to Science](/9scie/introduction-to-science/)
 
 
 ## 2020 Year Planner

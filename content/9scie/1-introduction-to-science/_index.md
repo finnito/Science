@@ -1,7 +1,7 @@
 ---
 title: Introduction to Science
 date: 2020-01-20
-url: /9scie/1-introduction-to-science/
+url: /9scie/introduction-to-science/
 ---
 
 ## Learning Outcomes
@@ -18,10 +18,10 @@ url: /9scie/1-introduction-to-science/
 
 ## Slides
 
-1. [Laboratory Expectations](1-laboratory-expectations/) ([Slides](slides/1-laboratory-expectations/), [PDF](pdfs/1-laboratory-expectations.pdf))
-2. [Apparatus](2-apparatus/) ([Slides](slides/2-apparatus/), [PDF](pdfs/2-apparatus.pdf))
+1. [Laboratory Expectations](laboratory-expectations/) ([Slides](slides/laboratory-expectations/), [PDF](pdfs/laboratory-expectations.pdf))
+2. [Apparatus](apparatus/) ([Slides](slides/apparatus/), [PDF](pdfs/apparatus.pdf))
 
-[Download All PDFs](1-introduction-to-science.zip)
+[Download All PDFs](introduction-to-science.zip)
 
 ## Unit Plan
 

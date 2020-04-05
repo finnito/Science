@@ -4,7 +4,7 @@ echo "Navigating to content"
 cd content
 
 modulesToBuild=(
-    "9scie/1-introduction-to-science"
+    "9scie/introduction-to-science"
     #"10scie/5-fire-and-fuels"
     #"10scie/6-geology"
     #"11sci/4-mechanics"
