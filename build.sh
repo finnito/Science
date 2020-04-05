@@ -9,7 +9,7 @@ modulesToBuild=(
     #"10scie/6-geology"
     #"11sci/4-mechanics"
     "11sci/1-chemical-investigation"
-    #"11sci/as90948"
+    "11sci/as90948"
     "12phy/as91171"
     "12phy/5-maths"
     "12ess/2-extreme-earth-events"
