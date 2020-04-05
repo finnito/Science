@@ -1,7 +1,7 @@
 ---
 title: AS90930 - Chemical Investigation
 date: 2020-01-20
-url: /11sci/1-chemical-investigation/
+url: /11sci/as90930/
 ---
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90930](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90930)
@@ -12,13 +12,13 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Slides
 
-1. [Rate of Reaction](1-rate-of-reaction/) ([Slides](slides/1-rate-of-reaction/), [PDF](pdfs/1-rate-of-reaction.pdf))
-2. [Collision Theory](2-collision-theory/) ([Slides](slides/2-collision-theory/), [PDF](pdfs/2-collision-theory.pdf))
-3. [Changing Temperature](3-changing-temperature/) ([Slides](slides/3-changing-temperature/), [PDF](pdfs/3-changing-temperature.pdf))
-4. [Changing Surface Area](4-changing-surface-area/) ([Slides](slides/4-changing-surface-area/), [PDF](pdfs/4-changing-surface-area.pdf))
+1. [Rate of Reaction](rate-of-reaction/) ([Slides](slides/rate-of-reaction/), [PDF](pdfs/rate-of-reaction.pdf))
+2. [Collision Theory](collision-theory/) ([Slides](slides/collision-theory/), [PDF](pdfs/collision-theory.pdf))
+3. [Changing Temperature](changing-temperature/) ([Slides](slides/changing-temperature/), [PDF](pdfs/changing-temperature.pdf))
+4. [Changing Surface Area](changing-surface-area/) ([Slides](slides/changing-surface-area/), [PDF](pdfs/changing-surface-area.pdf))
 
 
-[Download All PDFs](1-chemical-investigation.zip)
+[Download All PDFs](as90930.zip)
 
 ## Unit Plan
 
