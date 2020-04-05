@@ -8,4 +8,4 @@ date: 2019-08-17
 2. Microbes
 3. Chemical Reactions
 4. [Mechanics](/11sci/4-mechanics)
-5. [Genetics](/11sci/5-genetics)
+5. [Genetics](/11sci/genetics)

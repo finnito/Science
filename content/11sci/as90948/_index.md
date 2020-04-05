@@ -1,7 +1,7 @@
 ---
 title: AS90948 - Genetics
 date: 2020-01-20
-url: /11sci/5-genetics/
+url: /11sci/as90948/
 ---
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90948](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90948)
@@ -32,13 +32,13 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Slides
 
-1. [Reproduction](1-reproduction/) ([Slides](slides/1-reproduction/), [PDF](pdfs/1-reproduction.pdf))
-2. [Genes, Chromosomes & DNA](2-genes-chromosomes-dna/) ([Slides](slides/2-genes-chromosomes-dna/), [PDF](pdfs/2-genes-chromosomes-dna.pdf))
-3. [Structure of DNA](3-structure-of-dna/) ([Slides](slides/3-structure-of-dna/), [PDF](pdfs/3-structure-of-dna.pdf))
-4. [Variation](4-variation/) ([Slides](slides/4-variation/), [PDF](pdfs/4-variation.pdf))
-5. [Genetic Crosses](5-genetic-crosses/) ([Slides](slides/5-genetic-crosses/), [PDF](pdfs/5-genetic-crosses.pdf))
+1. [Reproduction](reproduction/) ([Slides](slides/reproduction/), [PDF](pdfs/reproduction.pdf))
+2. [Genes, Chromosomes & DNA](genes-chromosomes-dna/) ([Slides](slides/genes-chromosomes-dna/), [PDF](pdfs/genes-chromosomes-dna.pdf))
+3. [Structure of DNA](structure-of-dna/) ([Slides](slides/structure-of-dna/), [PDF](pdfs/structure-of-dna.pdf))
+4. [Variation](variation/) ([Slides](slides/variation/), [PDF](pdfs/variation.pdf))
+5. [Genetic Crosses](genetic-crosses/) ([Slides](slides/genetic-crosses/), [PDF](pdfs/genetic-crosses.pdf))
 
-[Download All PDFs](5-genetics.zip)
+[Download All PDFs](AS90948.zip)
 
 ## Unit Plan
 
