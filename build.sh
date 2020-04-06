@@ -34,7 +34,7 @@ createFolders() {
         if [[ ! -d 'slides' ]]; then
             mkdir slides
         fi
-        cd ../ || exit
+        cd ../../ || exit
     done
     #cd ../ || exit
 }
@@ -53,7 +53,7 @@ createSlidesPDFs() {
 
         mv *.html slides/
         mv *.pdf pdfs/
-        cd ../ || exit
+        cd ../../ || exit
     done
     #cd ../ || exit
 }
@@ -66,7 +66,7 @@ createZIPs() {
         zip "$topic".zip *.pdf
         mv "$topic".zip ../
         cd ../ || exit
-        cd ../ || exit
+        cd ../../ || exit
     done
     #cd ../ || exit
 }
@@ -75,7 +75,7 @@ moveMarkdownFiles() {
     for i in "${MODULES[@]}"; do
         cd i || exit
         mv markdown/* ./
-        cd ../ || exit
+        cd ../../ || exit
     done
 }
 
