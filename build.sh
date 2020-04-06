@@ -131,4 +131,4 @@ resetMarkdownFiles() {
     done
 }
 
-main()
+main
