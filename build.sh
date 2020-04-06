@@ -17,12 +17,12 @@ MODULES=(
 
 main() {
     cd content || exit
-    createFolders()
-    createSlidesPDFs()
-    createZips()
-    moveMarkdownFiles()
-    runHugo()
-    resetMarkdownFiles()
+    createFolders
+    createSlidesPDFs
+    createZips
+    moveMarkdownFiles
+    runHugo
+    resetMarkdownFiles
 }
 
 createFolders() {
