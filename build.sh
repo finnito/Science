@@ -25,8 +25,14 @@ for i in "${modulesToBuild[@]}"; do
     # ls
 
     # echo "Making pdfs directory"
-    mkdir pdfs
-    mkdir slides
+    if [ ! -d "pdfs" ]; then
+        mkdir pdfs
+    fi
+    if [ ! -d "slides" ]; then
+        mkdir slides
+    fi
+    #mkdir pdfs
+    #mkdir slides
 
     echo "Copying assets into slides"
     cp -a assets slides/
