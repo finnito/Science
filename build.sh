@@ -54,10 +54,12 @@ createSlidesPDFs() {
 
         if [[ -d 'markdown' ]]; then
             for filename in markdown/*.md; do
-                file=${filename##*/}
-                name=${file%%.*}
-                pandoc -s --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js -i -t revealjs "markdown/$name.md" -o "$name.html" -V revealjs-url=/reveal.js
-                pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+                file="${filename##*/}"
+                name="${file%%.*}"
+                echo "$file"
+                echo "$name"
+                pandoc -s --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js -i -t revealjs "markdown/${name}.md" -o "${name}.html" -V revealjs-url=/reveal.js
+                pandoc "markdown/${name}.md" -o "${name}.pdf" --pdf-engine=pdflatex
             done
 
             mv *.html slides/
