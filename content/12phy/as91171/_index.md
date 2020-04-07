@@ -33,13 +33,13 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 1. [Vectors](scalars-vs-vectors/) ([Slides](slides/scalars-vs-vectors/), [PDF](pdfs/scalars-vs-vectors.pdf))
 1. [Kinematic Equations](kinematic-equations/) ([Slides](slides/kinematic-equations/), [PDF](pdfs/kinematic-equations.pdf)) 
-1. [Projectile Motion](1-projectile-motion/) ([Slides](slides/1-projectile-motion/), [PDF](pdfs/1-projectile-motion.pdf))
-2. [Momentum](2-momentum/) ([Slides](slides/2-momentum/), [PDF](pdfs/2-momentum.pdf))
-3. [Rotational Motion](3-rotational-motion/) ([Slides](slides/3-rotational-motion/), [PDF](pdfs/3-rotational-motion.pdf))
-4. [Torque & Equilibrium](4-torque-equilibrium/) ([Slides](slides/4-torque-equilibrium/), [PDF](pdfs/4-torque-equilibrium.pdf))
-5. [Energy](5-energy/) ([Slides](slides/5-energy/), [PDF](pdfs/5-energy.pdf))
+1. [Projectile Motion](projectile-motion/) ([Slides](slides/projectile-motion/), [PDF](pdfs/projectile-motion.pdf))
+2. [Momentum](momentum/) ([Slides](slides/momentum/), [PDF](pdfs/momentum.pdf))
+3. [Rotational Motion](rotational-motion/) ([Slides](slides/rotational-motion/), [PDF](pdfs/rotational-motion.pdf))
+4. [Torque & Equilibrium](torque-equilibrium/) ([Slides](slides/torque-equilibrium/), [PDF](pdfs/torque-equilibrium.pdf))
+5. [Energy](energy/) ([Slides](slides/energy/), [PDF](pdfs/energy.pdf))
 
-[Download All PDFs](2-mechanics.zip)
+[Download All PDFs](as91171.zip)
 
 ## Unit Plan
 
