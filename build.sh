@@ -52,15 +52,17 @@ createSlidesPDFs() {
             cp -a assets slides/
         fi
 
-        for filename in markdown/*.md; do
-            file=${filename##*/}
-            name=${file%%.*}
-            pandoc -s --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js -i -t revealjs "markdown/$name.md" -o "$name.html" -V revealjs-url=/reveal.js
-            pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
-        done
+        if [[ -d 'markdown' ]]; then
+            for filename in markdown/*.md; do
+                file=${filename##*/}
+                name=${file%%.*}
+                pandoc -s --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js -i -t revealjs "markdown/$name.md" -o "$name.html" -V revealjs-url=/reveal.js
+                pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
+            done
 
-        mv *.html slides/
-        mv *.pdf pdfs/
+            mv *.html slides/
+            mv *.pdf pdfs/
+        fi
         cd ../../ || exit
     done
     echo $PWD
