@@ -154,7 +154,7 @@ Can we turn this into __vector addition__?
 
 ---
 
-### \Delta v
+### $\Delta$ v
 
 \begin{align*}
     & \Delta v = v_{f} - v_{i} \\
