@@ -53,17 +53,21 @@ createSlidesPDFs() {
         fi
 
         if [[ -d 'markdown' ]]; then
-            for filename in markdown/*.md; do
-                file="${filename##*/}"
+            for filename in markdown/*.md; do 
+		[[ -e "$filename" ]] || continue	
+		file="${filename##*/}"
                 name="${file%%.*}"
                 echo "$file"
                 echo "$name"
                 pandoc -s --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js -i -t revealjs "markdown/${name}.md" -o "${name}.html" -V revealjs-url=/reveal.js
                 pandoc "markdown/${name}.md" -o "${name}.pdf" --pdf-engine=pdflatex
+				mv "${name}.html" slides/
+				mv "${name}.pdf" pdfs/
             done
 
-            mv *.html slides/
-            mv *.pdf pdfs/
+            
+			#mv *.html slides/
+            #mv *.pdf pdfs/
         fi
         cd ../../ || exit
     done
@@ -90,13 +94,17 @@ createZIPs() {
 }
 
 moveMarkdownFiles() {
+	echo "moving markdown files"
     for i in "${MODULES[@]}"; do
-        echo $PWD
+        echo "$i"
         cd $i || exit
-        if [[ -d 'markdown' ]]; then
-            mv markdown/* ./
+		if [[ -d 'markdown' ]]; then
+			count="$( find markdown -mindepth 1 -maxdepth 1 | wc -l )"
+			if [[ ! $count -eq 0 ]]; then
+				mv markdown/* ./
+			fi
         fi
-        cd ../../ || exit
+		cd ../../ || exit
     done
     echo $PWD
 }
@@ -111,13 +119,15 @@ runHugo() {
 }
 
 resetMarkdownFiles() {
+	echo 'resetting markdown files'
     for i in "${modulesToBuild[@]}"; do
-        echo $PWD
+        echo "$i"
         cd $i || exit
-        if [[ -d 'markdown' ]]; then
-            mv ./*.md markdown/
-            mv markdown/_index.md ./
-        fi
+        count="$( find *.md -mindepth 1 -maxdepth 1 | wc -l )"
+		if [[ ! $count -eq 0 ]]; then
+			mv *.md markdown/
+			mv markdown/_index.md ./
+		fi
         cd ../../ || exit
     done
     echo $PWD
