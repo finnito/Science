@@ -35,7 +35,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 1. [Kinematic Equations](kinematic-equations/) ([Slides](slides/kinematic-equations/), [PDF](pdfs/kinematic-equations.pdf)) 
 1. [Projectile Motion](projectile-motion/) ([Slides](slides/projectile-motion/), [PDF](pdfs/projectile-motion.pdf))
 2. [Momentum](momentum/) ([Slides](slides/momentum/), [PDF](pdfs/momentum.pdf))
-3. [Rotational Motion](rotational-motion/) ([Slides](slides/rotational-motion/), [PDF](pdfs/rotational-motion.pdf))
+3. [Rotational Motion](circular-motion/) ([Slides](slides/circular-motion/), [PDF](pdfs/circular-motion.pdf))
 4. [Torque & Equilibrium](torque-equilibrium/) ([Slides](slides/torque-equilibrium/), [PDF](pdfs/torque-equilibrium.pdf))
 5. [Energy](energy/) ([Slides](slides/energy/), [PDF](pdfs/energy.pdf))
 
