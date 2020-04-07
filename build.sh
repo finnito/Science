@@ -73,10 +73,13 @@ createZIPs() {
     for i in "${MODULES[@]}"; do
         echo $PWD
         cd $i || exit
-        topic=${PWD##*/}
-        #cd pdfs || exit
-        zip "$topic".zip pdfs/*
-        #mv "$topic".zip ../
+        files=(pdfs/*)
+        if [ ${#files[@]} -gt 0 ]; then
+            topic=${PWD##*/}
+            #cd pdfs || exit
+            zip "$topic".zip pdfs/*
+            #mv "$topic".zip ../
+        fi
         #cd ../ || exit
         cd ../../ || exit
     done
