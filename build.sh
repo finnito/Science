@@ -46,7 +46,7 @@ createSlidesPDFs() {
     echo $PWD
     for i in "${MODULES[@]}"; do
         echo $PWD
-        cd i || exit
+        cd $i || exit
         cp -a assets slides/
 
         for filename in markdown/*.md; do
@@ -67,7 +67,7 @@ createSlidesPDFs() {
 createZIPs() {
     for i in "${MODULES[@]}"; do
         echo $PWD
-        cd i || exit
+        cd $i || exit
         topic=${PWD##*/}
         cd pdfs || exit
         zip "$topic".zip *.pdf
@@ -82,7 +82,7 @@ createZIPs() {
 moveMarkdownFiles() {
     for i in "${MODULES[@]}"; do
         echo $PWD
-        cd i || exit
+        cd $i || exit
         mv markdown/* ./
         cd ../../ || exit
     done
