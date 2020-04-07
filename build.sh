@@ -91,7 +91,9 @@ moveMarkdownFiles() {
     for i in "${MODULES[@]}"; do
         echo $PWD
         cd $i || exit
-        mv markdown/* ./
+        if [[ -d 'markdown' ]]; then
+            mv markdown/* ./
+        fi
         cd ../../ || exit
     done
     echo $PWD
@@ -110,8 +112,10 @@ resetMarkdownFiles() {
     for i in "${modulesToBuild[@]}"; do
         echo $PWD
         cd $i || exit
-        mv ./*.md markdown/
-        mv markdown/_index.md ./
+        if [[ -d 'markdown' ]]; then
+            mv ./*.md markdown/
+            mv markdown/_index.md ./
+        fi
         cd ../../ || exit
     done
     echo $PWD
