@@ -19,7 +19,7 @@ main() {
     cd content || exit
     createFolders
     createSlidesPDFs
-    createZips
+    createZIPs
     moveMarkdownFiles
     runHugo
     resetMarkdownFiles
