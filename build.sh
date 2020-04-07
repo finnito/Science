@@ -47,7 +47,10 @@ createSlidesPDFs() {
     for i in "${MODULES[@]}"; do
         echo $PWD
         cd $i || exit
-        cp -a assets slides/
+        
+        if [[ -d 'assets' ]]; then
+            cp -a assets slides/
+        fi
 
         for filename in markdown/*.md; do
             file=${filename##*/}
