@@ -26,7 +26,9 @@ main() {
 }
 
 createFolders() {
+    echo $PWD
     for i in "${MODULES[@]}"; do
+        echo $PWD
         cd $i || exit
         if [[ ! -d 'pdfs' ]]; then
             mkdir pdfs
@@ -36,11 +38,14 @@ createFolders() {
         fi
         cd ../../ || exit
     done
+    echo $PWD
     #cd ../ || exit
 }
 
 createSlidesPDFs() {
+    echo $PWD
     for i in "${MODULES[@]}"; do
+        echo $PWD
         cd i || exit
         cp -a assets slides/
 
@@ -55,11 +60,13 @@ createSlidesPDFs() {
         mv *.pdf pdfs/
         cd ../../ || exit
     done
+    echo $PWD
     #cd ../ || exit
 }
 
 createZIPs() {
     for i in "${MODULES[@]}"; do
+        echo $PWD
         cd i || exit
         topic=${PWD##*/}
         cd pdfs || exit
@@ -68,67 +75,38 @@ createZIPs() {
         cd ../ || exit
         cd ../../ || exit
     done
+    echo $PWD
     #cd ../ || exit
 }
 
 moveMarkdownFiles() {
     for i in "${MODULES[@]}"; do
+        echo $PWD
         cd i || exit
         mv markdown/* ./
         cd ../../ || exit
     done
+    echo $PWD
 }
-
-
-
-#for i in "${MODULES[@]}"; do
-#
-    # Navigate to the directory.
-    
-    #cp -a assets slides/
-
-    # Build the HTML slides and
-    # PDFs for all markdown docs.
-    #for filename in markdown/*.md; do
-        #file=${filename##*/}
-        #name=${file%%.*}
-        #pandoc -s --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js -i -t revealjs "markdown/$name.md" -o "$name.html" -V revealjs-url=/reveal.js
-        #pandoc "markdown/$name.md" -o "$name.pdf" --pdf-engine=pdflatex
-    #done
-
-    # Put the HTML slides and
-    # PDFs into the right place.
-    #mv *.html slides/
-    #mv *.pdf pdfs/
-
-    # Create a ZIP of the PDFs
-    # available for download.
-    #topic=${PWD##*/}
-    #cd pdfs || exit
-    #zip "$topic".zip *.pdf
-    #mv "$topic".zip ../
-    #cd ../ || exit
-
-    # Put the .md slide files in the parent
-    # directory for Hugo
-    #mv markdown/* ./
-    #cd ../../ || exit
-#done
 
 runHugo() {
     cd ../ || exit
+    echo $PWD
     rm -rf public
     hugo
     cd content || exit
+    echo $PWD
 }
 
 resetMarkdownFiles() {
     for i in "${modulesToBuild[@]}"; do
+        echo $PWD
         cd $i || exit
         mv ./*.md markdown/
         mv markdown/_index.md ./
         cd ../../ || exit
     done
+    echo $PWD
 }
 
 main
