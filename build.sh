@@ -73,8 +73,8 @@ createZIPs() {
     for i in "${MODULES[@]}"; do
         echo $PWD
         cd $i || exit
-        files=(pdfs/*)
-        if [ ${#files[@]} -gt 0 ]; then
+        count = "$( find pdfs -mindepth 1 -maxdepth 1 | wc -l )"
+        if [[ ! $count -eq 0 ]]; then
             topic=${PWD##*/}
             #cd pdfs || exit
             zip "$topic".zip pdfs/*
