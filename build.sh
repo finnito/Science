@@ -9,7 +9,7 @@ MODULES=(
     '11sci/as90930'
     '11sci/as90948'
     '12phy/as91171'
-    '12phy/5-maths'
+    #'12phy/5-maths'
     '12ess/2-extreme-earth-events'
     #'12phy/3-electricity'
     #'12phy/4-nuclear'
@@ -74,10 +74,10 @@ createZIPs() {
         echo $PWD
         cd $i || exit
         topic=${PWD##*/}
-        cd pdfs || exit
-        zip "$topic".zip *.pdf
-        mv "$topic".zip ../
-        cd ../ || exit
+        #cd pdfs || exit
+        zip "$topic".zip pdfs/*
+        #mv "$topic".zip ../
+        #cd ../ || exit
         cd ../../ || exit
     done
     echo $PWD
