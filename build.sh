@@ -6,12 +6,12 @@ MODULES=(
     #'10scie/5-fire-and-fuels'
     #'10scie/6-geology'
     #'11sci/4-mechanics'
-    '11sci/as90930'
-    '11sci/as90948'
-    '12phy/as91171'
+    #'11sci/as90930'
+    #'11sci/as90948'
+    #'12phy/as91171'
     #'12phy/5-maths'
-    '12ess/2-extreme-earth-events'
-    #'12phy/3-electricity'
+    #'12ess/2-extreme-earth-events'
+    '12phy/as91173'
     #'12phy/4-nuclear'
 )
 

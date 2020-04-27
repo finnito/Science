@@ -1,7 +1,6 @@
 ---
 title: Electricity
-date: 2019-08-27
-url: /12phy/3-electricity/
+date: 2020-04-27
 ---
 
 ## Slides
@@ -18,4 +17,4 @@ url: /12phy/3-electricity/
 10. [Magnetism](slides/9-magnetism.html) [(PDF)](pdfs/9-magnetism.pdf)
 11. [Motors & Inductors](slides/10-motors-and-inductors.html) [(PDF)](pdfs/10-motors-and-inductors.pdf)
 
-[Download All PDFs](3-electricity.zip)
+[Download All PDFs](as91173.zip)
