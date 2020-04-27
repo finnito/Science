@@ -91,39 +91,39 @@ We applied friction!
 
 ## What's a Coulomb?
 
-- We know that electrons are negatively charged. In fact, they have a charge of $-0.00000000000000000016 Coulomb$ also written as $-1.6 \times  10^{-19}C$.
+- We know that electrons are negatively charged. In fact, they have a charge of $-0.00000000000000000016 Coulombs$
+- Write this number in scientific form (answer on the next slide)
+
+---
+
+- $-0.00000000000000000016 C =-1.6 \times  10^{-19}C$.
 - Therefore we can calculate that if an object has a charge of +1C, is has lost $6,250,000,000,000,000,000$ electrons.
 - $6.25 \times 10^{18} electrons = -1 C$
 
 ---
 
-## Question 2 & 3
+## Question 2
 
-1. If a balloon has charge of $-3C$: did the balloon lose or gain electrons, and how many?
-2. If Charlotte has charge of $0.2C$ did she lose or gain electrons and how many?
-
----
-
-## Question 2 & 3 Answers
-
-1. If a balloon has charge of $-3C$: did the balloon lose or gain electrons, and how many?
+If a balloon has charge of $-3C$: did the balloon lose or gain electrons, and how many?
 
 ---
 
 \begin{align*}
-    & \text{Negative C means electrons are gained (negative charge)} \\
+    & \text{Negative C -> electrons gained (-ve charge)} \\
     & num_{e} = 3 \times (6.25 \times 10^{18}) \\
     & num_{e} = 1.875 \times 10^{19} && \text{ electrons gained}
 \end{align*}
 
 ---
 
-2. If Charlotte has charge of $0.2C$ did she lose or gain electrons and how many?
+## Question 3
+
+If Charlotte has charge of $0.2C$ did she lose or gain electrons and how many?
 
 ---
 
 \begin{align*}
-    & \text{Positive C means electrons are lost (positive charge)} \\
+    & \text{Positive C -> electrons lost (+ve charge)} \\
     & num_{e} = 0.2 \times (6.25 \times 10^{18}) \\
     & num_{e} = 1.25 \times 10^{18} && \text{ electrons lost}
 \end{align*}
