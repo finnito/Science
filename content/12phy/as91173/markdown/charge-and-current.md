@@ -80,8 +80,14 @@ __e.g. electrons move through metal__
 
 ### Conventional Current
 
-Conventional current is the direction that positive charges move in a circuit. From the positive terminal to the negative terminal.
+- Back in the old days they thought current was the flow of _positive_ charge, but these days we know it is the flow of _negative charge_
+- This is because protons (positive) are fixed inside the nucleus of an atom and atoms cannot move, whereas electrons (negative) can move freely in some materials
 
-However, electrons actually move from the negative terminal to the positive terminal, which is __opposite__ to _conventional current_.
+---
 
+- Conventional current is the direction that positive charges move in a circuit. From the positive terminal to the negative terminal.
+- However, electrons actually move from the negative terminal to the positive terminal, which is __opposite__ to _conventional current_.
 
+---
+
+![Conventional Current]("../assets/conventional-current.png" "Conventional Current")
