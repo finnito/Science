@@ -27,3 +27,34 @@ __Google Meets:__ Wednesday 9:35am
 - Complete the earthquakes recap document
 - Complete pages 178-179 in textbook (attached)
 - Complete Education Perfect assessment (practice)
+
+---
+
+## Term 2, Week 3
+
+This week is a short week so there'll only be three lessons. Two on tsunamis and one revision. After this we are done with our learning and will be having an online assessment next Tuesday evening!
+
+__Google Meet:__ Wednesday 9:35am
+
+### Lesson 1
+
+- Copy the tsunami diagram from the notes into your book
+- Complete the Ted ED activity
+- Do the Quizziz until you get 100%. When you do, upload a screenshot to this assignment!
+
+### Lesson 2
+
+- Complete the ordering task
+- Complete the Education Perfect task
+- Do textbook pages 180-187
+- Upload photos/screenshots of your ordering task and textbook work once you are done
+
+### Lesson 3
+
+You have three options of what to work on for revision, they are given below in order of most to least useful. I HIGHLY recommend working on the past exam questions before anything else.
+
+1. Past Exam Questions - Scaffolded
+2. Tsunami Diagramming Practice
+3. Quizlet Set
+
+Remember to upload screenshots/photos of any work that you complete!
