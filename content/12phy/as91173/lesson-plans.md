@@ -6,17 +6,21 @@ __Google Meet:__ Wednesday 11:20am
 
 This week is a short week so we will only have three lessons. We are starting our new topic, Electricity and Magnetism. We will spend the next 10 weeks (all of Term 2) on the topic, hopefully having our test in Week 12 of Term 2.
 
-I have uploaded the homework book materials, all of the worksheets and linked to the notes for this topic in Google Classroom so that you can find them whenever you need. As usual I will distribute the answers to the homework book as we go through the topic.
+I have uploaded the homework book materials, all of the worksheets, the textbook activities and linked to the notes for this topic in Google Classroom so that you can find them whenever you need. As usual I will distribute the answers to the homework book as we go through the topic.
 
 1. Static Electricity
-
-Please work through the static electricity notes, making copies of diagrams and answering the questions.
+    - Work through the static electricity notes
+    - Make copies of diagrams
+    - Answer the questions.
+    - Complete questions 1-4 on _Worksheet 1 - Statics & Fields_
 
 2. Conductors & Insulators
-
-
+    - Work through the notes for charge and current, these notes include conductors and insulators.
+    - Complete questions 1-5 on _Worksheet 3 - Voltage, Current and Resistance_
 
 3. Charge & Current
+    - Complete questions 1 and two from Activity 18A in the textbook
+    - Compete Question 2a from the Homework Booklet
 
 ---
 
