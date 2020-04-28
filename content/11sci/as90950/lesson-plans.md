@@ -26,3 +26,21 @@ __Google Meets:__ Thursday 8:45am
 
 - Extracellular Digestion in Bacteria and Fungi
 - Google Forms Quiz
+
+---
+
+## Term 2, Week 3
+
+### Lesson 1
+
+- Make notes using the Yeast Fermentation slides
+
+### Lesson 2
+
+- If possible, do the Yeast Fermentation Experiment, you can substitute balloons for plastic bags or something else capable of containing the air.
+
+### Lesson 3
+
+- Catch up on any missed content & make sure you've handed everything in on Google Classroom.
+
+---
