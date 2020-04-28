@@ -41,7 +41,7 @@ From Year 10 we should all remember that, much like magnets, opposites attract a
 
 Recall: __the atom__. What element is this? What are the three subatomic particles that make it up?
 
-![](assets/1-carbon-atom.gif "Carbon atom"){ width=50% }
+![](../assets/1-carbon-atom.gif "Carbon atom"){ width=50% }
 
 ---
 
