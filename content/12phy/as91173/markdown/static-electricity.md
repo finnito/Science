@@ -25,7 +25,7 @@ Take 5 minutes and brainstorm in your book all the things that you can remember 
 
 Static electricity has many effects - some dangerous, some hilarious, but they all depend on charge!
 
-![Static Electricity](assets/1-static-electricity.jpg "Static Electricity"){ width=50% }
+![Static Electricity](../assets/1-static-electricity.jpg "Static Electricity"){ width=50% }
 
 ---
 
@@ -33,7 +33,7 @@ Static electricity has many effects - some dangerous, some hilarious, but they a
 
 From Year 10 we should all remember that, much like magnets, opposites attract and likes repel.
 
-![Electric Charges](assets/1-charges.png "Electric Charges"){ width=75% }
+![Electric Charges](../assets/1-charges.png "Electric Charges"){ width=75% }
 
 ---
 
@@ -77,7 +77,7 @@ We applied friction!
 
 # Van der Graaf Generator
 
-![Van der Graaf Generator](assets/1-van-der-graaf-generator.png "Van der Graaf Generator"){ width=50% }
+![Van der Graaf Generator](../assets/1-van-der-graaf-generator.png "Van der Graaf Generator"){ width=50% }
 
 ---
 

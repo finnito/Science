@@ -14,15 +14,6 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Starter
-
-1. Define electric field
-2. Draw a uniform electric field between two plates. Make the top plate __negatively charged__
-3. Describe the motion of a negatively charged object in the electric field
-4. If the negative charge moves towards the negative plate, does it gain or lose electric potential energy?
-
----
-
 # Question: What are some common carriers of charge?
 
 ---
@@ -41,13 +32,24 @@ __e.g. electrons move through metal__
 
 ---
 
+# Insulators
+
+- A material through which electrons cannot easily flow
+- The electrons encounter a large friction force when trying to move
+- This friction causes heat to build up and the material to melt/catch on fire
+- e.g. wood if current is applied
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cm8Ok1oJjRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ## Current
 
-Current is the flow of charge (often electrons).
-
-It is the measure of the rate at which the charge flows (Amperes).
-
-__Recall:__ $1C$ of charge is $6.25\times10^{18}$ electrons
+- Current is the flow of charge (often electrons).
+- It is the measure of the rate at which the charge flows (Amperes).
+- __Recall:__ $1C$ of charge is $6.25\times10^{18}$ electrons
 
 ---
 
@@ -72,7 +74,7 @@ __Recall:__ $1C$ of charge is $6.25\times10^{18}$ electrons
 
 ### What Direction Does Current Flow?
 
-![Circuit Diagram](assets/3-current.jpg "Circuit Diagram"){ width=50% }
+![Circuit Diagram](../assets/3-current.jpg "Circuit Diagram"){ width=50% }
 
 ---
 
