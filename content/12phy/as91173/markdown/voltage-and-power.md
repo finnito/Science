@@ -94,7 +94,7 @@ A system has electrical potential energy of $25J$ and has $0.5C$ of charge. What
 
 ### Answer
 
-\ begin{align*}
+\begin{align*}
     & V = \frac{E_{p}}{q} \\
     & V = \frac{25}{0.5} \\
     & V = 12.5V \\
