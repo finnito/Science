@@ -16,11 +16,10 @@ header-includes:
 
 Give the definition, symbol, unit and formula for the following:
 
-1. Electric Field
-2. Electric Potential Energy
-3. Current
-4. Voltage
-5. Power
+1. Electric Potential Energy
+2. Current
+3. Voltage
+4. Power
 
 ---
 
@@ -55,16 +54,24 @@ What are we missing?
 
 # Resistance
 
-- What carries the charge in a circuit?
-- Why are they able to flow in metals?
+- __Q:__ What carries the charge in a circuit?
+- __A:__ Typically, electrons ($e^{-}$)
 
+---
+
+- __Q:__ Why are they able to flow in metals?
+- __A:__ Because electrons exist in a "sea", not bound to one atom but able to move around the solid
+
+---
+
+- __Q:__ What is resistance?
 - __Resistance__ is the measure of how much electrons are impeded in a circuit. How much they are _slowed down_.
 
 ---
 
 ## Symbol & Units
 
-__Resistance__ has symbol __R__ in equations and has the unit __Ohms__ ($\Omega$).
+__Resistance__ has symbol __R__ in equations and has the unit __Ohms__ ($\Omega$, the Greek letter omega).
 
 ---
 
@@ -98,3 +105,35 @@ The higher the resistance, the more heat produced!
 1. The resistance of a light bulb is $1.5k\Omega$. Calculate the current through the bulb when it is connected across a $12V$ power supply.
 2. When $9V$ is applied to a resistor, $0.03mA$ of current flows through it. Calculate the resistance of the resistor.
 3. How much voltage is required to produce $180\mu A$ of current flowing through a $0.6M\Omega$ resistor?
+
+---
+
+### Question 1 Answer
+
+\begin{align*}
+    & V = IR \\
+    & I = \frac{V}{R} \\
+    & I = \frac{12}{1500} \\
+    & I = 0.008A \\
+\end{align*}
+
+---
+
+### Question 2 Answer
+
+\begin{align*}
+    & V = IR \\
+    & R = \frac{V}{I} \\
+    & R = \frac{9}{0.00003} \\
+    & R = 300000\Omega \\
+\end{align*}
+
+---
+
+#### Question 3 Answer
+
+\begin{align*}
+    & V = IR \\
+    & V = (180 \times 10^{-6}) \times (0.6 \times 10^{6}) \\
+    & V = 108V \\
+\end{align*}

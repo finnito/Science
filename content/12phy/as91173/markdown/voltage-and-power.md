@@ -23,10 +23,35 @@ header-includes:
 
 ---
 
+## Circuit Diagram Symbols
+
+You can find more symbols in your textbook (197-198) but here is the most basic few.
+
+![](assets/circuit-symbols.gif){width=50%}
+
+---
+
 Yesterday we talked about current and how it is the rate of transfer of charge per unit time.
 
 \begin{align*}
     & I = \frac{q}{t}
+\end{align*}
+
+---
+
+## Current Question
+
+A current of $1.2A$ flows for $0.25s$. How much charge was transferred in that time?
+
+---
+
+### Answer
+
+\begin{align*}
+    & I = \frac{q}{t} \\
+    & q = I \times t \\
+    & q = 1.2 \times 0.25 \\
+    & q = 0.3 Coulombs (C)
 \end{align*}
 
 ---
@@ -40,6 +65,8 @@ Yesterday we talked about current and how it is the rate of transfer of charge p
 ## Answer
 
 A circuit is a way to deliver energy to different components!
+
+Open this link and build a circuit with a power supply, light bulb, resistor and switch in series. What happens when you take out the resistor?
 
 [PhET DC Circuit Construction Simulation](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_en.html)
 
@@ -59,11 +86,43 @@ A circuit is a way to deliver energy to different components!
 \end{align*}
 
 ---
+## Voltage Question 1
+
+A system has electrical potential energy of $25J$ and has $0.5C$ of charge. What is the voltage of the system?
+
+---
+
+### Answer
+
+\ begin{align*}
+    & V = \frac{E_{p}}{q} \\
+    & V = \frac{25}{0.5} \\
+    & V = 12.5V \\
+\end{align*}
+
+---
+
+## Voltage Question 2
+
+A system has a voltage of $12V$ and has $1.75C$ of charge inside it. What potential energy does the system have?
+
+---
+
+### Answer
+
+\begin{align*}
+    & V = \frac{E_{p}}{q} \\
+    & E_{p} = V \times q \\
+    & E_{p} = 12 \times 1.75 \\
+    & E_{p} = 21J \\
+\end{align*}
+
+---
 
 # Power
 
-- The amount of energy transformed per second
-- E.g. A 100W light bulb transforms 100J of electrical energy per second into light and heat energy.
+- The amount of energy transferred/transformed per second
+- E.g. A 100W ($100 J/s, 100JS^{-1}$) light bulb transforms 100J of electrical energy per second into light and heat energy.
 
 \begin{align*}
     & P = IV \\
@@ -74,7 +133,42 @@ A circuit is a way to deliver energy to different components!
 
 ---
 
+## Power Question 1
+
+A system has a current of $0.5A$ and voltage, $6V$. What is the power consumed by the system?
+
+---
+
+### Answer
+
+\begin{align*}
+    & P = IV \\
+    & P = 0.5 \times 6 \\
+    & 3W = 3J/s = 3Js^{-1} \\
+\end{align*}
+
+---
+
+## Power Question 2
+
+A washing machine has a power rating of 65W and the house is using a 12V system. What current is the washing machine drawing?
+
+---
+
+### Answer
+
+\begin{align*}
+    & P = IV \\
+    & I = \frac{P}{V} \\
+    & I = \frac{65}{12} \\
+    & I = 5.42A \\
+\end{align*}
+
+---
+
 # Voltage & Power Summary
+
+By substituting these equations into each other we can begin to see how intertwined all of these concepts are.
 
 \begin{align*}
     & I = \frac{q}{t} \\

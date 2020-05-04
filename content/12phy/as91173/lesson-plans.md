@@ -26,10 +26,19 @@ I have uploaded the homework book materials, all of the worksheets, the textbook
 
 ## Week 2
 
+__Google Meets:__ Wednesday 11.20am, Thursday 2.10pm
+
 1. Voltage & Power
+    - Read through the voltage and power notes & answer the embedded questions
+
 2. Resistance & Ohm's Law
-3. Resistance & Ohm's Law
-4. Series & Parallel Circuits
+    - Read through the notes & complete the embedded questions
+    - Complete Q1-5 on Worksheet 3 if you found them hard last week and got stuck
+    - Complete Q1 on Worksheet 5 - Circuits. This will require you to use all the equations you have learned so far!
+
+3. Series & Parallel Circuits
+    - Read through the notes & complete the embedded questions
+    - Complete Question 7: 12V Lamps in the Homework Book - DC Electricity
 
 ---
 

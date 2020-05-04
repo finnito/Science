@@ -39,14 +39,11 @@ A circuit has current $1.2A$ and voltage of 12V and has a single bulb.
 
 ## Constructing Circuits
 
-Use the PhET simulation on Google Classroom to complete these questions:
+Use the [PhET simulation](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_en.html) to build these circuits:
 
 1. Create a series circuit with a bulb and a switch
 2. Create a parallel circuit with a bulb and a switch on each path, and one switch that controls the whole circuit.
-
----
-
-Measure the resistance of the circuit in PhET when you add resistors to the different circuit and try make a rule for what happens.
+3. Measure the resistance of the circuit in PhET when you add resistors to the different circuit and try make a rule for what happens.
 
 ---
 
