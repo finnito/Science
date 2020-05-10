@@ -158,7 +158,7 @@ Because it moves against the field, it gains electric potential energy.
     & E_{p} = Eqd \\
     & E_{p} = 3000 \times 25 \times 10^{-6} \times 2 \\
     & E_{p} = 0.15J
-\end{align*
+\end{align*}
 
 ---
 
