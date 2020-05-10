@@ -35,6 +35,7 @@ header-includes:
     & num_{e} = 1.875 \times 10^{19} && \text{ electrons gained}
 \end{align*}
 
+---
 
 2. If Charlotte has charge of $0.2C$ did she lose or gain electrons and how many?
 
@@ -119,7 +120,7 @@ Electric Field:
 
 \begin{align*}
     & W = F \times d \\
-    & W = Eq \times d
+    & W = Eq \times d \\
     & W = Eqd = E_{p-elec}
 \end{align*}
 
