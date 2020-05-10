@@ -68,6 +68,8 @@ Therefore $\vec{E}$ has units of $\frac{N}{C}$ or $NC^{-1}$
 
 ---
 
+\newpage
+
 ## Question
 
 Is electric field a scalar or a vector?
@@ -81,6 +83,8 @@ Is electric field a scalar or a vector?
 It is a vector, because one of the components the creates it is __Force__, and force has both direction and magnitude. Becase it is a vector we can give it the notation $\vec{E}$. You can use this notation with any other vector, too.
 
 ---
+
+\newpage
 
 ### $\vec{E}$ Question 1
 
@@ -125,6 +129,8 @@ Electric Field:
 \end{align*}
 
 ---
+
+\newpage
 
 # Starter
 
@@ -185,6 +191,8 @@ We can also calculate the electric field strength between two plates.
 \end{align*}
 
 ---
+
+\newpage
 
 ## Question
 
