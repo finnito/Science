@@ -44,10 +44,28 @@ __Google Meets:__ Wednesday 11.20am, Thursday 2.10pm
 
 ## Week 3
 
-1. Electric Fields & Electric Potential Energy
-2. Electric Fields & Electric Potential Energy
-3. Electric Field Lines
-4. Prac: Electric Field Lines
+Kia ora, everyone!
+
+Going forwards I would like to see more of us on the scheduled Meets. From here on in we are entering new territory, so it is important that we all take the time to engage. My thanks to those of you who have been putting in the effort to attend regularly so far!
+
+__Google Meets:__ Wednesday 11:20am, Thursday 2:10pm
+
+This week we will be looking at the following:
+
+1. Electric Fields (3 periods)
+    - Find the notes in the usual area
+    - Electric field strength
+        - Worksheet 1 Question 11a-d
+        - Homework book Electric Fields Question 4a, 4b
+    - Electric potential energy
+        - Textbook Activity 17A 1, 9a-b 
+    - Voltage between parallel plates
+        - Worksheet 2 Question 3a-d
+2. Electric Field Lines (1 period)
+    - Notes in the usual place
+    - Textbook page 187 xfor extra notes if need be
+    - Textbook Activity 17A Q4a-c
+    - Worksheet 1 Q5, Q6
 
 ---
 
