@@ -121,14 +121,14 @@ runHugo() {
 
 resetMarkdownFiles() {
 	echo 'resetting markdown files'
-    for i in "${modulesToBuild[@]}"; do
+    for i in "${MODULES[@]}"; do
         echo "$i"
         cd $i || exit
-        count="$( find *.md -mindepth 1 -maxdepth 1 | wc -l )"
-		if [[ ! $count -eq 0 ]]; then
-			mv *.md markdown/
-			mv markdown/_index.md ./
-		fi
+        #count="$( find *.md -mindepth 1 -maxdepth 1 | wc -l )"
+		#if [[ ! $count -eq 0 ]]; then
+		mv *.md markdown/
+		mv markdown/_index.md ./
+		#fi
         cd ../../ || exit
     done
     echo $PWD
