@@ -84,6 +84,8 @@ Gravitational, nuclear, chemical, elastic and magnetic
 
 Match these types of energy and their definitions up in your book:
 
+|                    |                               |                                |                                 |
+|--------------------|-------------------------------|--------------------------------|---------------------------------|
 | Thermal            | Light                         | Sound                          | Elastic                         |
 | Gravitational      | Kinetic                       | Electrical                     | Chemical                        |
 | Nuclear            | Light Bulbs, a Bunsen flame   | Anything that is moving        | Food, batteries, burning things |
@@ -97,7 +99,7 @@ Match these types of energy and their definitions up in your book:
 The __Law of Energy Conservation__ is true throughout the universe, from the biggest to the smallest, and we have not yet found an exception.
 
 \begin{align*}
-    Energy in /rightarrow Energy out
+    Energy in /Rightarrow Energy out
 \end{align*}
 
 ---
@@ -126,3 +128,5 @@ They have __gravitational potential energy__, and all of it gets transformed to 
 - Gravitational energy in a ball is converted to kinetic energy when it falls to the ground
 
 ---
+
+![](assets/types_of_energy-conversions.png)

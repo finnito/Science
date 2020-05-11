@@ -7,7 +7,7 @@ date: 2020-01-07
 ## Units
 
 1. [Introduction to Science](/9scie/introduction-to-science/)
-
+3. [Energy for Life](/9scie/energy-for-life/)
 
 ## 2020 Year Planner
 

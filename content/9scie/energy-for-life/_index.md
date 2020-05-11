@@ -35,8 +35,9 @@ date: 2020-05-20
 ## Lesson Plans
 
 1. Identify and describe different forms of energy
-    - Slides
-    - Worksheets on energy types, transfers and transformations
+    - Go through slides on energy, make notes & answer questions
+    - Complete the Energy Conversions worksheet
+    - Complete the Education Perfect task: https://www.educationperfect.com/app/#/dashboard/homework/3013954
 
 2. Describe the law of conservation of energy
     - Slides
