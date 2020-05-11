@@ -21,6 +21,8 @@ slug: /9scie/energy-for-life/
 
 ## Slides
 
+1. [Types of Energy](slides/types-of-energy/) ([PDF](pdf/types-of-energy.pdf))
+
 [Download All PDFs](energy-for-life.zip)
 
 ## Unit Plan
