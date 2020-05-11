@@ -70,7 +70,7 @@ Energy that is stored some way
 
 Kinetic, sound, radiant, heat and electrical
 
-![](assets/types_of_energy-kinetic-and-potentia.jpg){width=50%}
+![](assets/types_of_energy-kinetic-and-potential.jpg){width=50%}
 
 ---
 
@@ -84,13 +84,13 @@ Gravitational, nuclear, chemical, elastic and magnetic
 
 Match these types of energy and their definitions up in your book:
 
-|                    |                               |                                |                                 |
-|--------------------|-------------------------------|--------------------------------|---------------------------------|
-| Thermal            | Light                         | Sound                          | Elastic                         |
-| Gravitational      | Kinetic                       | Electrical                     | Chemical                        |
-| Nuclear            | Light Bulbs, a Bunsen flame   | Anything that is moving        | Food, batteries, burning things |
-| talking, TV, radio | hot water, a hot radiator     | book on a shelf, bungee jumper | a wind-up-toy, rubber band      |
-| Computer           | Nuclear bombs, power stations |                                |                                 |
+|               |            |                                |                                 |
+|---------------|------------|--------------------------------|---------------------------------|
+| Thermal       | Light      | Light Bulbs, a Bunsen flame    | talking, TV, radio              |
+| Gravitational | Kinetic    | hot water, a hot radiator      | Nuclear bombs, power stations   |
+| Nuclear       | Sound      | Anything that is moving        | Food, batteries, burning things |
+| Elastic       | Electrical | book on a shelf, bungee jumper | a wind-up-toy, rubber band      |
+| Computer      | Chemical   |                                |                                 |
 
 ---
 
@@ -99,7 +99,7 @@ Match these types of energy and their definitions up in your book:
 The __Law of Energy Conservation__ is true throughout the universe, from the biggest to the smallest, and we have not yet found an exception.
 
 \begin{align*}
-    Energy in /Rightarrow Energy out
+    & \text{Energy in} = \text{Energy out}
 \end{align*}
 
 ---
@@ -112,7 +112,10 @@ This means that we can state the law like this:
 
 ### Example
 
-Think of a skydiver falling to Earth. What kind of energy do they have before they jump out of the plane? Active or potential?
+Think of a skydiver falling to Earth.
+
+1. What kind of energy do they have before they jump out of the plane? Active or potential?
+2. What about after they start falling?
 
 ---
 
@@ -129,4 +132,11 @@ They have __gravitational potential energy__, and all of it gets transformed to 
 
 ---
 
+What energy transformations are happening at the boxes?
+
 ![](assets/types_of_energy-conversions.png)
+
+---
+
+1. Chemical potential energy in the battery is transformed into electrical energy moving along the earphones wire
+2. Electrical energy in the wire causes the earphone unit to move transforming it into sound energy
