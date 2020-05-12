@@ -56,7 +56,7 @@ __NB:__ Not a real photo
 ---
 
 ![](assets/conservation_of_energy-trampoline.jpg)
-x
+
 ---
 
 ![](assets/conservation_of_energy-rotorua.jpg)
