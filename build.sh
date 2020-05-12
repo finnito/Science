@@ -99,12 +99,12 @@ moveMarkdownFiles() {
     for i in "${MODULES[@]}"; do
         echo "$i"
         cd $i || exit
-		if [[ -d 'markdown' ]]; then
-			count="$( find markdown -mindepth 1 -maxdepth 1 | wc -l )"
-			if [[ ! $count -eq 0 ]]; then
-				mv markdown/* ./
-			fi
-        fi
+		#if [[ -d 'markdown' ]]; then
+		#count="$( find markdown -mindepth 1 -maxdepth 1 | wc -l )"
+		#if [[ ! $count -eq 0 ]]; then
+		mv markdown/* ./
+		#fi
+        #fi
 		cd ../../ || exit
     done
     echo $PWD
