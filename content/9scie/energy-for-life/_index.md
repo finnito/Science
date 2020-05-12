@@ -1,7 +1,6 @@
 ---
 title: Energy For Life
-date: 2020-05-20
-url: /9scie/energy-for-life/
+date: 2020-05-12
 ---
 
 ## Learning Outcomes
