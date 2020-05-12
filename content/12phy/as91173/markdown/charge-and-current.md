@@ -90,4 +90,4 @@ __e.g. electrons move through metal__
 
 ---
 
-![Conventional Current]("../assets/conventional-current.png" "Conventional Current")
+![Conventional Current](../assets/conventional-current.png "Conventional Current")

@@ -22,6 +22,7 @@ url: /9scie/energy-for-life/
 ## Slides
 
 1. [Types of Energy](slides/types-of-energy/) ([PDF](pdfs/types-of-energy.pdf))
+2. [Conservation of Energy](slides/conservation-of-energy.html) ([PDF](pdfs/conservation-of-energy.pdf))
 
 [Download All PDFs](energy-for-life.zip)
 
@@ -43,12 +44,11 @@ url: /9scie/energy-for-life/
     - Complete the Education Perfect task: https://www.educationperfect.com/app/#/dashboard/homework/3013954
 
 2. Describe the law of conservation of energy
-    - Slides
-    - Swinging bowling ball pendulum demo
-    - What is energy song
-    - Perpetual motion
-    - Hydroelectric
-    - Meta bow experiment
+    - Read through the slides, make notes, answer questions and watch the videos
+    - Complete the Energy Transformers worksheet (below)
+    - Practice the Quizizz
+    - Attach a screenshot of your 100% score on Quizizz to this assessment
+    - Attach a photo of your notes to this assessment
 
 3. Describe the amount of energy in food using kilojoules (kJ) and discuss the energy needs of humans
     - Slides
