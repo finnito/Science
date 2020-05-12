@@ -56,7 +56,7 @@ __NB:__ Not a real photo
 ---
 
 ![](assets/conservation_of_energy-trampoline.jpg)
-
+x
 ---
 
 ![](assets/conservation_of_energy-rotorua.jpg)
@@ -127,7 +127,7 @@ Another good example of the conservation of energy is in hydroelectric power gen
 
 You may have heard of perpetual motion machines - machines that create infinite energy!
 
-![](assets/conservation_of_energy-perpetual-motion.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4b8ZsFszE8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
