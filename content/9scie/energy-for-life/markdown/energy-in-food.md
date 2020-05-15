@@ -30,11 +30,7 @@ header-includes:
 - As a shorthand we write Joules as __J__
 - It is named after James Joule, an English physicist (1818-1889)
 
-\begin{wrapfigure}{r}{0.5\textwidth}
-    \centering
-    \includegraphics[width=0.5\textwidth]{./assets/energy_in_food-joule.jpg}
-    \caption{James Joule (1818-1889)}
-\end{wrapfigure}
+![](assets/energy_in_food-joule.jpg){width=25%}
 
 ---
 
