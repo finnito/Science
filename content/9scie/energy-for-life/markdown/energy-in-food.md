@@ -29,7 +29,10 @@ header-includes:
 - As a shorthand we write Joules as __J__
 - It is named after James Joule, an English physicist (1818-1889)
 
-![](assets/energy_in_food-joule.jpg)
+\begin{figure}
+    \includegraphics[width=.6\textwidth,right]{assets/energy_in_food-joule.jpg}
+    \caption{James Joule (1818-1889}
+\end{figure}
 
 ---
 
@@ -91,4 +94,4 @@ If we assume that the weight of an average 14 year old is $50kg$, and that it ta
 
 Kahoot Time!
 
-https://create.kahoot.it/details/fast-food-guess-calories-1/3effdea3-1a35-4f0e-aa2d-ef18e3837d98
+[https://create.kahoot.it/details/fast-food-guess-calories-1/3effdea3-1a35-4f0e-aa2d-ef18e3837d98](https://create.kahoot.it/details/fast-food-guess-calories-1/3effdea3-1a35-4f0e-aa2d-ef18e3837d98)
