@@ -32,7 +32,7 @@ header-includes:
 
 \begin{wrapfigure}{r}{0.5\textwidth}
     \centering
-    \includegraphics[width=0.5\textwidth]{assets/energy_in_food-joule.jpg}
+    \includegraphics[width=0.5\textwidth]{./assets/energy_in_food-joule.jpg}
     \caption{James Joule (1818-1889}
 \end{wrapfigure}
 
