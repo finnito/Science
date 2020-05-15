@@ -13,6 +13,7 @@ header-includes:
 - \usepackage{lmodern}
 - \usepackage{amsmath}
 - \usepackage{textcomp}
+- \usepackage{wrapfig}
 ---
 
 ## Learning Outcomes
