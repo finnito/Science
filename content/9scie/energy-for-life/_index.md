@@ -22,18 +22,19 @@ date: 2020-05-12
 
 1. [Types of Energy](slides/types-of-energy/) ([PDF](pdfs/types-of-energy.pdf))
 2. [Conservation of Energy](slides/conservation-of-energy.html) ([PDF](pdfs/conservation-of-energy.pdf))
+3. [Energy in Food](slides/energy-in-food.html) ([PDF](pdfs/energy-in-food.pdf))
 
 [Download All PDFs](energy-for-life.zip)
 
 ## Unit Plan
 
-|        | Lesson 1              | Lesson 2               | Lesson 3                    |
-|--------|-----------------------|------------------------|-----------------------------|
-| Week 1 | Forms of Energy       | Conservation of Energy | Energy in Food              |
-| Week 2 | Toy Circus            | Use of Nutrients       | Active and Potential Energy |
-| Week 3 | Diets                 | Nutrient Tests         | Digestion & Disease         |
-| Week 4 | _Queen's B-Day_       | Digestion System       | Absorption of Nutrients     |
-| Week 5 | Glucose & Respiration | Revision               | __TEST__                    |
+|        | Lesson 1                    | Lesson 2               | Lesson 3         |
+|--------|-----------------------------|------------------------|------------------|
+| Week 1 | Forms of Energy             | Conservation of Energy |                  |
+| Week 2 | Energy in Food              | Use of Nutrients       | Toy Circus       |
+| Week 3 | Active and Potential Energy | Diets                  | Nutrient Tests   |
+| Week 4 | _Queen's B-Day_             | Digestion & Disease    | Digestion System |
+| Week 5 | Absorption of Nutrients     | Glucose & Respiration  | __TEST__         |
 
 ## Lesson Plans
 
@@ -54,12 +55,12 @@ date: 2020-05-12
     - Calorie counts in fods
     - How to lose fat
 
-4. __Practical:__ Toy Circus
-
-5. Explain why each type of nutrient is needed
+4. Explain why each type of nutrient is needed
     - Analyse the the nutritional information of various food packets
     - Explain the nutrients needed to do things like grow, get energy, healthy bones etc.
     - Portion sizes vs nutrients in 100g of the food
+
+5. __Practical:__ Toy Circus
 
 6. Distinguish between active and potential forms of energy
     - __Practical:__ Mega Bow Experiment
