@@ -23,6 +23,7 @@ date: 2020-05-12
 1. [Types of Energy](slides/types-of-energy/) ([PDF](pdfs/types-of-energy.pdf))
 2. [Conservation of Energy](slides/conservation-of-energy.html) ([PDF](pdfs/conservation-of-energy.pdf))
 3. [Energy in Food](slides/energy-in-food.html) ([PDF](pdfs/energy-in-food.pdf))
+4. [Nutrients in Food](slides/nutrients-in-food.html) ([PDF](pdfs/nutrients-in-food.pdf))
 
 [Download All PDFs](energy-for-life.zip)
 
@@ -51,14 +52,14 @@ date: 2020-05-12
     - Attach a photo of your notes to this assessment
 
 3. Describe the amount of energy in food using kilojoules (kJ) and discuss the energy needs of humans
-    - Slides
-    - Calorie counts in fods
-    - How to lose fat
+    - Slides on energy in food + little task inside
+    - Video inside
+    - Kahoot inside
+    - Read food poster and use your knowledge of energy to pick the best drink
 
 4. Explain why each type of nutrient is needed
-    - Analyse the the nutritional information of various food packets
-    - Explain the nutrients needed to do things like grow, get energy, healthy bones etc.
-    - Portion sizes vs nutrients in 100g of the food
+    - Slides on the nutrients in food and their uses
+    - Task trying to find the most nutritious snack in the class
 
 5. __Practical:__ Toy Circus
 
