@@ -18,7 +18,25 @@ date: 2020-04-27
 
 [Download All PDFs](as91173.zip)
 
-# AS91173 Lesson Plans
+
+## Lesson Plans
+
+
+|   | Lesson 1  | Lesson 2  | Lesson 3  | Lesson 4  |
+|---|---|---|---|---|
+| Week 1  |   |   |   |   |
+| Week 2  |   |   |   |   |
+| Week 3  |   |   |   |   |
+| Week 4  |   |   |   |   |
+| Week 5  |   |   |   |   |
+| Week 6  |   |   |   |   |
+| Week 7  |   |   |   |   |
+| Week 8  |   |   |   |   |
+| Week 9  |   |   |   |   |
+| Week 10  |   |   |   |   |
+
+
+## AS91173 Lesson Plans
 
 ## Week 1
 
@@ -92,7 +110,11 @@ This week we will be looking at the following:
 ## Week 4
 
 1. Electric Field Between Parallel Plates
+    - Recap notes on electric fields, voltage between parallel plates etc.
+    - Work through questions that were unfinished from the previous week
 2. Electric Field Between Parallel Plates
+    - Work through unfinished questions
+    - Assign 1x homework question due Monday 25th, P1.
 3. Dangers of Electricity
 4. Prac: Series & Parallel Circuits
 
