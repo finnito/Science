@@ -16,15 +16,12 @@ header-includes:
 - \usepackage{wrapfig}
 ---
 
-<section>
-
 ## Learning Outcomes
 
 - Be able to list the major nutrients found in food
 - Be able to say what each nutrient is used for
 
-</section>
-<section>
+---
 
 Food is a daily necessity.
 
@@ -32,7 +29,7 @@ Without foot organisms will eventually die!
 
 __The process of acquiring, digesting and using food is called nutrition__
 
-</section>
+---
 
 ## Nutrients
 
@@ -221,7 +218,7 @@ Which foods are rich in each nutrient?
 </div>
 <div>
 
-![](assets/nutrients_in_food-vitamin-d.jpeg_)
+![](assets/nutrients_in_food-vitamin-d.jpeg)
 
 </div>
 
