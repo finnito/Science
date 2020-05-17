@@ -110,7 +110,7 @@ This week we will be looking at the following:
 ## Week 4
 
 1. Electric Field Between Parallel Plates
-    - Activity 17A Q10 as the starter
+    - Textbook Activity 17A Q10 as the starter
     - Recap notes on electric fields, voltage between parallel plates etc.
     - Work through questions that were unfinished from the previous week
 2. Electric Field Between Parallel Plates
