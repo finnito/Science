@@ -70,3 +70,15 @@ To do this we need to first complete some research into this! We will spend two 
 - Task 1 Part 1: Research Beer Production, due Sunday May 10th @ 5pm
 - Task 1 Part 2: Research Yoghurt Production, due Sunday May 17th @ 5pm
 - Task 2: Produce an essay-format report on your research, due Sunday May 24th @ 5pm
+
+---
+
+## Term 2, Week 6
+
+1. Recap research & prep for task 2
+2. Assessment Task 2
+    - Issue Task 2 via Google Classroom
+    - Go through assessment document and ensure everyone understands what is expected and when it is due
+    - Finish research & work on assessment task
+3. Work on Task 2
+4. Work on Task 2
