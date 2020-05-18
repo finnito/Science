@@ -37,3 +37,6 @@ __NZQA Link:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standa
 5. Structural & Behavioural Adaptations
     - Adaptations of the human hand
     - Watch video and make notes on adaptations
+6. Physiological Adaptations
+7. Law of Tolerance
+    - Egg denaturing practical https://www.riskassess.co.nz/risk_assessment/8044485
