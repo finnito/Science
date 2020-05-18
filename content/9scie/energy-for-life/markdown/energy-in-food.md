@@ -20,7 +20,7 @@ header-includes:
 
 - Be able to give the unit for energy
 - Be able to find the energy content of a food on a label
-- Be to relate the energy in food to exercise
+- Be able to relate the energy in food to exercise
 
 ---
 
@@ -52,7 +52,9 @@ When we are talking about food, energy is the chemical potential energy stored i
 
 ### Joules vs Calories
 
-You may hear energy referred to by calories. 1 calorie is equal to $4.2J$, or the amount of energy required to warm up $1ml$ of water by  degree C!
+You may hear energy referred to by calories.
+
+1 calorie (C) is equal to $4.2J$, or the amount of energy required to warm up $1ml$ of water by  degree C!
  
 ---
 
@@ -64,7 +66,7 @@ __Hint:__ kJ means kilojoules or 1,000J. So 120kJ means 120,000J.
 
 ---
 
-If we assume that the weight of an average 14 year old is $50kg$, and that it takes $147J$ for that student to jump $0.3m$ off the ground. How many jumps do they have to do to burn off the energy from that snack?
+It takes you approximately $147J$ to jump $0.3m$ off the ground. How many jumps do you have to do to burn off the energy from your snack?
 
  ---
  
