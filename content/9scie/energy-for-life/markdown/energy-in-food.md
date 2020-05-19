@@ -60,7 +60,7 @@ You may hear energy referred to by calories.
 
 #### Task: Your Lunch
 
-Look in your bag for some food in a wrapper with a nutritional label. How many Joules of energy does your snack contain? Make a note of it in your book.
+Look in your bag for some food in a wrapper with a nutritional label. __How many Joules of energy does your snack contain?__ Make a note of it in your book.
 
 __Hint:__ kJ means kilojoules or 1,000J. So 120kJ means 120,000J.
 

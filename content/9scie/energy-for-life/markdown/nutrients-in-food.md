@@ -25,7 +25,7 @@ header-includes:
 
 Food is a daily necessity.
 
-Without foot organisms will eventually die!
+Without food organisms will eventually die!
 
 __The process of acquiring, digesting and using food is called nutrition__
 
@@ -81,7 +81,7 @@ There are four main nurtients the body needs:
 
 <div>
 
-![](assets/nutrients_in_food-proteins.jpg)
+![](assets/nutrients_in_food-proteins.jpeg)
 
 </div>
 
