@@ -91,7 +91,7 @@ There are four main nurtients the body needs:
 
 ### Lipids
 
-- Lipids include fates and oils and are madde of _fatty acids_
+- Lipids include fats and oils and are made of _fatty acids_
 - Our bodies store energy as lipids
 - Lipids help keep the body warm and are used in making cell membranes
 
@@ -130,8 +130,8 @@ Which foods are rich in each nutrient?
 
 #### Vitamin C (ascorbic acid)
 
-- Found in citrus fruits, green peppers, strawberries, tomatoes, broccol, sweet and white potatoes
-- Promotes a ealthy immune system, helps wounds heal, maintains connective tissue and aids in the absorption of iron
+- Found in citrus fruits, green peppers, strawberries, tomatoes, broccoli, sweet and white potatoes
+- Promotes a healthy immune system, helps wounds heal, maintains connective tissue and aids in the absorption of iron
 
 </div>
 <div>
@@ -163,7 +163,7 @@ Which foods are rich in each nutrient?
 #### Vitamin E
 
 - Found in corn, nuts, olives, green leafy vegetables, vegetable oils and wheat germ
-- Protects cell membranes and issues from damage, aids in the formation of red blood cells
+- Protects cell membranes and tissues from damage, aids in the formation of red blood cells
 
 </div>
 <div>
