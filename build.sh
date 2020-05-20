@@ -2,18 +2,18 @@
 set -e
 
 MODULES=(
-    #'9scie/introduction-to-science'
+    '9scie/introduction-to-science'
     '9scie/energy-for-life'
-    #'10scie/5-fire-and-fuels'
-    #'10scie/6-geology'
-    #'11sci/4-mechanics'
-    #'11sci/as90930'
-    #'11sci/as90948'
-    #'12phy/as91171'
+    '10scie/5-fire-and-fuels'
+    '10scie/6-geology'
+    '11sci/4-mechanics'
+    '11sci/as90930'
+    '11sci/as90948'
+    '12phy/as91171'
     #'12phy/5-maths'
-    #'12ess/2-extreme-earth-events'
+    '12ess/2-extreme-earth-events'
     '12phy/as91173'
-    #'12phy/4-nuclear'
+    '12phy/4-nuclear'
 )
 
 main() {
@@ -62,6 +62,8 @@ createSlidesPDFs() {
                 echo "$name"
                 pandoc -s --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js -i -t revealjs "markdown/${name}.md" -o "${name}.html" -V revealjs-url=/reveal.js
                 pandoc "markdown/${name}.md" -o "${name}.pdf" --pdf-engine=pdflatex
+                # Include a build step to make a full book
+                # pandoc $(cat order.txt | xargs) -o book.pdf --pdf-engine=pdflatex
 				mv "${name}.html" slides/
 				mv "${name}.pdf" pdfs/
             done
