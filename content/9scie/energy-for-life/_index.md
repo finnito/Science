@@ -64,13 +64,13 @@ date: 2020-05-12
 5. __Practical:__ Toy Circus
     - https://www.riskassess.co.nz/risk_assessment/8040185
 
-6. Distinguish between active and potential forms of energy
-    - __Practical:__ Mega Bow Experiment
-
-7. Describe and create a healthy diet
+6. Describe and create a healthy diet
     - Homework prep: ask parents what their diet was when they were young
     - Create a poster documenting what makes up a good diet and gives people dos and don'ts
     - Homework: make a healthy meal for your family & document it with photos and some nutritional information
+
+7. Distinguish between active and potential forms of energy
+    - __Practical:__ Mega Bow Experiment
 
 8. Describe the chemical tests to identify starch, glucose, protein and lipid in food
     - __Practical:__ Food tests
