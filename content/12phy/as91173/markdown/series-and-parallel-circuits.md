@@ -15,9 +15,10 @@ header-includes:
 
 A circuit has current $1.2A$ and voltage of 12V and has a single bulb.
 
-1. How many Coulombs of electrical charge flow through a point in every second?
-2. How much energy is used by the bulb in 5 seconds?
-3. What is the resistance of the bulb?
+1. Draw the circuit and indicate current and conventional current directions.
+2. How many Coulombs of electrical charge flow through a point in every second?
+3. How much energy is used by the bulb in 5 seconds?
+4. What is the resistance of the bulb?
 
 ---
 
@@ -25,7 +26,7 @@ A circuit has current $1.2A$ and voltage of 12V and has a single bulb.
 
 - The current has only one path to flow around
 - The current is constant around the circuit
-- The voltage is shared between the components in the circuit
+- The voltage is shared between the components in the loop
 
 ---
 
