@@ -61,4 +61,7 @@ __MRS C GREN__
 
 Use a full page of your book to make a poster explaining a special diet you have created.
 
-It should include rough amounts of each food you should eat.
+- Include specific foods that are allowed/disallowed
+- Perhaps a food pyramid
+- The type of nutrients being focussed on in the diet
+- Example meal plans
