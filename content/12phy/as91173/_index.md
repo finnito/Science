@@ -18,23 +18,21 @@ date: 2020-04-27
 
 [Download All PDFs](as91173.zip)
 
-
 ## Lesson Plans
 
 
-|   | Lesson 1  | Lesson 2  | Lesson 3  | Lesson 4  |
-|---|---|---|---|---|
-| Week 1  |   |   |   |   |
-| Week 2  |   |   |   |   |
-| Week 3  |   |   |   |   |
-| Week 4  |   |   |   |   |
-| Week 5  |   |   |   |   |
-| Week 6  |   |   |   |   |
-| Week 7  |   |   |   |   |
-| Week 8  |   |   |   |   |
-| Week 9  |   |   |   |   |
-| Week 10  |   |   |   |   |
-
+|         | Lesson 1        | Lesson 2               | Lesson 3                   | Lesson 4                   |
+|---------|-----------------|------------------------|----------------------------|----------------------------|
+| Week 1  |                 | Static Electricity     | Conductors & Insulators    | Charge & Current           |
+| Week 2  | Voltage & Power | Resistance & Ohm's Law | Series & Parallel Circuits | Catch-Up                   |
+| Week 3  | Electric Fields | Electric Fields        | Electric Fields            | Electric Field Lines       |
+| Week 4  | Parallel Plates | Parallel Plates        | Parallel Plates            | __P:__ Circuit Building |
+| Week 5  | DC Circuits     | Voltage Divider        | Voltage Divider            | Voltage Divider            |
+| Week 6  | RH Slap Rule    | RH Slap Rule           | Magnetic Fields            | Magnetic Fields            |
+| Week 7  | Magnetic Fields | $F=BILsin(\theta)$      | $F=BILsin(\theta)$          | Generating AC              |
+| Week 8  | Generating AC   | Generating AC          | Lenz' Law in Solenoids     | Lenz' Law in Solenoids     |
+| Week 9  | Revision        | Revision               | Revision                   | Revision                   |
+| Week 10 | Revision        | __TEST__               |                            | _Hand Back_                |
 
 ## AS91173 Lesson Plans
 
@@ -123,10 +121,17 @@ This week we will be looking at the following:
 
 ## Week 5
 
-1. Prac: Finding Resistance
-2. DC Circuits
+1. DC Circuits
+    - Review parallel and series circuits
+    - Calculating resistance in series and parallel circuits
+    - Start complex resistor networks
+2. DC Voltage Divider
+    - Complex resistor network calculations
+    - Finding $I_{t}$ and voltages
 3. Voltage Divider
+    - Continue
 4. Voltage Divider
+    - Homework book past exam questions
 
 ---
 
