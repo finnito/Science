@@ -86,6 +86,7 @@ Open this link and build a circuit with a power supply, light bulb, resistor and
 \end{align*}
 
 ---
+
 ## Voltage Question 1
 
 A system has electrical potential energy of $25J$ and has $0.5C$ of charge. What is the voltage of the system?
