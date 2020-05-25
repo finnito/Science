@@ -16,6 +16,14 @@ header-includes:
 - \usepackage{wrapfig}
 ---
 
+## Task
+
+1. Name two foods that you have eaten today that contain carbohydrates.
+2. What does your body use proteins for?
+3. Name two foods that contain heaps of fats.
+
+---
+
 ## Learning Outcomes
 
 - Be able to create a healthy diet
@@ -42,14 +50,6 @@ __MRS C GREN__
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQPVXrV0GNA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-## Task
-
-1. Name two foods that you have eaten today that contain carbohydrates.
-2. What does your body use proteins for?
-3. Name two foods that contain heaps of fats.
 
 ---
 
