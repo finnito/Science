@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -e
 
 MODULES=(
     '9scie/introduction-to-science'
