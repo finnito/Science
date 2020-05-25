@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{wrapfig}
 ---
 
-## Task
+## Starter
 
 1. Name two foods that you have eaten today that contain carbohydrates.
 2. What does your body use proteins for?
