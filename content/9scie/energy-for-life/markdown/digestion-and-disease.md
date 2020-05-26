@@ -100,13 +100,10 @@ In conjunction with this, various organs in the mouth move to block airways so t
 
 ---
 
-__Task:__ Digestive Disease Pamphlet
+__Task:__ Digestive Disease Pamphlet (in pairs)
 
-Working in pairs:
-
-1. Choose from the below digestive disease
-2. Research the disease using your device
-3. Get paper and pens from the front and make a handout that includes the following information:
+1. Choose and research one of the below digestive diseases
+2. Make a handout that includes the following information:
     - Part(s) of the digestive system where it occurs
     - What the condition does
     - How to avoid/treat the disease
