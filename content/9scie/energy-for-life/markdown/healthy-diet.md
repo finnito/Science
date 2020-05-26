@@ -1,5 +1,5 @@
 ---
-title: Nutrients in Food
+title: Healthy Diet
 subtitle: 9SCIE - Energy for Life
 author: Finn LeSueur
 date: 2020

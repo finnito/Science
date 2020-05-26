@@ -1,7 +1,5 @@
 ---
 title: AS90930 - Chemical Investigation
-date: 2020-01-20
-url: /11sci/as90930/
 ---
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90930](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90930)
@@ -22,7 +20,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Unit Plan
 
-|          | Lesson 1                   | Lesson 2                    | Lesson 3                   | Lesson 4                   |
+|          | Lesson 1 (Mon)                   | Lesson 2 (Tues)                    | Lesson 3 (Thurs)                   | Lesson 4 (Fri)                   |
 |:---------|:---------------------------|:----------------------------|:---------------------------|:---------------------------|
 | Week 7   | __Genetics Test__          | Rates of Reaction           | Rates of Reaction          | Collision Theory           |
 | Week 8   | Effect of Temperature      | Effect of Temperature       | Effect of Concentration    | Effect of Concentration    |
