@@ -29,7 +29,7 @@ We will go over the answers soon!
 
 ---
 
-![Apparatus](../assets/2-apparatus.jpg)
+![Apparatus](assets/2-apparatus.jpg)
 
 ---
 
@@ -43,55 +43,55 @@ The images on the previous slide are drawings. We will simplify these into 1-dim
 
 ### Beaker
 
-![Beaker](../assets/2-beaker.jpg)
+![Beaker](assets/2-beaker.jpg)
 
 ---
 
 ### Filter Funnel & Paper
 
-![Filter Funnel & Paper](../assets/2-filter-funnel.jpg)
+![Filter Funnel & Paper](assets/2-filter-funnel.jpg)
 
 ---
 
 ### Gauze Mat
 
-![Gauze Mat](../assets/2-gauze-mat.jpg)
+![Gauze Mat](assets/2-gauze-mat.jpg)
 
 ---
 
 ### Test Tube
 
-![Test Tube](../assets/2-test-tube.png)
+![Test Tube](assets/2-test-tube.png)
 
 ---
 
 ### Tripod
 
-![Tripod](../assets/2-tripod.gif)
+![Tripod](assets/2-tripod.gif)
 
 ---
 
 ### Measuring Cylinder
 
-![Measuring Cylinder](../assets/2-measuring-cylinder.gif)
+![Measuring Cylinder](assets/2-measuring-cylinder.gif)
 
 ---
 
 ### Evaporating Dish
 
-![Evaporating Dish](../assets/2-evaporating-dish.jpg)
+![Evaporating Dish](assets/2-evaporating-dish.jpg)
 
 ---
 
 ### Heat
 
-![Heat](../assets/2-heat.png)
+![Heat](assets/2-heat.png)
 
 ---
 
 ### Conical Flask
 
-![Conical Flask](../assets/2-conical-flask.jpg)
+![Conical Flask](assets/2-conical-flask.jpg)
 
 ---
 

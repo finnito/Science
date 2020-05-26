@@ -120,7 +120,7 @@ A car is driven 3 km east for 200 seconds,  then 4 km south for 250 seconds, the
 
 To add vectors, we simply draw a the next vector from the _arrowhead_ of the previous one.
 
-![Vector Addition](../assets/1-vector-addition.gif)
+![Vector Addition](assets/1-vector-addition.gif)
 
 ---
 
@@ -132,7 +132,7 @@ Alternatively we can call this, negative and positive acceleration. All the __ne
 
 ---
 
-![Vector Subtraction](../assets/1-vector-subtraction.gif)
+![Vector Subtraction](assets/1-vector-subtraction.gif)
 
 This works because of algebra:
 
@@ -179,17 +179,17 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 
 Similarly to how we create a _resultant vector_ from two vectors, we can decompose a vector into its horizontal and vertical components. We use SOH CAH TOA to do this!
 
-![Vector Decomposition](../assets/1-vector-decomposition.png)
+![Vector Decomposition](assets/1-vector-decomposition.png)
 
 ---
 
-![Vector Decomposition](../assets/1-vector-decomposition.png)
+![Vector Decomposition](assets/1-vector-decomposition.png)
 
 Take two minutes and find an equation for the horizontal component of the triangle using the hypotenuse and the angle.
 
 ---
 
-![Vector Decomposition](../assets/1-vector-decomposition.png)
+![Vector Decomposition](assets/1-vector-decomposition.png)
 
 To find the horizontal component:
 
@@ -199,13 +199,13 @@ To find the horizontal component:
 
 ---
 
-![Vector Decomposition](../assets/1-vector-decomposition.png)
+![Vector Decomposition](assets/1-vector-decomposition.png)
 
 Take two minutes and find an equation for the vertical component of the triangle using the hypotenuse and the angle.
 
 ---
 
-![Vector Decomposition](../assets/1-vector-decomposition.png)
+![Vector Decomposition](assets/1-vector-decomposition.png)
 
 To find the horizontal component:
 

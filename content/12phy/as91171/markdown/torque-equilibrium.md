@@ -59,7 +59,7 @@ Torque is sometimes known as __moment__ or __leverage__.
 - A small force at a small distance produces a small torque,
 - the same small force at a larger distance produces a larger torque.
 
-![](../assets/torque.gif){ width=50% }
+![](assets/torque.gif){ width=50% }
 
 ---
 
@@ -117,7 +117,7 @@ Calculate the torque applied if the lever is compressed to 1cm.
 
 ---
 
-![](../assets/torque-meme.png){ width=50% }
+![](assets/torque-meme.png){ width=50% }
 
 ---
 
@@ -131,7 +131,7 @@ __Clockwise or Anticlockwise__
 
 # Torque & Equilibrium
 
-![](../assets/equilibrium-meme.gif){ width=75% }
+![](assets/equilibrium-meme.gif){ width=75% }
 
 ---
 
@@ -153,7 +153,7 @@ Building bridges, setting up scaffolding, see-saws and more!
 ---
 
 # Question 1
-![](../assets/torque-balance.png){ width=50% }
+![](assets/torque-balance.png){ width=50% }
 
 $m_{1}=2kg$, $d_{1}=15cm$, $m_{2}=1kg$, $d_{2}=30cm$
 
@@ -163,7 +163,7 @@ $m_{1}=2kg$, $d_{1}=15cm$, $m_{2}=1kg$, $d_{2}=30cm$
 ---
 
 # Question 2
-![](../assets/torque-balance.png){ width=50% }
+![](assets/torque-balance.png){ width=50% }
 
 $m_{1}=7kg$, $d_{1}=65cm$, $m_{2}=13kg$, $d_{2}=35cm$
 
@@ -173,7 +173,7 @@ $m_{1}=7kg$, $d_{1}=65cm$, $m_{2}=13kg$, $d_{2}=35cm$
 ---
 
 # Question 3
-![](../assets/torque-rock.png){ width=50% }
+![](assets/torque-rock.png){ width=50% }
 
 The rock has mass $1100kg$ and is at distance $50cm$ from the pivot. If Ash exerts $70N$ of downward force at a distance of $8m$ from the pivot can he move the rock?
 
@@ -183,13 +183,13 @@ Archimedes once said: _"Give me a place to stand and I will move the world"_
 
 __Question__: Assuming the mass of the Earth is $5.972\times 10^{24} kg$ at a distance of 1km from the pivot and Archimedes' mass is $75kg$, how long would his lever have to be?
 
-![](../assets/archimedes.gif){ width=50% }
+![](assets/archimedes.gif){ width=50% }
 
 ---
 
 # Starter
 
-![](../assets/torque-starter.png){ width=50% }
+![](assets/torque-starter.png){ width=50% }
 
 1. Calculate the clockwise torque
 2. Calculate the anticlockwise torque
@@ -201,7 +201,7 @@ __Question__: Assuming the mass of the Earth is $5.972\times 10^{24} kg$ at a di
 
 The plank may not be massless. You may need to take it into account.
 
-![](../assets/torque-balance.png){ width=50% }
+![](assets/torque-balance.png){ width=50% }
 
 - The mass of the plank acts through its __center of gravity__
 - Because the plank is uniform, this is the middle of the plank
@@ -220,7 +220,7 @@ The plank may not be massless. You may need to take it into account.
 
 # Question
 
-![](../assets/torque-uneven.png){ width=50% }
+![](assets/torque-uneven.png){ width=50% }
 
 $d_{1}=30cm$, $d_{2}=70cm$, $m_{1}=900g$, $m_{2}=300g$, seesaw mass = $100g$.
 
