@@ -2,18 +2,18 @@
 set -e
 
 MODULES=(
-    # '9scie/introduction-to-science'
-    # '9scie/energy-for-life'
-    # '10scie/5-fire-and-fuels'
-    # '10scie/6-geology'
-    # '11sci/as90940'
-    # '11sci/as90930'
-    # '11sci/as90948'
+    '9scie/introduction-to-science'
+    '9scie/energy-for-life'
+    '10scie/5-fire-and-fuels'
+    '10scie/6-geology'
+    '11sci/as90940'
+    '11sci/as90930'
+    '11sci/as90948'
     '12phy/as91171'
-    # #'12phy/5-maths'
-    # '12ess/2-extreme-earth-events'
-    # '12phy/as91173'
-    # '12phy/4-nuclear'
+    #'12phy/5-maths'
+    '12ess/2-extreme-earth-events'
+    '12phy/as91173'
+    '12phy/4-nuclear'
 )
 
 main() {
