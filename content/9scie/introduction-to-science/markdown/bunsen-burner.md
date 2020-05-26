@@ -21,11 +21,11 @@ I can use a Bunsen burner safely and explain how it works.
 
 ---
 
-![Bunsen Burner](../assets/3-bunsen-burner-diagram.png)
+![Bunsen Burner](assets/3-bunsen-burner-diagram.png)
 
 ---
 
-![Labelled Bunsen Burner](../assets/3-labelled-bunsen-burner.jpg)
+![Labelled Bunsen Burner](assets/3-labelled-bunsen-burner.jpg)
 
 ---
 

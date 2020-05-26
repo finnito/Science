@@ -35,17 +35,17 @@ header-includes:
 
 ### Phenotype
 
-![](../assets/5-phenotype-eyes.jpg){width=80%}
+![](assets/5-phenotype-eyes.jpg){width=80%}
 
 ---
 
 ### Genotype
 
-![](../assets/5-genotype.png){width=70%}
+![](assets/5-genotype.png){width=70%}
 
 ---
 
-![](../assets/5-phenotype-genotype.png){width=80%}
+![](assets/5-phenotype-genotype.png){width=80%}
 
 ---
 
@@ -89,7 +89,7 @@ header-includes:
 
 If dad is __heterozygous dominant__ for brown eyes and mum is __homozygous recessive__ for blue eyes, complete this punnet square in your books.
 
-![](../assets/5-punnet-square.jpg){width=80%}
+![](assets/5-punnet-square.jpg){width=80%}
 
 ---
 

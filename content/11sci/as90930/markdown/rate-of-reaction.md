@@ -45,7 +45,7 @@ Can you think of any others?
 
 ## Displacement of Gas
 
-![](../assets/1-displacement.png){width=75%}
+![](assets/1-displacement.png){width=75%}
 
 ---
 
@@ -59,7 +59,7 @@ Method is on Google Classroom
 
 When measuring the amount of gas produced, the volume goes up over time so the graph should look like this:
 
-![](../assets/1-gas-produced-graph.png){width=50%}
+![](assets/1-gas-produced-graph.png){width=50%}
 
 ---
 
@@ -67,7 +67,7 @@ When measuring the amount of gas produced, the volume goes up over time so the g
 
 When measuring the amount of mass lost, the mass goes down so the graph should look like this:
 
-![](../assets/1-mass-loss-graph.png){width=75%}
+![](assets/1-mass-loss-graph.png){width=75%}
 
 ---
 

@@ -74,7 +74,7 @@ __e.g. electrons move through metal__
 
 ### What Direction Does Current Flow?
 
-![Circuit Diagram](../assets/3-current.jpg "Circuit Diagram"){ width=50% }
+![Circuit Diagram](assets/3-current.jpg "Circuit Diagram"){ width=50% }
 
 ---
 
@@ -90,4 +90,4 @@ __e.g. electrons move through metal__
 
 ---
 
-![Conventional Current](../assets/conventional-current.png "Conventional Current")
+![Conventional Current](assets/conventional-current.png "Conventional Current")
