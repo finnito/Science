@@ -100,7 +100,7 @@ In conjunction with this, various organs in the mouth move to block airways so t
 
 ---
 
-__Task:__ Digestive Disease Pamphlet (in pairs)
+__Task:__ Digestive Disease Pamphlet (in pairs)[
 
 1. Choose and research one of the below digestive diseases
 2. Make a handout that includes the following information:
