@@ -24,18 +24,20 @@ date: 2020-05-12
 2. [Conservation of Energy](slides/conservation-of-energy.html) ([PDF](pdfs/conservation-of-energy.pdf))
 3. [Energy in Food](slides/energy-in-food.html) ([PDF](pdfs/energy-in-food.pdf))
 4. [Nutrients in Food](slides/nutrients-in-food.html) ([PDF](pdfs/nutrients-in-food.pdf))
+5. [Healthy Diet](slides/healthy-diet.html) ([PDF](pdfs/healthy-diet.pdf))
+6. [Digestion & Disease](slides/digestion-and-disease.html) ([PDF](pdfs/digestion-and-disease.pdf))
 
 [Download All PDFs](energy-for-life.zip)
 
 ## Unit Plan
 
-|        | Lesson 1                    | Lesson 2               | Lesson 3         |
-|--------|-----------------------------|------------------------|------------------|
-| Week 1 | Forms of Energy             | Conservation of Energy |                  |
-| Week 2 | Energy in Food              | Use of Nutrients       | Toy Circus       |
-| Week 3 | Active and Potential Energy | Diets                  | Nutrient Tests   |
-| Week 4 | _Queen's B-Day_             | Digestion & Disease    | Digestion System |
-| Week 5 | Absorption of Nutrients     | Glucose & Respiration  | __TEST__         |
+|        | Lesson 1                    | Lesson 2                 | Lesson 3             |
+|--------|-----------------------------|--------------------------|----------------------|
+| Week 1 | Forms of Energy             | Conservation of Energy   |                      |
+| Week 2 | Energy in Food              | Use of Nutrients         | __Prac:__ Toy Circus |
+| Week 3 | Active and Potential Energy | Diets                    | Digestion & Disease  |
+| Week 4 | _Queen's B-Day_             | __Prac:__ Nutrient Tests | Digestion System     |
+| Week 5 | Absorption of Nutrients     | Glucose & Respiration    | __TEST__             |
 
 ## Lesson Plans
 
