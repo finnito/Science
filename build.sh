@@ -39,9 +39,14 @@ main() {
 
     for i in "${MODULES[@]}"; do
         if cd $i; then
+            echo "Entered $i"
             putMDBack
+            cd ../../
         fi
+        echo ""
     done
+
+    echo "DONE!"
 
 }
 
