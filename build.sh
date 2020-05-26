@@ -23,6 +23,7 @@ main() {
         if cd $i; then 
             echo "Entered $i"
             createFolders
+            copyAssets
             createSlides
             createPDFs
             relocateSlidesPDFs
@@ -36,6 +37,7 @@ main() {
     done
 
     runHugo
+    echo ""
 
     for i in "${MODULES[@]}"; do
         if cd $i; then
@@ -136,24 +138,24 @@ putMDInRoot() {
 
 runHugo() {
     if cd ../; then
-        echo "    Moved to the root directory"
+        echo "Moved to the root directory"
     else
-        echo "    Could not move to the root directory"
+        echo "Could not move to the root directory"
     fi
     if rm -rf public; then
-        echo "    Emptied the 'public' directory"
+        echo "Emptied the 'public' directory"
     else
-        echo "    Could not empty the 'public' directory"
+        echo "Could not empty the 'public' directory"
     fi
     if hugo; then
-        echo "    Ran Hugo"
+        echo "Ran Hugo"
     else
-        echo "    Could not run Hugo"
+        echo "Could not run Hugo"
     fi
     if cd content; then
-        echo "    Entered 'content'"
+        echo "Entered 'content'"
     else
-        echo "    Could not enter the 'content' directory"
+        echo "Could not enter the 'content' directory"
     fi
 }
 
