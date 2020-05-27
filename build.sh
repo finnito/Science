@@ -147,7 +147,7 @@ runHugo() {
     else
         echo "Could not empty the 'public' directory"
     fi
-    if hugo; then
+    if hugo --gc --minify; then
         echo "Ran Hugo"
     else
         echo "Could not run Hugo"
