@@ -17,13 +17,13 @@ The battery is 12V.
 
 ![](assets/8-circuit.jpg){width=30%}
 
-1. How many joules of energy does the cell supply to each coulomb of charge that flows out of the cell? __(A)__
+1. When switched on, how many joules of energy does the cell supply to each coulomb of charge that flows out of the cell? __(A)__
 
 ---
 
 ![](assets/8-circuit.jpg){width=30%}
 
-2. When the cell is switched on, the resistance of the lamp is $9\Omega$. Calculate the current flowing through the lame. __(A)__
+2. When the cell is switched on, the resistance of the lamp is $9\Omega$. Calculate the current flowing through the lamp. __(A)__
 3. State the meaning of the term __resistance__ in terms of electron flow. __(A)__
 
 ---
@@ -57,51 +57,77 @@ Magnetic fields can be found in two places:
 
 ---
 
-![](assets/8-field-wire.jpg){width=60%}
-
----
-
-## Right Hand Grip Rule 1
-
-![](assets/8-right-hand-rule-1.gif){width=75%}
-
----
+## Drawing Magnetic Fields on Paper
 
 ![](assets/8-field-in-and-out.png)
 
 ---
 
-# Solenoids
+## Current Carrying Wire
 
-![](assets/8-solenoid.jpg){width=60%}
-
-\begin{align*}
-    & B = \mu_{0} n I \\
-\end{align*}
+![](assets/8-field-wire.jpg){width=50%}
 
 ---
 
-## What is $\mu_{0}$?
+## Right Hand Grip Rule 1
 
-It is pronounced _mew nought_ and goes by a variety of names: __vacuum permeability__, __permeability of free space__, __permability of vacuum__,  __magnetic constant__.
+- Used to find the direction of the current or magnetic field when you know the other.
+- This version of the right hand grip rule only applies to current carrying wires!
 
-I will endevour to call it is the __permeability of free space__ and it has the value:
+![](assets/8-right-hand-rule-1.gif){width=40%}
 
-\begin{align*}
-    & \mu_{0} = 1.256 637 062 12(19)\times10^{-6} H/m
-\end{align*}
+---
+
+![](assets/magnetic_fields-current-carrying-wire.png)
 
 ---
 
 ## Right Hand Grip Rule 2
 
+- Used to find the direction of the magnetic field in a coil of wire.
+
 ![](assets/8-right-hand-grip-2.png){width=50%}
 
 ---
+
+## Magnetic Elements
 
 ![](assets/8-magnetic-p-table.jpg){width=75%}
 
 ---
 
+### Ferromagnetism
 
+- Includes Co, Fe and Ni
+- Permanent magnets
+- Were exposed to a strong external magnetic field and retained the field after being removed from it
 
+---
+
+### Paramagnetism
+
+- Includes Na, Mg, Ca etc.
+- Can form a weak internal magnetic field when exposed to an external magnetic field
+- Feel a small attractive force
+
+---
+
+### Diamagnetism
+
+- Includes Cu, Si, N, C etc.
+- Can form a weak internal magnetic field when exposed to an external magnetic field
+- Feel a small repulsive force
+
+![](assets/magnetism-diamagnetism.jpg){width=50%}
+
+---
+
+![](assets/8-q1.png)
+
+---
+
+![](assets/8-q2.png)
+
+---
+
+![](assets/8-q3.png)

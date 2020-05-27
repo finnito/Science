@@ -40,3 +40,8 @@ __NZQA Link:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standa
 6. Physiological Adaptations
 7. Law of Tolerance
     - Egg denaturing practical https://www.riskassess.co.nz/risk_assessment/8044485
+8. Antarctica
+    - Diving in Antarctica video (slide 24)
+    - Notes on 25-34
+    - Clothing task on slides 35-36
+    - Finish mapping task from earlier in the week

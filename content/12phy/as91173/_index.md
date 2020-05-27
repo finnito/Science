@@ -23,16 +23,16 @@ date: 2020-04-27
 
 |         | Lesson 1        | Lesson 2               | Lesson 3                   | Lesson 4                   |
 |---------|-----------------|------------------------|----------------------------|----------------------------|
-| Week 1  |                 | Static Electricity     | Conductors & Insulators    | Charge & Current           |
-| Week 2  | Voltage & Power | Resistance & Ohm's Law | Series & Parallel Circuits | Catch-Up                   |
-| Week 3  | Electric Fields | Electric Fields        | Electric Fields            | Electric Field Lines       |
-| Week 4  | Parallel Plates | Parallel Plates        | Parallel Plates            | __P:__ Circuit Building |
-| Week 5  | DC Circuits     | Voltage Divider        | Voltage Divider            | Voltage Divider            |
-| Week 6  | RH Slap Rule    | RH Slap Rule           | Magnetic Fields            | Magnetic Fields            |
-| Week 7  | Magnetic Fields | $F=BILsin(\theta)$      | $F=BILsin(\theta)$          | Generating AC              |
-| Week 8  | Generating AC   | Generating AC          | Lenz' Law in Solenoids     | Lenz' Law in Solenoids     |
-| Week 9  | Revision        | Revision               | Revision                   | Revision                   |
-| Week 10 | Revision        | __TEST__               |                            | _Hand Back_                |
+| T2 W3  |                 | Static Electricity     | Conductors & Insulators    | Charge & Current           |
+| T2 W4  | Voltage & Power | Resistance & Ohm's Law | Series & Parallel Circuits | Catch-Up                   |
+| T2 W5  | Electric Fields | Electric Fields        | Electric Fields            | Electric Field Lines       |
+| T2 W6  | Parallel Plates | Parallel Plates        | Parallel Plates            | __P:__ Circuit Building |
+| T2 W7  | DC Circuits     | Voltage Divider        | Voltage Divider            | Voltage Divider            |
+| T2 W8  | RH Slap Rule    | RH Slap Rule           | Magnetic Fields            | Magnetic Fields            |
+| T2 W9  | Magnetic Fields | $F=BILsin(\theta)$      | $F=BILsin(\theta)$          | Generating AC              |
+| T2 W10  | Generating AC   | Generating AC          | Lenz' Law in Solenoids     | Lenz' Law in Solenoids     |
+| T2 W11  | Revision        | Revision               | Revision                   | Revision                   |
+| T2 W12 | Revision        | __TEST__               |                            | _Hand Back_                |
 
 ## AS91173 Lesson Plans
 
