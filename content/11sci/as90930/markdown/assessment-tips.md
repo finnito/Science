@@ -76,6 +76,7 @@ To get an Excellence, you must:
 3. Discuss the techniques/methods you have used to ensure the results you obtained are reliable and valid
 4. Discuss on how your method could improve
 
+---
 
 ### Step 1: Aim & Hypothesis
 
