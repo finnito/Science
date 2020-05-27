@@ -18,7 +18,7 @@ header-includes:
 
 ## Starter
 
-1. Name a machine that transforms gravitational potential energy to chemical energy
+1. Name a machine that transforms gravitational potential energy to electrical energy
 2. What is the chemical element, __K__, and what food is a good source of it? 
 3. What vitamin is used in building eyes?
 
@@ -53,15 +53,16 @@ The digestive system is essentially a very long tube, going from your mouth to y
 ### What is digestion?
 
 - The body carries out _digestion_ of food to convert large insoluble food molecules into smaller soluble ones.
-- Small food molecules can pass through the walls of the samll intestine and then dissolve into the blood stream. Larage food molecules cannot do this.
+- Small food molecules can pass through the walls of the small intestine and then dissolve into the blood stream. Large food molecules cannot do this.
 
 __NB:__ _Insoluble_ means that it cannot dissolve in water (e.g. oil)
 
 ---
 
-### Task: work with the person next to you to label the parts that you know.
+### Task: Label the digestive sytem
 
-![](assets/digestion_and_disease-without-labels.jpeg)
+- Work with the person next to you,
+- we will be learning about all the parts so don't worry about not knowing some!
 
 ---
 
@@ -102,6 +103,6 @@ In conjunction with this, various organs in the mouth move to block airways so t
 
 __Task:__ Digestive Disease Pamphlet (in pairs)
 
-Include: Part(s) of the digestive system where it occurs, What the condition does, how to avoid/treat the disease
+Include: Part(s) of the digestive system where it occurs, what the condition does, how to avoid/treat the disease
     
 Gastroesophageal Reflux Disease, gallstones, celiac disease, Chron's disease, uclerative colitis, irritable bowel syndrome, hemorrhoids, diverticulitis, anal fissures
