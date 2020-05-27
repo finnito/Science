@@ -1,11 +1,10 @@
 ---
-title: Science with LSF
-date: 2019-09-01
+title: Home
 ---
 
-These notes and resources are all a work-in-progress. I write them as I teach each unit and each year group, so it is likely that you will find them incomplete in many areas.
+These notes and resources are all a work-in-progress. I write them as I teach each unit and each year group, so it is likely that you will find them incomplete or changing in many areas.
 
----
+{{< coffee >}}
 
 ## Gitlab Repository
 
