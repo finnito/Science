@@ -15,6 +15,68 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
+There are five topics in Science 102
+
+1. Genetics (ext.) – finished in Term 1
+2. Microbes (int.) – finished yesterday
+3. Chemistry Investigation (int.) – we were half-way through this topic when the lockdown began in Term 1
+4. Mechanics (ext.)
+5. Chemical Reactions (int.)
+
+---
+
+## AS 90930
+
+Chemistry Investigation
+
+(The 2nd half)
+
+Internal, 4 Credits
+
+---
+
+For the assessment, you must:
+
+1. Conduct a Chemistry experiment  (2 periods)
+2. Write a report on the experiment and the data you have gathered     (1 period)
+
+---
+
+To get an Achieved, you must:
+
+1. Write the method of your experiment
+2. Identify variables (Independent, Dependent and Control)
+3. Make repeat measurements and calculate the average
+4. Describe the trend in the results/data
+5. Write the conclusion based on the data collected
+
+---
+
+To get an Merit, you must:
+
+1. Write the method of your experiment to a higher quality
+2. Identify variables and describe how the control variables have been controlled
+3. Make accurate, repeat measurements and calculate the average
+4. Describe the trend in the results/data
+5. Write the conclusion based on the data collected
+
+---
+
+To get an Merit, you must:
+
+6. Explain how the control variables that could have significantly affected the results have been controlled 
+7. Explain the techniques/methods that were used to ensure the accuracy of the results obtained
+
+---
+
+To get an Excellence, you must:
+
+1. Complete everything up to Merit level, plus:
+2. Explain your results using the “Collision Theory”
+3. Discuss the techniques/methods you have used to ensure the results you obtained are reliable and valid
+4. Discuss on how your method could improve
+
+
 ### Step 1: Aim & Hypothesis
 
 In your group:
