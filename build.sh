@@ -69,7 +69,7 @@ createFolders() {
 
 copyAssets() {
     if [[ -d 'assets' ]]; then
-        cp -a assets slides/
+        rsync -qr assets slides/
         echo "    Copying assets into slides directory"
     fi
 }
