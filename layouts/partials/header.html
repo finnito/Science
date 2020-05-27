@@ -4,15 +4,47 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ .Title }} | {{ .Site.Title }}</title>
-    <style>{{ readFile "/themes/hugo-spartan/static/css/min.css" | safeCSS }}</style>
+    <style>{{ readFile "/themes/hugo-spartan/static/css/style.css" | safeCSS }}</style>
   </head>
 
   <body>
     <nav>
-    <ul class="menu">
-      {{ range .Site.Menus.main }}
-      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-      {{ end }}
-    </ul>
-    <hr/>
+      <h1>{{ .Site.Title }}</h1>
+      <input class="toggle mobile" type="checkbox"/>
+      <div class="hamburger mobile">
+          <div>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <p>Classes</p>
+      </div>
+      <div class="nav-wrapper">
+        <div>
+          <ul class="menu">
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+            <li class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}'>
+              <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
     </nav>
+    <ol class="breadcrumb">
+      {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+    </ol>
+    {{ define "breadcrumbnav" }}
+    {{ if .p1.Parent }}
+    {{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
+    {{ else if not .p1.IsHome }}
+    {{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
+    {{ end }}
+    <li{{ if eq .p1 .p2 }} class="active"{{ end }}>
+      {{ if not .p1.IsHome }} < {{ end }}
+      {{ if ne .p1 .p2 }}<a title="{{ .p1.Title }}" href="{{ .p1.Permalink }}"> {{ end }}
+      {{ .p1.Title }}
+      {{ if ne .p1 .p2 }}</a>{{ end }}
+    </li>
+    {{ end }}
