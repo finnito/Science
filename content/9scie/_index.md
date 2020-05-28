@@ -11,19 +11,19 @@ date: 2020-01-07
 
 ## 2020 Year Planner
 
-|         | Term 1     |                         | Term 2     |                  | Term 3 |           | Term 4  |                  |
-|---------|------------|-------------------------|------------|------------------|--------|-----------|---------|------------------|
-| Week 1  | Jan 27th   | Introduction to Science | Apr 13th   | Reactions Matter | Jul 20 | Plants    | Oct 12  | Radiation        |
-| Week 2  | Feb 3rd    | Introduction to Science | April 20th | Reactions Matter | Jul 27 | Plants    | Oct 19  | Radiation        |
-| Week 3  | Feb 10th   | Introduction to Science | April 27th | Reactions Matter | Aug 3  | Space     | Oct 26  | Radiation        |
-| Week 4  | Feb 17th   | Reactions Matter        | May 4th    | Reactions Matter | Aug 10 | Space     | Nov 2   | Revision         |
-| Week 5  | Feb 24th   | Reactions Matter        | May 11th   | Energy for Life  | Aug 17 | Space     | Nov 9   | Junior Exams     |
-| Week 6  | March 2nd  | Reactions Matter        | May 18th   | Energy for Life  | Aug 24 | Space     | Nov 16  | Teacher's Choice |
-| Week 7  | March 9th  | Reactions Matter        | May 25th   | Energy for Life  | Aug 31 | Space     | Nov 23  | Teacher's Choice |
-| Week 8  | March 16th | Reactions Matter        | June 1st   | Energy for Life  | Sep 7  | Radiation | Nov 30  | Teacher's Choice |
-| Week 9  | March 23rd | Reactions Matter        | June 8th   | Energy for Life  | Sep 14 | Radiation | Dec 7th | Teacher's Choice |
-| Week 10 |            |                         | June 15th  | Plants           | Sep 21 | Radiation |         |                  |
-| Week 11 |            |                         | June 22nd  | Plants           |        |           |         |                  |
-| Week 12 |            |                         | June 29th  | Plants           |        |           |         |                  |
+|         | Term 1         |                         | Term 2         |                  | Term 3     |           | Term 4      |                  |
+|---------|----------------|-------------------------|----------------|------------------|------------|-----------|-------------|------------------|
+| Week 1  | __Jan 27th__   | Introduction to Science | __Apr 13th__   | Reactions Matter | __Jul 20__ | Plants    | __Oct 12__  | Radiation        |
+| Week 2  | __Feb 3rd__    | Introduction to Science | __April 20th__ | Reactions Matter | __Jul 27__ | Plants    | __Oct 19__  | Radiation        |
+| Week 3  | __Feb 10th__   | Introduction to Science | __April 27th__ | Reactions Matter | __Aug 3__  | Space     | __Oct 26__  | Radiation        |
+| Week 4  | __Feb 17th__   | Reactions Matter        | __May 4th__    | Reactions Matter | __Aug 10__ | Space     | __Nov 2__   | Revision         |
+| Week 5  | __Feb 24th__   | Reactions Matter        | __May 11th__   | Energy for Life  | __Aug 17__ | Space     | __Nov 9__   | Junior Exams     |
+| Week 6  | __March 2nd__  | Reactions Matter        | __May 18th__   | Energy for Life  | __Aug 24__ | Space     | __Nov 16__  | Teacher's Choice |
+| Week 7  | __March 9th__  | Reactions Matter        | __May 25th__   | Energy for Life  | __Aug 31__ | Space     | __Nov 23__  | Teacher's Choice |
+| Week 8  | __March 16th__ | Reactions Matter        | __June 1st__   | Energy for Life  | __Sep 7__  | Radiation | __Nov 30__  | Teacher's Choice |
+| Week 9  | __March 23rd__ | Reactions Matter        | __June 8th__   | Energy for Life  | __Sep 14__ | Radiation | __Dec 7th__ | Teacher's Choice |
+| Week 10 |                |                         | __June 15th__  | Plants           | __Sep 21__ | Radiation |             |                  |
+| Week 11 |                |                         | __June 22nd__  | Plants           |            |           |             |                  |
+| Week 12 |                |                         | __June 29th__  | Plants           |            |           |             |                  |
 
  
