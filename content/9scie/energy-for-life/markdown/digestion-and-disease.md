@@ -148,3 +148,17 @@ __Task__: Match these up
 |Carbohydrase|Breaks fat into glycerol and fatty acids|
 |Lipase|Breaks protein into amino acids|
 |Protease|Breaks carbohydrate into sugar molecules|
+
+---
+
+### Down to the Stomach
+
+Food then passes the __epiglottis__, a flat of skin and cartilage that prevents food from entering the __trachea__ (air tube).
+
+![](assets/digestion_and_disease-epiglottis.jpg)
+
+---
+
+The food is then moved down the __oesophagus__ with the help of wave-like contractions, a process called the __peristaltic wave__.
+
+<iframe width="1078" height="739" src="https://www.youtube.com/embed/o18UycWRsaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

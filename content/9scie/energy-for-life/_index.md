@@ -86,6 +86,7 @@ date: 2020-05-12
 
 10. Name the parts of the human digestion system and describe what happens to the food in each part
     - Mouth, oesophagus, stomach, small intestine, large intestine, rectum/anus
+    - https://quizizz.com/admin/quiz/572b8b423b77a41c11928d24/digestive-system
 
 11. Describe how the products of digestion are absorbed and transported to the cells in the body
 
