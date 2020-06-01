@@ -89,7 +89,7 @@ How do we get food down our esophagus to our stomachs without choking?
 
 #### Peristalsis
 
-This is the process of contraction and relaxation of the muscles in the esophagus to propell the food down.
+This is the process of contraction and relaxation of the muscles in the esophagus to propel the food down.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pNcV6yAfq-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -106,3 +106,59 @@ __Task:__ Digestive Disease Pamphlet (in pairs)
 Include: Part(s) of the digestive system where it occurs, what the condition does, how to avoid/treat the disease
     
 Gastroesophageal Reflux Disease, gallstones, celiac disease, Chron's disease, uclerative colitis, irritable bowel syndrome, hemorrhoids, diverticulitis, anal fissures
+
+---
+
+![](assets/digestion_and_disease-labelled.png)
+
+---
+
+### In The Mouth
+
+Digestion begins in the mouth where food is broken down by the teeth. This is called __mechanical breakdown__.
+
+The small parts are mixed withThe small parts are mixed with __saliva__ and swallowed.
+
+---
+
+Saliva contains __enzymes__ that start to __chemically break down__ some of the starch and fats in the food.
+
+Enzymes are biological __catalysts__ that speed up chemical reactions.
+
+![](assets/digestion_and_disease-catalyst.jpg) {width=50%}
+
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/qgVFkRn8f10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Amylase and Starch
+
+Amylase (enzyme) breaks the long starch chains into glucose molecules.
+
+Think about the nutrients in bread and how how long can you hold a piece of bread in your mouth?
+
+---
+
+__Task__: Match these up
+
+|Digestive Enzyme|What it does|
+|-----|------|
+|Carbohydrase|Breaks fat into glycerol and fatty acids|
+|Lipase|Breaks protein into amino acids|
+|Protease|Breaks carbohydrate into sugar molecules|
+
+---
+
+### Down to the Stomach
+
+Food then passes the __epiglottis__, a flat of skin and cartilage that prevents food from entering the __trachea__ (air tube).
+
+![](assets/digestion_and_disease-epiglottis.jpg)
+
+---
+
+The food is then moved down the __oesophagus__ with the help of wave-like contractions, a process called the __peristaltic wave__.
+
+<iframe width="1078" height="739" src="https://www.youtube.com/embed/o18UycWRsaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
