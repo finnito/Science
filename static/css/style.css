@@ -10,7 +10,7 @@ body {
   line-height: 1.75;
   max-width: 800px;
   margin: auto;
-  padding: 0 1em;
+  padding: 0 0.5em;
   scroll: none;
 }
 
@@ -52,17 +52,24 @@ a:visited {
   display: block;
   margin: 1rem 0.25rem;
   text-align: right;
+  background: #ecf0f1;
+  border-radius: 0.25rem;
+  border: 2px solid transparent;
 }
 
 .menu li:last-child {
   margin-right: 0;
 }
 
+.menu li.active {
+  border: 2px solid #3498db;
+  transform: translateY(-3px);
+}
+
 .menu a {
   text-decoration: none;
-  padding: 0.5rem 1rem;
-  border-radius: 0.25rem;
-  background: #ecf0f1;
+  padding: 0 1rem;
+
 }
 
 .article-meta {
@@ -80,13 +87,16 @@ hr {
 }
 
 ol, ul {
-  padding-left: 1rem;
   margin-top: 0;
 }
+
+li p { margin-bottom: 0; }
 
 ol > li {
   margin-bottom: 0.5rem;
 }
+
+ol li:first-of-type p { margin-top: 0; }
 
 table {
   /* Remove spacing between table cells (from Normalize.css) */
@@ -115,7 +125,7 @@ table th:not(:first-of-type) {
 }
 
 table thead {
-    background-color: #6ab04c;
+    background-color: #f6e58d;
     color: #000;
     text-align: left;
     vertical-align: bottom;
@@ -125,7 +135,7 @@ table td {
     background-color: transparent;
 }
 table td {
-    background-color: #f2f2f2;
+    background-color: rgba(0, 0, 0, 0.05);
 }
 
 tbody tr:not(first-child) {
@@ -138,7 +148,7 @@ tr td:first-child {
 
 /* nth-child selector for modern browsers */
 table tr:nth-child(2n-1) td {
-    background-color: #e0e0e0;
+    background-color: rgba(0, 0, 0, 0.1);
 }
 
 a[href*="coffee"] { color: #FF813F; }

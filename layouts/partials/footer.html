@@ -3,9 +3,14 @@
     {{ if not .IsHome }}
       {{ partial "coffee" }}
     {{ end }}
-  	<a title="Email Me" href="mailto:finn@lesueur.nz">Email Me</a>
-    |
-    <a title="View on Gitlab" href="https://gitlab.com/Finnito/Science">View on Gitlab</a>
+    <p>
+      <a title="Finn LeSueur" href="https://finn.lesueur.nz">Site by Finn LeSueur</a>
+      |
+    	<a title="Email Me" href="mailto:finn@lesueur.nz">Email Me</a>
+      |
+      <a title="View on Gitlab" href="https://gitlab.com/Finnito/Science">View on Gitlab</a>
+    </p>
   </footer>
+  {{ if .Params.katex }}{{ partial "katex.html" }}{{ end }}
   </body>
 </html>

@@ -1,0 +1,16 @@
+<h2>Slides</h2>
+{{ $page := .Page }}
+
+{{ with $page.Pages }}
+    <ol>
+        {{ range . }}
+        <li>
+            <a href="{{ .File.BaseFileName }}/">{{ .Title }}</a> 
+            (<a href="slides/{{ .File.BaseFileName }}.html">Slides</a>, <a href="pdfs/{{ .File.BaseFileName }}.pdf"> PDF</a>)
+        </li>
+        {{ end }}
+    </ol>
+
+    <a href='{{ $page | relURL }}{{ $page.Resources.GetMatch "*.zip" }}'>Download all PDFs</a>
+{{ end }}
+
