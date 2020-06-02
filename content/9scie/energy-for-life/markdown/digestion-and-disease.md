@@ -117,7 +117,7 @@ Gastroesophageal Reflux Disease, gallstones, celiac disease, Chron's disease, uc
 
 Digestion begins in the mouth where food is broken down by the teeth. This is called __mechanical breakdown__.
 
-The small parts are mixed withThe small parts are mixed with __saliva__ and swallowed.
+The small parts are mixed with __saliva__ and swallowed.
 
 ---
 
@@ -162,3 +162,82 @@ Food then passes the __epiglottis__, a flat of skin and cartilage that prevents 
 The food is then moved down the __oesophagus__ with the help of wave-like contractions, a process called the __peristaltic wave__.
 
 <iframe width="1078" height="739" src="https://www.youtube.com/embed/o18UycWRsaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### The Stomach
+
+The stomach is a muscular sac with a variety o functions.
+
+- It stores masticated food,
+- produces acid and enzymes for chemical breakdown,
+- churns food before it moves on to the rest of the digestive system.
+
+> __masticate__: verb - to chew (food)
+
+---
+
+### After the Stomach
+
+- The contents of the stomach are then moved to the __small instestine__
+- Here, the chyme is mixed with __bile__ and enzymes from the pancreas and intestinal walls.
+
+> __chyme__: thick, semifluid partially digested mass of food
+
+---
+
+#### Bile
+
+- A greeny-yellow substance excreted from the gall bladder
+- Emulsifies fats to allow absorption
+- Neutralises the chyme which was made acidic in the stomach
+
+---
+
+### Small Intestine
+
+- Digestive enzymes chemically break down food particles
+- These nutrients are then absorbed into the blood stream through the wall of the small intestine
+
+![](assets/digestion_and_disease-small-intestine.png)
+
+---
+
+#### Villi
+
+- The walls of the small intestine are not smooth
+- They are covered in villi which increases the surface area for more rapid absorption
+
+![](assets/digestion_and_disease-villi.jpg)
+
+---
+
+- The walls of the villi are very thin so that glucose can pass through it easily (to the blood stream)
+- Glucose is in high concentration in the small intestine so will move into the capillries (blood) in the villi
+- It is then taken to the muscles that need it, where it is combined with oxygen ($$O_{2}$$) to make energy!
+
+---
+
+### Large Intestine
+
+- After the long trip through the small intestine, the remains enter the __large intestine__
+- Here remains are fermented by the action of gut bacteria, excess water is absorbed and faeces is stored until released
+
+---
+
+![](assets/digestion_and_disease-label-activity.png)
+
+---
+
+![](assets/digestion_and_disease-label-activity-answers.png)
+
+---
+
+__Task:__ Complete these sentences about digestion.
+
+1. Digestion is the process of breaking __?__ molecules of food into __?__ molecules of food.
+2. The __?__ molecules that we start with are __?__ which means they __?__ dissolve in water.
+3. The __?__ molecules produced by digestion are __?__ which means they __?__ dissolve in water.
+
+__Words:__ can, small, insoluble, soluble, large, large, small, cannot
+
