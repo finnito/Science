@@ -1,16 +1,13 @@
-# Year 11 Science 1.1: Mechanics (90940)
+---
+title: AS90940 - Mechanics
+menu:
+    main:
+        parent: "11SCI"
+---
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90940](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90940)
 
-## Slides
-
-1. [Velocity](slides/velocity.html)
-2. [Acceleration](slides/acceleration.html)
-3. [Force](slides/force.html)
-4. [Pressure](slides/pressure.html)
-5. [Kinetic Energy](slides/kinetic-energy.html)
-6. [Energy Transformations](slides/energy-transformations.html)
-7. [Work](slides/work.html)
+{{< slides >}}
 
 ## Learning Outcomes
 

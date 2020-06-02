@@ -2,12 +2,15 @@
 title: 9 Science
 subtitle: Welcome to 9 Science
 date: 2020-01-07
+menu: "main"
+linkTitle: "9SCIE"
+weight: 2
 ---
 
 ## Units
 
-1. [Introduction to Science](/9scie/introduction-to-science/)
-3. [Energy for Life](/9scie/energy-for-life/)
+1. [Introduction to Science](introduction-to-science/)
+3. [Energy for Life](energy-for-life/)
 
 ## 2020 Year Planner
 

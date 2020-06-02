@@ -1,13 +1,14 @@
 ---
 title: 11 Science
-subtitle: Welcome to 11 Science
+menu: "main"
+linkTitle: "11SCI"
 ---
 
-1. [Chemical Investigation](as90930)
-2. [Microbes & Food](as90950)
+1. [Chemical Investigation](as90930/)
+2. [Microbes & Food](as90950/)
 3. Chemical Reactions
-4. [Mechanics](as90940)
-5. [Genetics](as90948)
+4. [Mechanics](as90940/)
+5. [Genetics](as90948/)
 
 ## 2020 Year Planner
 

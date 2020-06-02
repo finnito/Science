@@ -1,21 +1,15 @@
 ---
 title: AS90930 - Chemical Investigation
+menu:
+    main:
+        parent: "11SCI"
 ---
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90930](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90930)
 
 ## Learning Outcomes
 
-## Slides
-
-1. [Rate of Reaction](rate-of-reaction/) ([Slides](slides/rate-of-reaction/), [PDF](pdfs/rate-of-reaction.pdf))
-2. [Collision Theory](collision-theory/) ([Slides](slides/collision-theory/), [PDF](pdfs/collision-theory.pdf))
-3. [Changing Temperature](changing-temperature/) ([Slides](slides/changing-temperature/), [PDF](pdfs/changing-temperature.pdf))
-4. [Changing Surface Area](changing-surface-area/) ([Slides](slides/changing-surface-area/), [PDF](pdfs/changing-surface-area.pdf))
-5. [Assessment Tips](slides/assessment-tips.html)
-6. [Practice Assessment](slides/practice-assessment.html)
-
-[Download All PDFs](as90930.zip)
+{{< slides >}}
 
 ## Unit Plan
 

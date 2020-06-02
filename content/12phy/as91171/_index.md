@@ -1,7 +1,8 @@
 ---
 title: AS91171 - Mechanics
-date: 2020-01-20
-url: /12phy/as91171/
+menu:
+    main:
+        parent: "12PHY"
 ---
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91171](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91171)
@@ -9,37 +10,27 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 ## Learning Outcomes
 
 1. __Motion__
-  1. Constant acceleration in a straight line
-  2. Free fall under gravity
-  3. Projectile motion
-  4. Circular motion
+    1. Constant acceleration in a straight line
+    2. Free fall under gravity
+    3. Projectile motion
+    4. Circular motion
 2. __Force__
-  1. Force components
-  2. Vector addition of forces
-  3. Unbalanced force and acceleration
-  4. Equilibrium (balanced forces and torques)
-  5. Centripetal force
-  6. Force and extension of a spring
+    1. Force components
+    2. Vector addition of forces
+    3. Unbalanced force and acceleration
+    4. Equilibrium (balanced forces and torques)
+    5. Centripetal force
+    6. Force and extension of a spring
 3. __Momentum & Energy__
-  1. Momentum
-  2. Change in momentum in one dimension and impulse
-  3. Impulse and force
-  4. Conservation of momentum in one direction
-  5. Work
-  6. Power and conservation of energy
-  7. Elastic potential energy
+    1. Momentum
+    2. Change in momentum in one dimension and impulse
+    3. Impulse and force
+    4. Conservation of momentum in one direction
+    5. Work
+    6. Power and conservation of energy
+    7. Elastic potential energy
 
-## Slides
-
-1. [Vectors](scalars-vs-vectors/) ([Slides](slides/scalars-vs-vectors/), [PDF](pdfs/scalars-vs-vectors.pdf))
-1. [Kinematic Equations](kinematic-equations/) ([Slides](slides/kinematic-equations/), [PDF](pdfs/kinematic-equations.pdf)) 
-1. [Projectile Motion](projectile-motion/) ([Slides](slides/projectile-motion/), [PDF](pdfs/projectile-motion.pdf))
-2. [Momentum](momentum/) ([Slides](slides/momentum/), [PDF](pdfs/momentum.pdf))
-3. [Rotational Motion](circular-motion/) ([Slides](slides/circular-motion/), [PDF](pdfs/circular-motion.pdf))
-4. [Torque & Equilibrium](torque-equilibrium/) ([Slides](slides/torque-equilibrium/), [PDF](pdfs/torque-equilibrium.pdf))
-5. [Energy](energy/) ([Slides](slides/energy/), [PDF](pdfs/energy.pdf))
-
-[Download All PDFs](as91171.zip)
+{{< slides >}}
 
 ## Unit Plan
 

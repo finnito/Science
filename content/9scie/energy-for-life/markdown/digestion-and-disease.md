@@ -199,7 +199,7 @@ The stomach is a muscular sac with a variety o functions.
 - Digestive enzymes chemically break down food particles
 - These nutrients are then absorbed into the blood stream through the wall of the small intestine
 
-![](assets/digestion_and_disease-small-intestine.png)
+![](assets/digestion_and_disease-small-intestine.png){width=50%}
 
 ---
 
@@ -214,7 +214,7 @@ The stomach is a muscular sac with a variety o functions.
 
 - The walls of the villi are very thin so that glucose can pass through it easily (to the blood stream)
 - Glucose is in high concentration in the small intestine so will move into the capillries (blood) in the villi
-- It is then taken to the muscles that need it, where it is combined with oxygen ($$O_{2}$$) to make energy!
+- It is then taken to the muscles that need it, where it is combined with oxygen ($O_{2}$) to make energy!
 
 ---
 

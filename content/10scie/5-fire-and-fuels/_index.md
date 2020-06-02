@@ -1,22 +1,11 @@
 ---
 title: Fire & Fuels
-date: 2019-08-17
-url: /10scie/5-fire-and-fuels/
+menu:
+    main:
+        parent: "10SCIE"
 ---
 
-## Slides
-
-1. [Introduction](slides/1-introduction/) [(PDF)](pdfs/1-introduction.pdf)
-2. [Why Have a Wick](slides/2-why-have-a-wick/) [(PDF)](pdfs/2-why-have-a-wick.pdf)
-3. [Burning](slides/3-burning/) [(PDF)](pdfs/3-burning.pdf)
-4. [Products of Combustion](slides/4-products-of-combustion/) [(PDF)](pdfs/4-products-of-combustion.pdf)
-5. [Fire Extinguishers](slides/5-fire-extinguishers/) [(PDF)](pdfs/5-fire-extinguishers.pdf)
-6. [Complete and Incomplete Combustion](slides/6-complete-incomplete-combustion/) [(PDF)](pdfs/6-complete-incomplete-combustion.pdf)
-7. [Hydrocarbons](slides/7-hydrocarbons/) [(PDF)](pdfs/7-hydrocarbons.pdf)
-8. [Balancing Equations](slides/8-balancing-equations/) [(PDF)](pdfs/8-balancing-equations.pdf)
-9. [Environmental Impact](slides/9-environmental-impact/) [(PDF)](pdfs/9-environmental-impact.pdf)
-
-[Download All PDFs](5-fire-and-fuels.zip)
+{{< slides >}}
 
 ## Learning Outcomes
 

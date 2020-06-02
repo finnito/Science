@@ -1,7 +1,8 @@
 ---
 title: AS90948 - Genetics
-date: 2020-01-20
-url: /11sci/as90948/
+menu:
+    main:
+        parent: "11SCI"
 ---
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90948](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90948)
@@ -30,15 +31,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 14. Know how to use pedigree charts to determine genotype and phenotype.
 15. Understand how to use a ‘test cross’.
 
-## Slides
-
-1. [Reproduction](reproduction/) ([Slides](slides/reproduction/), [PDF](pdfs/reproduction.pdf))
-2. [Genes, Chromosomes & DNA](genes-chromosomes-dna/) ([Slides](slides/genes-chromosomes-dna/), [PDF](pdfs/genes-chromosomes-dna.pdf))
-3. [Structure of DNA](structure-of-dna/) ([Slides](slides/structure-of-dna/), [PDF](pdfs/structure-of-dna.pdf))
-4. [Variation](variation/) ([Slides](slides/variation/), [PDF](pdfs/variation.pdf))
-5. [Genetic Crosses](genetic-crosses/) ([Slides](slides/genetic-crosses/), [PDF](pdfs/genetic-crosses.pdf))
-
-[Download All PDFs](AS90948.zip)
+{{< slides >}}
 
 ## Unit Plan
 

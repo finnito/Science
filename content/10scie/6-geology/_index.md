@@ -1,7 +1,8 @@
 ---
 title: Geology
-date: 2019-08-20
-url: /10scie/6-geology/
+menu:
+    main:
+        parent: "10SCIE"
 ---
 
 ## Learning Outcomes
@@ -15,12 +16,4 @@ url: /10scie/6-geology/
 7. Describe how sedimentary (including fossils), metamorphic, and igneous rocks are created and destroyed.
 8. Explain how land features (mountains, rivers, plains) are linked to tectonic plate movement errosion and weathering.
 
-## Slides
-
-1. [History of Earth](slides/1-introduction/) [(PDF)](pdfs/1-introduction.pdf)
-2. [Structure of Earth](slides/2-structure-of-earth/) [(PDF)](pdfs/2-structure-of-earth.pdf)
-3. [Plate Tectonics & Continental Drift](slides/3-plate-tectonics-continental-drift/) [(PDF)](pdfs/3-plate-tectonics-continental-drift.pdf)
-4. [NZ Tectonics](slides/4-nz-tectonics/) [(PDF)](pdfs/4-nz-tectonics.pdf)
-5. [Describing & Measuring Earthquakes](slides/5-describing-and-measuring-earthquakes/) [(PDF)](pdfs/5-describing-and-measuring-earthquakes.pdf)
-
-[Download All PDFs](6-geology.zip)
+{{< slides >}}

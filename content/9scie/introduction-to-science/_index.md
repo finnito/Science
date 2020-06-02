@@ -1,7 +1,9 @@
 ---
 title: Introduction to Science
 date: 2020-01-20
-url: /9scie/introduction-to-science/
+menu:
+    main:
+        parent: "9SCIE"
 ---
 
 ## Learning Outcomes
@@ -16,12 +18,7 @@ url: /9scie/introduction-to-science/
 8. Describe a fair test and explain the difference between __independent__, __dependent__  and a __control variable__.
 9. Understand how to set up an investigation and collect and display reliable data in tables and graphs.
 
-## Slides
-
-1. [Laboratory Expectations](laboratory-expectations/) ([Slides](slides/laboratory-expectations/), [PDF](pdfs/laboratory-expectations.pdf))
-2. [Apparatus](apparatus/) ([Slides](slides/apparatus/), [PDF](pdfs/apparatus.pdf))
-
-[Download All PDFs](introduction-to-science.zip)
+{{< slides >}}
 
 ## Unit Plan
 

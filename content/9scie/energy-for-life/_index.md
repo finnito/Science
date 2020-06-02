@@ -1,6 +1,8 @@
 ---
 title: Energy For Life
-date: 2020-05-12
+menu:
+    main:
+        parent: "9SCIE"
 ---
 
 ## Learning Outcomes
@@ -18,16 +20,7 @@ date: 2020-05-12
 11. Describe how the products of digestion are absorbed and transported to the cells in the body,
 12. Describe how the energy in glucose in released through respiration.
 
-## Slides
-
-1. [Types of Energy](slides/types-of-energy/) ([PDF](pdfs/types-of-energy.pdf))
-2. [Conservation of Energy](slides/conservation-of-energy.html) ([PDF](pdfs/conservation-of-energy.pdf))
-3. [Energy in Food](slides/energy-in-food.html) ([PDF](pdfs/energy-in-food.pdf))
-4. [Nutrients in Food](slides/nutrients-in-food.html) ([PDF](pdfs/nutrients-in-food.pdf))
-5. [Healthy Diet](slides/healthy-diet.html) ([PDF](pdfs/healthy-diet.pdf))
-6. [Digestion & Disease](slides/digestion-and-disease.html) ([PDF](pdfs/digestion-and-disease.pdf))
-
-[Download All PDFs](energy-for-life.zip)
+{{< slides >}}
 
 ## Unit Plan
 

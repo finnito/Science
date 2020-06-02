@@ -1,6 +1,11 @@
 ---
 title: Lesson Plans
+menu:
+    main:
+        parent: "9SCIE"
 ---
+
+{{< slides >}}
 
 ## Term 2, Week 2
 

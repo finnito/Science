@@ -1,18 +1,15 @@
 ---
 title: AS91187 - Meteorite Investigation
-date: 2020-01-20
-url: /12ess/1-investigation/
+menu:
+    main:
+        parent: "12ESS"
 ---
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91187](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91187)
 
 ## Learning Outcomes
 
-## Slides
-
-1. [Projectile Motion](1-projectile-motion/) ([Slides](slides/1-projectile-motion/), [PDF](pdfs/1-projectile-motion.pdf))
-
-[Download All PDFs](1-investigation.zip)
+{{< slides >}}
 
 ## Unit Plan
 

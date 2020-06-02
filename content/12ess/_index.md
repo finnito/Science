@@ -1,13 +1,13 @@
 ---
 title: 12 Earth and Space Science
-subtitle: Welcome to 12 Earth and Space Science
-date: 2019-12-03
+menu: "main"
+linkTitle: "12ESS"
 ---
 
 ## Units
 
-1. [Meteorite Investigation](/12ess/1-investigation/)
-2. [Extreme Earth Events](/12ess/2-extreme-earth-events/)
+1. [Meteorite Investigation](1-investigation/)
+2. [Extreme Earth Events](2-extreme-earth-events/)
 
 
 ## 2020 Year Planner

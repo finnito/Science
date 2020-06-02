@@ -1,10 +1,13 @@
 ---
 title: AS91191 - Extreme Earth Events
-date: 2020-03-12
-url: /12ess/2-extreme-earth-events/
+menu:
+    main:
+        parent: "12ESS"
 ---
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91191](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91191)
+
+{{< slides >}}
 
 ## Unit Plan
 

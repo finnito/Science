@@ -33,7 +33,7 @@ To increase the surface area of calcium carbonate we can use smaller chips and e
 
 ---
 
-![](../assets/4-cube-surface-area.jpg)
+![](assets/4-cube-surface-area.jpg)
 
 ---
 
@@ -47,4 +47,4 @@ To increase the surface area of calcium carbonate we can use smaller chips and e
 
 ## Experiment Groups
 
-![Groups](../assets/3-groups.png)
+![Groups](assets/3-groups.png)
