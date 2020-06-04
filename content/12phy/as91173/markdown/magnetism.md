@@ -9,11 +9,12 @@ header-includes:
 - \usepackage[T1]{fontenc}
 - \usepackage{lmodern}
 - \usepackage{amsmath}
+katex: true
 ---
 
 ## Starter 1
 
-If an object has a charge of $0.03C$, how many electrons has it lost?
+If an object has a charge of \(0.03C\), how many electrons has it lost?
 
 __Hint:__ Charge of one electron $=-1.6\times10^{-19}C$
 
@@ -39,12 +40,14 @@ There is $80mA$ of current flowing through a $2k\Omega$ resistor.
 
 ## Starter 2 Answer
 
+$$
 \begin{align*}
     & I = \frac{q}{t} \\
     & It = q \\
     & q = 0.08 \times 1 = 0.08C \\
     & n = \frac{0.08}{1.6\times^{-19}} = 5\times10^{17}
 \end{align*}
+\]
 
 ---
 
