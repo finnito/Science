@@ -1,5 +1,5 @@
 ---
-title: Types of Energy
+title: Energy in Food
 subtitle: 9SCIE - Energy for Life
 author: Finn LeSueur
 date: 2020

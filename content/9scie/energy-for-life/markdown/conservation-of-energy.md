@@ -1,12 +1,9 @@
 ---
-title: Types of Energy
+title: Conservation of Energy
 subtitle: 9SCIE - Energy for Life
 author: Finn LeSueur
 date: 2020
 theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
 header-includes:
 - \usepackage{graphicx}
 - \usepackage[T1]{fontenc}
