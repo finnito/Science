@@ -84,8 +84,10 @@ In your group:
 
 1. Title your experiment
 2. Come up with an __aim__ (What are you investigating? Be specific.)
+    - Get this from your instruction card
 3. Come up with a __hypothesis__ (What do you predict? Be specific.)
-
+    - I think that the rate of reaction will __[increase/decrease]__ when the __[surface area/temperature/concentration]__ __[increases/decreases]__.
+    
 ---
 
 ### Step 2: Variables
@@ -129,6 +131,9 @@ In your group:
 | Powder       |          |          |          |          |
 | Small Chips  |          |          |          |          |
 | Large Chips  |          |          |          |          |
+
+
+__Average__: Add up all your trial times (in seconds) and divide by the number of trials.
 
 ---
 
