@@ -25,7 +25,7 @@ header-includes:
 
 Research and describe the three sides of the fire triangle for a lighter.
 
-![Lighter](assets/4-lighter.jpg){width=30%}
+![Lighter](../assets/4-lighter.jpg){width=30%}
 
 ---
 
@@ -43,7 +43,7 @@ Write down your answer with a diagram in your exercise book.
 
 ---
 
-![](assets/4-limewater-test.jpg){width=75%}
+![](../assets/4-limewater-test.jpg){width=75%}
 
 ---
 

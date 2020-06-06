@@ -38,7 +38,7 @@ header-includes:
 
 ---
 
-![](assets/7-hydrocarbon-formation.png){width=80%}
+![](../assets/7-hydrocarbon-formation.png){width=80%}
 
 ---
 
@@ -46,13 +46,13 @@ header-includes:
 
 Crude oil is what we get directly out of the ground and is made of a mixture of lots of different hydrocarbons (molecules made of only hydrogen and carbon).
 
-![](assets/7-crude-oil.jpg){width=50%}
+![](../assets/7-crude-oil.jpg){width=50%}
 
 ---
 
 # Hydrocarbons
 
-![](assets/7-methane-ethane-propane.jpg){width=75%}
+![](../assets/7-methane-ethane-propane.jpg){width=75%}
 
 ---
 
@@ -153,7 +153,7 @@ Try and conmplete these word and symbol equations (refer to your notes):
 __Complete Combustion__
 
 \begin{align*}
-    methane + oxygen \rightarrow  \hspace{1cm} +  \hspace{1cm}\\
+    methane + oxygen \rightarrow  \hspace{1cm} +  \hspace{1cm}\\\\
     CH_{4} + \frac{1}{2}O_{2} \rightarrow \hspace{2cm} + \hspace{2cm}
 \end{align*}
 

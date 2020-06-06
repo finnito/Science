@@ -30,7 +30,7 @@ header-includes:
 
 <aside class="notes">
 	\begin{align*}
-		{}^{14}_{6}C \rightarrow {}^{14}_{7}N + {}^{0}_{-1}\beta \\
+		{}^{14}_{6}C \rightarrow {}^{14}_{7}N + {}^{0}_{-1}\beta \\\\
 		{}^{14}_{7}N \rightarrow {}^{14}_{8}O + {}^{0}_{-1}\beta
 	\end{align*}
 
@@ -61,7 +61,7 @@ A small sample of a radioactive material iodine-131 has been observed for severa
 
 ---
 
-![](assets/5-half-life-graph.png){width=80%}
+![](../assets/5-half-life-graph.png){width=80%}
 
 ---
 
@@ -70,7 +70,7 @@ A small sample of a radioactive material iodine-131 has been observed for severa
 - The half-life is the time taken for half of the undecayed atoms in a sample to decay.
 - Radioactive materials have unique half-lives.
 
-![](assets/5-half-life-table.png){width=60%}
+![](../assets/5-half-life-table.png){width=60%}
 
 ---
 

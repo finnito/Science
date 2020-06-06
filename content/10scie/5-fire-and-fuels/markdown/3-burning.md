@@ -25,7 +25,7 @@ header-includes:
 
 How would you put this fire out?
 
-![](assets/3-fire-tornado.jpg){ width=75% }
+![](../assets/3-fire-tornado.jpg){ width=75% }
 
 ---
 
@@ -44,7 +44,7 @@ How would you put this fire out?
 When something is burned, a chemical reaction occurs between the fuel and oxygen.
 
 \begin{align*}
-    & magnesium + oxygen \rightarrow \text{magnesium oxide} \\
+    & magnesium + oxygen \rightarrow \text{magnesium oxide} \\\\
     & carbon + oxygen \rightarrow \text{carbon dioxide}
 \end{align*}
 
@@ -52,7 +52,7 @@ When something is burned, a chemical reaction occurs between the fuel and oxygen
 
 ## Fire Triangle
 
-![](assets/3-fire-triangle.png){ width=40% }
+![](../assets/3-fire-triangle.png){ width=40% }
 
 If all three sides of the triangle are present, a fire could start. By removing any of the three sides you can put out a fire.
 

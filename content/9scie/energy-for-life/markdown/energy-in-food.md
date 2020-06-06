@@ -30,7 +30,7 @@ header-includes:
 - As a shorthand we write Joules as __J__
 - It is named after James Joule, an English physicist (1818-1889)
 
-![](assets/energy_in_food-joule.jpg){width=25%}
+![](../assets/energy_in_food-joule.jpg){width=25%}
 
 ---
 
@@ -38,7 +38,7 @@ header-includes:
 
 When we are talking about food, energy is the chemical potential energy stored in the food. By eating the food we can break down the bonds in the food and gain energy!
 
-![](assets/energy_in_food-nutritional-information.png)
+![](../assets/energy_in_food-nutritional-information.png)
 
 ---
 
@@ -70,7 +70,7 @@ It takes you approximately $147J$ to jump $0.3m$ off the ground. How many jumps 
 
  ---
  
- ![](assets/energy_in_food-kilojoules-in-food.jpg)
+ ![](../assets/energy_in_food-kilojoules-in-food.jpg)
  
  ---
  

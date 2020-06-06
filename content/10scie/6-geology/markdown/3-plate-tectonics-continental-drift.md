@@ -40,7 +40,7 @@ __Question__: What is the effect of the crusts moving apart?
 
 ---
 
-![](assets/3-divergent-boundary.jpg)
+![](../assets/3-divergent-boundary.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ __Question__: What is the effect of the crusts moving together?
 
 ---
 
-![](assets/3-convergent-boundary.png)
+![](../assets/3-convergent-boundary.png)
 
 ---
 
@@ -60,11 +60,11 @@ __Question__: What happens when plates slide past each other?
 
 ---
 
-![](assets/3-conservative-boundary.png)
+![](../assets/3-conservative-boundary.png)
 
 ---
 
-![](assets/3-conservative-boundary.jpg)
+![](../assets/3-conservative-boundary.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ __Question__: How do the plate boundaries relate to areas of volcanic activity a
 
 Alfred Wegener was a German, born in 1880 and died in 1930. He was a key figure in developing modern ideas around Earth's structure and movement.
 
-![](assets/3-alfred-wegener.jpg){width=50%}
+![](../assets/3-alfred-wegener.jpg){width=50%}
 
 ---
 
@@ -82,7 +82,7 @@ Alfred Wegener was a German, born in 1880 and died in 1930. He was a key figure 
 
 In 1912, Wegener proposed the idea the idea that the continents were once in a different location and once were all together in a super-continent called __Pangaea__.
 
-![](assets/3-pangaea.jpg){width=50%}
+![](../assets/3-pangaea.jpg){width=50%}
 
 ---
 

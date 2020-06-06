@@ -33,13 +33,13 @@ header-includes:
 
 ## The Setup
 
-![Thiosulphate & HCl](assets/3-reaction-diagram.png)
+![Thiosulphate & HCl](../assets/3-reaction-diagram.png)
 
 ---
 
 ## Experiment Groups
 
-![Groups](assets/3-groups.png)
+![Groups](../assets/3-groups.png)
 
 ---
 

@@ -58,7 +58,7 @@ There are four main nurtients the body needs:
 </div>
 <div>
 
-![](assets/nutrients_in_food-carbohydrates.jpeg)
+![](../assets/nutrients_in_food-carbohydrates.jpeg)
 
 </div>
 
@@ -81,7 +81,7 @@ There are four main nurtients the body needs:
 
 <div>
 
-![](assets/nutrients_in_food-proteins.jpeg)
+![](../assets/nutrients_in_food-proteins.jpeg)
 
 </div>
 
@@ -98,7 +98,7 @@ There are four main nurtients the body needs:
 </div>
 <div>
 
-![](assets/nutrients_in_food-lipids.jpeg)
+![](../assets/nutrients_in_food-lipids.jpeg)
 
 </div>
 
@@ -106,7 +106,7 @@ There are four main nurtients the body needs:
 
 Which foods are rich in each nutrient?
 
-![](assets/nutrients_in_food-pick-and-mix.png)
+![](../assets/nutrients_in_food-pick-and-mix.png)
 
 ---
 
@@ -120,7 +120,7 @@ Which foods are rich in each nutrient?
 </div>
 <div>
 
-![](assets/nutrients_in_food-vitamins.jpeg)
+![](../assets/nutrients_in_food-vitamins.jpeg)
 
 </div>
 
@@ -136,7 +136,7 @@ Which foods are rich in each nutrient?
 </div>
 <div>
 
-![](assets/nutrients_in_food-vitamin-c.png)
+![](../assets/nutrients_in_food-vitamin-c.png)
 
 </div>
 
@@ -152,7 +152,7 @@ Which foods are rich in each nutrient?
 </div>
 <div>
 
-![](assets/nutrients_in_food-vitamin-b12.jpeg)
+![](../assets/nutrients_in_food-vitamin-b12.jpeg)
 
 </div>
 
@@ -168,7 +168,7 @@ Which foods are rich in each nutrient?
 </div>
 <div>
 
-![](assets/nutrients_in_food-vitamin-e.jpeg)
+![](../assets/nutrients_in_food-vitamin-e.jpeg)
 
 </div>
 
@@ -185,7 +185,7 @@ Which foods are rich in each nutrient?
 </div>
 <div>
 
-![](assets/nutrients_in_food-vitamin-a.jpeg)
+![](../assets/nutrients_in_food-vitamin-a.jpeg)
 
 </div>
 
@@ -218,7 +218,7 @@ Which foods are rich in each nutrient?
 </div>
 <div>
 
-![](assets/nutrients_in_food-vitamin-d.jpeg)
+![](../assets/nutrients_in_food-vitamin-d.jpeg)
 
 </div>
 
@@ -230,7 +230,7 @@ Dietary minerals are the chemical elements required by living organisms other th
 
 ---
 
-![](assets/nutrients_in_food-dietary-minerals.jpeg)
+![](../assets/nutrients_in_food-dietary-minerals.jpeg)
 
 ---
 

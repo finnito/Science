@@ -64,7 +64,7 @@ header-includes:
 
 ---
 
-![](assets/2-plum-pudding-model.jpg)
+![](../assets/2-plum-pudding-model.jpg)
 
 ---
 
@@ -76,15 +76,15 @@ header-includes:
 
 ### Gold Foil Experiment
 
-![](assets/2-gold-foil-experiment.png){width=90%}
+![](../assets/2-gold-foil-experiment.png){width=90%}
 
 ---
 
-![](assets/2-gold-foil.png){width=75%}
+![](../assets/2-gold-foil.png){width=75%}
 
 ---
 
-![](assets/2-atom-deflection.png){width=30%}
+![](../assets/2-atom-deflection.png){width=30%}
 
 ---
 

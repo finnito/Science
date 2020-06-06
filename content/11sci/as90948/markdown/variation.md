@@ -43,7 +43,7 @@ __Come write them on the board!__
 
 ---
 
-![](assets/4-distributions.png){width=80%}
+![](../assets/4-distributions.png){width=80%}
 
 ---
 
@@ -71,7 +71,7 @@ There are four main sources of variation that we are interested in:
 - Random changes in the base sequence of DNA that may result in a new allele forming.
 - Many things can cause mutations: think radiation (e.g. UV & skin cancer)
 
-![](assets/4-hulk.jpg){width=40%}
+![](../assets/4-hulk.jpg){width=40%}
 
 ---
 
@@ -100,7 +100,7 @@ There are four main sources of variation that we are interested in:
 
 ---
 
-![](assets/4-meiosis.png){width=100%}
+![](../assets/4-meiosis.png){width=100%}
 
 ---
 

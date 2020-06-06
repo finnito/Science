@@ -47,13 +47,13 @@ Look up the temperature at which these fuels burn and place them in order from c
 - Must tie up long hair
 - Must attend to loose clothing
 
-![](assets/1-positive-attitude.jpg){ width=50% }
+![](../assets/1-positive-attitude.jpg){ width=50% }
 
 ---
 
 ## Burns
 
-![](assets/1-burns-diagram.jpeg){ width=65% }
+![](../assets/1-burns-diagram.jpeg){ width=65% }
 
 Run under cold water for at least 20 minutes.
 

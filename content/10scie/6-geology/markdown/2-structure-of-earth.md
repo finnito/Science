@@ -35,7 +35,7 @@ Using a device, research one method that scientists use to measure the age of Ea
 
 ---
 
-![](assets/2-structure-earth.png)
+![](../assets/2-structure-earth.png)
 
 ---
 
@@ -70,7 +70,7 @@ Using a device, research one method that scientists use to measure the age of Ea
 
 ---
 
-![](assets/2-crust.jpg)
+![](../assets/2-crust.jpg)
 
 ---
 
@@ -86,8 +86,8 @@ Calculate the approximate density of Earth using the following information:
 ### Answer
 
 \begin{align*}
-    & density = |frac{mass}{volume} \\
-    & density = \frac{6\times10^{24}kg}{1\times10^{21}m^{3}} \\
+    & density = |frac{mass}{volume} \\\\
+    & density = \frac{6\times10^{24}kg}{1\times10^{21}m^{3}} \\\\
     & density = 6000kg/m^{3} \text{ 6000kg per cubic meter}
 \end{align*}
 
@@ -112,5 +112,5 @@ By comparison air is $1.225kg/m^{3}$ and water is $997/m^{3}$
 
 ---
 
-![](assets/2-seismic-waves.png)
+![](../assets/2-seismic-waves.png)
 

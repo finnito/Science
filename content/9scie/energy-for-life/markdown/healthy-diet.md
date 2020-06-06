@@ -53,7 +53,7 @@ __MRS C GREN__
 
 ---
 
-![](assets/healthy_diet-food-pyramid.png)
+![](../assets/healthy_diet-food-pyramid.png)
 
 ---
 

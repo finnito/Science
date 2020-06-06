@@ -27,10 +27,10 @@ A car initially travelling at $13ms^{-1}$ rolls down a straight slope, accelerat
 Five variables - five equations!
 
 \begin{align*}
-    & v_{f} = v_{i} + at \\
-    & d = \frac{v_{i} + v_{f}}{2}t \\
-    & v_{f}^{2} = v_{i}^{2} + 2ad \\
-    & d = v_{i}t + \frac{1}{2}at^{2} \\
+    & v_{f} = v_{i} + at \\\\
+    & d = \frac{v_{i} + v_{f}}{2}t \\\\
+    & v_{f}^{2} = v_{i}^{2} + 2ad \\\\
+    & d = v_{i}t + \frac{1}{2}at^{2} \\\\
     & d = v_{f}t - \frac{1}{2}at^{2}
 \end{align*}
 
@@ -77,8 +77,8 @@ Which formula does not include $v_{f}$?
 __Step Four - "subtitute"__
 
 \begin{align*}
-    & d = v_{f}t + \frac{1}{2}at^{2} \\
-    & d = (13 \times 10) + (\frac{1}{2} \times 0.6 \times 10^{2}) \\
+    & d = v_{f}t + \frac{1}{2}at^{2} \\\\
+    & d = (13 \times 10) + (\frac{1}{2} \times 0.6 \times 10^{2}) \\\\
 \end{align*}
 
 ---
@@ -86,8 +86,8 @@ __Step Four - "subtitute"__
 __Step Five - "solve"__
 
 \begin{align*}
-    & d = v_{f}t + \frac{1}{2}at^{2} \\
-    & d = (13 \times 10) + (\frac{1}{2} \times 0.6 \times 10^{2}) \\
+    & d = v_{f}t + \frac{1}{2}at^{2} \\\\
+    & d = (13 \times 10) + (\frac{1}{2} \times 0.6 \times 10^{2}) \\\\
     & d = 130 + 30 = 160m
 \end{align*}
 

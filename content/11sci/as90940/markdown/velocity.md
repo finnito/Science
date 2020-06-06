@@ -65,8 +65,8 @@ e.g. 13 meters per second __east__
 ## How to Calculate Velocity
 
 \begin{align*}
-    & velocity = \frac{\text{change in distance}}{\text{change in time}} \\
-    & v = \frac{\Delta d}{\Delta t} \\
+    & velocity = \frac{\text{change in distance}}{\text{change in time}} \\\\
+    & v = \frac{\Delta d}{\Delta t} \\\\
 \end{align*}
 
 it is measured in meteres per second, also shown as $\frac{m}{s}$ or $ms^{-1}$.
@@ -94,8 +94,8 @@ A rock climber climbs 15 meters in 5.48 seconds. What velocity was he travelling
 A rock climber climbs 15 meters in 5.48 seconds. What velocity was he travelling?
 
 \begin{align*}
-    & v = \frac{\Delta d}{\Delta t} && \text{show the equation} \\
-    & v = \frac{15}{5.48} && \text{substitute values} \\
+    & v = \frac{\Delta d}{\Delta t} && \text{show the equation} \\\\
+    & v = \frac{15}{5.48} && \text{substitute values} \\\\
     & v = 2.74\frac{m}{s}
 \end{align*}
 
@@ -118,8 +118,8 @@ __Step 1__: Convert to SI units
 __Step 2__: 
 
 \begin{align*}
-    & v = \frac{\Delta d}{\Delta t} && \text{formula} \\
-    & v = \frac{4610}{1276} && \text{substitute} \\
+    & v = \frac{\Delta d}{\Delta t} && \text{formula} \\\\
+    & v = \frac{4610}{1276} && \text{substitute} \\\\
     & v = 3.61\frac{m}{s} && \text{solve}
 \end{align*}
 
@@ -133,13 +133,13 @@ __Step 2__:
 
 We can plot a graph with __time on the x-axis__ and __distance on the y-axis__ to help us visualise data. Graphs are very useful to easily gain information from measurements.
 
-![Distance-Time Graph](assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }
+![Distance-Time Graph](../assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }
 
 ---
 
 ## Interpreting Distance-Time Graphs
 
-![Distance-Time Graph](assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }
+![Distance-Time Graph](../assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }
 
 What can you tell me about the velocity of the runner in seconds A, B, C, D and E?
 
@@ -147,7 +147,7 @@ What can you tell me about the velocity of the runner in seconds A, B, C, D and 
 
 ## Interpreting Distance-Time Graphs
 
-![Distance-Time Graph](assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }
+![Distance-Time Graph](../assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }
 
 - __Positive gradient__: Moving away
 - __Flat gradient__: Stationary
@@ -157,7 +157,7 @@ What can you tell me about the velocity of the runner in seconds A, B, C, D and 
 
 ## Drawing Graphs
 
-![Distance-Time Graph](assets/1-distance-time-graph.png "Distance-Time Graph"){ width=30% }
+![Distance-Time Graph](../assets/1-distance-time-graph.png "Distance-Time Graph"){ width=30% }
 
 - Start the axis at zero
 - Title each axis
@@ -175,8 +175,8 @@ What can you tell me about the velocity of the runner in seconds A, B, C, D and 
 # Calculating Velocity From Graphs
 
 \begin{align*}
-    & v = \frac{\Delta d}{\Delta t} \\
+    & v = \frac{\Delta d}{\Delta t} \\\\
     & v = \frac{rise}{run}
 \end{align*}
 
-![Distance-Time Graph](assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }
+![Distance-Time Graph](../assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }

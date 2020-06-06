@@ -33,9 +33,9 @@ header-includes:
 
 Is it possible to turn copper into gold?
 
-![](assets/3-copper-atom.png){width=20%}
+![](../assets/3-copper-atom.png){width=20%}
 
-![](assets/3-gold-atom.jpg){width=20%}
+![](../assets/3-gold-atom.jpg){width=20%}
 
 ---
 
@@ -49,13 +49,13 @@ Is it possible to turn copper into gold?
 
 ### Radioactive Decay
 
-![](assets/3-radioactive-decay.jpg){width=60%}
+![](../assets/3-radioactive-decay.jpg){width=60%}
 
 ---
 
 Polonium-211
 
-![](assets/3-pl-211.gif){width=60%}
+![](../assets/3-pl-211.gif){width=60%}
 
 ---
 
@@ -65,7 +65,7 @@ Polonium-211 is an unstable isotope and goes through __alpha decay__ to become a
 
 ## Alpha Particle
 
-![](assets/3-alpha-particle.png){width=70%}
+![](../assets/3-alpha-particle.png){width=70%}
 
 ---
 
@@ -85,7 +85,7 @@ Polonium-211 is an unstable isotope and goes through __alpha decay__ to become a
 
 Hydrogen-3
 
-![](assets/3-hydrogen-3.png){width=70%}
+![](../assets/3-hydrogen-3.png){width=70%}
 
 ---
 
@@ -119,7 +119,7 @@ Hydrogen-3 goes through beta decay to become a more stable helium-3 atom. It doe
 
 ---
 
-![](assets/3-radiation-comparison.png){width=70%}
+![](../assets/3-radiation-comparison.png){width=70%}
 
 ---
 
@@ -127,7 +127,7 @@ What would happen to each radiation type as it enters a magnetic field (coming o
 
 ---
 
-![](assets/3-radiation-in-b-field.gif){width=70%}
+![](../assets/3-radiation-in-b-field.gif){width=70%}
 
 ---
 
@@ -145,19 +145,19 @@ What would happen to each radiation type as it enters a magnetic field (coming o
 
 Recall: Alpha Radiation
 
-![](assets/3-alpha-particle.png){width=80%}
+![](../assets/3-alpha-particle.png){width=80%}
 
 ---
 
 Recall: Beta Radiation
 
-![](assets/3-beta-decay.png){width=80%}
+![](../assets/3-beta-decay.png){width=80%}
 
 ----
 
 Recall: Gamma Decay
 
-![](assets/3-gamma-decay.png){width=80%}
+![](../assets/3-gamma-decay.png){width=80%}
 
 ---
 
@@ -175,7 +175,7 @@ They work through nuclear fission or fusion of such materials as plutonium and u
 
 Our current nuclear power reactors utilise nuclear fission of plutonium to create energy. Unfortunately they also produce radioactive by-products which are hard to dispose of in a safe way.
 
-![](assets/3-nuclear-reactor.jpg){width=30%}
+![](../assets/3-nuclear-reactor.jpg){width=30%}
 
 ---
 
@@ -189,7 +189,7 @@ It can also be used to steralise a variety of medical instruments and food.
 
 It can also be used in medical imaging and tracers to follow the path of materials through an ecosystem.
 
-![](assets/3-radioactive-tracer.jpg){width=50%}
+![](../assets/3-radioactive-tracer.jpg){width=50%}
 
 ---
 
@@ -201,7 +201,7 @@ Smoke particles interact with the ionized particles causing them to lose their c
 
 ---
 
-![](assets/3-smoke-alarm.jpg){width=80%}
+![](../assets/3-smoke-alarm.jpg){width=80%}
 
 ---
 

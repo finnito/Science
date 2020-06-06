@@ -38,7 +38,7 @@ header-includes:
 
 ---
 
-![](assets/digestion_and_disease-digestive-system.jpeg)
+![](../assets/digestion_and_disease-digestive-system.jpeg)
 
 ---
 
@@ -55,7 +55,7 @@ The digestive system is essentially a very long tube, going from your mouth to y
 - The body carries out _digestion_ of food to convert large insoluble food molecules into smaller soluble ones.
 - Small food molecules can pass through the walls of the small intestine and then dissolve into the blood stream. Large food molecules cannot do this.
 
-__NB:__ _Insoluble_ means that it cannot dissolve in water (e.g. oil)
+> __Insoluble__: adjective - means that it cannot dissolve in water (e.g. oil)
 
 ---
 
@@ -109,7 +109,7 @@ Gastroesophageal Reflux Disease, gallstones, celiac disease, Chron's disease, uc
 
 ---
 
-![](assets/digestion_and_disease-labelled.png)
+![](../assets/digestion_and_disease-labelled.png)
 
 ---
 
@@ -125,7 +125,7 @@ Saliva contains __enzymes__ that start to __chemically break down__ some of the 
 
 Enzymes are biological __catalysts__ that speed up chemical reactions.
 
-![](assets/digestion_and_disease-catalyst.jpg) {width=50%}
+![](../assets/digestion_and_disease-catalyst.jpg) {width=50%}
 
 ---
 
@@ -155,7 +155,7 @@ __Task__: Match these up
 
 Food then passes the __epiglottis__, a flat of skin and cartilage that prevents food from entering the __trachea__ (air tube).
 
-![](assets/digestion_and_disease-epiglottis.jpg)
+![](../assets/digestion_and_disease-epiglottis.jpg)
 
 ---
 
@@ -199,7 +199,7 @@ The stomach is a muscular sac with a variety o functions.
 - Digestive enzymes chemically break down food particles
 - These nutrients are then absorbed into the blood stream through the wall of the small intestine
 
-![](assets/digestion_and_disease-small-intestine.png){width=50%}
+![](../assets/digestion_and_disease-small-intestine.png){width=50%}
 
 ---
 
@@ -208,12 +208,14 @@ The stomach is a muscular sac with a variety o functions.
 - The walls of the small intestine are not smooth
 - They are covered in villi which increases the surface area for more rapid absorption
 
-![](assets/digestion_and_disease-villi.jpg)
+![](../assets/digestion_and_disease-villi.jpg)
 
 ---
 
+#### Villi Continued
+
 - The walls of the villi are very thin so that glucose can pass through it easily (to the blood stream)
-- Glucose is in high concentration in the small intestine so will move into the capillries (blood) in the villi
+- Glucose is in high concentration in the small intestine so will move into the capillaries (blood) in the villi
 - It is then taken to the muscles that need it, where it is combined with oxygen ($O_{2}$) to make energy!
 
 ---
@@ -225,11 +227,11 @@ The stomach is a muscular sac with a variety o functions.
 
 ---
 
-![](assets/digestion_and_disease-label-activity.png)
+![](../assets/digestion_and_disease-label-activity.png)
 
 ---
 
-![](assets/digestion_and_disease-label-activity-answers.png)
+![](../assets/digestion_and_disease-label-activity-answers.png)
 
 ---
 

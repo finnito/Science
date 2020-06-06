@@ -54,7 +54,7 @@ header-includes:
 
 ---
 
-![](assets/5-wave-types.gif)
+![](../assets/5-wave-types.gif)
 
 ---
 
@@ -64,7 +64,7 @@ header-includes:
 
 ---
 
-![](assets/5-waves-summary.png)
+![](../assets/5-waves-summary.png)
 
 ---
 
@@ -83,7 +83,7 @@ header-includes:
 - To measure earthquakes we use a __seismograph__
 - The inertia of the mass keeps the pen still as the ground moves below it, creating graph
 
-![](assets/5-seismograph.png){width=50%}
+![](../assets/5-seismograph.png){width=50%}
 
 ---
 
@@ -93,7 +93,7 @@ __Words:__ seismographs, focus, location, waves, epicentre, released
 
 ---
 
-![](assets/5-earthquake.png){width=80%}
+![](../assets/5-earthquake.png){width=80%}
 
 ---
 
@@ -102,7 +102,7 @@ __Words:__ seismographs, focus, location, waves, epicentre, released
 
 ---
 
-![](assets/5-earthquake.png){width=40%}
+![](../assets/5-earthquake.png){width=40%}
 
 We can see that the epicenter is the closest place on the surface to the focus. This is why the __s waves__ get there first.
 

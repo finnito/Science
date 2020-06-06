@@ -26,7 +26,7 @@ Projectile motion can be thought of as _motion under gravity_.
 
 ---
 
-![](assets/ideal-world-meme.jpg){ width=75% }
+![](../assets/ideal-world-meme.jpg){ width=75% }
 
 ---
 

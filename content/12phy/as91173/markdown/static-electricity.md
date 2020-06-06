@@ -25,7 +25,7 @@ Take 5 minutes and brainstorm in your book all the things that you can remember 
 
 Static electricity has many effects - some dangerous, some hilarious, but they all depend on charge!
 
-![Static Electricity](assets/1-static-electricity.jpg "Static Electricity"){ width=50% }
+![Static Electricity](../assets/1-static-electricity.jpg "Static Electricity"){ width=50% }
 
 ---
 
@@ -33,7 +33,7 @@ Static electricity has many effects - some dangerous, some hilarious, but they a
 
 From Year 10 we should all remember that, much like magnets, opposites attract and likes repel.
 
-![Electric Charges](assets/1-charges.png "Electric Charges"){ width=75% }
+![Electric Charges](../assets/1-charges.png "Electric Charges"){ width=75% }
 
 ---
 
@@ -41,7 +41,7 @@ From Year 10 we should all remember that, much like magnets, opposites attract a
 
 Recall: __the atom__. What element is this? What are the three subatomic particles that make it up?
 
-![](assets/1-carbon-atom.gif "Carbon atom"){ width=50% }
+![](../assets/1-carbon-atom.gif "Carbon atom"){ width=50% }
 
 ---
 
@@ -77,7 +77,7 @@ We applied friction!
 
 # Van der Graaf Generator
 
-![Van der Graaf Generator](assets/1-van-der-graaf-generator.png "Van der Graaf Generator"){ width=50% }
+![Van der Graaf Generator](../assets/1-van-der-graaf-generator.png "Van der Graaf Generator"){ width=50% }
 
 ---
 
@@ -109,8 +109,8 @@ If a balloon has charge of $-3C$: did the balloon lose or gain electrons, and ho
 ---
 
 \begin{align*}
-    & \text{Negative C -> electrons gained (-ve charge)} \\
-    & num_{e} = 3 \times (6.25 \times 10^{18}) \\
+    & \text{Negative C -> electrons gained (-ve charge)} \\\\
+    & num_{e} = 3 \times (6.25 \times 10^{18}) \\\\
     & num_{e} = 1.875 \times 10^{19} && \text{ electrons gained}
 \end{align*}
 
@@ -123,7 +123,7 @@ If Charlotte has charge of $0.2C$ did she lose or gain electrons and how many?
 ---
 
 \begin{align*}
-    & \text{Positive C -> electrons lost (+ve charge)} \\
-    & num_{e} = 0.2 \times (6.25 \times 10^{18}) \\
+    & \text{Positive C -> electrons lost (+ve charge)} \\\\
+    & num_{e} = 0.2 \times (6.25 \times 10^{18}) \\\\
     & num_{e} = 1.25 \times 10^{18} && \text{ electrons lost}
 \end{align*}

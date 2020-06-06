@@ -44,7 +44,7 @@ Explore this website: [http://dinosaurpictures.org/ancient-earth#240](http://din
 
 ---
 
-![](assets/4-ring-of-fire.jpg)
+![](../assets/4-ring-of-fire.jpg)
 
 ---
 
@@ -75,13 +75,13 @@ What plates does New Zealand straddle?
 
 ---
 
-![](assets/4-nz-plates.png)
+![](../assets/4-nz-plates.png)
 
 ---
 
 Where plates move apart, new mountains form. Where plates meet, one can go under the other or they push together and form new mountains.
 
-![](assets/4-plate-boundary.png){width=80%}
+![](../assets/4-plate-boundary.png){width=80%}
 
 ---
 
@@ -93,11 +93,11 @@ We call the areas where plate boundaries __fault lines__.
 
 ---
 
-![](assets/4-canterbury-fault.jpg){width=80%}
+![](../assets/4-canterbury-fault.jpg){width=80%}
 
 ---
 
-![](assets/4-wellington-faults.png){width=50%}
+![](../assets/4-wellington-faults.png){width=50%}
 
 ---
 
@@ -116,5 +116,5 @@ The trench visible north and south of New Zealand shows that the Pacific plate i
 
 ---
 
-![](assets/4-volcanoes.gif){width=50%}
+![](../assets/4-volcanoes.gif){width=50%}
 
