@@ -11,6 +11,6 @@
       <a title="View on Gitlab" href="https://gitlab.com/Finnito/Science">View on Gitlab</a>
     </p>
   </footer>
-  {{ if .Params.katex }}{{ partial "katex.html" }}{{ end }}
+  {{ if (isset .Params "katex") }}{{ partial "katex.html" }}{{ end }}
   </body>
 </html>
