@@ -17,7 +17,7 @@ header-includes:
 
 ## Practice Assessment
 
-![](assets/3-groups.png)
+![](../assets/3-groups.png)
 
 ---
 

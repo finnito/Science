@@ -35,7 +35,7 @@ There are three types of nuclear reactions
 
 ## Fission
 
-![](assets/6-nuclear-fission.jpg){width=80%}
+![](../assets/6-nuclear-fission.jpg){width=80%}
 
 ---
 
@@ -43,7 +43,7 @@ There are three types of nuclear reactions
 
 If the protons are positively charged, why don't they repel each other and the nucleus break apart?
 
-![](assets/6-atom-diagram.png){width=80%}
+![](../assets/6-atom-diagram.png){width=80%}
 
 ---
 
@@ -68,13 +68,13 @@ If the protons are positively charged, why don't they repel each other and the n
 
 ---
 
-![](assets/6-nuclear-fission.jpg){width=80%}
+![](../assets/6-nuclear-fission.jpg){width=80%}
 
 ---
 
 ## Nuclear Fusion
 
-![](assets/6-nuclear-fusion.jpg){width=70%}
+![](../assets/6-nuclear-fusion.jpg){width=70%}
 
 \begin{align*}
     & {}^{3}_{1}H + {}^{2}_{1}H \rightarrow {}^{4}_{2}He + {}^{1}_{0}n
@@ -120,7 +120,7 @@ A type of smoke detector uses a radioactive material called Americium-241. When 
 1. Write down the nuclear equation for the alpha decay of a nucleus of Americium-241.
 2. Calculate the quantity of energy released when a nucleus of Americium-241 decays.
 
-![](assets/6-smoke-detector-table.png){width=50%}
+![](../assets/6-smoke-detector-table.png){width=50%}
 
 ---
 
@@ -129,7 +129,7 @@ In a fission reaction, an U-235 nucleus combines with a neutron, then splits int
 1. Write down the nuclear equation
 2. Calculate the amount of energy released
 
-![](assets/6-fission-table.png){width=60%}
+![](../assets/6-fission-table.png){width=60%}
 
 ---
 

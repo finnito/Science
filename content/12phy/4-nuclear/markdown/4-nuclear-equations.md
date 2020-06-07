@@ -33,7 +33,7 @@ This means that the atomic number of the decaying atom is ________ by ________ a
 
 ---
 
-![](assets/4-a-decay-table-1.png){width=80%}
+![](../assets/4-a-decay-table-1.png){width=80%}
 
 <aside class="notes">
     Fill out this table for alpha decay.
@@ -41,13 +41,13 @@ This means that the atomic number of the decaying atom is ________ by ________ a
 
 ---
 
-![](assets/4-a-decay-table-2.png){width=80%}
+![](../assets/4-a-decay-table-2.png){width=80%}
 
 ---
 
 \begin{align*}
-    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}He \\
-    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}\alpha \\
+    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}He \\\\
+    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}\alpha \\\\
 \end{align*}
 
 ---
@@ -58,17 +58,17 @@ This means that the atomic number of the decay atom is ________ by ________ and 
 
 ---
 
-![](assets/4-b-decay-table-1.png){width=80%}
+![](../assets/4-b-decay-table-1.png){width=80%}
 
 ---
 
-![](assets/4-b-decay-table-2.png){width=80%}
+![](../assets/4-b-decay-table-2.png){width=80%}
 
 ---
 
 \begin{align*}
-    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}e \\
-    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}\beta \\
+    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}e \\\\
+    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}\beta \\\\
 \end{align*}
 
 ---
@@ -77,16 +77,16 @@ In a gamma emission, the decaying atom only loses energy, which means it has the
 
 ---
 
-![](assets/4-g-decay-table-1.png){width=80%}
+![](../assets/4-g-decay-table-1.png){width=80%}
 
 ---
 
-![](assets/4-g-decay-table-2.png){width=80%}
+![](../assets/4-g-decay-table-2.png){width=80%}
 
 ---
 
 \begin{align*}
-    & {}^{201}_{79}Au \rightarrow {}^{201}_{79}Au + \gamma \\
+    & {}^{201}_{79}Au \rightarrow {}^{201}_{79}Au + \gamma \\\\
 \end{align*}
 
 ---

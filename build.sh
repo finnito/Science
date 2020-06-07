@@ -10,7 +10,6 @@ MODULES=(
     '11sci/as90930'
     '11sci/as90948'
     '12phy/as91171'
-    #'12phy/5-maths'
     '12ess/2-extreme-earth-events'
     '12phy/as91173'
     '12phy/4-nuclear'
@@ -23,10 +22,8 @@ main() {
         if cd $i; then 
             echo "Entered $i"
             createFolders
-            copyAssets
             createSlides
             createPDFs
-            relocateSlidesPDFs
             createZIPs
             putMDInRoot
             cd ../../
@@ -69,49 +66,50 @@ createFolders() {
 
 copyAssets() {
     if [[ -d 'assets' ]]; then
-        rsync -qr assets slides/
-        echo "    Copying assets into slides directory"
+        rsync -qr assets "../../../static/${1}/"
+        echo "    Copying assets into static directory"
     fi
 }
 
 createSlides() {
     if [[ -d 'markdown' ]]; then
-        for filename in markdown/*.md; do 
-            [[ -e "$filename" ]] || continue    
-            file="${filename##*/}"
-            name="${file%%.*}"
-            pandoc -s --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js -i -t revealjs "markdown/${name}.md" -o "${name}.html" -V revealjs-url=/reveal.js
-            if [ $? == 0 ]; then
-                echo "    Built ${name}.md --> ${name}.html"
+        if cd markdown; then
+            echo "    Entered markdown"
+            for filename in *.md; do 
+                [[ -e "$filename" ]] || continue    
+                file="${filename##*/}"
+                name="${file%%.*}"
+                pandoc -s --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js -i -t revealjs "${name}.md" -o "${name}.html" -V revealjs-url=/reveal.js
+                if [ $? == 0 ]; then
+                    echo "    Built ${name}.md --> ${name}.html"
+                fi
+            done
+            if mv *.html ../slides/; then
+                echo "    Moved slides into 'slides'"
             fi
-        done
+            cd ../
+        fi
     fi
 }
 
 createPDFs() {
     if [[ -d 'markdown' ]]; then
-        for filename in markdown/*.md; do 
-            [[ -e "$filename" ]] || continue    
-            file="${filename##*/}"
-            name="${file%%.*}"
-            pandoc "markdown/${name}.md" -o "${name}.pdf" --pdf-engine=pdflatex
-            if [ $? == 0 ]; then
-                echo "    Built ${name}.md --> ${name}.pdf"
+        if cd markdown; then
+            echo "    Entered markdown"
+            for filename in *.md; do 
+                [[ -e "$filename" ]] || continue    
+                file="${filename##*/}"
+                name="${file%%.*}"
+                pandoc "${name}.md" -o "${name}.pdf" --pdf-engine=pdflatex
+                if [ $? == 0 ]; then
+                    echo "    Built ${name}.md --> ${name}.pdf"
+                fi
+            done
+            if mv *.pdf ../pdfs/; then
+                echo "    Moved PDFs into 'pdfs'"
             fi
-        done
-    fi
-}
-
-relocateSlidesPDFs() {
-    if mv *.html slides; then
-        echo "    Moved the slides into the 'slides' directory"
-    else
-        echo "    Could not move the slides into the 'slides' directory"
-    fi
-    if mv *.pdf pdfs; then
-        echo "    Moved the PDFs into the 'pdfs' directory"
-    else
-        echo "    Could not move the PDFs into the 'pdfs' directory"
+            cd ../
+        fi
     fi
 }
 

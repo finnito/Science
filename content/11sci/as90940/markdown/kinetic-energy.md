@@ -31,7 +31,7 @@ A horse has four hooves, so the total surface area that the horse is exerting pr
 Recall that  __weight is a force__, so we  can rearrange $P=\frac{F}{A}$ for $F$.
 
 \begin{align*}
-    & F = P \times A \\
+    & F = P \times A \\\\
     & F = 200155 \times 0.0176 = 3522.728N
 \end{align*}
 
@@ -108,7 +108,7 @@ Mr LeSueur rides his bike to work at $32km/h$ ($8.89ms^{-1}$). Both he and his b
 We know $m=80kg$ and $v=8.89ms^{-1}$, and we are looking for $E_{k}$.
 
 \begin{align*}
-    E_{k} = \frac{1}{2} \times 80 \times 8.89^{2} \\
+    E_{k} = \frac{1}{2} \times 80 \times 8.89^{2} \\\\
     E_{k} = 3161.284J
 \end{align*}
 
@@ -125,7 +125,7 @@ Sophie is skiing down Upper Fascination at Mt Hutt, and is trying to go really f
 We know $m=60kg$ and $v=16.67ms^{-1}$, and we are looking for $E_{k}$.
 
 \begin{align*}
-    E_{k} = \frac{1}{2} \times 60 \times 16.67^{2} \\
+    E_{k} = \frac{1}{2} \times 60 \times 16.67^{2} \\\\
     E_{k} = 8336.667J
 \end{align*}
 

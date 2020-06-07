@@ -1,4 +1,4 @@
-baseurl       = "http://public.test"
+baseurl       = "localhost:1313"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"

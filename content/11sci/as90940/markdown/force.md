@@ -45,7 +45,7 @@ Draw a box to represent yourself, with arrows coming out of the box to represent
 
 ## Force Diagram
 
-![Force Diagram](assets/3-force-diagram.png)
+![Force Diagram](../assets/3-force-diagram.png)
 
 ---
 

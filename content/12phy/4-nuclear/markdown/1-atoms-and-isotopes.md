@@ -34,7 +34,7 @@ header-includes:
 
 ---
 
-![](assets/1-four-nations.jpg)
+![](../assets/1-four-nations.jpg)
 
 - Aristotle and the Greeks in 450BC thought that everything was made of water, earth, air and fire
 
@@ -42,7 +42,7 @@ header-includes:
 
 In the modern day, we now know that everything is made up of about 119 elements.
 
-![](assets/1-periodic-table.png){width=75%}
+![](../assets/1-periodic-table.png){width=75%}
 
 ---
 
@@ -54,7 +54,7 @@ In the modern day, we now know that everything is made up of about 119 elements.
 
 We know that each element is made up of a unique type atom
 
-![](assets/1-elements.png)
+![](../assets/1-elements.png)
 
 ---
 
@@ -105,7 +105,7 @@ Now add the atomic and mass numbers to __oxygen__, __sodium__, __aluminium__ and
 
 ---
 
-![](assets/1-table.png)
+![](../assets/1-table.png)
 
 ---
 
@@ -118,4 +118,4 @@ Now add the atomic and mass numbers to __oxygen__, __sodium__, __aluminium__ and
 
 ---
 
-![](assets/1-carbon-isotopes.png)
+![](../assets/1-carbon-isotopes.png)

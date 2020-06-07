@@ -15,7 +15,7 @@ header-includes:
 
 Calculate the __net__ force acting upon these objects:
 
-![Unbalanced Forces](assets/4-unbalanced-forces.png)
+![Unbalanced Forces](../assets/4-unbalanced-forces.png)
 
 ---
 
@@ -32,7 +32,7 @@ It causes the object to accelerate (or deaccelerate).
 We know this because of the equation
 
 \begin{align*}
-    & force = mass\times acceleration \\
+    & force = mass\times acceleration \\\\
     & F = m \times a
 \end{align*}
 
@@ -76,7 +76,7 @@ The most classic case of pressure is sharpening a knife. Why do we sharpen knive
 Pressure is defined as: _the amount of force per unit area_.
 
 \begin{align*}
-    & pressure = \frac{force}{area} \\
+    & pressure = \frac{force}{area} \\\\
     & P = \frac{F}{A}
 \end{align*}
 
@@ -121,9 +121,9 @@ Jacob bikes down The Flying Nun. He and his bike have a mass of $82kg$ and he ac
 ### Answers
 
 \begin{align*}
-    & P = \frac{F}{A} \\
-    & \text{1. } P = \frac{3}{0.5} = 6Pa \\
-    & \text{2. } P = \frac{3}{0.25} = 12Pa \\
+    & P = \frac{F}{A} \\\\
+    & \text{1. } P = \frac{3}{0.5} = 6Pa \\\\
+    & \text{2. } P = \frac{3}{0.25} = 12Pa \\\\
     & \text{3. } P = \frac{3}{0.125} = 24Pa
 \end{align*}
 
@@ -144,9 +144,9 @@ Jacob bikes down The Flying Nun. He and his bike have a mass of $82kg$ and he ac
 ### Answers
 
 \begin{align*}
-    & A = \frac{F}{P} \\
-    & \text{4. } A = \frac{5}{7} = 0.71m^{2} \\
-    & \text{5. } A = \frac{7}{3} =  2.33m^{2} \\
+    & A = \frac{F}{P} \\\\
+    & \text{4. } A = \frac{5}{7} = 0.71m^{2} \\\\
+    & \text{5. } A = \frac{7}{3} =  2.33m^{2} \\\\
     & \text{6. } A = \frac{10}{3} = 3.33m^{2}
 \end{align*}
 
@@ -167,9 +167,9 @@ Jacob bikes down The Flying Nun. He and his bike have a mass of $82kg$ and he ac
 ### Answers
 
 \begin{align*}
-    & F = P \times A \\
-    & \text{7. } F = 0.25 \times 5 = 1.25N \\
-    & \text{8. } F = 0.5 \times 7 = 3.5N \\
+    & F = P \times A \\\\
+    & \text{7. } F = 0.25 \times 5 = 1.25N \\\\
+    & \text{8. } F = 0.5 \times 7 = 3.5N \\\\
     & \text{9. } F = 0.75 \times 10 = 7.5N
 \end{align*}
 
@@ -187,9 +187,9 @@ Because __weight__ is a force, we know that we are looking for $F$.
 
 \begin{align*}
     & P = 13000Pa
-    & A = 0.02m^{2} \times 2 = 0.04m^{2} \\
-    & F = P \times A \\
-    & F = 13000 \times 0.04 \\
+    & A = 0.02m^{2} \times 2 = 0.04m^{2} \\\\
+    & F = P \times A \\\\
+    & F = 13000 \times 0.04 \\\\
     & F = 520N
 \end{align*}
 

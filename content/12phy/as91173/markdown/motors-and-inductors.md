@@ -33,13 +33,13 @@ Force on a current carrying wire in a magnetic field is given by this equation.
 1. What direction is the force on this current carrying wire?
 2. What is the force if the field is $0.02T$, the current $2A$ and the length of wire $10cm$?
 
-![](assets/10-current-wire.png){width=60%}
+![](../assets/10-current-wire.png){width=60%}
 
 ---
 
 What do you think happens to the force if the wire is on an angle?
 
-![](assets/10-angle-current-wire.png){width=80%}
+![](../assets/10-angle-current-wire.png){width=80%}
 
 ---
 
@@ -55,7 +55,7 @@ What do you think happens to the force if the wire is on an angle?
 
 Find the force on this wire in a field of $0.05T$ with a current of $0.15mA$ flowing through it. The length of the wire is $20cm$ and the angle is $38^{\circ}$.
 
-![](assets/10-angle-wire-example.png){width=80%}
+![](../assets/10-angle-wire-example.png){width=80%}
 
 ---
 
@@ -68,35 +68,35 @@ Find the force on this wire in a field of $0.05T$ with a current of $0.15mA$ flo
 
 What direction is the force acting upon the four sides of this loop? What does this tell you?
 
-![](assets/10-dc-motor-rotate.png){width=80%}
+![](../assets/10-dc-motor-rotate.png){width=80%}
 
 ---
 
-![](assets/10-dc-motor-explain.png){width=80%}
+![](../assets/10-dc-motor-explain.png){width=80%}
 
 ---
 
 ## Starter 1
 
-![](assets/10-starter-1.png){width=70%}
+![](../assets/10-starter-1.png){width=70%}
 
 ---
 
 ## Starter 2
 
-![](assets/10-starter-2.png){width=70%}
+![](../assets/10-starter-2.png){width=70%}
 
 ---
 
 ## Starter 3
 
-![](assets/10-starter-3.png){width=70%}
+![](../assets/10-starter-3.png){width=70%}
 
 ---
 
 ## Starter 4
 
-![](assets/10-starter-4.png){width=70%}
+![](../assets/10-starter-4.png){width=70%}
 
 ---
 
@@ -106,7 +106,7 @@ What direction is the force acting upon the four sides of this loop? What does t
 
 We induce a voltage!
 
-![](assets/10-electromagnetic-induction.gif){width=90%}
+![](../assets/10-electromagnetic-induction.gif){width=90%}
 
 ---
 
@@ -126,7 +126,7 @@ __Induced voltage__ in a wire moving through a magnetic field:
 
 A metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8ms^{-1}$ through a magnetic field with strength $0.7T$. __Calculate the induced voltage and induced current__.
 
-![](assets/10-vbil-example.png)
+![](../assets/10-vbil-example.png)
 
 ---
 
@@ -137,13 +137,13 @@ A metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8
 - Recall how a current carrying wire acts in a magnetic field?
 - Yes! $F=BIL$
 
-![](assets/10-induction-example.png){width=50%}
+![](../assets/10-induction-example.png){width=50%}
 
 ---
 
 If we drag the coil to the right, what will we observe?
 
-![](assets/10-induction-example.png){width=80%}
+![](../assets/10-induction-example.png){width=80%}
 
 ---
 
@@ -157,4 +157,4 @@ If we drag the coil to the right, what will we observe?
 
 Continuing our example from earlier: a metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8ms^{-1}$ through a magnetic field with strength $0.7T$. __Calculate the magnitude and direction of the opposing force acting upon the rod__.
 
-![](assets/10-vbil-example.png)
+![](../assets/10-vbil-example.png)

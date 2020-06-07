@@ -34,8 +34,8 @@ Momentum is a quantity of an object which involes its __mass__ and __velocity__.
 It can be thought of as the __oomph__ of an object. The more __oomph__ an object has, the harder it is to stop.
 
 \begin{align*}
-    & p = mv \\
-    & momentum = mass \times velocity \\
+    & p = mv \\\\
+    & momentum = mass \times velocity \\\\
 \end{align*}
 
 ---
@@ -45,8 +45,8 @@ It can be thought of as the __oomph__ of an object. The more __oomph__ an object
 Using the equation
 
 \begin{align*}
-    & p = mv \\
-    & momentum = mass \times velocity \\
+    & p = mv \\\\
+    & momentum = mass \times velocity \\\\
 \end{align*}
 
 what are the units for momentum?
@@ -55,8 +55,8 @@ what are the units for momentum?
 
 ### Question 1: Answer
 \begin{align*}
-    & p = mv \\
-    & momentum = mass \times velocity \\
+    & p = mv \\\\
+    & momentum = mass \times velocity \\\\
     & momentum = kgms^{-1}
 \end{align*}
 
@@ -88,8 +88,8 @@ Calculate the momentum for a 30g golf ball travelling at $10ms^{-1}$
 ### Question 2: Answer
 
 \begin{align*}
-    & p = mv \\
-    & p = 0.03 \times 10 \\
+    & p = mv \\\\
+    & p = 0.03 \times 10 \\\\
     & p = 0.3kgms^{-1}
 \end{align*}
 
@@ -103,8 +103,8 @@ Calculate the momentum for a shopping trolley of mass $24kg$ travelling at $0.75
 ### Question 3: Answer
 
 \begin{equation}
-    p = mv \\
-    p = 24 \times 0.75 \\
+    p = mv \\\\
+    p = 24 \times 0.75 \\\\
     p = 18kgms^{-1}
 \end{equation}
 
@@ -118,8 +118,8 @@ Calculate the momentum for a ship of mass 30,000 tonnes moving at $0.2ms^{-1}$
 ### Question 4: Answer
 
 \begin{align*}
-    & p = mv \\
-    & p = 30000000 \times 0.2 \\
+    & p = mv \\\\
+    & p = 30000000 \times 0.2 \\\\
     & p = 6000000kgms^{-1}
 \end{align*}
 
@@ -130,7 +130,7 @@ Calculate the momentum for a ship of mass 30,000 tonnes moving at $0.2ms^{-1}$
 When a force acts upon an object and its motion changes, its momentum will also change. We call change in momentum $\Delta p$.
 
 \begin{align*}
-    & \Delta p = p_{f} - p_{i} \\
+    & \Delta p = p_{f} - p_{i} \\\\
     & \Delta p = \text{final momentum} - \text{initial momentum}
 \end{align*}
 
@@ -149,9 +149,9 @@ __Hint:__ Define velocity in one direction as positive and the other direction n
 Angus bowls a cricket ball of mass $160g$ at a speed of $25ms^{-1}$. Lucy hits the ball back towards him at $35ms^{-1}$. Calculate the change in momentum.
 
 \begin{align*}
-    & \Delta p = p_{f} - p_{i} \\
-    & \Delta p = (0.16 \times 35) - (0.16 \times -25) \\
-    & \Delta p = 5.6 - (-4) \\
+    & \Delta p = p_{f} - p_{i} \\\\
+    & \Delta p = (0.16 \times 35) - (0.16 \times -25) \\\\
+    & \Delta p = 5.6 - (-4) \\\\
     & \Delta p = 9.6kgms^{-1}
 \end{align*}
 
@@ -162,11 +162,11 @@ Angus bowls a cricket ball of mass $160g$ at a speed of $25ms^{-1}$. Lucy hits t
 In order to cause a change in momentum, a force must act upon an object for some amount of time. This is called __impulse__.
 
 \begin{align*}
-    & F = ma \\
-    & F = m \frac{\Delta v}{\Delta t}  && \text{substituting for acceleration} \\
-    & F = m \frac{(v_{f} - v_{i})}{\Delta t} && \text{expanding }\Delta v \\
-    & F \Delta t = m (v_{f} - v_{i}) && \text{multiply by }\Delta t \\
-    & F \Delta t = mv_{f} - mv_{i} && \text{expand brackets} \\
+    & F = ma \\\\
+    & F = m \frac{\Delta v}{\Delta t}  && \text{substituting for acceleration} \\\\
+    & F = m \frac{(v_{f} - v_{i})}{\Delta t} && \text{expanding }\Delta v \\\\
+    & F \Delta t = m (v_{f} - v_{i}) && \text{multiply by }\Delta t \\\\
+    & F \Delta t = mv_{f} - mv_{i} && \text{expand brackets} \\\\
     & F \Delta t = \Delta p
 \end{align*}
 
@@ -187,18 +187,18 @@ __Hint:__ Calculate the change in momentum necessary and then use the impulse re
 Step 1: Change in momentum
 
 \begin{align*}
-    & \Delta p = mv_{f} - mv_{i} \\
-    & = m(v_{f} - v_{i}) \\
-    & = 300(6000 - 5000) \\
+    & \Delta p = mv_{f} - mv_{i} \\\\
+    & = m(v_{f} - v_{i}) \\\\
+    & = 300(6000 - 5000) \\\\
     & = 300000kgms^{-1}
 \end{align*}
 
 Step 2: Impulse
 
 \begin{align*}
-    & F \Delta t = \Delta p \\
-    & 1500 \Delta t = 300000 \\
-    & \Delta t = \frac{300000}{1500} \\
+    & F \Delta t = \Delta p \\\\
+    & 1500 \Delta t = 300000 \\\\
+    & \Delta t = \frac{300000}{1500} \\\\
     & \Delta t = 200s
 \end{align*}
 
@@ -225,10 +225,10 @@ The bucket is always accelerating because it is always changing direction, which
 2. Calculate the acceleration of the bucket. __(M)__
 
 \begin{align*}
-    & a_{c} = \frac{v^{2}}{r} \\
-    & a_{c} = \frac{(\frac{(2 \pi r)}{T})^{2}}{r} && \text{substitute } v = \frac{2 \pi r}{T} \\
-    & a_{c} = \frac{(\frac{(2 \pi 0.75)}{0.84})^{2}}{0.75} && \text{substitute values} \\
-    & a_{c} = \frac{31.47}{0.75} \\
+    & a_{c} = \frac{v^{2}}{r} \\\\
+    & a_{c} = \frac{(\frac{(2 \pi r)}{T})^{2}}{r} && \text{substitute } v = \frac{2 \pi r}{T} \\\\
+    & a_{c} = \frac{(\frac{(2 \pi 0.75)}{0.84})^{2}}{0.75} && \text{substitute values} \\\\
+    & a_{c} = \frac{31.47}{0.75} \\\\
     & a_{c} = 42ms^{-2}
 \end{align*}
 
@@ -260,8 +260,8 @@ Centripetal force causes the bucket to accelerate because it acts as a tension f
 The most straightforward problem you will see is conservation of momentum in 1-dimension. We will use subscript 1 and 2 to indicate object 1 and 2.
 
 \begin{align*}
-    & p_{1} = p_{2} \\
-    & m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2} \\
+    & p_{1} = p_{2} \\\\
+    & m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2} \\\\
 \end{align*}
 
 So that we do not get confused about the velocities, we will also use $u$ to indicate initial velocities and $v$ to indicate final velocities.
@@ -281,12 +281,12 @@ __Hint:__ Think carefully about the inital speed of both the rifle and bullet be
 Both the bullet and the rifle are stationary beforehand. Therefore $m_{1}u_{1} + m_{2}u_{2} = 0$.
 
 \begin{align*}
-    & m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2} \\
-    & 0 = m_{1}v_{1} + m_{2}v_{2}  && \text{use realisation from above} \\
-    & 0 = (4 \times v_{1}) + (0.02 \times 400) && \text{substitute values} \\
-    & 0 = 4v_{1} + 8 \\
-    & -8 = 4v_{1} \\
-    & v_{1} = \frac{-8}{4} \\
+    & m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2} \\\\
+    & 0 = m_{1}v_{1} + m_{2}v_{2}  && \text{use realisation from above} \\\\
+    & 0 = (4 \times v_{1}) + (0.02 \times 400) && \text{substitute values} \\\\
+    & 0 = 4v_{1} + 8 \\\\
+    & -8 = 4v_{1} \\\\
+    & v_{1} = \frac{-8}{4} \\\\
     & v_{1} = -2ms^{-1}
 \end{align*}
 
@@ -316,10 +316,10 @@ _Momentum is conserved_
 ##  2. Calculate the __size__ and __direction__ of the car's momentum change. __(E)__
 
 \begin{align*}
-    & \Delta p = p_{f} - p_{i} \\
-    & \Delta p = mv_{f} - mv_{i} && \text{substituting } p = mv\\
-    & \Delta p = (950 \times 2) - (950 \times 8) && \text{substitute values} \\
-    & \Delta p = 1900 - 7600 \\
+    & \Delta p = p_{f} - p_{i} \\\\
+    & \Delta p = mv_{f} - mv_{i} && \text{substituting } p = mv\\\\
+    & \Delta p = (950 \times 2) - (950 \times 8) && \text{substitute values} \\\\
+    & \Delta p = 1900 - 7600 \\\\
     & \Delta p = -5700Nm
 \end{align*}
 
@@ -330,12 +330,12 @@ _Momentum is conserved_
 _The van is stationary before the collision._ $u_{2}=0$
 
 \begin{align*}
-    & m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2} \\
-    & m_{1}u_{1} = m_{1}v_{1} + m_{2}v_{2}  && u_{2}=0 \\
-    & 950 \times 8 = (950 \times 2) + (1700 \times v_{2})  && \text{substitute values} \\
-    & 7600 = 1900 + 1700 v_{2} \\
-    & 5700 = 1700 v_{2} && \text{subtract 1900 from both sides} \\
-    & v_{2} = \frac{5700}{1700} && \text{divide through by 1700} \\
+    & m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2} \\\\
+    & m_{1}u_{1} = m_{1}v_{1} + m_{2}v_{2}  && u_{2}=0 \\\\
+    & 950 \times 8 = (950 \times 2) + (1700 \times v_{2})  && \text{substitute values} \\\\
+    & 7600 = 1900 + 1700 v_{2} \\\\
+    & 5700 = 1700 v_{2} && \text{subtract 1900 from both sides} \\\\
+    & v_{2} = \frac{5700}{1700} && \text{divide through by 1700} \\\\
     & v_{2} = 3.35ms^{-1}
 \end{align*}
 
@@ -346,9 +346,9 @@ _The van is stationary before the collision._ $u_{2}=0$
 _The van exerts a force on the car that slows it down. Therefore the force is against the direction of motion, and therefore negative._
 
 \begin{align*}
-    & F \Delta t = \Delta p \\
-    & -3800 \times \Delta t = -5700 && \text{substitute values} \\
-    & \Delta t = \frac{-5700}{-3800} && \text{divide through by -3800} \\
+    & F \Delta t = \Delta p \\\\
+    & -3800 \times \Delta t = -5700 && \text{substitute values} \\\\
+    & \Delta t = \frac{-5700}{-3800} && \text{divide through by -3800} \\\\
     & \Delta t = 1.5s
 \end{align*}
 
@@ -383,10 +383,10 @@ A Morris Minor car ($m=750kg$) is travelling at $30ms^{-1}$ and collides head on
 _Because momentum is conserved, we can calculate the total momentum before OR after the collision._
 
 \begin{align*}
-    & \sum p = p_{1} + p_{2} && \text{sum momentum of two objects} \\
-    & \sum p = m_{1}u_{1} + m_{2}u_{2} && \text{subsititute } p = mv \\
-    & \sum p = (750 \times 30) + (1600 \times -20) && \text{Benz has negative velocity (opposite direction)} \\
-    & \sum p = 22500 - 32000 \\
+    & \sum p = p_{1} + p_{2} && \text{sum momentum of two objects} \\\\
+    & \sum p = m_{1}u_{1} + m_{2}u_{2} && \text{subsititute } p = mv \\\\
+    & \sum p = (750 \times 30) + (1600 \times -20) && \text{Benz has negative velocity (opposite direction)} \\\\
+    & \sum p = 22500 - 32000 \\\\
     & \sum p = -9500Nm 
 \end{align*}
 
@@ -395,11 +395,11 @@ _Because momentum is conserved, we can calculate the total momentum before OR af
 # 2. Calculate the velocity on the combined wreckage after the collision
 
 \begin{align*}
-    & \sum p_{i} = \sum p_{f} \\
-    & p_{1} + p_{2} = p_{3} && \text{vehicles locked together afterwards} \\
-    & m_{1}u_{1} + m_{2}u_{2} = m_{3}v_{3} && \text{substitute } p = mv \\
-    & -9500 = 2350v_{3} && \text{using total momentum from previous} \\
-    & v_{3} = \frac{-9500}{2350} && \text{divide through by 2350} \\
+    & \sum p_{i} = \sum p_{f} \\\\
+    & p_{1} + p_{2} = p_{3} && \text{vehicles locked together afterwards} \\\\
+    & m_{1}u_{1} + m_{2}u_{2} = m_{3}v_{3} && \text{substitute } p = mv \\\\
+    & -9500 = 2350v_{3} && \text{using total momentum from previous} \\\\
+    & v_{3} = \frac{-9500}{2350} && \text{divide through by 2350} \\\\
     & v_{3} = -4.04ms^{-1}
 \end{align*}
 

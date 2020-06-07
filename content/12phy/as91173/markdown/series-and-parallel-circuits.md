@@ -73,42 +73,42 @@ In parallel we can use this equation:
 
 ### Question 1
 
-![](assets/7-resistance-parallel-1.png)
+![](../assets/7-resistance-parallel-1.png)
 
 ---
 
 ### Question 2
 
-![](assets/7-resistance-parallel-2.png)
+![](../assets/7-resistance-parallel-2.png)
 
 ---
 
 Calculate the values for each voltmeter and ammeter.
 
-![](assets/7-dc-1.png){width=75%}
+![](../assets/7-dc-1.png){width=75%}
 
 ---
 
-![](assets/7-dc-2.png){width=75%}
+![](../assets/7-dc-2.png){width=75%}
 
 ---
 
-![](assets/7-dc-3.png){width=75%}
+![](../assets/7-dc-3.png){width=75%}
 
 ---
 
-![](assets/7-dc-4.png){width=75%}
+![](../assets/7-dc-4.png){width=75%}
 
 ---
 
-![](assets/7-dc-5.png){width=75%}
+![](../assets/7-dc-5.png){width=75%}
 
 ---
 
-![](assets/7-dc-6.png){width=75%}
+![](../assets/7-dc-6.png){width=75%}
 
 ---
 
-![](assets/7-dc-answers.png){width=75%}
+![](../assets/7-dc-answers.png){width=75%}
 
 ---

@@ -41,13 +41,13 @@ header-includes:
 
 # Structure of DNA
 
-![](assets/3-dna-structure.jpg){width=50%}
+![](../assets/3-dna-structure.jpg){width=50%}
 
 ---
 
 ## Base Pairing
 
-![](assets/3-base-pairing.png){width=80%}
+![](../assets/3-base-pairing.png){width=80%}
 
 ---
 
@@ -61,7 +61,7 @@ DNA is read by the cell in chunks of 3 pairs. Each group of 3 pairs is called a 
 
 Amino acids are the molecules used to build all living things. There are 21 of them and triplets tell the cell which ones to join together.
 
-![](assets/3-triplets.jpg){width=70%}
+![](../assets/3-triplets.jpg){width=70%}
 
 ---
 
@@ -69,7 +69,7 @@ Amino acids are the molecules used to build all living things. There are 21 of t
 
 We are made up of proteins, which are in turn made of long chains of amino acids.
 
-![](assets/3-protein.jpg){width=70%}
+![](../assets/3-protein.jpg){width=70%}
 
 ---
 

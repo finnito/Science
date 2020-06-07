@@ -37,11 +37,11 @@ header-includes:
 
 ---
 
-![](assets/2-capillary-action.png){ width=75% }
+![](../assets/2-capillary-action.png){ width=75% }
 
 ---
 
-![](assets/2-how-things-ignite.jpg){ width=75% }
+![](../assets/2-how-things-ignite.jpg){ width=75% }
 
 ---
 

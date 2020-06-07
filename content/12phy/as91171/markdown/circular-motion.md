@@ -38,14 +38,14 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 <img src="assets/circle-diagram.png" style="float: right; width: 50%;"/>
 
 \begin{align*}
-    & Center \\
-    & Radius = r \\
-    & Diameter = d \\
-    & Circumference = 2\pi r \\
-    & Period = T \\
-    & Frequency = f \\
-    & Speed = v \\
-    & v = \frac{2\pi r}{T} \\
+    & Center \\\\
+    & Radius = r \\\\
+    & Diameter = d \\\\
+    & Circumference = 2\pi r \\\\
+    & Period = T \\\\
+    & Frequency = f \\\\
+    & Speed = v \\\\
+    & v = \frac{2\pi r}{T} \\\\
 \end{align*}
 
 ---
@@ -83,11 +83,11 @@ Therefore, beacuse the direction is changing, the velocity is changing. Therefor
 # Centripetal Acceleration
 
 \begin{align*}
-    & a_{c} = \frac{v^{2}}{r} \\
+    & a_{c} = \frac{v^{2}}{r} \\\\
 \end{align*}
 
 \begin{align*}
-    & v = \frac{2 \pi r}{T} \\
+    & v = \frac{2 \pi r}{T} \\\\
 \end{align*}
 
 ---
@@ -144,7 +144,7 @@ Calculate the force required to keep the ball moving in a circle.
 # Answer 
 
 \begin{align*}
-    & F = \frac{mv^{2}}{r} \\
-    & F = \frac{7 \times 10^{2}}{2} \\
+    & F = \frac{mv^{2}}{r} \\\\
+    & F = \frac{7 \times 10^{2}}{2} \\\\
     & F = \text{350N inwards}
 \end{align*}

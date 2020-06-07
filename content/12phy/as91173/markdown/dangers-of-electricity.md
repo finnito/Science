@@ -28,19 +28,19 @@ Play with the simulation linked in Google Classroom and __brainstorm situations 
 
 ---
 
-![Static Electricity Joke](assets/6-static-shock.png)
+![Static Electricity Joke](../assets/6-static-shock.png)
 
 ---
 
 ### Protecting Buildings
 
-![Lightning Rod](assets/6-lightning-rod.jpg)
+![Lightning Rod](../assets/6-lightning-rod.jpg)
 
 ---
 
 ### Protecting Electrical Devices
 
-![Static Devices](assets/6-static-devices.jpg)
+![Static Devices](../assets/6-static-devices.jpg)
 
 ---
 
@@ -65,11 +65,11 @@ Wire, open switch, closed switch, single battery, two batteries, power supply, r
 
 Draw the circuit diagram:
 
-![](assets/6-draw-the-circuit.png)
+![](../assets/6-draw-the-circuit.png)
 
 ---
 
-![](assets/6-draw-the-circuit-2.png)
+![](../assets/6-draw-the-circuit-2.png)
 
 ---
 
@@ -81,7 +81,7 @@ A light bulb and a variable resistor are placed in a series circuit. They are po
 
 A short circuit is an unintended path with little or no electrical resistance, causing a large amount of current to flow which can cause overheating, fire or explosions.
 
-![](assets/6-short-circuit.jpeg)
+![](../assets/6-short-circuit.jpeg)
 
 ---
 
@@ -89,7 +89,7 @@ A short circuit is an unintended path with little or no electrical resistance, c
 
 An ammeter measures the flow of charges (current). They __must__ be connected in series to measure the current, otherwise their low resistance will create a short circuit.
 
-![](assets/6-connect-ammeter.jpeg)
+![](../assets/6-connect-ammeter.jpeg)
 
 ---
 
@@ -97,5 +97,5 @@ An ammeter measures the flow of charges (current). They __must__ be connected in
 
 Voltmeters measure the potential difference between two points (e.g. before and after a bulb) to find how many volts the component has used. They should therefore be connected in parallel.
 
-![](assets/6-connect-voltmeter.jpeg)
+![](../assets/6-connect-voltmeter.jpeg)
 

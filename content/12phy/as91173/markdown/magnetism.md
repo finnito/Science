@@ -14,7 +14,7 @@ katex: true
 
 ## Starter 1
 
-If an object has a charge of \(0.03C\), how many electrons has it lost?
+If an object has a charge of $0.03C$, how many electrons has it lost?
 
 __Hint:__ Charge of one electron $=-1.6\times10^{-19}C$
 
@@ -23,7 +23,7 @@ __Hint:__ Charge of one electron $=-1.6\times10^{-19}C$
 ## Starter 1 Answer
 
 \begin{align*}
-    & n = \frac{0.03}{1.6\times10^{-19}} \\
+    & n = \frac{0.03}{1.6\times10^{-19}} \\\\\\\\
     & n = 1.875\times10^{17}
 \end{align*}
 
@@ -40,20 +40,18 @@ There is $80mA$ of current flowing through a $2k\Omega$ resistor.
 
 ## Starter 2 Answer
 
-\[
 \begin{align*}
-    & I = \frac{q}{t} \\
-    & It = q \\
-    & q = 0.08 \times 1 = 0.08C \\
+    & I = \frac{q}{t} \\\\
+    & It = q \\\\
+    & q = 0.08 \times 1 = 0.08C \\\\
     & n = \frac{0.08}{1.6\times^{-19}} = 5\times10^{17}
 \end{align*}
-\]
 
 ---
 
 \begin{align*}
-    & P = IV, V = IR\\
-    & P = I^{2}R \\
+    & P = IV, V = IR\\\\
+    & P = I^{2}R \\\\
     & P = 0.08^{2} \times 2000 = 12.8W (Js^{-1})
 \end{align*}
 
@@ -61,25 +59,25 @@ There is $80mA$ of current flowing through a $2k\Omega$ resistor.
 
 ## Recall: Right Hand Grip Rule 1
 
-![](assets/8-right-hand-rule-1.gif){width=50%}
+![](../assets/8-right-hand-rule-1.gif){width=50%}
 
 ---
 
 ## Recall: Right Hand Grip Rule 2
 
-![](assets/8-right-hand-grip-2.png){width=50%}
+![](../assets/8-right-hand-grip-2.png){width=50%}
 
 ---
 
 ### Apply right hand grip rule 2 to this solenoid
 
-![](assets/9-solenoid-1.png){width=50%}
+![](../assets/9-solenoid-1.png){width=50%}
 
 ---
 
 ### Apply right hand grip rule 2 to this solenoid
 
-![](assets/9-solenoid-2.png){width=50%}
+![](../assets/9-solenoid-2.png){width=50%}
 
 ---
 
@@ -99,7 +97,7 @@ Think, pair, and share!
 
 ---
 
-![](assets/9-magnetic-field.png){width=75%}
+![](../assets/9-magnetic-field.png){width=75%}
 
 ---
 
@@ -134,8 +132,8 @@ Calculate the magnetic force applied on each proton.
 #### Answer
 
 \begin{align*}
-    & F = Bqv \\
-    & F = 0.2 \times 1.6\times10^{-19} \times 2.0\times10^{-6} \\
+    & F = Bqv \\\\
+    & F = 0.2 \times 1.6\times10^{-19} \times 2.0\times10^{-6} \\\\
     & F = 6.4 \times 10^{-26}N
 \end{align*}
 
@@ -145,7 +143,7 @@ Calculate the magnetic force applied on each proton.
 
 _If you use your left hand, the particle is negatively charged_
 
-![](assets/9-right-hand-slap-rule.png){width=50%}
+![](../assets/9-right-hand-slap-rule.png){width=50%}
 
 ---
 
@@ -161,13 +159,13 @@ A charged object ($q=1.6\times10^{-19}C$) moves across a magnetic field with a s
 
 ## Recall: Right Hand Grip Rule 1
 
-![](assets/8-right-hand-rule-1.gif){width=50%}
+![](../assets/8-right-hand-rule-1.gif){width=50%}
 
 ---
 
 ## Recall: Right Hand Grip Rule 2
 
-![](assets/8-right-hand-grip-2.png){width=50%}
+![](../assets/8-right-hand-grip-2.png){width=50%}
 
 ---
 
@@ -175,19 +173,19 @@ A charged object ($q=1.6\times10^{-19}C$) moves across a magnetic field with a s
 
 _If you use your left hand, the particle is negatively charged. Or use you right hand with the backhand slap rule_
 
-![](assets/9-right-hand-slap-rule.png){width=50%}
+![](../assets/9-right-hand-slap-rule.png){width=50%}
 
 ---
 
 Which direction is the force acting in?
 
-![](assets/9-magnetic-field-q.png){width=75%}
+![](../assets/9-magnetic-field-q.png){width=75%}
 
 ---
 
 ## Demo: Cathode Ray Tube
 
-![](assets/9-cathode-ray-tube.png){width=75%}
+![](../assets/9-cathode-ray-tube.png){width=75%}
 
 ---
 

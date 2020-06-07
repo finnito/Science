@@ -50,7 +50,7 @@ For each of these types of energy, think of and write down one example:
 
 We split these 10 types of energy into two broad categories.
 
-![](assets/types_of_energy-active-vs-potential.jpg){width=50%}
+![](../assets/types_of_energy-active-vs-potential.jpg){width=50%}
 
 ---
 
@@ -70,7 +70,7 @@ Energy that is stored some way
 
 Kinetic, sound, radiant, heat and electrical
 
-![](assets/types_of_energy-kinetic-and-potential.jpg){width=50%}
+![](../assets/types_of_energy-kinetic-and-potential.jpg){width=50%}
 
 ---
 
@@ -78,7 +78,7 @@ Kinetic, sound, radiant, heat and electrical
 
 Gravitational, nuclear, chemical, elastic and magnetic
 
-![](assets/types_of_energy-potential.jpg){width=50%}
+![](../assets/types_of_energy-potential.jpg){width=50%}
 
 ---
 
@@ -121,7 +121,7 @@ Think of a skydiver falling to Earth.
 
 They have __gravitational potential energy__, and all of it gets transformed to __kinetic energy__ because they start to move!
 
-![](assets/types_of_energy-skydiving.jpg)
+![](../assets/types_of_energy-skydiving.jpg)
 
 ---
 
@@ -134,7 +134,7 @@ They have __gravitational potential energy__, and all of it gets transformed to 
 
 What energy transformations are happening at the boxes?
 
-![](assets/types_of_energy-conversions.png)
+![](../assets/types_of_energy-conversions.png)
 
 ---
 

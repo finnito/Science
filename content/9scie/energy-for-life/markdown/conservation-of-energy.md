@@ -42,33 +42,33 @@ For each of the following pictures, write down what the picture is showing you a
 
 ---
 
-![](assets/conservation_of_energy-wind-farm.jpg)
+![](../assets/conservation_of_energy-wind-farm.jpg)
 
 ---
 
-![](assets/conservation_of_energy-voyager-one.jpg)
+![](../assets/conservation_of_energy-voyager-one.jpg)
 
 __NB:__ Not a real photo
 
 ---
 
-![](assets/conservation_of_energy-trampoline.jpg)
+![](../assets/conservation_of_energy-trampoline.jpg)
 
 ---
 
-![](assets/conservation_of_energy-rotorua.jpg)
+![](../assets/conservation_of_energy-rotorua.jpg)
 
 ---
 
-![](assets/conservation_of_energy-rollercoaster.jpg)
+![](../assets/conservation_of_energy-rollercoaster.jpg)
 
 ---
 
-![](assets/conservation_of_energy-red-bull.jpg)
+![](../assets/conservation_of_energy-red-bull.jpg)
 
 ---
 
-![](assets/conservation_of_energy-cme.jpg)
+![](../assets/conservation_of_energy-cme.jpg)
 
 ---
 

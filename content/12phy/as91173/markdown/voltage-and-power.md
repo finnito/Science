@@ -27,7 +27,7 @@ header-includes:
 
 You can find more symbols in your textbook (197-198) but here is the most basic few.
 
-![](assets/circuit-symbols.gif){width=50%}
+![](../assets/circuit-symbols.gif){width=50%}
 
 ---
 
@@ -48,9 +48,9 @@ A current of $1.2A$ flows for $0.25s$. How much charge was transferred in that t
 ### Answer
 
 \begin{align*}
-    & I = \frac{q}{t} \\
-    & q = I \times t \\
-    & q = 1.2 \times 0.25 \\
+    & I = \frac{q}{t} \\\\
+    & q = I \times t \\\\
+    & q = 1.2 \times 0.25 \\\\
     & q = 0.3 Coulombs (C)
 \end{align*}
 
@@ -58,7 +58,7 @@ A current of $1.2A$ flows for $0.25s$. How much charge was transferred in that t
 
 # What is a circuit?
 
-![Circuit Diagram](assets/4-basic-circuit.png "Circuit Diagram"){ width=50% }
+![Circuit Diagram](../assets/4-basic-circuit.png "Circuit Diagram"){ width=50% }
 
 ---
 
@@ -79,9 +79,9 @@ Open this link and build a circuit with a power supply, light bulb, resistor and
 - __Voltage is the amount of energy in one coulomb of charge__
 
 \begin{align*}
-    & V = \frac{E_{p}}{q} \\
-    & V = \text{ voltage measured in...} \\
-    & E_{p} = \text{ electrical energy measured in... } \\
+    & V = \frac{E_{p}}{q} \\\\
+    & V = \text{ voltage measured in...} \\\\
+    & E_{p} = \text{ electrical energy measured in... } \\\\
     & q = \text{ charge measured in...}
 \end{align*}
 
@@ -96,9 +96,9 @@ A system has electrical potential energy of $25J$ and has $0.5C$ of charge. What
 ### Answer
 
 \begin{align*}
-    & V = \frac{E_{p}}{q} \\
-    & V = \frac{25}{0.5} \\
-    & V = 12.5V \\
+    & V = \frac{E_{p}}{q} \\\\
+    & V = \frac{25}{0.5} \\\\
+    & V = 12.5V \\\\
 \end{align*}
 
 ---
@@ -112,10 +112,10 @@ A system has a voltage of $12V$ and has $1.75C$ of charge inside it. What potent
 ### Answer
 
 \begin{align*}
-    & V = \frac{E_{p}}{q} \\
-    & E_{p} = V \times q \\
-    & E_{p} = 12 \times 1.75 \\
-    & E_{p} = 21J \\
+    & V = \frac{E_{p}}{q} \\\\
+    & E_{p} = V \times q \\\\
+    & E_{p} = 12 \times 1.75 \\\\
+    & E_{p} = 21J \\\\
 \end{align*}
 
 ---
@@ -126,9 +126,9 @@ A system has a voltage of $12V$ and has $1.75C$ of charge inside it. What potent
 - E.g. A 100W ($100 J/s, 100JS^{-1}$) light bulb transforms 100J of electrical energy per second into light and heat energy.
 
 \begin{align*}
-    & P = IV \\
-    & P = \text{ power measured in...} \\
-    & I = \text{ current measured in...} \\
+    & P = IV \\\\
+    & P = \text{ power measured in...} \\\\
+    & I = \text{ current measured in...} \\\\
     & V = \text{ voltage measured in...}
 \end{align*}
 
@@ -143,9 +143,9 @@ A system has a current of $0.5A$ and voltage, $6V$. What is the power consumed b
 ### Answer
 
 \begin{align*}
-    & P = IV \\
-    & P = 0.5 \times 6 \\
-    & 3W = 3J/s = 3Js^{-1} \\
+    & P = IV \\\\
+    & P = 0.5 \times 6 \\\\
+    & 3W = 3J/s = 3Js^{-1} \\\\
 \end{align*}
 
 ---
@@ -159,10 +159,10 @@ A washing machine has a power rating of 65W and the house is using a 12V system.
 ### Answer
 
 \begin{align*}
-    & P = IV \\
-    & I = \frac{P}{V} \\
-    & I = \frac{65}{12} \\
-    & I = 5.42A \\
+    & P = IV \\\\
+    & I = \frac{P}{V} \\\\
+    & I = \frac{65}{12} \\\\
+    & I = 5.42A \\\\
 \end{align*}
 
 ---
@@ -172,8 +172,8 @@ A washing machine has a power rating of 65W and the house is using a 12V system.
 By substituting these equations into each other we can begin to see how intertwined all of these concepts are.
 
 \begin{align*}
-    & I = \frac{q}{t} \\
-    & V = \frac{E_{p}}{q} \\
-    & \\
+    & I = \frac{q}{t} \\\\
+    & V = \frac{E_{p}}{q} \\\\
+    & \\\\
     & P = I \times V = \frac{q}{t} \times \frac{E_{p}}{q} = \frac{E_{p}}{t}
 \end{align*}
