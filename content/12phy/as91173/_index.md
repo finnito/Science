@@ -121,7 +121,7 @@ This week we will be looking at the following:
 3. Voltage Divider
     - Continue
 4. Voltage Divider
-    - Homework book past exam questions
+    - Homework book past exam question
 
 ---
 
@@ -137,6 +137,7 @@ This week we will be looking at the following:
 ## Week 7
 
 1. Magnetic Fields
+    - 
 2. Magnetic Fields
 3. F=BILsin(theta)
 4. F=BILsin(theta)

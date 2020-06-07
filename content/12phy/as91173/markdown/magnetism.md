@@ -40,7 +40,7 @@ There is $80mA$ of current flowing through a $2k\Omega$ resistor.
 
 ## Starter 2 Answer
 
-$$
+\[
 \begin{align*}
     & I = \frac{q}{t} \\
     & It = q \\
