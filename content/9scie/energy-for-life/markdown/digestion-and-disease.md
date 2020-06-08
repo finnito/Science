@@ -105,7 +105,7 @@ __Task:__ Digestive Disease Pamphlet (in pairs)
 
 Include: Part(s) of the digestive system where it occurs, what the condition does, how to avoid/treat the disease
     
-Gastroesophageal Reflux Disease, gallstones, celiac disease, Chron's disease, uclerative colitis, irritable bowel syndrome, hemorrhoids, diverticulitis, anal fissures
+Gastroesophageal Reflux Disease, gallstones, celiac disease, Chron's disease, uclerative colitis, 
 
 ---
 
