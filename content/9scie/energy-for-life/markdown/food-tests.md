@@ -1,5 +1,5 @@
 ---
-title: Types of Energy
+title: Food Tests
 subtitle: 9SCIE - Energy for Life
 author: Finn LeSueur
 date: 2020
