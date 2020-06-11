@@ -50,12 +50,7 @@ What do you think happens to the force if the wire is on an angle?
 - $\theta$ is the angle between the current and the magnetic field
 - Force is maximum when perpendicular
 - Force is zero when parallel
-
----
-
-Find the force on this wire in a field of $0.05T$ with a current of $0.15mA$ flowing through it. The length of the wire is $20cm$ and the angle is $38^{\circ}$.
-
-![](../assets/10-angle-wire-example.png){width=80%}
+- You are not required to do calculations with this equation, but need to know the previous two points.
 
 ---
 
@@ -77,6 +72,8 @@ What direction is the force acting upon the four sides of this loop? What does t
 ---
 
 ## Starter 1
+
+What direction is the magnetic force in these examples?
 
 ![](../assets/10-starter-1.png){width=70%}
 
