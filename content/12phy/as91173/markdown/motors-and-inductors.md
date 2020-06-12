@@ -4,6 +4,7 @@ subtitle: 12PHYS - Electricity
 author: Finn LeSueur
 date: 2019
 theme: finn
+katex: true
 header-includes:
 - \usepackage{graphicx}
 - \usepackage[T1]{fontenc}
@@ -75,25 +76,31 @@ What direction is the force acting upon the four sides of this loop? What does t
 
 What direction is the magnetic force in these examples?
 
-![](../assets/10-starter-1.png){width=70%}
+![](../assets/10-starter-1.png)
 
 ---
 
 ## Starter 2
 
-![](../assets/10-starter-2.png){width=70%}
+![](../assets/10-starter-2.png)
 
 ---
 
 ## Starter 3
 
-![](../assets/10-starter-3.png){width=70%}
+![](../assets/10-starter-3.png)
 
 ---
 
 ## Starter 4
 
-![](../assets/10-starter-4.png){width=70%}
+![](../assets/10-starter-4.png)
+
+---
+
+### Starter Answers
+
+Up, down, into the board, out of the board
 
 ---
 
@@ -103,7 +110,9 @@ What direction is the magnetic force in these examples?
 
 We induce a voltage!
 
-![](../assets/10-electromagnetic-induction.gif){width=90%}
+![](../assets/10-electromagnetic-induction.gif)
+
+And if the circuit is complete, we induce a current!
 
 ---
 
@@ -121,33 +130,55 @@ __Induced voltage__ in a wire moving through a magnetic field:
 
 ### Example
 
-A metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8ms^{-1}$ through a magnetic field with strength $0.7T$. __Calculate the induced voltage and induced current__.
+A metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8ms^{-1}$ through a magnetic field with strength $0.7T$. __Calculate the induced voltage and induced current__. Use $V=BvL$ first, and then Ohm's Law.
 
 ![](../assets/10-vbil-example.png)
 
+---
+
+\begin{align*}
+    & V = BvL \\\\
+    & V = 0.7 \times 8 \times 0.24 \\\\
+    & V = 1.344V
+\end{align*}
+
+\begin{align*}
+    & V = IR \\\\
+    & I = \frac{V}{R} \\\\
+    & I = \frac{1.344}{10} = 0.1344A
+\end{align*}
 ---
 
 ### Thought Experiment
 
 - Dragging a piece of wire through a magnetic field creates an __induced voltage__
 - If the circuit is complete it creates an __induced current__
-- Recall how a current carrying wire acts in a magnetic field?
-- Yes! $F=BIL$
+- What does a current in a magnetic field experience?
+- Yes, a force! $F=BIL$
 
-![](../assets/10-induction-example.png){width=50%}
+![](../assets/10-induction-example.png)
 
 ---
 
-If we drag the coil to the right, what will we observe?
+__Think, pair, share:__ If we drag the coil to the right, what will we observe?
 
-![](../assets/10-induction-example.png){width=80%}
+![](../assets/10-induction-example.png)
+
+---
+
+- A current will be induced,
+- That current will experience a force ($F=BIL$)
+- That magnetic force will __oppose__ the externally applied force
+
+![](../assets/10-induction-example.png)
+
 
 ---
 
 ## Lenz's Law
 
-- __The induced current always opposes the change/action producing it__
-- In our previous example the induced current causes a force which opposes the movement of the wire
+- __The induced current (and magnetic force) always opposes the change/action producing it__
+- In our previous example the induced current causes a force which opposes the externally applied force
 - This law is a result of __the conservation of energy__. Work must be done to generate electrical energy.
 
 ---
