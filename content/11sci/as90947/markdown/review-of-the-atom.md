@@ -59,6 +59,14 @@ The three particles have different electrical charges. Copy this table into your
 
 |              | Location | Electric Charge | Mass |
 |--------------|----------|-----------------|------|
+| __Proton__   |          |                 |      |
+| __Electron__ |          |                 |      |
+| __Neutron__  |          |                 |      |
+
+---
+
+|              | Location | Electric Charge | Mass |
+|--------------|----------|-----------------|------|
 | __Proton__   | Nucleus  | +1              | 1    |
 | __Electron__ | Orbits   | -1              | 0    |
 | __Neutron__  | Nucleus  | 0               | 1    |
@@ -72,6 +80,7 @@ The three particles have different electrical charges. Copy this table into your
 > The number of protons + neutrons inside the nucleus.
 
 __NB:__ In a _neutral_ atom, the number of protons is equal to the number of electrons. Why?
+
 ---
 
 ### Practice
@@ -84,22 +93,19 @@ This is sodium. How many electrons does it have? How many protons does it have? 
 
 ### Practice
 
-<div>
-Make a table to describe this atom.
+Draw this table in your book and fill it out to describe the following atom.
 
-| Question  | Answer  |
-|---|---|
-| __Number of Protons__  |   |
-| __Number of Neutrons__  |   |
-| __Number of Electrons__  |   |
-| __Atomic Number__  |   |
-| __Mass Number__  |   |
-</div>
-<div>
+| Question                | Answer |
+|-------------------------|--------|
+| __Number of Protons__   |        |
+| __Number of Neutrons__  |        |
+| __Number of Electrons__ |        |
+| __Atomic Number__       |        |
+| __Mass Number__         |        |
+
+---
 
 ![](../assets/review_of_the_atom-helium.png)
-
-</div>
 
 ---
 
