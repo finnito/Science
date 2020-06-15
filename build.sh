@@ -9,6 +9,7 @@ MODULES=(
     '11sci/as90940'
     '11sci/as90930'
     '11sci/as90948'
+    '11sci/as90947'
     '12phy/as91171'
     '12ess/2-extreme-earth-events'
     '12phy/as91173'
