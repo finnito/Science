@@ -186,3 +186,24 @@ __Think, pair, share:__ If we drag the coil to the right, what will we observe?
 Continuing our example from earlier: a metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8ms^{-1}$ through a magnetic field with strength $0.7T$. __Calculate the magnitude and direction of the opposing force acting upon the rod__.
 
 ![](../assets/10-vbil-example.png)
+
+---
+
+## Lenz' Law in Solenoids
+
+- __Recall__: A solenoid is a coil of wire used as an electromagnet.
+- __Question__: What happens if we pass a magnet through solenoid?
+- __Answer:__ We induce a current in the coil.
+
+---
+
+- __Question__: What does that current do?
+- __Answer__: It creates a magnetic field that opposes the original field.
+
+---
+
+## Lenz' Law in Solenoids
+
+A magnet moving inside a solenoid will induce and current and therefore, magnetic field, which will oppose the original field. We can use our right hand rule to deduce the direction of the current flow.
+
+![](../assets/lenz-law-in-solenoids.png){width=50%}
