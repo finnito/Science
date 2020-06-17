@@ -21,7 +21,7 @@ Open your book to your __table of ions__. In groups (below), use your devices to
 
 Copy the names of the ions into your book from the other groups!
 
-![](../assets/ionic_compounds-groups.png)
+![](../assets/ionic_compounds-groups.png){width=75%}
 
 ---
 
@@ -41,7 +41,7 @@ Ions are atoms that have __gained__ or __lost__ electrons in order to have a ful
 
 This is an oxygen atom. Copy the diagram into your book and give the electron shell configuration _e.g. [2,3]_
 
-![](../assets/ionic_compounds-oxygen-atom.png)
+![](../assets/ionic_compounds-oxygen-atom.png){width=50%}
 
 ---
 
@@ -57,7 +57,7 @@ Think again about the oxygen atom and answer these questions:
 1. Will it prefer to gain or lose electrons?
 2. How many electrons will it need to gain/lose to have a full outer shell?
 
-![](../assets/ionic_compounds-oxygen-atom.png)
+![](../assets/ionic_compounds-oxygen-atom.png){width=50%}
 
 ---
 
@@ -87,11 +87,9 @@ Copy this table into your own book and work in pairs to complete it.
 - The charge goes in a superscript <sup>like this</sup>.
 - The number goes before the charge.
 
-\\[
 \begin{align*}
     O^{2-}
 \end{align*}
-\\]
 
 ---
 
@@ -100,12 +98,10 @@ Copy this table into your own book and work in pairs to complete it.
 - To make ionic compounds we need the numbers in the superscript to balance to zero.
 - To use more than one of an ion you use a subscript <sub>like this</sub>
 
-\\[
 \begin{align*}
     Na^{+} + Cl^{-} \rightarrow NaCl \\\\
     Cu^{2+} + 2OH^{-} \rightarrow Cu(OH)_{2}
 \end{align*}
-\\]
 
 ---
 
@@ -115,11 +111,9 @@ Copy this table into your own book and work in pairs to complete it.
 
 Your answer is simply to give the compound like this:
 
-\\[
 \begin{align*}
     NaOH
 \end{align*}
-\\]
 
 ---
 
@@ -215,16 +209,16 @@ Lead bicarbonate
 
 ## Game Answers
 
-| 1-5                          | 6-10                                | 11-15                                   |
-|------------------------------|-------------------------------------|-----------------------------------------|
-| Sodium Iodide: $NaI$         | Lead Sulfate: $PbSO_{4}$            | Aluminium Sulfate: $Al_{2}(SO_{4})_{3}$ |
-| Silver Iodide: $AgI$         | Barium Carbonate: $BaCO_{3}$        | Iron (II) Oxide: $FeO$                  |
-| Lithium Fluoride: $LiF$      | Zinc Iodide: $ZnI_{2}$              | Iron (III) Oxide: $Fe_{2}O_{3}$         |
-| Ammonium Chloride $NHCl_{3}$ | Aluminium Chloride: $AlCl_{3}$      | Sodium Bicarbonate: $NaHCO_{3}$         |
-| Magnesium Oxide: $MgO$       | Aluminium Nitrate: $Al(NO_{3})_{3}$ | Lead Bicarbonate: $Pb(HCO_{3})_{2}$     |
+| 1-5        | 6-10             | 11-15                |
+|------------|------------------|----------------------|
+| $NaI$      | $PbSO_{4}$       | $Al_{2}(SO_{4})_{3}$ |
+| $AgI$      | $BaCO_{3}$       | $FeO$                |
+| $LiF$      | $ZnI_{2}$        | $Fe_{2}O_{3}$        |
+| $NHCl_{3}$ | $AlCl_{3}$       | $NaHCO_{3}$          |
+| $MgO$      | $Al(NO_{3})_{3}$ | $Pb(HCO_{3})_{2}$    |
 
 ---
 
 ## Quizziz!
 
-https://quizizz.com/admin/quiz/5ee9f2c8fb1f8c001b986746/naming-ionic-compounds
+[Click](https://quizizz.com/admin/quiz/5ee9f2c8fb1f8c001b986746/naming-ionic-compounds)
