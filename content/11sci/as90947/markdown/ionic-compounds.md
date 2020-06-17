@@ -57,7 +57,7 @@ Think again about the oxygen atom and answer these questions:
 1. Will it prefer to gain or lose electrons?
 2. How many electrons will it need to gain/lose to have a full outer shell?
 
-![](../assets/ionic_compounds-oxygen-atom.png){width=50%}
+![](../assets/ionic_compounds-oxygen-atom.png){width=30%}
 
 ---
 
