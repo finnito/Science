@@ -226,4 +226,8 @@ The current will flow anti-clockwise, creating a magnetic field pointing upwards
 
 ### Understanding Check 2
 
+When the magnet has just left the bottom of the tube, in which sense does the current flow, again when viewed from above the top of the tube?
+
+---
+
 The current will be in the opposite sense now, i.e. clockwise. When the South pole leaves, Lenz's Law says that there must be a South pole induced at the bottom end of the tube, producing a force on the magnet in the upward direction, opposing its downwards motion.
