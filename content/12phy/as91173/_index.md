@@ -149,8 +149,13 @@ This week we will be looking at the following:
 1. EM Induction & Generating AC
 2. EM Induction & Generating AC
 3. EM Induction & Generating AC
-3. Lenz' law in Solenoids
 4. Lenz' Law in Solenoids
+    - Video to start: https://www.youtube.com/watch?v=pQp6bmJPU_0
+    - Introductory notes on Lenz' Law in solenoids
+    - Class demonstration using galvanometer, solenoid & magnet
+    - Quick questions at the end of the powerpoint
+    - Textbook: Activity 20A Qa
+    - Homework Booklet: Q24
 
 ---
 

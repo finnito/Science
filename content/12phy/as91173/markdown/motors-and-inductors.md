@@ -189,6 +189,10 @@ Continuing our example from earlier: a metal rod is moved in a magnetic field. T
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pQp6bmJPU_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ## Lenz' Law in Solenoids
 
 - __Recall__: A solenoid is a coil of wire used as an electromagnet.
@@ -207,3 +211,19 @@ Continuing our example from earlier: a metal rod is moved in a magnetic field. T
 A magnet moving inside a solenoid will induce and current and therefore, magnetic field, which will oppose the original field. We can use our right hand rule to deduce the direction of the current flow.
 
 ![](../assets/lenz-law-in-solenoids.png){width=50%}
+
+---
+
+### Understanding Check 1
+
+A magnet is dropped into a long copper tube with its North pole facing downwards. As the North pole approaches the top end of the tube, which way will the current flow, when viewed from above the top of the tube?
+
+---
+
+The current will flow anti-clockwise, creating a magnetic field pointing upwards, opposing the North pole falling down.
+
+---
+
+### Understanding Check 2
+
+The current will be in the opposite sense now, i.e. clockwise. When the South pole leaves, Lenz's Law says that there must be a South pole induced at the bottom end of the tube, producing a force on the magnet in the upward direction, opposing its downwards motion.
