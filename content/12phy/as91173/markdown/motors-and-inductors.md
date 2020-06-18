@@ -210,7 +210,7 @@ Continuing our example from earlier: a metal rod is moved in a magnetic field. T
 
 A magnet moving inside a solenoid will induce and current and therefore, magnetic field, which will oppose the original field. We can use our right hand rule to deduce the direction of the current flow.
 
-![](../assets/lenz-law-in-solenoids.png){width=50%}
+![](../assets/lenz-law-in-solenoids.PNG){width=50%}
 
 ---
 
