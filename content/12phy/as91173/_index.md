@@ -19,7 +19,7 @@ katex: true
 | T2 W6  | Parallel Plates | Parallel Plates        | Parallel Plates            | __P:__ Circuit Building |
 | T2 W7  | DC Circuits     | Voltage Divider        | Voltage Divider            | Voltage Divider            |
 | T2 W8  | RH Slap Rule    | RH Slap Rule           | Magnetic Fields            | Magnetic Fields            |
-| T2 W9  | Magnetic Fields | $$F=BILsin(\theta)$$      | $$F=BILsin(\theta$)$$          | Generating AC              |
+| T2 W9  | Magnetic Fields | $F=BILsin(\theta)$      | $F=BILsin(\theta)$          | Generating AC              |
 | T2 W10  | Generating AC   | Generating AC          | Lenz' Law in Solenoids     | Lenz' Law in Solenoids     |
 | T2 W11  | Revision        | Revision               | Revision                   | Revision                   |
 | T2 W12 | Revision        | __TEST__               |                            | _Hand Back_                |
@@ -149,8 +149,13 @@ This week we will be looking at the following:
 1. EM Induction & Generating AC
 2. EM Induction & Generating AC
 3. EM Induction & Generating AC
-3. Lenz' law in Solenoids
 4. Lenz' Law in Solenoids
+    - Video to start: https://www.youtube.com/watch?v=pQp6bmJPU_0
+    - Introductory notes on Lenz' Law in solenoids
+    - Class demonstration using galvanometer, solenoid & magnet
+    - Quick questions at the end of the powerpoint
+    - Textbook: Activity 20A Qa
+    - Homework Booklet: Q24
 
 ---
 

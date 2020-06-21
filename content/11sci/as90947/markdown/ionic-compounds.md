@@ -123,9 +123,21 @@ Sodium iodide
 
 ---
 
+### Compound One
+
+Sodium iodide: $NaI$
+
+---
+
 ### Compound Two
 
 Silver iodide
+
+---
+
+### Compound Two
+
+Silver iodide: $AgI$
 
 ---
 
@@ -135,9 +147,21 @@ Lithium fluoride
 
 ---
 
+### Compound Three
+
+Lithium fluoride: $LiF$
+
+---
+
 ### Compound Four
 
 Ammonium chloride
+
+---
+
+### Compound Four
+
+Ammonium chloride: $NH_{4}CL$
 
 ---
 
@@ -147,9 +171,21 @@ Magnesium oxide
 
 ---
 
+### Compound Five
+
+Magnesium oxide: $MgO$
+
+---
+
 ### Compound Six
 
 Lead sulfate
+
+---
+
+### Compound Six
+
+Lead sulfate: $PbSO_{4}$
 
 ---
 
@@ -159,9 +195,21 @@ Barium carbonate
 
 ---
 
+### Compound Seven
+
+Barium carbonate: $BaCO_{3}$
+
+---
+
 ### Compound Eight
 
 Zinc iodide
+
+---
+
+### Compound Eight
+
+Zinc iodide: $ZnI_{2}$
 
 ---
 
@@ -171,15 +219,32 @@ Aluminium chloride
 
 ---
 
+### Compound Nine
+
+Aluminium chloride: $AlCl_{3}$
+
+---
+
 ### Compound Ten
 
 Aluminium nitrate
 
 ---
 
+### Compound Ten
+
+Aluminium nitrate: $Al(NO_{3})_{3}$
+---
+
 ### Compound Eleven
 
 Aluminium sulfate
+
+---
+
+### Compound Eleven
+
+Aluminium sulfate: $Al_{2}(SO_{4})_{3}$
 
 ---
 
@@ -189,9 +254,21 @@ Iron (II) oxide
 
 ---
 
+Compound Twelve
+
+Iron (II) oxide: $FeO$
+
+---
+
 ### Compound Thirteen
 
 Iron (III) oxide
+
+---
+
+### Compound Thirteen
+
+Iron (III) oxide: $Fe_{2}O_{3}$
 
 ---
 
@@ -201,10 +278,21 @@ Sodium bicarbonate
 
 ---
 
+### Compound Fourteen
+
+Sodium bicarbonate: $NaHCO_{3}$
+
+---
+
 ### Compound Fifteen
 
 Lead bicarbonate
 
+---
+
+### Compound Fifteen
+
+Lead bicarbonate: $Pb(HCO_{3})_{2}$
 ---
 
 ## Game Answers
