@@ -99,7 +99,7 @@ Ella puts 1cm of magnesium strip in 5ml of dilute hydrochloric acid and observes
 ---
 
 \begin{align*}
-    Mg_{(s)} + HCl_{(aq)} \rightarrow H_{2}_{(g)} + MgCl_{(aq)}
+    Mg_{(s)} + HCl_{(aq)} \rightarrow H_{2(g)} + MgCl_{(aq)}
 \end{align*}
 
 ---
@@ -113,5 +113,5 @@ Jake adds 1ml of copper sulfate to 1ml of sodium hydroxide and predicts that cop
 ---
 
 \begin{align*}
-    CuSO_{4}_{(aq)} + NaOH_{(aq)} \rightarrow Cu(OH)_{2}_{(s)} + Na_{2}SO_{4}_{(s)}
+    CuSO_{4(aq)} + NaOH_{(aq)} \rightarrow Cu(OH)_{2(s)} + Na_{2}SO_{4(s)}
 \end{align*}
