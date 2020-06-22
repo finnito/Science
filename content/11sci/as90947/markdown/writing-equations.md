@@ -39,11 +39,9 @@ All equations have three parts to them:
 2. Products (right-hand side)
 3. Arrow - means _goes to form_ not _equals_
 
-$$
 \begin{align*}
 	reactant1 + reactant2 \rightarrow product1 + product2
 \end{align*}
-$$
 
 ---
 
@@ -55,11 +53,9 @@ Ella puts 1cm of magnesium strip in 5ml of dilute hydrochloric acid and observes
 
 ---
 
-$$
 \begin{align*}
     \text{magnesium} + \text{hydrochloric acid} \rightarrow \text{hydrogen gas} + \text{magnesium chloride}
 \end{align*}
-$$
 
 ---
 
@@ -71,11 +67,9 @@ Jake adds 1ml of copper sulfate to 1ml of sodium hydroxide and predicts that cop
 
 ---
 
-$$
 \begin{align*}
     \text{copper sulfate} + \text{sodium hydroxide} \rightarrow \text{copper hydroxide} + \text{sodium sulfate}
 \end{align*}
-$$
 
 ---
 
@@ -104,11 +98,9 @@ Ella puts 1cm of magnesium strip in 5ml of dilute hydrochloric acid and observes
 
 ---
 
-$$
 \begin{align*}
     Mg_{(s)} + HCl_{(aq)} \rightarrow H_{2}_{(g)} + MgCl_{(aq)}
 \end{align*}
-$$
 
 ---
 
@@ -120,8 +112,6 @@ Jake adds 1ml of copper sulfate to 1ml of sodium hydroxide and predicts that cop
 
 ---
 
-$$
 \begin{align*}
     CuSO_{4}_{(aq)} + NaOH_{(aq)} \rightarrow Cu(OH)_{2}_{(s)} + Na_{2}SO_{4}_{(s)}
 \end{align*}
-$$
