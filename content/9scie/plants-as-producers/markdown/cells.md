@@ -75,11 +75,15 @@ Small living machines that create biological proteins on the endoplasmic reticul
 
 A group of vesicles and membranes within the cytoplasm involved in intracellular transport.
 
+![](../assets/cells-golgi-bodies.jpeg)
+
 ---
 
 ### Lysosomes
 
 A spherical container that holds many enzymes which can break down large molecules.
+
+![](../assets/cells-lysosomes.jpeg)
 
 ---
 
@@ -87,11 +91,15 @@ A spherical container that holds many enzymes which can break down large molecul
 
 A storage container which may hold water, waste products, or materials that could be harmful to the cell.
 
+![](../assets/cells-vacuoles.gif)
+
 ---
 
 ### Mitochondria
 
 Organelles in which respiration occurs and energy is produced in the form of adenosine triphosphate (ATP).
+
+![](../assets/cells-mitochondria.jpeg)
 
 ---
 
@@ -99,11 +107,15 @@ Organelles in which respiration occurs and energy is produced in the form of ade
 
 A structural layer outside the cell membrane which is often tough and rigid to provide shape to the cell.
 
+![](../assets/cells-cell-wall.jpeg)
+
 ---
 
 ### Centrioles (Animals Only)
 
 Clusters of tiny microtubles which help the cell when it is dividing during growth.
+
+![](../assets/cells-centrioles.jpeg)
 
 ---
 
