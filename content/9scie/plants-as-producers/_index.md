@@ -38,6 +38,10 @@ menu:
     - Glue in Learning Outcomes
     - Watch _Life, Season 1, Episode 8: Plants (58min)_
 2. Plant & Animal Cells
+    - Watch video on an introduction to cells
+    - Read the history of cell theory & answer associated questions
+    - Move around the room using the stations to fill in notes about plant vs animal cell structures
+    - Finish with a Quizziz: https://quizizz.com/admin/quiz/5a5f4eb1326b42000ff15aa4/cells
 3. Aim, Hypothesis, Fair Testing
 4. __Practical__: Microscopes
 5. Graph Reading
