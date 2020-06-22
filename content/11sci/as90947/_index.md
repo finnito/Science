@@ -9,7 +9,19 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Learning Outcomes
 
-1. 
+1. To recall the symbols of the common elements in the periodic table
+2. To recall what happens in a chemical reaction and evidence for it happening
+3. To explain the difference between an element and a compound
+4. To describe what happens in a __combinatiaon reaction__
+5. To describe a precipitate and reacll what happens in a __precipitation reaction__
+6. To describe what happens in a __decomposition reaction__
+7. To describe what happens in a __displacement reaction__
+8. To recall the test for carbon dioixide using limewater
+9. To predict and give examples of each type of chemical reaction
+10. To write word equations to show a chemical reaction
+11. To write symbol equations to show a chemical reaction with symbols of state (g, l s or ag)
+12. To work out the formula of a compound using the swap and drop method
+13. To balance symbol equations
 
 {{< slides >}}
 
