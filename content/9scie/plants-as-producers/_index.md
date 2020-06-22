@@ -24,9 +24,9 @@ menu:
 
 ## Unit Plan
 
-|            | Lesson 1              | Lesson 2                | Lesson 3                         |
+|            | L1 (Mon/Tues)         | L2 (Wed)                | L3 (Fri)                         |
 |------------|-----------------------|-------------------------|----------------------------------|
-| __T2 W11__ | 1. Video/Finish E4L   | 2. Plant & Animal Cells | 3. Aim, Hypothesis, Fair Testing |
+| __T2 W11__ | 1. Video/Finish E4L   | 2. Plant & Animal Cells | 3. Experiments & Microscopes     |
 | __T2 W12__ | 4. __P:__ Microscopes | 5. Graph Reading        | 6. Plant Reproduction            |
 | __T3 W1__  | 7. Plant Reproduction | 8. Adaptations of Seeds | 9. __Catch-Up__                  |
 | __T3 W2__  | 10. Photosynthesis    | 11. Photosynthesis      | 12. Evergreen vs. Deciduous      |
@@ -42,7 +42,7 @@ menu:
     - Read the history of cell theory & answer associated questions
     - Move around the room using the stations to fill in notes about plant vs animal cell structures
     - Finish with a Quizziz: https://quizizz.com/admin/quiz/5a5f4eb1326b42000ff15aa4/cells
-3. Aim, Hypothesis, Fair Testing
+3. Aim, Hypothesis, Fair Testing & Microscope Use
 4. __Practical__: Microscopes
 5. Graph Reading
 6. Plant Reproduction
