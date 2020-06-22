@@ -52,6 +52,10 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 4. Ionic Compounds
     - Finish quiz/speed game
     - Ionic compounds Quizlet
+    - Writing formulae worksheet #1
+5. Writing Equations
     - Video on ionic compounds
-    - Writing formulae worksheet
+    - Talk about electron exchange
+    - Notes on writing equations
+    - Writing formulae worksheet #2
     
