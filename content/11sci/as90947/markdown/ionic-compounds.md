@@ -64,7 +64,7 @@ Think again about the oxygen atom and answer these questions:
 Copy this table into your own book and work in pairs to complete it.
 
 |                                  | Oxygen Atom | Oxygen Ion |
-|----------------------------------|-------------|------------|
+|:---------------------------------|:------------|:-----------|
 | __Electron Shell Configuration__ |             |            |
 | __Number of Protons__            |             |            |
 | __Number of Electrons__          |             |            |
@@ -73,7 +73,7 @@ Copy this table into your own book and work in pairs to complete it.
 ---
 
 |                                  | Oxygen Atom | Oxygen Ion          |
-|----------------------------------|-------------|---------------------|
+|:---------------------------------|:------------|:--------------------|
 | __Electron Shell Configuration__ | [2, 6]      | [2, 8]<sup>2-</sup> |
 | __Number of Protons__            | 8           | 8                   |
 | __Number of Electrons__          | 8           | 10                  |
@@ -298,7 +298,7 @@ Lead bicarbonate: $Pb(HCO_{3})_{2}$
 ## Game Answers
 
 | 1-5        | 6-10             | 11-15                |
-|------------|------------------|----------------------|
+|:-----------|:-----------------|:---------------------|
 | $NaI$      | $PbSO_{4}$       | $Al_{2}(SO_{4})_{3}$ |
 | $AgI$      | $BaCO_{3}$       | $FeO$                |
 | $LiF$      | $ZnI_{2}$        | $Fe_{2}O_{3}$        |
@@ -309,4 +309,19 @@ Lead bicarbonate: $Pb(HCO_{3})_{2}$
 
 ## Quizziz!
 
-[Click](https://quizizz.com/admin/quiz/5ee9f2c8fb1f8c001b986746/naming-ionic-compounds)
+[joinmyquiz.com](https://quizizz.com/admin/quiz/5ee9f2c8fb1f8c001b986746/naming-ionic-compounds)
+
+---
+
+<iframe width="862" height="485" src="https://www.youtube.com/embed/kShlfIsvWbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Electron Transfer
+
+Ionic compounds form because:
+
+- some atoms want to give away electrons to get a full valence shell (become positive)
+- some atoms want to receive electrons to get a full valence shell (become negative)
+
+By giving/receiving electrons they form an __ionic bond__ (electrostatic forces) and make a __neutral compound__.
