@@ -4,6 +4,7 @@ subtitle: 11SCI - Chemical Reactions
 author: Finn LeSueur
 date: 2020
 theme: finn
+weight: 4
 colortheme: dolphin
 font-size: 35px
 text-align: center
@@ -86,7 +87,7 @@ __Task:__ Discuss with your partner, what are the four states of matter that we 
 | __Subscript__ | (s)   | (l)    | (g) | (aq)    |
 
 - Aqueous means that it is dissolved in solution
-- (l) is very uncommon in Year 11, (aq) is much more common
+- _(l)_ is very uncommon in Year 11, (aq) is much more common
 
 ---
 
