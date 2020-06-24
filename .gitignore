@@ -3,3 +3,4 @@ public/
 *.pdf
 *.zip
 **/**/slides/assets/*
+*log
