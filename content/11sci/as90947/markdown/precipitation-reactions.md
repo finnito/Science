@@ -57,3 +57,11 @@ The video before shows us a few very important things:
 Write a word equation, symbol equation and predict the precipitate for this reaction.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/73dw6w0zNXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### More Practice
+
+This video demonstrates three more precipitation reactions. For each, write an observation that would indicate to you that a precipitation reaction is occurring, then a word and symbol equation and predict/explain the precipitate with your solubility rules.
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/HSlQGFNstg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
