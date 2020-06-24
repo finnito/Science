@@ -3,6 +3,7 @@ title: Series & Parallel Circuits
 subtitle: 12PHYS - Electricity
 author: Finn LeSueur
 date: 2019
+weight: 5
 theme: finn
 header-includes:
 - \usepackage{graphicx}

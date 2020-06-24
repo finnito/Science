@@ -3,6 +3,7 @@ title: Term 2 Revision
 subtitle: 12PHYS - Electricity
 author: Finn LeSueur
 date: 2019
+draft: true
 theme: finn
 header-includes:
 - \usepackage{graphicx}

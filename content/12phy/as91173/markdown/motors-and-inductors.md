@@ -4,6 +4,7 @@ subtitle: 12PHYS - Electricity
 author: Finn LeSueur
 date: 2019
 theme: finn
+weight: 9
 katex: true
 header-includes:
 - \usepackage{graphicx}

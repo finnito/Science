@@ -3,6 +3,7 @@ title: Voltage & Power
 subtitle: 12PHYS - Electricity
 author: Finn LeSueur
 date: 2019
+weight: 3
 theme: finn
 colortheme: dolphin
 font-size: 35px

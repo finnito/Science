@@ -4,6 +4,7 @@ subtitle: 12PHYS - Electricity
 author: Finn LeSueur
 date: 2020
 theme: finn
+weight: 6
 colortheme: dolphin
 font-size: 35px
 text-align: center

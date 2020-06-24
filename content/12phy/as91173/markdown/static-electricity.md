@@ -2,6 +2,7 @@
 title: Static Electricity & Charge
 subtitle: 12PHYS - Electricity
 author: Finn LeSueur
+weight: 1
 date: 2019
 theme: finn
 colortheme: dolphin
