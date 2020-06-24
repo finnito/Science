@@ -30,9 +30,9 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 |        | Monday                           | Tuesday                     | Thursday                    | Friday                      |
 |:-------|:---------------------------------|:----------------------------|:----------------------------|:----------------------------|
 | T2 W10 | 1. Review of the Atom            | 2. P-Table & Electrons      | 3.  Compounds               | __TOD__                     |
-| T2 W11 | 4. Compounds & Electron Transfer | 5. Writing Equations        | 6. Combination Reactions    | 7. Combination Reactions    |
-| T2 W12 | 8. Exchange Reactions            | 9. Exchange Reactions       | 10. Decomposition Reactions | 11. Decomposition Reactions |
-| T3 W1  | 12. Displacement Reactions       | 13. Displacement Reactions  | 14. Observations Recap      | 15. _Catch-Up_              |
+| T2 W11 | 4. Compounds & Electron Transfer | 5. Writing Equations        | 6. Precipitation Reactions    | 7. Precipitation Reactions    |
+| T2 W12 | 8. Displacement Reactions            | 9. Displacement Reactions       | 10. Combination Reactions | 11. Combination Reactions |
+| T3 W1  | 12. Decomposition Reactions       | 13. Decomposition Reactions  | 14. Observations Recap      | 15. _Catch-Up_              |
 | T3 W2  | 16. _Assessment Tips_            | 17. __Practice Assessment__ | __Practice Assessment__     | __Practice Assessment__     |
 | T3 W3  | 18. _Revision & Feedback_        | 19. __Assessment__          | __Assessment__              | __Assessment__              |
 
@@ -57,6 +57,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
     - Video on ionic compounds
     - Talk about electron exchange
     - Notes on writing equations
-6. Combination Reactions
-    - Writing formulae worksheet #2
-    
+6. Precipitation Reactions
+    - Starter: writing word equation
+    - Notes on precipitation reactions
+    - Practice example forming lead iodide
