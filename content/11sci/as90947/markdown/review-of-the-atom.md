@@ -4,6 +4,7 @@ subtitle: 11SCI - Chemical Reactions
 author: Finn LeSueur
 date: 2020
 theme: finn
+weight: 1
 colortheme: dolphin
 font-size: 35px
 text-align: center
@@ -58,7 +59,7 @@ An atom is made up of two distinct parts. The __nucleus__ and __electrons__.
 The three particles have different electrical charges. Copy this table into your book and fill it out if you know the answers!
 
 |              | Location | Electric Charge | Mass |
-|--------------|----------|-----------------|------|
+|:-------------|:---------|:----------------|:-----|
 | __Proton__   |          |                 |      |
 | __Electron__ |          |                 |      |
 | __Neutron__  |          |                 |      |
@@ -66,7 +67,7 @@ The three particles have different electrical charges. Copy this table into your
 ---
 
 |              | Location | Electric Charge | Mass |
-|--------------|----------|-----------------|------|
+|:-------------|:---------|:----------------|:-----|
 | __Proton__   | Nucleus  | +1              | 1    |
 | __Electron__ | Orbits   | -1              | 0    |
 | __Neutron__  | Nucleus  | 0               | 1    |
@@ -96,7 +97,7 @@ This is sodium. How many electrons does it have? How many protons does it have? 
 Draw this table in your book and fill it out to describe the following atom.
 
 | Question                | Answer |
-|-------------------------|--------|
+|:------------------------|:-------|
 | __Number of Protons__   |        |
 | __Number of Neutrons__  |        |
 | __Number of Electrons__ |        |

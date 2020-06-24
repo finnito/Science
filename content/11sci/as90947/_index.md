@@ -12,11 +12,11 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 1. To recall the symbols of the common elements in the periodic table
 2. To recall what happens in a chemical reaction and evidence for it happening
 3. To explain the difference between an element and a compound
-4. To describe what happens in a __combinatiaon reaction__
-5. To describe a precipitate and reacll what happens in a __precipitation reaction__
+4. To describe what happens in a __combination reaction__
+5. To describe a precipitate and recall what happens in a __precipitation reaction__
 6. To describe what happens in a __decomposition reaction__
 7. To describe what happens in a __displacement reaction__
-8. To recall the test for carbon dioixide using limewater
+8. To recall the test for carbon dioxide using limewater
 9. To predict and give examples of each type of chemical reaction
 10. To write word equations to show a chemical reaction
 11. To write symbol equations to show a chemical reaction with symbols of state (g, l s or ag)
@@ -27,14 +27,14 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Unit Plan
 
-|        | Monday                        | Tuesday                 | Thursday                | Friday                  |
-|:-------|:------------------------------|:------------------------|:------------------------|:------------------------|
-| T2 W10 | Review of the Atom            | P-Table & Electrons     | Ionic Compounds         | __TOD__                 |
-| T2 W11 | Compounds & Electron Transfer | Writing Equations       | Combination Reactions   | Combination Reactions   |
-| T2 W12 | Exchange Reactions            | Exchange Reactions      | Decomposition Reactions | Decomposition Reactions |
-| T3 W1  | Displacement Reactions        | Displacement Reactions  | Observations Recap      | _Catch-Up_              |
-| T3 W2  | _Assessment Tips_             | __Practice Assessment__ | __Practice Assessment__ | __Practice Assessment__ |
-| T3 W3  | _Revision & Feedback_         | __Assessment__          | __Assessment__          | __Assessment__          |
+|        | Monday                           | Tuesday                     | Thursday                    | Friday                      |
+|:-------|:---------------------------------|:----------------------------|:----------------------------|:----------------------------|
+| T2 W10 | 1. Review of the Atom            | 2. P-Table & Electrons      | 3.  Compounds               | __TOD__                     |
+| T2 W11 | 4. Compounds & Electron Transfer | 5. Writing Equations        | 6. Combination Reactions    | 7. Combination Reactions    |
+| T2 W12 | 8. Exchange Reactions            | 9. Exchange Reactions       | 10. Decomposition Reactions | 11. Decomposition Reactions |
+| T3 W1  | 12. Displacement Reactions       | 13. Displacement Reactions  | 14. Observations Recap      | 15. _Catch-Up_              |
+| T3 W2  | 16. _Assessment Tips_            | 17. __Practice Assessment__ | __Practice Assessment__     | __Practice Assessment__     |
+| T3 W3  | 18. _Revision & Feedback_        | 19. __Assessment__          | __Assessment__              | __Assessment__              |
 
 ### Lesson Plans
 
@@ -52,6 +52,11 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 4. Ionic Compounds
     - Finish quiz/speed game
     - Ionic compounds Quizlet
+    - Writing formulae worksheet #1
+5. Writing Equations
     - Video on ionic compounds
-    - Writing formulae worksheet
+    - Talk about electron exchange
+    - Notes on writing equations
+6. Combination Reactions
+    - Writing formulae worksheet #2
     
