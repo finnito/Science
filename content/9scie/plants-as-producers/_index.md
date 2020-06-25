@@ -11,16 +11,16 @@ menu:
 
 1. __Living Organisms__
     1. Identify and describe the difference between living and non-living
-    2. Identify features of lfiving organisms (MRS C GREN)
+    2. Identify features of living organisms (MRS C GREN)
     3. Identify the major differences between plants and animals
 2. __Plant Growth & Reproduction__
-    1. Expalin why plants are so important to life on Earth
+    1. Explain why plants are so important to life on Earth
     2. Describe and explain the process of photosynthesis
     3. Describe plant growth, reproduction, dispersal and why bees are so important.
 3. __Plant vs. Animal Cells__
-    1. Indentify the main features of plant and animal cells
+    1. Identify the main features of plant and animal cells
     2. Describe their functions
-    3. Use a icroscope to view cells of plants and animals
+    3. Use a microscope to view cells of plants and animals
 
 ## Unit Plan
 
@@ -43,7 +43,14 @@ menu:
     - Move around the room using the stations to fill in notes about plant vs animal cell structures
     - Finish with a Quizziz: https://quizizz.com/admin/quiz/5a5f4eb1326b42000ff15aa4/cells
 3. Aim, Hypothesis, Fair Testing & Microscope Use
+    - Finish off labelling cell diagrams
+    - Quizziz: https://quizizz.com/admin/quiz/5a5f4eb1326b42000ff15aa4/cells
+    - Video on microscopes
+    - Use EP task to help label microscope diagram in exercise books
+    - Make notes on preparing a slide using experiment document
+    - Read about and answer questions on the formation of cell theory
 4. __Practical__: Microscopes
+    - FCG do this on Monday P4, KNS to do this Friday P5.
 5. Graph Reading
 6. Plant Reproduction
 7. Plant Reproduction

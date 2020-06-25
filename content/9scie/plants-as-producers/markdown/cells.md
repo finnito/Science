@@ -127,6 +127,59 @@ The food producers of the cell - they are where photosynthesis occurs to gain en
 
 ---
 
+## Starter
+
+1. Use the diagrams around the room to collect any unfinished notes from last class.
+2. Use the diagrams and your notes to try and label your plant and animal cell diagrams (use pencil!)
+
+![](../assets/cells-diagram-unlabelled.png "")
+
+---
+
+![](../assets/cells-diagram-labelled.png "")
+
+---
+
 ## Quizziz Time!
 
 Go to [joinmyquiz.com](https://quizizz.com/admin/quiz/5a5f4eb1326b42000ff15aa4/cells)
+
+---
+
+## Microscopes
+
+There are a few different types of microscopes, but the one that we are going to be using is called a __light microscope__.
+
+That means that it uses visible light!
+
+---
+
+## Glue in your diagram & watch this video
+
+<iframe width="1680" height="756" src="https://www.youtube.com/embed/tVcEEw6qbBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+__Task__: Use the Education Perfect task to help you identify the different parts of the microscope.
+
+![](../assets/cells-unlabelled-microscope.png "")
+
+---
+
+![](../assets/cells-labelled-microscope.png "")
+
+---
+
+### Preparing a Slide
+
+Open the microscope experiment document on Google Classroom and scroll down to __Steps to make a good slide:__.
+
+__Task__: Copy these four steps into your exercise book and then read the section __Using a microscope__.
+
+---
+
+### Formation of Cell Theory
+
+Read the document on Google Classroom about the formation of cell theory and answer the questions at the bottom in your exercise book.
+
+
