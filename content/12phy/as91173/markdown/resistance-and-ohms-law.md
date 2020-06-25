@@ -3,6 +3,7 @@ title: Resistance & Ohm's Law
 subtitle: 12PHYS - Electricity
 author: Finn LeSueur
 date: 2019
+weight: 4
 theme: finn
 colortheme: dolphin
 header-includes:

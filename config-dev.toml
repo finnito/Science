@@ -1,4 +1,4 @@
-baseurl       = "localhost:1313"
+baseurl       = "http://science.test/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -19,7 +19,7 @@ pygmentCodeFences       = true
 [Params]
   subtitle    = "Science Courses taught by Finn LeSueur"
   logo        = "logo.png"
-  favicon     = "favicon.ico"
+  favicon     = "favicon.png"
   dateFormat  = "January 2, 2006"
   commit      = true
   rss         = true

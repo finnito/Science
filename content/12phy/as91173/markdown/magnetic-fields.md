@@ -3,6 +3,7 @@ title: Magnetic Fields
 subtitle: 12PHYS - Electricity
 author: Finn LeSueur
 date: 2019
+weight: 8
 theme: finn
 header-includes:
 - \usepackage{graphicx}
