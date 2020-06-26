@@ -129,14 +129,13 @@ The food producers of the cell - they are where photosynthesis occurs to gain en
 
 ## Starter
 
-1. Use the diagrams around the room to collect any unfinished notes from last class.
-2. Use the diagrams and your notes to try and label your plant and animal cell diagrams (use pencil!)
+1. Use the diagrams around the room to __collect any unfinished notes__ and __label your plant and animal cell diagrams__ (use pencil!)
 
 ![](../assets/cells-diagram-unlabelled.png "")
 
 ---
 
-![](../assets/cells-diagram-labelled.png "")
+![](../assets/cells-diagram-labelled.jpg "")
 
 ---
 
