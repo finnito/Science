@@ -110,10 +110,10 @@ __Task:__ Sketch this unlabelled wave into your book on the axis.
 
 The period is very closely linked to the frequency as you can see from their definitions. There is a very simple formula for converting between them:
 
-$$
-T = \frac{1}{f} \\\\
-f = \frac{1}{T}
-$$
+\begin{align*
+    & T = \frac{1}{f} \\\\
+    & f = \frac{1}{T}
+\end{align*
 
 ---
 
