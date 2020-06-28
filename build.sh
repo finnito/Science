@@ -14,6 +14,7 @@ MODULES=(
     '12phy/as91171'
     '12ess/2-extreme-earth-events'
     '12phy/as91173'
+    '12phy/as91523'
     '12phy/4-nuclear'
 )
 
