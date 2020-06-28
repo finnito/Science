@@ -4,6 +4,7 @@ set -e
 MODULES=(
     '9scie/introduction-to-science'
     '9scie/energy-for-life'
+    '9scie/plants-as-producers'
     '10scie/5-fire-and-fuels'
     '10scie/6-geology'
     '11sci/as90940'
@@ -13,6 +14,7 @@ MODULES=(
     #'12phy/5-maths'
     '12ess/2-extreme-earth-events'
     '12phy/as91173'
+    '12phy/as91523'
     '12phy/4-nuclear'
 )
 
