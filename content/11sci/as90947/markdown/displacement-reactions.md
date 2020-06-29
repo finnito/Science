@@ -31,13 +31,17 @@ header-includes:
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2i5Lm7BMtpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ## Displacement Reactions
 
-$$
+\\[
 \begin{align*}
     A + BC \longrightarrow B + AC
 \end{align*}
-$$
+\\]
 
 A reaction where an ion (B) is _replaced_ by another ion (A) in a compound.
 
@@ -88,9 +92,18 @@ In chemistry, one ion displaces another because it is more __reactive__.
 
 Note which end is the most and least reactive on your resource sheet.
 
-$$
+\\[
 \begin{align*}
-    & \text{Most Reactive} \longrightarrow \text{Least Reactive}
+    & \text{Most Reactive} \longrightarrow \text{Least Reactive} \\
     & Ca, Mg, Al, Zn, Fe, Pb, (H), Cu, Ag
 \end{align*}
-$$
+\\]
+
+---
+
+### Example 3
+
+1. Write a word equation
+2. Write a symbol equation (with states and balanced)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6NrE6TZ8Fzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
