@@ -19,6 +19,7 @@ MODULES=(
 )
 
 main() {
+    bash fix-misplaced-md.sh
     cd content || exit
     echo "Entered 'content'"
     for i in "${MODULES[@]}"; do
