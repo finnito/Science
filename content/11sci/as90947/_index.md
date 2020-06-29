@@ -30,7 +30,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 |        | Monday                           | Tuesday                     | Thursday                    | Friday                      |
 |:-------|:---------------------------------|:----------------------------|:----------------------------|:----------------------------|
 | T2 W10 | 1. Review of the Atom            | 2. P-Table & Electrons      | 3.  Compounds               | __TOD__                     |
-| T2 W11 | 4. Compounds & Electron Transfer | 5. Writing Equations        | 6. Precipitation Reactions    | 7. Precipitation Reactions    |
+| T2 W11 | 4. Compounds & Electron Transfer | 5. Writing Equations        | 6. Precipitation Reactions    | 7. Ionic Compounds    |
 | T2 W12 | 8. Displacement Reactions            | 9. Displacement Reactions       | 10. Combination Reactions | 11. Combination Reactions |
 | T3 W1  | 12. Decomposition Reactions       | 13. Decomposition Reactions  | 14. Observations Recap      | 15. _Catch-Up_              |
 | T3 W2  | 16. _Assessment Tips_            | 17. __Practice Assessment__ | __Practice Assessment__     | __Practice Assessment__     |
@@ -61,3 +61,14 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
     - Starter: writing word equation
     - Notes on precipitation reactions
     - Practice example forming lead iodide
+7. Ionic Compounds
+    - Need to do more practice with ionic compounds.
+    - Starter: write a word and symbol equation for a precipitation reaction
+    - Do CAR's 'knobs and holes' card match activity
+    - Do ionic compound Battleships
+8. Precipitation Reactions
+    - Starter: Describe a precipitation reaction (equation, observations, and a word equation)
+    - Practical: Precipitation Challenge
+9. Displacement Reactions
+    - Starter: Recap precipitation reactions
+    - Notes and examples on displacement reactions
