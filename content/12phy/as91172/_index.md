@@ -5,9 +5,19 @@ menu:
         parent: "12PHY"
 ---
 
+__NZQA__: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=91172](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=91172)
+
 {{< slides >}}
 
-## Lesson Plans
+## Unit Plan
+
+|        | Lesson 1 (Mon) | Lesson 2 (Tues) | Lesson 3 (Wed) | Lesson 4 (Thurs) |
+|--------|----------------|-----------------|----------------|------------------|
+| T3 W10 | 1.             | 2.              | 3.             | 4.               |
+| T4 W1  | 5.             | 6.              | 7.             | 8.               |
+| T4 W2  | 9.             | 10.             | 11.            | 12. __Test__     |
+
+### Lesson Plans
 
 1. Atoms & Isotopes
 2. Discovering the Atomic Structure

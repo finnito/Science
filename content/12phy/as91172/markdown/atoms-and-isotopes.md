@@ -4,6 +4,7 @@ subtitle: 12PHY - Atomic and Nuclear Physics
 author: Finn LeSueur
 date: 2019
 theme: finn
+weight: 1
 colortheme: dolphin
 font-size: 35px
 text-align: center
