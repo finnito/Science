@@ -123,3 +123,32 @@ $$
 v = f\lambda
 $$
 
+---
+
+![](../assets/transverse-wave.gif "")
+
+---
+
+![](../assets/longitudinal-wave.gif "")
+
+---
+
+### Interference
+
+When waves intersect each other, they __interfere__. This is where the amplitudes of the waves are combined (add positive and negative amplitudes).
+
+- __Constructive Interference__: When two peaks meet and the resulting amplitude is greater
+- __Destructive Interference__: When a peak and a trough meet and the resulting amplitude is less (or in some cases, zero)
+
+---
+
+![](../assets/interference.gif "")
+
+---
+
+### Nodes and Anti-Nodes
+
+- A node (think: no amplitude) is a place of minimum amplitude
+- An anti-node is a place of maximum amplitude
+
+![](../assets/nodes-antinodes.png "")
