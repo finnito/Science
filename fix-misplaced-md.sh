@@ -11,11 +11,10 @@ MODULES=(
     '11sci/as90930'
     '11sci/as90948'
     '12phy/as91171'
-    #'12phy/5-maths'
-    '12ess/2-extreme-earth-events'
+    '12phy/as91172'
     '12phy/as91173'
     '12phy/as91523'
-    '12phy/4-nuclear'
+    '12ess/2-extreme-earth-events'
 )
 
 cd content || exit
