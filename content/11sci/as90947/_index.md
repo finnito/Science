@@ -31,7 +31,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 |:-------|:---------------------------------|:----------------------------|:----------------------------|:----------------------------|
 | T2 W10 | 1. Review of the Atom            | 2. P-Table & Electrons      | 3.  Compounds               | __TOD__                     |
 | T2 W11 | 4. Compounds & Electron Transfer | 5. Writing Equations        | 6. Precipitation Reactions    | 7. Ionic Compounds    |
-| T2 W12 | 8. Displacement Reactions            | 9. Displacement Reactions       | 10. Combination Reactions | 11. Combination Reactions |
+| T2 W12 | 8. Precipitation Reactions            | 9. Displacement Reactions       | 10. Combination Reactions | 11. Displacement Practical |
 | T3 W1  | 12. Decomposition Reactions       | 13. Decomposition Reactions  | 14. Observations Recap      | 15. _Catch-Up_              |
 | T3 W2  | 16. _Assessment Tips_            | 17. __Practice Assessment__ | __Practice Assessment__     | __Practice Assessment__     |
 | T3 W3  | 18. _Revision & Feedback_        | 19. __Assessment__          | __Assessment__              | __Assessment__              |
@@ -72,3 +72,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 9. Displacement Reactions
     - Starter: Recap precipitation reactions
     - Notes and examples on displacement reactions
+10. Combination Reactions
+    - Starter: Displacement reactions question
+    - Notes and examples on combination reactions
+    - Education Perfect task on reactions?
