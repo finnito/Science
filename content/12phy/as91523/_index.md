@@ -41,11 +41,13 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
     - Quizziz: https://quizizz.com/admin/quiz/start_new/56fc7c19905a99040f5f2ef7
 2. Hand back Test
     - Hand back previous unit (Electromag) test & revision
-3. Intro Continued
     - Starter: Quizlet flashcards & Quizlet Live: https://quizlet.com/83814791/waves-flash-cards/
+    - Waves Revision Questions #1 Q1
+3. Intro Continued
     - Notes with example calculations on using $T = \frac{1}{f}$ and $v=f\lambda$.
     - Textbook Activity 5A Q1-5
-    - Waves Revision Questions #1 Q1, Q2
+    - Waves Revision Questions #1 Q2
     - Physics Worksheet 3.3 Waves Q1-5
 4. Intro Continued
+    - Hand out test marking schedule & assign as homework over the holidays
     - Any material not finished in 3.
