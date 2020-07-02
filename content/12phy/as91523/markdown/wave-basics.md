@@ -152,3 +152,42 @@ When waves intersect each other, they __interfere__. This is where the amplitude
 - An anti-node is a place of maximum amplitude
 
 ![](../assets/nodes-antinodes.png "")
+
+---
+
+## Starter
+
+Mathieu is surfing at Taylors Mistake and decides to count the waves. He notices that 3 waves pass him 60s.
+
+1. What is the frequency of the waves?
+2. What is the period of the waves?
+3. A lifeguard measures the velocity of the waves to $300cms^{-1}$. What is their wavelength?
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IXxZRZxafEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Calculation
+
+Red light has a wavelength of approximately $400nm$ and travels at approximately $3x10^{8}ms^{-1}$.
+
+1. Calculate the frequency of this wavelength light.
+2. Explain, in words, what frequency means in this context.
+
+---
+
+## Diffraction
+
+Diffraction is when waves change direction as they encounter an obstacle or pass through an aperture.
+
+- Long wavelengths diffract more (bend more) around obstacles
+- Wavelengths closer to the diameter of an aperture diffract more than those not similar
+
+---
+
+![](http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/imgsou/difr2.png "")
+
+---
+ 
