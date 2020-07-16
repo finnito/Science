@@ -4,11 +4,16 @@ menu: "main"
 linkTitle: "11SCI"
 ---
 
-1. [Genetics](as90948/)
-2. [Microbes & Food](as90950/)
-3. [Chemical Investigation](as90930/)
-4. [Chemical Reactions](as90947/)
-5. [Mechanics](as90940/)
+1. [AS90948 - Genetics](as90948/)
+    - External, 4 Level 1 Credits 
+2. [AS90950 - Microbes & Food](as90950/)
+    - Internal, 4 Level 1 Credits
+3. [AS90930 - Chemical Investigation](as90930/)
+    - Internal, 4 Level 1 Credits
+4. [AS90947 - Chemical Reactions](as90947/)
+    - Internal, 4 Level 1 Credits
+5. [AS90940 - Mechanics](as90940/)
+    - External, 4 Level 1 Credits
 
 ## 2020 Year Planner
 
