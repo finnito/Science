@@ -1,5 +1,4 @@
 ---
-
 title: Doppler Effect
 subtitle: 12PHYS - Wave Systems
 author: Finn LeSueur
@@ -9,19 +8,19 @@ theme: finn
 colortheme: dolphin
 font-size: 35px
 text-align: center
+katex: true
 header-includes:
 - \usepackage{graphicx}
 - \usepackage[T1]{fontenc}
 - \usepackage{lmodern}
 - \usepackage{amsmath}
-
 ---
 
 ## Starter
 
 Bodgan is observing a star through a telescope, and it appears to be orange. He looks up the wavelength of orange light and finds it to be around $600nm$.
 
-1. What is the frequency of orange light, given than the speed of light is $c=3\times10^{8}$?
+1. What is the frequency of orange light, given than the speed of light is $c=3 \times 10^{8}$?
 2. Using your value for frequency, what is the period of the orange light?
 3. Draw a rough wave for this orange light, labelling the wavelength and an arrow indicating the velocity.
 
@@ -111,7 +110,7 @@ What is the $\pm$ symbol?
 
 - $v_{w} \pm v_{s}$ means, in words, __the velocity of the wave relative to the source__
 - If the source is moving in the same direction as the wave (approaching), the wave appears to be moving away slower relative to the source, so we must __subtract__
-- If the source is moving away from the wave (receeding), the wave appears to be moving away faster relative to the source, so we must __add__
+- If the source is moving away from the wave (receeding), the wave appears to be moving away faster relative to the source, so we must __add__ 
 
 ---
 
