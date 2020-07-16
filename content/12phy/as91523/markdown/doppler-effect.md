@@ -59,21 +59,21 @@ Bodgan is observing a star through a telescope, and it appears to be orange. He 
 - To work with the __doppler effect__ we will need to be confident using the equations we learned last week!
 - If you do not have these equations in your book, copy them down and include the units for each variable.
 
-\\[
+$$
 \begin{align*}
     & v = f\lambda \\\\
     & velocity = frequency \times wavelength \\\\
 \end{align*}
-\\]
+$$
 
 ---
 
-\\[
+$$
 \begin{align*}
     & f = \frac{1}{T} \\\\
     & frequency = \frac{1}{period}
 \end{align*}
-\\]
+$$
 
 ---
 
@@ -98,11 +98,11 @@ Some new notation!
 
 ---
 
-\\[
+$$
 \begin{align*}
     & f' = f\frac{v_{w}}{v_{w} \pm v_{s}}
 \end{align*}
-\\]
+$$
 
 ---
 
