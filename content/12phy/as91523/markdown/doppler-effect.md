@@ -59,21 +59,17 @@ Bodgan is observing a star through a telescope, and it appears to be orange. He 
 - To work with the __doppler effect__ we will need to be confident using the equations we learned last week!
 - If you do not have these equations in your book, copy them down and include the units for each variable.
 
-$$
 \begin{align*}
     & v = f\lambda \\\\
-    & velocity = frequency \times wavelength \\\\
+    & velocity = frequency \times wavelength
 \end{align*}
-$$
 
 ---
 
-$$
 \begin{align*}
     & f = \frac{1}{T} \\\\
     & frequency = \frac{1}{period}
 \end{align*}
-$$
 
 ---
 
@@ -98,11 +94,9 @@ Some new notation!
 
 ---
 
-$$
 \begin{align*}
     & f' = f\frac{v_{w}}{v_{w} \pm v_{s}}
 \end{align*}
-$$
 
 ---
 
@@ -116,7 +110,7 @@ What is the $\pm$ symbol?
 
 #### Question 2
 
-A doctor at the hospital hears an ambulance leave the hospital at $30km/h$ and return 15 minutes later at a speed of $35km/h$. Both times its siren is sounding at a frequency of $4000Hz$.
+A doctor at the hospital hears an ambulance leave the hospital at $30km/h$ and return 15 minutes later at a speed of $35km/h$. Both times its siren is sounding at a frequency of $400Hz$.
 
 1. Calculate the observed frequency as the ambulance leaves.
 2. Calculate the observed frequency as the ambulance returns.
@@ -130,5 +124,3 @@ A doctor at the hospital hears an ambulance leave the hospital at $30km/h$ and r
 ## Homework: Question 9 of the Homework Booklet
 
 Due Monday
-
----
