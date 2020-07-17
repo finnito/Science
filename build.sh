@@ -20,6 +20,8 @@ MODULES=(
 
 main() {
     bash fix-misplaced-md.sh
+    git clean -fd
+    git checkout master
     cd content || exit
     echo "Entered 'content'"
     for i in "${MODULES[@]}"; do
