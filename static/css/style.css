@@ -100,6 +100,11 @@ li p { margin-bottom: 0; }
 
 ol > li {
   margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+ol > li > ul {
+  font-weight: 300;
 }
 
 ol li:first-of-type p { margin-top: 0; }
