@@ -54,11 +54,28 @@ menu:
 5. Graph Reading
 6. Plant Reproduction
 7. Plant Reproduction
+    - Cut and paste reproduction cycle of plants
+    - Flashcards on the function of the anther, filament, stigma, style, ovary and ovule.
+    - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
 8. Adaptations of Seeds
+    - The overall function of seeds
+    - What is it important that seeds do
+    - Possible adaptations to achieve this
+    - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
 9. __Catch-Up__
+    - Flower dissection practical: https://www.riskassess.co.nz/risk_assessment/8324197
+    - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
 10. Photosynthesis
+    - Equation
+    - Description of why it is important
+    - Relate its efficiency to the seasons
+    - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
 11. Photosynthesis
+    - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
 12. Evergreen vs. Deciduous
+    - Relating photosynthesis to graphs to determine evergreen/deciduous
+    - __Spelling Test__
 13. Nature of Science - Plant Importance
 14. Revision
+    - Fair tests
 15. __TEST__
