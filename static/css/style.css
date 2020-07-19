@@ -98,13 +98,15 @@ ol, ul {
 
 li p { margin-bottom: 0; }
 
-ol > li {
+main ol > li,
+main ul > li {
   margin-bottom: 0.5rem;
-  font-weight: 500;
+  font-weight: bold;
 }
 
-ol > li > ul {
-  font-weight: 300;
+main li > ul li,
+main li > ol li {
+  font-weight: normal;
 }
 
 ol li:first-of-type p { margin-top: 0; }
