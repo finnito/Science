@@ -19,13 +19,11 @@ header-includes:
 
 ## Starter
 
-1. Write down the __general reaction__ for a displacement reaction
-2. What might you observe if a displacement reaction has occurred?
-3. How do you know/how can you predict if a displacement reaction will occur?
-4. A piece of lead is placed into a silver iodide solution. Will a reaction occur?
-    - If it will, write a word and symbol equation for it.
-5. A piece of aluminium is placed into a magnesium sulfate solution. Will a reaction occur?
-    - If it will, write a word and symbol equation for it.
+1. Give the _general equation_ for:
+    - A precipitation reaction
+    - A displacement reaction
+    - A combination reaction
+2. Give an observation that you might make to indicate that each type of reaction has occured.
 
 ---
 
@@ -65,5 +63,4 @@ Mercury (II) oxide is heated in a test tube. The solid is seen to change colour 
 2. $2HgO_{s} \xrightarrow{\text{heat}} 2Hg_{l} + O_{2g}$
 
 ---
-
 
