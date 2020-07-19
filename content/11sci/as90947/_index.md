@@ -27,14 +27,14 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Unit Plan
 
-|        | Monday                           | Tuesday                     | Thursday                    | Friday                      |
-|:-------|:---------------------------------|:----------------------------|:----------------------------|:----------------------------|
-| T2 W10 | 1. Review of the Atom            | 2. P-Table & Electrons      | 3.  Compounds               | __TOD__                     |
-| T2 W11 | 4. Compounds & Electron Transfer | 5. Writing Equations        | 6. Precipitation Reactions    | 7. Ionic Compounds    |
-| T2 W12 | 8. Precipitation Reactions            | 9. Displacement Reactions       | 10. Combination Reactions | 11. Displacement Practical |
-| T3 W1  | 12. Decomposition Reactions       | 13. Decomposition Reactions  | 14. Observations Recap      | 15. _Catch-Up_              |
-| T3 W2  | 16. _Assessment Tips_            | 17. __Practice Assessment__ | __Practice Assessment__     | __Practice Assessment__     |
-| T3 W3  | 18. _Revision & Feedback_        | 19. __Assessment__          | __Assessment__              | __Assessment__              |
+|          | Monday                             | Tuesday                       | Thursday                      | Friday                        |
+| :------- | :--------------------------------- | :---------------------------- | :---------------------------- | :---------------------------- |
+| T2 W10   | 1. Review of the Atom              | 2. P-Table & Electrons        | 3.  Compounds                 | __TOD__                       |
+| T2 W11   | 4. Compounds & Electron Transfer   | 5. Writing Equations          | 6. Precipitation Reactions    | 7. Ionic Compounds            |
+| T2 W12   | 8. Precipitation Reactions         | 9. Displacement Reactions     | 10. Combination Reactions     | 11. Displacement Practical    |
+| T3 W1    | 12. Decomposition Reactions        | 13. Decomposition Practical   | 14. Gas Tests                 | 15. _Assessment Tips_         |
+| T3 W2    | 16. _Catch-Up/Start Practice_      | 17. __Practice Assessment__   | __Practice Assessment__       | __Practice Assessment__       |
+| T3 W3    | 18. _Revision & Feedback_          | 19. __Assessment__            | __Assessment__                | __Assessment__                |
 
 ### Lesson Plans
 
@@ -76,3 +76,20 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
     - Starter: Displacement reactions question
     - Notes and examples on combination reactions
     - Education Perfect task on reactions?
+11. Displacement Practical
+12. Decomposition Reactions
+    - Starter reviewing previous reaction types
+    - Notes & video on decomposition reactions
+    - Issue research assignment, explain it and give them the period to work on it
+13. Decomposition Reactions Practical
+    - https://www.riskassess.co.nz/risk_assessment/8323191
+14. Gas Tests
+	- Notes on gas tests
+	- Gas tests experiments
+	    - https://www.riskassess.co.nz/risk_assessment/8323197
+	- Fill in notes on gas tests in the research document
+15. Assessment Tips
+	- Issue booklet for practice assessment
+	- Go through how the assessment will work
+	- Specify requirements for AME
+	- Make predictions for practice assessment if time
