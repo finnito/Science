@@ -23,7 +23,7 @@ header-includes:
     - A precipitation reaction
     - A displacement reaction
     - A combination reaction
-2. Give an observation that you might make to indicate that each type of reaction has occured.
+2. Give an observation that you might make to indicate that each type of reaction has occurred.
 
 ---
 
