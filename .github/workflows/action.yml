@@ -13,8 +13,8 @@ jobs:
             host: ${{ secrets.SERVER_IP }}
             port: ${{ secrets.SERVER_PORT }}
             user: ${{ secrets.SERVER_USER }}
-            destination: ${{ secrets.SERVER_DESTINATION }}
             ssh_before: |
+              cd /srv/science.lesueur.nz/
               git checkout master
               git pull origin master --recurse-submodules
               bash build.sh
