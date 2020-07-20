@@ -40,7 +40,7 @@ header-includes:
 ## Decomposition Reactions
 
 \begin{align*}
-    AB \longrightarrow A + B
+    AB \xrightarrow{heat} A + B
 \end{align*}
 
 
