@@ -45,7 +45,7 @@ But how do they do it?!
 
 ---
 
-The seeds from the fruit can then grow through mitosis (once in) the ground to form new plants!
+The seeds from the fruit can then grow through mitosis once in the ground to form new plants!
 
 ---
 
@@ -60,6 +60,33 @@ The seeds from the fruit can then grow through mitosis (once in) the ground to f
 
 1. Glue in your flower diagram
 2. Glue in your reproductive cycle diagram
+
+---
+
+- __Anther__: The top of the stamen where the pollen is stored "male" reproductive parts
+- __Filament__: Supports the anther
+- __Stamen__: The appendage containing anther and filament
+
+![](../assets/flower-diagram.png)
+
+---
+
+- __Petal__: The aesthetic part of a flower; attracts pollinators
+- __Sepal__: Protects the flower when not in bloom; supports the petals when in bloom
+
+![](../assets/flower-diagram.png)
+
+---
+
+- __Stigma__: Receives (captures) pollen to be used in reproduction
+- __Style__: A hollow tube through which pollen can grow to reach the ovary
+- __Ovary__: Contains the ovules (eggs; female reproductive parts)
+
+![](../assets/flower-diagram.png)
+
+---
+
+![](../assets/flower-reproductive-cycle.png)
 
 ---
 
