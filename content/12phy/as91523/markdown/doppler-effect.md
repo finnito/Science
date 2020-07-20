@@ -147,6 +147,10 @@ Arterial blood flow in a finger was measured to be $0.19ms^{-1}$ away from the d
 
 ---
 
+#### Textbook Activity 6A Q1-2: The Doppler Effect
+
+---
+
 ## Homework: Question 9 of the Homework Booklet
 
 Due Monday July 27th!
