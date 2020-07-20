@@ -82,12 +82,15 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
     - Notes & video on decomposition reactions
     - Issue research assignment, explain it and give them the period to work on it
 13. Decomposition Reactions Practical
+    - Do the starter from the notes which wasn't done in 13.
     - https://www.riskassess.co.nz/risk_assessment/8323191
+    - Practical: https://docs.google.com/document/d/1unjjfmfy7Xv74AHvVPbJpdXAqNialWporSM26jtDcXA/edit
 14. Gas Tests
-	- Notes on gas tests
+    - Instruct students to make notes in their books as they go through each experiment
+    - Notes should include success criteria and a diagram for how to set up the experiment
 	- Gas tests experiments
 	    - https://www.riskassess.co.nz/risk_assessment/8323197
-	- Fill in notes on gas tests in the research document
+	- Fill in notes on gas tests in the research document if time.
 15. Assessment Tips
 	- Issue booklet for practice assessment
 	- Go through how the assessment will work
