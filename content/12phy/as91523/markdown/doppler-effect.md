@@ -79,7 +79,17 @@ Police can use radar guns to measure the amount of compression or expansion of t
 
 1. The gun emits waves with $f=100MHz$. What wavelength is this?
 2. The gun reads $f=75MHz$ when the car is approaching. What wavelength is this?
-3. The gun reads $f=125MHz$ when the car is receeding. What wavelength is this?
+3. The gun reads $f=125MHz$ when the car is receding. What wavelength is this?
+
+---
+
+## Starter
+
+1. Convert $1000m$ into $Mm$
+2. Convert $1000m$ into $mm$
+3. Convert $1Gm$ into $nm$
+4. Convert $620 \mu m$ into $km$
+5. Convert $0.012km$ into $nm$
 
 ---
 
@@ -88,7 +98,7 @@ Police can use radar guns to measure the amount of compression or expansion of t
 Some new notation!
 
 - $v_{w}$: the velocity of the wave in the medium
-- $v_{w}$: the velocity of the source
+- $v_{s}$: the velocity of the source
 - $f$: the __actual__ frequency of the wave produced by the source ($Hz$)
 - $f'$: the __observed__ frequency of the wave ($Hz$)
 
@@ -104,7 +114,7 @@ What is the $\pm$ symbol?
 
 - $v_{w} \pm v_{s}$ means, in words, __the velocity of the wave relative to the source__
 - If the source is moving in the same direction as the wave (approaching), the wave appears to be moving away slower relative to the source, so we must __subtract__
-- If the source is moving away from the wave (receeding), the wave appears to be moving away faster relative to the source, so we must __add__ 
+- If the source is moving away from the wave (receding), the wave appears to be moving away faster relative to the source, so we must __add__ 
 
 ---
 
@@ -117,10 +127,26 @@ A doctor at the hospital hears an ambulance leave the hospital at $30km/h$ and r
 
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/JO4_VHM69oI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="908" height="511" src="https://www.youtube.com/embed/JO4_VHM69oI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<iframe width="908" height="511" src="https://www.youtube.com/embed/Qs8i8VynrpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+![](../assets/doppler-ultrasound.png)
+
+---
+
+#### Question 3
+
+A Doppler ultrasound is used to measure the flow of blood in blood vessels. This can be used to help find blood clots or constricted vessels. The ultrasound operates at $4MHz$ in some devices.
+
+Arterial blood flow in a finger was measured to be $0.19ms^{-1}$ away from the device, and the speed of sound in flesh/blood is around $1500ms^{-1}$. __Calculate the returned frequency observed by the ultrasound.__
 
 ---
 
 ## Homework: Question 9 of the Homework Booklet
 
-Due Monday
+Due Monday July 27th!
