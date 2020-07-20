@@ -44,7 +44,7 @@ header-includes:
 \end{align*}
 
 
-A reaction where two ions are combined to form a compound. It is the reverse of __combination__ and a lot of energy is required for the reaction to occur.
+A reaction where one compound is split apart to form two products. It is the reverse of __combination__ and a lot of energy is required for the reaction to occur.
 
 ---
 
