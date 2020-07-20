@@ -64,4 +64,8 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 5. Intro to the Doppler Effect
     - Notes describing the doppler effect & its cause
     - Notes explaining the equations that may be used
-    - Introduce the $f'=f\frac{v_{w}}{v_{w} \pm v_{s}}$
+6. Intro Doppler Equation
+    - Starter in notes
+    - Introduce $f'=f\frac{v_{w}}{v_{w} \pm v_{s}}$
+    - Examples and videos in notes
+    - Textbook exercise
