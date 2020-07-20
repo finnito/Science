@@ -39,9 +39,9 @@ But how do they do it?!
 
 1. Plants produce pollen
 2. This pollen can be carried away from the plant by animals, wind or rain
-3. Once on a different plan, this pollen can fertilise the flower by landing on its stigma
+3. Once on a different plant, this pollen can fertilise the flower by landing on its stigma
 4. The pollen may _germinate_ (grow down into) the ovule of the plant
-5. This can result in in the growth of seeds or fruit
+5. This can result in the growth of seeds or fruit
 
 ---
 
