@@ -1,0 +1,12 @@
+- name: rsync-with-ssh-github-actions
+  uses: BuildPC/rsync-with-ssh-github-actions@1.0.1
+  with:
+      key: ${{ secrets.SSH_PRIVATE_KEY }}
+      host: ${{ secrets.SERVER_IP }}
+      port: ${{ secrets.SERVER_PORT }}
+      user: ${{ secrets.SERVER_USER }}
+      destination: ${{ secrets.SERVER_DESTINATION }}
+      ssh_before: |
+        git checkout master
+        git pull origin master --recurse-submodules
+        bash build.sh
