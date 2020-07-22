@@ -73,7 +73,7 @@ Bodgan is observing a star through a telescope, and it appears to be orange. He 
 
 ---
 
-#### Question 1
+#### Question 1: Speeding Tickets
 
 Police can use radar guns to measure the amount of compression or expansion of the frequency due to the relative motion of the offending car.
 
@@ -118,7 +118,7 @@ What is the $\pm$ symbol?
 
 ---
 
-#### Question 2
+#### Question 2: The Ambulance
 
 A doctor at the hospital hears an ambulance leave the hospital at $30km/h$ and return 15 minutes later at a speed of $35km/h$. Both times its siren is sounding at a frequency of $400Hz$. Sound waves travel at $330ms^{-1}$ in the atmosphere.
 
@@ -139,7 +139,16 @@ A doctor at the hospital hears an ambulance leave the hospital at $30km/h$ and r
 
 ---
 
-#### Question 3
+## Starter
+
+Cameron is watching a plane by the airport. Its engines emit sound at $2000Hz$; the speed of sound in air is $330ms^{-1}$.
+
+1. He hears a frequency of $2500Hz$ as it approaches him. What is the velocity of the plane?
+2. He hears a frequency of $1250Hz$ as it has passed him. What is the velocity of the plane?
+
+---
+
+#### Question 3: Blood Flow
 
 A Doppler ultrasound is used to measure the flow of blood in blood vessels. This can be used to help find blood clots or constricted vessels. The ultrasound operates at $4MHz$ in some devices.
 
