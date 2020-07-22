@@ -44,7 +44,8 @@ header-includes:
 \end{align*}
 
 
-A reaction where one compound is split apart to form two products. It is the reverse of __combination__ and a lot of energy is required for the reaction to occur.
+- A reaction where one compound is split apart to form two products. It is the reverse of __combination__ and a lot of energy is required for the reaction to occur.
+- Metal carbonates decompose to metal oxide and carbon dioxide gas
 
 ---
 
