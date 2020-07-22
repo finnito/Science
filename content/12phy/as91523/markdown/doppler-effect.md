@@ -120,7 +120,7 @@ What is the $\pm$ symbol?
 
 #### Question 2
 
-A doctor at the hospital hears an ambulance leave the hospital at $30km/h$ and return 15 minutes later at a speed of $35km/h$. Both times its siren is sounding at a frequency of $400Hz$.
+A doctor at the hospital hears an ambulance leave the hospital at $30km/h$ and return 15 minutes later at a speed of $35km/h$. Both times its siren is sounding at a frequency of $400Hz$. Sound waves travel at $330ms^{-1}$ in the atmosphere.
 
 1. Calculate the observed frequency as the ambulance leaves.
 2. Calculate the observed frequency as the ambulance returns.
