@@ -24,13 +24,13 @@ menu:
 
 ## Unit Plan
 
-|            | L1 (Mon/Tues)         | L2 (Wed)                | L3 (Fri)                     |
-|:-----------|:----------------------|:------------------------|:-----------------------------|
-| __T2 W11__ | 1. Video/Finish E4L   | 2. Plant & Animal Cells | 3. Experiments & Microscopes |
-| __T2 W12__ | 4. __P:__ Microscopes | 5. Graph Reading        | 6. Plant Reproduction        |
-| __T3 W1__  | 7. Plant Reproduction | 8. Adaptations of Seeds | 9. __Catch-Up__              |
-| __T3 W2__  | 10. Photosynthesis    | 11. Photosynthesis      | 12. Evergreen vs. Deciduous  |
-| __T3 W3__  | 13. NOS               | 14. Revision            | 15. __TEST__                 |
+|             | L1 (Mon/Tues)          | L2 (Wed)                    | L3 (Fri)                      |
+|:------------|:-----------------------|:----------------------------|:------------------------------|
+| __T2 W11__  | 1. Video/Finish E4L    | 2. Plant & Animal Cells     | 3. Experiments & Microscopes  |
+| __T2 W12__  | 4. __P:__ Microscopes  | 5. Graph Reading            | 6. Plant Reproduction         |
+| __T3 W1__   | 7. Plant Reproduction  | 8. Adaptations of Seeds     | 9. __P__: Flower Dissection   |
+| __T3 W2__   | 10. Photosynthesis     | 11. Evergreen vs Deciduous  | 12. __TOD__                   |
+| __T3 W3__   | 13. NOS/Revision       | 14. Revision                | 15. __TEST__                  |
 
 ### Lesson Plans
 
@@ -58,11 +58,12 @@ menu:
     - Flashcards on the function of the anther, filament, stigma, style, ovary and ovule.
     - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
 8. Adaptations of Seeds
-    - The overall function of seeds
-    - What is it important that seeds do
-    - Possible adaptations to achieve this
-    - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
-9. __Catch-Up__
+    - Hand out printed notes to be stuck in
+    - Watch video on seed dispersal: https://www.youtube.com/watch?v=06sbmWAzoys
+    - Fill out missing words in worksheet
+    - Emphasise that plants need to disperse to be able to spread out, and not compete for sunlight/nutrients
+    - Spelling practice & flashcards: https://www.aaaspell.com/spelling_lists/4118311
+9. __P__: Flower Dissection
     - Flower dissection practical: https://www.riskassess.co.nz/risk_assessment/8324197
     - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
 10. Photosynthesis
