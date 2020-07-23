@@ -27,14 +27,14 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Unit Plan
 
-|         | Monday                            | Tuesday                      | Thursday                    | Friday                      |
-|:--------|:----------------------------------|:-----------------------------|:----------------------------|:----------------------------|
-| T2 W10  | 1. Review of the Atom             | 2. P-Table & Electrons       | 3.  Compounds               | __TOD__                     |
-| T2 W11  | 4. Compounds & Electron Transfer  | 5. Writing Equations         | 6. Precipitation Reactions  | 7. Ionic Compounds          |
-| T2 W12  | 8. Precipitation Reactions        | 9. Displacement Reactions    | 10. Combination Reactions   | 11. Displacement Practical  |
-| T3 W1   | 12. Decomposition Reactions       | 13. Decomposition Practical  | 14. Gas Tests               | 15. _Assessment Tips_       |
-| T3 W2   | 16. __Practice Assessment__       | 17. __Practice Assessment__  | _Revision & Feedback_       | __TOD__                     |
-| T3 W3   | 18. __Assessment__                | 19. __Assessment__           | __Assessment__              | _Genetics Revision_         |
+|         | Monday                            | Tuesday                      | Thursday                    | Friday                       |
+|:--------|:----------------------------------|:-----------------------------|:----------------------------|:-----------------------------|
+| T2 W10  | 1. Review of the Atom             | 2. P-Table & Electrons       | 3.  Compounds               | __TOD__                      |
+| T2 W11  | 4. Compounds & Electron Transfer  | 5. Writing Equations         | 6. Precipitation Reactions  | 7. Ionic Compounds           |
+| T2 W12  | 8. Precipitation Reactions        | 9. Displacement Reactions    | 10. Combination Reactions   | 11. Displacement Practical   |
+| T3 W1   | 12. Decomposition Reactions       | 13. Decomposition Practical  | 14. Gas Tests               | 15. __Practice Assessment__  |
+| T3 W2   | 16. __Practice Assessment__       | 17.  _Revision & Feedback_   | __Assessment__              | __TOD__                      |
+| T3 W3   | 18. __Assessment__                | 19. __Assessment__           | _Genetics Revision_         | _Genetics Revision_          |
 
 ### Lesson Plans
 
@@ -91,8 +91,15 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 	- Gas tests experiments
 	    - https://www.riskassess.co.nz/risk_assessment/8323197
 	- Fill in notes on gas tests in the research document if time.
-15. Assessment Tips
+15. Practice Test
 	- Issue booklet for practice assessment
+    - https://science.lesueur.nz/11sci/as90947/slides/assessment-tips.html
 	- Go through how the assessment will work
-	- Specify requirements for AME
-	- Make predictions for practice assessment if time
+	- Make predictions & complete word/symbol equations before starting practical work
+    - https://www.riskassess.co.nz/risk_assessment/8368055
+16. Continue Practice Test
+17. Feedback/Compare & Contrast
+    - Give class-wide feedback on how to improve
+    - Split the class into two:
+        - One half learns how to do the excellence __compare and contrast__
+        - Other half continues work on their research documents & revises for the actual test
