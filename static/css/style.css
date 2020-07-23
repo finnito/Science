@@ -44,6 +44,13 @@ blockquote {
 
 footer { padding-bottom: 1rem; }
 
+footer blockquote {
+  border-left: 2px solid #D959A7;
+}
+
+footer blockquote a { color: #D959A7; }
+footer blockquote a:visited { color: #D959A7; }
+
 a {
   color: #3498db;
   word-break: break-word;
@@ -117,36 +124,28 @@ main h3 + ol li > ol li {
 ol li:first-of-type p { margin-top: 0; }
 
 .report {
-  text-decoration: none;
   background-color: #ff7979;
-  border-radius: 0.25rem;
-  box-shadow: 0 0 10px rgba(0,0,0,0.16), 0 0 10px rgba(0,0,0,0.23);
-  margin: 0.5rem 0 0 auto;
-  display: block;
-  width: fit-content;
-  z-index: 9999999999;
-  position: relative;
 }
 
 a.edit-page {
-  text-decoration: none;
-  border-radius: 0.25rem;
-  box-shadow: 0 0 10px rgba(0,0,0,0.16), 0 0 10px rgba(0,0,0,0.23);
-  display: inline-block;
-  color: white;
-  padding: 0.25rem;
-  margin-left: 0.5rem;
-  position: relative;
   background-color: #badc58;
 }
 
-.report.footer { display: inline-block; margin-left: 1rem;}
+.top-buttons { 
+  display: flex; 
+  justify-content: space-between; 
+  margin-top: 0.5rem;
+  position: relative;
+  z-index: 99999999;
+}
 
-.report > a {
-  color: white;
-  text-decoration: none;
-  padding: 0.25rem;
+.top-buttons a {
+  box-shadow: 0 0 10px rgba(0,0,0,0.16), 0 0 10px rgba(0,0,0,0.23);
+  border-radius: 1rem;
   display: inline-block;
+  color: white;
+  padding: 0.25rem;
+  text-decoration: none;
 }
 
 table {
@@ -213,7 +212,7 @@ input[type=checkbox].toggle {
 input[type=checkbox].toggle,
 .hamburger {
     position: absolute;
-    right: 0.5rem;
+    right: 0;
     top: 0.8rem;
     margin: 0;
 }
@@ -281,7 +280,7 @@ input[type=checkbox].toggle,
     transform: translateY(-3px) rotateZ(-45deg)
 }
 
-nav { display: flex; justify-content: space-between;}
+nav { position: relative; display: flex; justify-content: space-between;}
 
 .nav-wrapper {
   width: 100vw;
