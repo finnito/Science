@@ -20,7 +20,7 @@ header-includes:
 
 Bodgan is observing a star through a telescope, and it appears to be orange. He looks up the wavelength of orange light and finds it to be around $600nm$.
 
-1. What is the frequency of orange light, given than the speed of light is $c=3 \times 10^{8}$?
+1. What is the frequency of orange light, given than the speed of light is $c=3 \times 10^{8}ms^{-1}$?
 2. Using your value for frequency, what is the period of the orange light?
 3. Draw a rough wave for this orange light, labelling the wavelength and an arrow indicating the velocity.
 
