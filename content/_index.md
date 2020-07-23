@@ -5,17 +5,24 @@ linkTitle: "Home"
 weight: 1
 ---
 
-These notes and resources are all a work-in-progress. I write them as I teach each unit and each year group, so it is likely that you will find them incomplete or changing in many areas.
+Kia ora, my name is Finn Le Sueur and I am a high school science and physics teacher in New Zealand. This website is my contribution to the open web and my way to contributing back to the education profession. I hope that this website can help other teachers with the lesson/unit planning, or just their practice in general.
 
-{{< coffee >}}
 
-## Gitlab Repository
+If you are a student, continue on into the website and I hope you find it useful! If you are an educator and find my content of use, please consider sponsoring me on Github. I would really appreciate it!
 
-This website is generated using [Hugo](https://gohugo.io/) from a Gitlab repository which you can visit [over here](https://gitlab.com/Finnito/science).
+<iframe src="https://github.com/sponsors/finnito/card" title="Sponsor Finnito (Finn LeSueur)" height="225" width="600" style="border: 0;"></iframe>
+
+## Contributing
+
+All of my planning is available on this website, and you can even personally contribute edits & additions of content by heading over to the Github repository below, or clicking on "Edit this Page" on any of the pages.
+
+## Github Repository
+
+This website is generated using [Hugo](https://gohugo.io/) from a Github repository which you can visit [over here](https://github.com/finnito/Science).
 
 ### Reporting Issues
 
 You can report issues/ideas/bugs in two ways:
 
 1. Email me [lsf@cashmere.school.nz](mailto:lsf@cashmere.school.nz),
-2. or [open an issue on Gitlab](https://gitlab.com/Finnito/science/issues).
+2. or [open an issue on Gitlab](https://github.com/finnito/Science/issues/new).
