@@ -45,11 +45,11 @@ blockquote {
 footer { padding-bottom: 1rem; }
 
 footer blockquote {
-  border-left: 2px solid #D959A7;
+  border-left: 2px solid #ea4aaa;
 }
 
-footer blockquote a { color: #D959A7; }
-footer blockquote a:visited { color: #D959A7; }
+footer blockquote a { color: #ea4aaa; }
+footer blockquote a:visited { color: #ea4aaa; }
 
 a {
   color: #3498db;
