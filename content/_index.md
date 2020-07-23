@@ -19,10 +19,3 @@ All of my planning is available on this website, and you can even personally con
 ## Github Repository
 
 This website is generated using [Hugo](https://gohugo.io/) from a Github repository which you can visit [over here](https://github.com/finnito/Science).
-
-### Reporting Issues
-
-You can report issues/ideas/bugs in two ways:
-
-1. Email me [lsf@cashmere.school.nz](mailto:lsf@cashmere.school.nz),
-2. or [open an issue on Gitlab](https://github.com/finnito/Science/issues/new).
