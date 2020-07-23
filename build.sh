@@ -20,6 +20,9 @@ MODULES=(
 
 main() {
     bash fix-misplaced-md.sh
+    git pull origin master
+    git submodule sync
+    git submodule update
     git clean -fd
     git checkout master
     cd content || exit
