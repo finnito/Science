@@ -6,9 +6,16 @@ linkTitle: "12ESS"
 
 ## Units
 
-1. [Meteorite Investigation](1-investigation/)
-2. [Extreme Earth Events](2-extreme-earth-events/)
-
+1. [AS91187 - Meteorite Investigation](91187/)
+    - Internal, 4 Level 2 Credits
+2. [AS91191 - Extreme Earth Events](as91191/)
+    - External, 4 Level 2 Credits
+3. [AS91190 - Extreme Environments](91190/)
+    - Internal, 4 Level 2 Credits
+4. AS91192 - Life of Stars and Planetary Systems
+    - External, 4 Level 2 Credits
+5. AS91189 - Investigate Local Geological Processes
+    - External, 4 Level 2 Credits
 
 ## 2020 Year Planner
 
