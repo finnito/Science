@@ -23,7 +23,7 @@ header-includes:
     - A precipitation reaction
     - A displacement reaction
     - A combination reaction
-2. Give an observation that you might make to indicate that each type of reaction has occured.
+2. Give an observation that you might make to indicate that each type of reaction has occurred.
 
 ---
 
@@ -40,11 +40,12 @@ header-includes:
 ## Decomposition Reactions
 
 \begin{align*}
-    AB \longrightarrow A + B
+    AB \xrightarrow{heat} A + B
 \end{align*}
 
 
-A reaction where two ions are combined to form a compound. It is the reverse of __combination__ and a lot of energy is required for the reaction to occur.
+- A reaction where one compound is split apart to form two products. It is the reverse of __combination__ and a lot of energy is required for the reaction to occur.
+- Metal carbonates decompose to metal oxide and carbon dioxide gas
 
 ---
 
