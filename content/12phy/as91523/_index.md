@@ -31,10 +31,10 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 |:------------|:-------------------------|:-------------------------|:---------------------|:---------------------|
 | __T2 W12__  | 1. Intro to Waves        | 2. Hand back Test        | 3. Intro Continued   | 4. Intro Continued   |
 | __T3 W1__   | 5. Doppler Effect        | 6. Doppler Effect        | 7. Doppler Effect    | 8. Doppler Effect    |
-| __T3 W2__   | 9. Doppler Effect        | 10. Doppler Effect       | 11. Beating          | 12. __TOD__          |
+| __T3 W2__   | 9. Beats                 | 10. Beats                | 11. Beats            | 12. __TOD__          |
 | __T3 W3__   | _Exam Revision_          | _Exam Revision_          | _Exam Revision_      | _Exam Revision_      |
 | __T3 W4__   | __School Exams__         | __School Exams__         | __School Exams__     | __School Exams__     |
-| __T3 W5__   | __School Exams__         | __School Exams__         | _Return Exam_        | 13. Beating/Review   |
+| __T3 W5__   | __School Exams__         | __School Exams__         | _Return Exam_        | 13. Review           |
 | __T3 W6__   | 14. Standing Waves       | 15. Standing Waves       | 16. Standing Waves   | 17. Standing Waves   |
 | __T3 W7__   | 18. Music                | 19. Music                | 20. Interference     | 21. Interference     |
 | __T3 W8__   | 22. Diffraction Grating  | 23. Diffraction Grating  | _Revision/Catch-Up_  | _Revision/Catch-Up_  |
@@ -69,3 +69,8 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
     - Introduce $f'=f\frac{v_{w}}{v_{w} \pm v_{s}}$
     - Examples and videos in notes
     - Textbook exercise
+9. Beats
+    - Introduce $f_{b} = | f' - f |$
+    - Notes & example questions
+    - Assign homework
+    - Textbook if time
