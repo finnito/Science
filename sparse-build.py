@@ -51,6 +51,15 @@ def main():
             )
             source, err = proc.communicate()
             if err:
+                proc = subprocess.Popen(
+                    [
+                        "osascript",
+                        "-e",
+                        'display notification "{}" with title "Science" sound name "Basso"'.format(err)
+                    ],
+                    stdout=subprocess.PIPE, stderr=subprocess.PIPE
+                )
+                proc.communicate()
                 print(err.decode("utf-8"))
         elif event["path"].endswith(".md"):
             print(" - Building: Slides, PDF and Hugo")
@@ -100,6 +109,15 @@ def main():
             )
             source, err = proc.communicate()
             if err:
+                proc = subprocess.Popen(
+                    [
+                        "osascript",
+                        "-e",
+                        'display notification "{}" with title "Science" sound name "Basso"'.format(err)
+                    ],
+                    stdout=subprocess.PIPE, stderr=subprocess.PIPE
+                )
+                proc.communicate()
                 print(err.decode("utf-8"))
         else:
             pass
