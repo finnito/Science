@@ -18,7 +18,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 
 1. Term 3, Week 1 (Fri July 25th): Wave Fundamentals Question 1 & 2
 2. Term 3, Week 2 (Mon July 27th): Doppler Question 9
-3. Term 3, Week 3 (Mon July 3rd): 
+3. Term 3, Week 3 (Mon July 3rd): Doppler Question 8
 4. Term 3, Week 6 (Mon August 24th): 
 5. Term 3, Week 7 (Mon August 31st): 
 6. Term 3, Week 8 (Mon Sept 7th): 
