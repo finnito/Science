@@ -19,7 +19,7 @@ MODULES=(
 )
 
 main() {
-    bash fix-misplaced-md.sh
+    bash fixMisplacedMD
     git pull origin master
     git submodule sync
     git submodule update
@@ -56,6 +56,17 @@ main() {
 
     echo "DONE!"
 
+}
+
+fixMisplacedMD() {
+    for i in "${MODULES[@]}"; do
+        if cd $i; then
+            if mv $(ls *.md | grep -v _index.md) markdown; then
+                echo "    Put Markdown files back in 'markdown'"
+            fi
+            cd ../../
+        fi
+    done
 }
 
 createFolders() {
