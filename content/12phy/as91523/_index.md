@@ -12,7 +12,19 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 
 ## Learning Outcomes
 
-1. 
+1. Demonstrate the appropriate use of significant figures
+2. Use $v=f \lambda$ and $f = \frac{1}{T}$ to calculate the wavelength, time period, frequency and velocity of a wave
+3. Explain the Doppler effect
+4. Calculate the value of the Doppler frequency shift
+5. Explain the modes of resonance of a string in terms of the fundamental vibration and the harmonics
+6. Calculate the harmonic frequencies of a string
+7. Explain the modes of resonance in open and closed pipes in terms of the fundamental vibration and the harmonics
+8. Calculate the harmonic frequencies in open and closed pipes
+9. Explain the nature of beats as a special case of interference
+10. Calculate the beat frequency
+11. Explain the interference of two wave patterns in terms of nodes, anti-nodes and path difference
+12. Use $\lambda = \frac{dx}{L}$ to solve problems with a diffraction grating
+13. Use $n\lambda = dsin(\theta)$ to analyse the spectrum angles produced by a diffraction grating
 
 ## Homework
 
