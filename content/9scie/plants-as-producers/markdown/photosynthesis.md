@@ -8,7 +8,6 @@ weight: 4
 colortheme: dolphin
 font-size: 35px
 text-align: center
-data-background-color: "linear-gradient(to left, #1d976c, #93f9b9)"
 header-includes:
 - \usepackage{graphicx}
 - \usepackage[T1]{fontenc}
@@ -79,10 +78,6 @@ What else do plants do?
 
 - They have small openings in their leaves called stomata
 - These stomata allow carbon dioxide in, and oxygen gas out
-
----
-
-![](../assets/stomata.jpg "")
 
 ---
 
