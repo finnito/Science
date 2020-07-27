@@ -131,3 +131,51 @@ Josh changes his device to be $100Hz$, the same as Zak. He walks past him again 
 
 - Homework Booklet Question 8, due Monday August 3rd
 - Tutorials Tuesday & Friday lunchtime in A3
+
+---
+
+## Starter
+
+Josh is back holding his device. It is now emitting a frequency of $125Hz$, and Zak is running past him. He hears a beat frequency of $5.5Hz$.
+
+1. Calculate the frequency of Zak's device that Josh observes ($f_{b} = f' - f$)
+2. Use your answer to calculate how fast Zak is running. ($f' = f \frac{v_{w}}{v_{w} \pm v_{s}}$)
+
+---
+
+### Answer
+
+\begin{align*}
+    f_{b} &= f' - f \\
+    f_{b} - f &= f' = 130.5Hz \text{ OR } 119.5Hz
+\end{align*}
+
+Because Zak is running __away__, the frequency should be decreased: $f' = 119.5Hz$
+
+---
+
+\begin{align*}
+    f' &= f\frac{v_{w}}{v_{w} \pm v_{s}}\\
+    119.5 &= 125 \frac{343}{343 + v_{s}} \\
+    \frac{119.5}{125} &= \frac{343}{343 + v_{s}} \\
+    343 + v_{s} &= \frac{343}{0.956} \\
+    v_{s} &= \frac{343}{0.956} - 343 \\
+    &= 15.7ms^{-1}
+\end{align*}
+
+---
+
+## Tasks
+
+1. Worksheet (glue it in)
+    - Practical
+    - Exercise Q1
+    - Exercise Q3
+2. Homework booklet Question 10
+
+---
+
+## Homework
+
+- Homework Booklet Question 8, due Monday August 3rd
+- Tutorials Tuesday & Friday lunchtime in A3
