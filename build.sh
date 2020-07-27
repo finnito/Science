@@ -19,7 +19,7 @@ MODULES=(
 )
 
 main() {
-    bash fixMisplacedMD
+    fixMisplacedMD
     git pull origin master
     git submodule sync
     git submodule update
