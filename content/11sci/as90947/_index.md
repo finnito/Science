@@ -99,7 +99,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
     - https://www.riskassess.co.nz/risk_assessment/8368055
 16. Continue Practice Test
 17. Feedback/Compare & Contrast
-    - Give class-wide feedback on how to improve
+    - Give class-wide feedback on how to improve (assessment tips slides)
     - Split the class into two:
-        - One half learns how to do the excellence __compare and contrast__
-        - Other half continues work on their research documents & revises for the actual test
+        - One part learns how to do the excellence __compare and contrast__
+        - Other part continues work on their research documents & revises for the actual test
