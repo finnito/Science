@@ -41,26 +41,9 @@ def main():
             except OSError:
                 pass
             subprocess.call(['hugo', '--gc', '--minify', '--config=config-dev.toml', '--quiet'])
-            proc = subprocess.Popen(
-                [
-                    "osascript",
-                    "-e",
-                    'display notification "Built Hugo" with title "Science" sound name "Morse"'
-                ],
-                stdout=subprocess.PIPE, stderr=subprocess.PIPE
-            )
-            source, err = proc.communicate()
-            if err:
-                proc = subprocess.Popen(
-                    [
-                        "osascript",
-                        "-e",
-                        'display notification "{}" with title "Science" sound name "Basso"'.format(err)
-                    ],
-                    stdout=subprocess.PIPE, stderr=subprocess.PIPE
-                )
-                proc.communicate()
-                print(err.decode("utf-8"))
+            send_osascript('display notification "Built Hugo" \
+                with title "Science" sound name "Morse"')
+            reload_webpage()
         elif event["path"].endswith(".md"):
             print(" - Building: Slides, PDF and Hugo")
             path_array = event["path"].split("/")
@@ -95,33 +78,61 @@ def main():
             subprocess.call([slide_command], shell=True)
             subprocess.call([pdf_command], shell=True)
             subprocess.call([f"mv {unit}/markdown/*.md {unit}"], shell=True)
-            shutil.rmtree('public')
+            try:
+                shutil.rmtree('public')
+            except OSError:
+                pass
             subprocess.call(['hugo', '--gc', '--minify', '--config=config-dev.toml', '--quiet'])
             subprocess.call([f"mv {unit}/*.md {unit}/markdown/"], shell=True)
             subprocess.call([f"mv {unit}/markdown/_index.md {unit}"], shell=True)
-            proc = subprocess.Popen(
-                [
-                    "osascript",
-                    "-e",
-                    'display notification "Built slides, PDF & Hugo" with title "Science" sound name "Morse"'
-                ],
-                stdout=subprocess.PIPE, stderr=subprocess.PIPE
-            )
-            source, err = proc.communicate()
-            if err:
-                proc = subprocess.Popen(
-                    [
-                        "osascript",
-                        "-e",
-                        'display notification "{}" with title "Science" sound name "Basso"'.format(err)
-                    ],
-                    stdout=subprocess.PIPE, stderr=subprocess.PIPE
-                )
-                proc.communicate()
-                print(err.decode("utf-8"))
+            send_osascript('display notification "Built slides, PDF & Hugo" \
+                with title "Science" sound name "Morse"')
+            reload_webpage()
         else:
             pass
         print("-"*15)
+
+def reload_webpage():
+    """ Reloads the current science.test
+    Safari page.
+    """
+
+    reload_script = """tell application "Safari"
+        tell window 1
+            --options
+            set myTab to tab 1
+            set myTab to first tab whose URL starts with "http://science.test"
+
+            if current tab is not myTab then set current tab to myTab
+            tell myTab to do JavaScript "location.reload();"
+        end tell
+    end tell"""
+    proc = subprocess.Popen(
+        [
+            "osascript",
+            "-e",
+            reload_script
+        ],
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE
+    )
+    proc.communicate()
+
+def send_osascript(content):
+    """ Runs a osascript through Popen
+    with the given command.
+    """
+
+    proc = subprocess.Popen(
+        [
+            "osascript",
+            "-e",
+            content
+        ],
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE
+    )
+    source, err = proc.communicate()
+    if err:
+        print(err.decode("utf-8"))
 
 if __name__ == "__main__":
     main()
