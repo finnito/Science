@@ -39,6 +39,10 @@ header-includes:
 
 ---
 
+<iframe width="1920" height="800" src="https://www.youtube.com/embed/yia8spG8OmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ## Beats
 
 By changing the position of the waves over time, we can cause the interference to change.
@@ -82,6 +86,24 @@ Calculate the frequency of the beats observed by Anton.
 \end{align*}
 
 > The $|$ symbol means absolute value. Which in practice means, make it positive.
+
+---
+
+### Question: Piano Key
+
+Jules is tuning the middle C key on a piano. He is using a tuning fork which produces a frequency of $257Hz$ as a reference. The key is slightly out of tune and a beat frequency of $4Hz$ is heard.
+
+Calculate the frequency of the out of tune key.
+
+---
+
+#### Answer
+
+\begin{align*}
+    & f_{b} = f_{2} - f_{1} \\
+    & 4 = 256 - f_{k} = 252Hz \\
+    & 4 = 256 + f_{k} = 260Hz
+\end{align*}
 
 ---
 
