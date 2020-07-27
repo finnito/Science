@@ -41,6 +41,17 @@ def main():
             except OSError:
                 pass
             subprocess.call(['hugo', '--gc', '--minify', '--config=config-dev.toml', '--quiet'])
+            proc = subprocess.Popen(
+                [
+                    "osascript",
+                    "-e",
+                    'display notification "Built Hugo" with title "Science" sound name "Morse"'
+                ],
+                stdout=subprocess.PIPE, stderr=subprocess.PIPE
+            )
+            source, err = proc.communicate()
+            if err:
+                print(err.decode("utf-8"))
         elif event["path"].endswith(".md"):
             print(" - Building: Slides, PDF and Hugo")
             path_array = event["path"].split("/")
@@ -79,6 +90,17 @@ def main():
             subprocess.call(['hugo', '--gc', '--minify', '--config=config-dev.toml', '--quiet'])
             subprocess.call([f"mv {unit}/*.md {unit}/markdown/"], shell=True)
             subprocess.call([f"mv {unit}/markdown/_index.md {unit}"], shell=True)
+            proc = subprocess.Popen(
+                [
+                    "osascript",
+                    "-e",
+                    'display notification "Built slides, PDF & Hugo" with title "Science" sound name "Morse"'
+                ],
+                stdout=subprocess.PIPE, stderr=subprocess.PIPE
+            )
+            source, err = proc.communicate()
+            if err:
+                print(err.decode("utf-8"))
         else:
             pass
         print("-"*15)
