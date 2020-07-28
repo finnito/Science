@@ -71,11 +71,13 @@ menu:
     - Description of why it is important
     - Relate its efficiency to the seasons
     - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
-11. Photosynthesis
+11. Evergreen vs Deciduous
+    - Starter in notes
+    - Notes
+    - Worksheet photosynthesis section
+    - Education Perfect Task on photosynthesis (graph reading)
     - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
-12. Evergreen vs. Deciduous
-    - Relating photosynthesis to graphs to determine evergreen/deciduous
-    - __Spelling Test__
+12. __TOD__
 13. Nature of Science - Plant Importance
 14. Revision
     - Fair tests
