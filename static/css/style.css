@@ -36,6 +36,10 @@ h2 {
   margin-bottom: 0;
 }
 
+h4 { margin: 0; }
+
+.heading-anchor { font-size: 0.8rem; text-decoration: none; }
+
 blockquote { 
   border-left: 2px solid #bdc3c7;
   margin-left: 1rem;
@@ -131,6 +135,8 @@ a.edit-page {
   background-color: #badc58;
 }
 
+.button.download { background-color: #3498db; }
+
 .top-buttons { 
   display: flex; 
   justify-content: space-between; 
@@ -139,12 +145,13 @@ a.edit-page {
   z-index: 99999999;
 }
 
-.top-buttons a {
+.top-buttons a,
+.button {
   box-shadow: 0 0 10px rgba(0,0,0,0.16), 0 0 10px rgba(0,0,0,0.23);
   border-radius: 1rem;
   display: inline-block;
   color: white;
-  padding: 0.25rem;
+  padding: 0.25rem 0.5rem;
   text-decoration: none;
 }
 

@@ -12,7 +12,7 @@
     {{ partial "buttons.html" . }}
     <nav>
       <h1>{{ .Site.Title }}</h1>
-      <input class="toggle mobile" type="checkbox"/>
+      <input class="toggle mobile" type="checkbox" title="Toggle mobile menu"/>
       <div class="hamburger mobile">
           <div>
             <span></span>
@@ -27,7 +27,7 @@
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
             <li class='{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{ end }}'>
-              <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+              <a title="Navigate to {{ .Name }} home page" href="{{ .URL | relURL }}" >{{ .Name }}</a>
             </li>
             {{ end }}
           </ul>
@@ -45,7 +45,7 @@
     {{ end }}
     <li{{ if eq .p1 .p2 }} class="active"{{ end }}>
       {{ if not .p1.IsHome }} < {{ end }}
-      {{ if ne .p1 .p2 }}<a title="{{ .p1.Title }}" href="{{ .p1.Permalink }}"> {{ end }}
+      {{ if ne .p1 .p2 }}<a title="Breadcrumb: Navigate to {{ .p1.Title }}" href="{{ .p1.Permalink }}"> {{ end }}
       {{ .p1.Title }}
       {{ if ne .p1 .p2 }}</a>{{ end }}
     </li>

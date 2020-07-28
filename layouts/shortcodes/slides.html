@@ -1,16 +1,21 @@
-<h2>Slides</h2>
+<h2 id="#slides">Slides<sup><a class="heading-anchor" href="#slides">🔗</a></sup></h2>
+
 {{ $page := .Page }}
 
 {{ with $page.Pages }}
     <ol>
         {{ range . }}
         <li>
-            <a href="{{ .File.BaseFileName }}/">{{ .Title }}</a> 
-            (<a href="slides/{{ .File.BaseFileName }}.html">Slides</a>, <a href="pdfs/{{ .File.BaseFileName }}.pdf"> PDF</a>)
+            <a
+                href="{{ .File.BaseFileName }}/"
+                title="Read {{ .Title }} notes for {{ $page.Title }}">
+                {{ .Title }}
+            </a> 
+            (<a href="slides/{{ .File.BaseFileName }}.html" title="View slides for {{ .Title }}">Slides</a>, <a href="pdfs/{{ .File.BaseFileName }}.pdf" title="View PDF notes for {{ .Title }}"> PDF</a>)
         </li>
         {{ end }}
     </ol>
 
-    <a href='{{ $page | relURL }}{{ $page.Resources.GetMatch "*.zip" }}'>Download all PDFs</a>
+    <a class="button download" href='{{ $page | relURL }}{{ $page.Resources.GetMatch "*.zip" }}' title="Download PDFs for {{ $page.Title }}">⬇️ Download all PDFs</a>
 {{ end }}
 
