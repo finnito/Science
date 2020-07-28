@@ -38,7 +38,6 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 
 ## Unit Plan
 
-
 |             | Lesson 1 (Mon)           | Lesson 2 (Tues)          | Lesson 3 (Wed)       | Lesson 4 (Thurs)     |
 |:------------|:-------------------------|:-------------------------|:---------------------|:---------------------|
 | __T2 W12__  | 1. Intro to Waves        | 2. Hand back Test        | 3. Intro Continued   | 4. Intro Continued   |
@@ -81,8 +80,19 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
     - Introduce $f'=f\frac{v_{w}}{v_{w} \pm v_{s}}$
     - Examples and videos in notes
     - Textbook exercise
+7. Doppler Continued
+    - Textbook exercises & video examples
+8. Doppler Continued
+    - Homework booklet question 
 9. Beats
     - Introduce $f_{b} = | f' - f |$
     - Notes & example questions
     - Assign homework
     - Textbook if time
+10. Beats Continued
+    - Starter in the slides
+        - Hand out textbook chapter while they're working
+        - Write list of missing homework up while they're working
+    - [Practical: confirming $f_{b} = | f' - f |$](https://docs.google.com/document/d/1vD8-3cC0KFPNR-J4pMgjBO_x_TgE07JR07LddT2QzfE/edit#)
+    - Worksheet "practical", Q1 and Q3
+    - Fast finishers: homework booklet Q10 
