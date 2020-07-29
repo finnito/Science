@@ -180,3 +180,13 @@ For 2 out of the 6 reactions:
     - Give a (balanced symbol) example equation  from your six reactions, or from research, for each difference
     - Compare energy needed to do decomposition/combination
     - Compare difficulty of each reaction (combination usually needs more energy under more difficult conditions)
+
+## What Do I Need To Know?
+
+| Types of Reactions  | Gas Tests                   | Equations            | Observations                        |
+|:--------------------|:----------------------------|:---------------------|:------------------------------------|
+| Combination         | Oxygen (glowing splint)     | Word equations       | Colours                             |
+| Displacement        | Carbon dioxide (limewater)  | Ionic formula        | Gasses                              |
+| Precipitation       | Hydrogen (pop)              | Symbol equations     | Solids formed                       |
+| Decomposition       |                             | Balancing equations  | Count #/type of reactants/products  |
+
