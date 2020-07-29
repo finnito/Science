@@ -1,18 +1,13 @@
-# ![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg) [https://science.lesueur.nz](https://science.lesueur.nz)
+# [https://science.lesueur.nz](https://science.lesueur.nz)
 
-## What is This?
+Kia ora, my name is Finn Le Sueur and I am a high school science and physics teacher in New Zealand. This website is my contribution to the open web and my way to contributing back to the education profession. I hope that this website can help other teachers with the lesson/unit planning, or just their practice in general.
 
-These notes and resources are all a work-in-progress. I am completing them as I teach each unit and each year group, so it is likely that you will find them incomplete in many areas.
+If you are a student, continue on into the website and I hope you find it useful! If you are an educator and find my content of use, please consider sponsoring me on Github. I would really appreciate it!
 
-Please feel free to head over to my git repositories to get a copy of all my resources, to contribute, or just to report bugs.
+## Contributing
 
-If this website is of use to you, please consider supporting me!
+All of my planning is available on this website, and you can even personally contribute edits & additions of content by heading over to the Github repository below, or clicking on "Edit this Page" on any of the pages.
 
-<a href="https://www.buymeacoffee.com/FinnLeSueur" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="max-width: 150px; width: 150px !important; height: auto;"/>
-</a>
+## Github Repository
 
-
-### Credits
-
-Repository logo made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com) as part of the [Renewable Energy Pack](https://www.flaticon.com/packs/reneweable-energy-1) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
+This website is generated using [Hugo](https://gohugo.io/) on this Github repository. Please visit [the issues](https://github.com/finnito/Science/issues) if you would like to report a problem!
