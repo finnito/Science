@@ -15,7 +15,7 @@ linkTitle: "12ESS"
 4. AS91192 - Life of Stars and Planetary Systems
     - External, 4 Level 2 Credits
 5. AS91189 - Investigate Local Geological Processes
-    - External, 4 Level 2 Credits
+    - Internal, 4 Level 2 Credits
 
 ## 2020 Year Planner
 
