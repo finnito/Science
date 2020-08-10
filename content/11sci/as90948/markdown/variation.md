@@ -5,6 +5,7 @@ author: Finn LeSueur
 date: 2019
 theme: finn
 colortheme: dolphin
+weight: 5
 font-size: 35px
 text-align: center
 header-includes:

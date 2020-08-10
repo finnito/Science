@@ -4,6 +4,7 @@ subtitle: 11SCI - Genetics
 author: Finn LeSueur
 date: 2019
 theme: finn
+weight: 3
 colortheme: dolphin
 font-size: 35px
 text-align: center
