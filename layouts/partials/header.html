@@ -9,8 +9,9 @@
   </head>
 
   <body>
-    {{ partial "buttons.html" . }}
+    <a class="skip-main" href="#main">Skip to main content</a>
     <nav>
+      {{ partial "buttons.html" . }}
       <h1>{{ .Site.Title }}</h1>
       <input class="toggle mobile" type="checkbox" title="Toggle mobile menu"/>
       <div class="hamburger mobile">
@@ -33,20 +34,21 @@
           </ul>
         </div>
       </div>
+      <ol class="breadcrumb">
+        {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+      </ol>
+      {{ define "breadcrumbnav" }}
+      {{ if .p1.Parent }}
+      {{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
+      {{ else if not .p1.IsHome }}
+      {{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
+      {{ end }}
+      <li{{ if eq .p1 .p2 }} class="active"{{ end }}>
+        {{ if not .p1.IsHome }} < {{ end }}
+        {{ if ne .p1 .p2 }}<a title="Breadcrumb: Navigate to {{ .p1.Title }}" href="{{ .p1.Permalink }}"> {{ end }}
+        {{ .p1.Title }}
+        {{ if ne .p1 .p2 }}</a>{{ end }}
+      </li>
+      {{ end }}
     </nav>
-    <ol class="breadcrumb">
-      {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
-    </ol>
-    {{ define "breadcrumbnav" }}
-    {{ if .p1.Parent }}
-    {{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
-    {{ else if not .p1.IsHome }}
-    {{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
-    {{ end }}
-    <li{{ if eq .p1 .p2 }} class="active"{{ end }}>
-      {{ if not .p1.IsHome }} < {{ end }}
-      {{ if ne .p1 .p2 }}<a title="Breadcrumb: Navigate to {{ .p1.Title }}" href="{{ .p1.Permalink }}"> {{ end }}
-      {{ .p1.Title }}
-      {{ if ne .p1 .p2 }}</a>{{ end }}
-    </li>
-    {{ end }}
+    <main id="main">

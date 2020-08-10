@@ -1,10 +1,6 @@
 {{ partial "header.html" . }}
-
-<main>
     <div class="article-meta">
         <h2><span class="title">{{ .Title | markdownify }}</span></h2>
     </div>
     {{ .Content }}
-</main>
-
 {{ partial "footer.html" . }}
