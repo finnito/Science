@@ -42,7 +42,13 @@ menu:
     - __LO__: Describe theories on the origin of the Universe … including the Big Bang
     - Watch Kurzgesagt video on Big Bang & hand out learning outcomes
     - Introduce the unit
+    - Key facts of the Big Bang
+    - Timeline activity (exit pass)
+    - Scale of the universe interactive
+    - Kahoot to finish
 2. ####
+    - https://stars.chromeexperiments.com
+    - https://www.google.com/sky/
 3. ####
 4. ####
 5. ####
