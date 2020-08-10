@@ -21,6 +21,7 @@ MODULES=(
 
 main() {
     fixMisplacedMD
+    git stash
     git pull origin master
     git submodule sync
     git submodule update
