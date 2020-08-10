@@ -84,10 +84,10 @@ header-includes:
 
 Open this link on your device and see the scale of the universe!
 
-https://htwins.net/scale2/
+[https://htwins.net/scale2/](https://htwins.net/scale2/)
 
 ---
 
 ### Kahoot!
 
-https://create.kahoot.it/details/formation-of-the-universe/a73d8cfa-ded4-44fe-a45a-a15cec78c433
+[https://create.kahoot.it/details/formation-of-the-universe/a73d8cfa-ded4-44fe-a45a-a15cec78c433](https://create.kahoot.it/details/formation-of-the-universe/a73d8cfa-ded4-44fe-a45a-a15cec78c433)
