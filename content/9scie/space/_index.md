@@ -30,7 +30,7 @@ menu:
 
 |            | L1 (Mon/Tues)                                         | L2 (Wed)                         | L3 (Fri)                     |
 |:-----------|:------------------------------------------------------|:---------------------------------|:-----------------------------|
-| __T3 W4__  | 1. [Origin of the Universe](#origin-of-the-universe)  | 2.                               | 3.                           |
+| __T3 W4__  | 1. [Origin of the Universe](#origin-of-the-universe)  | 2. [The Milky Way](#the-milky-way)                              | 3.                           |
 | __T3 W5__  | 4.                                                    | 5.                               | 6.                           |
 | __T3 W6__  | 7.                                                    | 8. ?Attitude Presentations       | 9.                           |
 | __T3 W7__  | 10.                                                   | 11.                              | 12. Relief: Tournament Week  |
@@ -46,9 +46,12 @@ menu:
     - Timeline activity (exit pass)
     - Scale of the universe interactive
     - Kahoot to finish
-2. ####
-    - https://stars.chromeexperiments.com
-    - https://www.google.com/sky/
+2. #### The Milky Way
+    - Scale of the Universe starter
+    - Notes on our location in the universe and some quick facts about the galaxy
+    - Cosmic address postcard to aliens activity
+    - Video on comic address
+    - Kahoot to finish
 3. ####
 4. ####
 5. ####
@@ -62,3 +65,8 @@ menu:
 13. #### Revision P1
 14. #### Revision P2
 15. #### __TEST__ 
+
+### Resources
+
+- https://stars.chromeexperiments.com
+- https://www.google.com/sky/
