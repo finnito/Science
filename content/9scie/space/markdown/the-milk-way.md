@@ -41,7 +41,7 @@ Our galaxy, __The Milky Way__, is part of a group of galaxies inside the __Virgo
 
 ---
 
-- We are in the Orion Spur, one of the spiral arms of the Milky Way
+- We are in the __Orion Arm__, one of the spiral arms of the Milky Way
 - The Milky way is $200,000ly$ in diameter, and $2,000ly$ thick
 
 ![](https://i.insider.com/57bdcde9ce38f2db088b89dc?width=2000 "")
