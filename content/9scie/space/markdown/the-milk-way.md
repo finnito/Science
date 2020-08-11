@@ -26,6 +26,11 @@ header-includes:
 ## The Laniakea Supercluster
 
 - In the universe, galaxies come in large groups. These groups are called superclusters!
+
+![](http://universe-review.ca/I03-02-Lan01.jpg)
+
+---
+
 - There are even superclusters __of__ superclusters.
 - Our supercluster is called the __Virgo Supercluster__ and exists as part of the __Laniakea Supercluster__
 
@@ -42,6 +47,11 @@ Our galaxy, __The Milky Way__, is part of a group of galaxies inside the __Virgo
 ---
 
 - We are in the __Orion Arm__, one of the spiral arms of the Milky Way
+
+![](https://i.insider.com/57bdcde9ce38f2db088b89dc?width=2000 "")
+
+---
+
 - The Milky way is $200,000ly$ in diameter, and $2,000ly$ thick
 
 ![](https://i.insider.com/57bdcde9ce38f2db088b89dc?width=2000 "")
