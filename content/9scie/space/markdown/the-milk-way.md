@@ -70,6 +70,7 @@ The solar system orbits the supermassive black hole at a speed of $230,000$ mete
 
 1. Glue in your postcard
 2. Write your cosmic address (on the right)
+    - Start with "The Universe" end with your actual postal address here in Christchurch!
 3. Write a letter to an alien out in the universe (on the left)
 4. Draw a little Earth in the poststamp box!
 
