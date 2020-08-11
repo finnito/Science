@@ -1,5 +1,5 @@
 ---
-title: Origin of the Universe
+title: The Milky Way
 subtitle: 9SCIE - Space
 author: Finn LeSueur
 date: 2020
