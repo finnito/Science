@@ -110,6 +110,6 @@ Open this link on your laptop: [https://theskylive.com/3dsolarsystem](https://th
 
 ## Solargraph
 
-![](https://lh3.googleusercontent.com/proxy/GkcEiiY-MTHChqHzRx_DVKH7CBxB5-6qwuyOC3HqQhlW_Tx2cccUnDUtXMWvXweIh3jG3py13Tzn204LVOlh6O5XcxSQ_EjCGAS6nn9f0Le2brhrMetvxarHbqam8WWckq8 "")
+![](../assets/solargraph.jpg "")
 
 > [http://www.star.ucl.ac.uk/~apod/apod/ap120121.html](http://www.star.ucl.ac.uk/~apod/apod/ap120121.html)
