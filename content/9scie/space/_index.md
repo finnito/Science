@@ -59,12 +59,13 @@ menu:
     - Notes on days and nights
     - Diagram of day/night
     - Interactive: https://theskylive.com/3dsolarsystem
-    - Video: How Earth Moves (Vsauce)
-    - Anallema, Solargraph
-    - Education Perfect
 5. #### Seasons
     - __LO__: Explain how the seasons are produced by an orbit
     - __LO__: Explain how the Moon has phases and creates tides
+    - Video: How Earth Moves (Vsauce) (FCG only)
+    - Anallema, Solargraph
+    - Notes: seasons and tides!
+    - __Homework__: Education Perfect
 6. #### Phases of the Moon
     - __LO__: Explain how the Moon has phases and creates tides
     - How often full moons occur, diagrams
