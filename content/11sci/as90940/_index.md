@@ -22,7 +22,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Tutorials
 
-Tuesday lunchtime in A4, every week until you go on exam leave! Bring something you are unsure about and get help!
+Tuesday lunchtime in A5, every week until you go on exam leave! Bring something you are unsure about and get help!
 
 ## Learning Outcomes
 
@@ -68,16 +68,16 @@ Tuesday lunchtime in A4, every week until you go on exam leave! Bring something 
 
 ## Unit Plan
 
-|            | L1 (Mon)         | L2 (Wed)         | L3 (Thurs)               | L4 (Fri)              |
-|:-----------|:-----------------|:-----------------|:-------------------------|:----------------------|
-| __T3 W5__  | __Senior Exams__ | __Senior Exams__ | [1. Velocity](#velocity) |                       |
-| __T3 W6__  |                  |                  |                          |                       |
-| __T3 W7__  |                  |                  |                          |                       |
-| __T3 W8__  |                  |                  |                          |                       |
-| __T3 W9__  |                  |                  |                          |                       |
-| __T3 W10__ |                  |                  |                          |                       |
-| __T4 W1__  |                  |                  |                          |                       |
-| __T4 W2__  |                  |                  |                          | __End of Topic Test__ |
+|            | L1 (Mon)         | L2 (Wed)         | L3 (Thurs)               | L4 (Fri)                         |
+|:-----------|:-----------------|:-----------------|:-------------------------|:---------------------------------|
+| __T3 W5__  | __Senior Exams__ | __Senior Exams__ | [1. Velocity](#velocity) | [2. Acceleration](#acceleration) |
+| __T3 W6__  |                  |                  |                          |                                  |
+| __T3 W7__  |                  |                  |                          |                                  |
+| __T3 W8__  |                  |                  |                          |                                  |
+| __T3 W9__  |                  |                  |                          |                                  |
+| __T3 W10__ |                  |                  |                          |                                  |
+| __T4 W1__  |                  |                  |                          |                                  |
+| __T4 W2__  |                  |                  |                          | __End of Topic Test__            |
 
 ### Lesson Plans
 
@@ -86,3 +86,10 @@ Tuesday lunchtime in A4, every week until you go on exam leave! Bring something 
 	- 3x practice questions in the notes
 	- Issue homework booklet, explain motivation and regular weekly homework
 	- sciPAD questions to finish
+2. #### Acceleration
+	- Speed & Velocity Kahoot to start
+	- https://create.kahoot.it/kahoots/my-kahoots/folder/2f5a1b63-53ba-4c44-9678-287ca08d461d
+	- Notes on acceleration
+	- 3x practice questions
+	- Reminder of homework & tutorials
+	- sciPAD page 28 Q1-2
