@@ -16,6 +16,8 @@ header-includes:
 
 Use your phones or laptops. Join as fast as you can!
 
+[https://create.kahoot.it/kahoots/my-kahoots/folder/2f5a1b63-53ba-4c44-9678-287ca08d461d](https://create.kahoot.it/kahoots/my-kahoots/folder/2f5a1b63-53ba-4c44-9678-287ca08d461d)
+
 ---
 
 <iframe width="1152" height="648" src="https://www.youtube.com/embed/ROOeGPrC1Do" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -118,8 +120,30 @@ A skydiver at rest jumps out of a plane. They accelerate at $9.8ms^{-2}$ until t
 
 ---
 
+## Question 4 {.c2}
+
+A runner is approaching the finish line, moving at $5.55ms^{-1}$ but needs to sprint to pass the person just in front of them to get 1st place. They accelerate for $3s$ to reach $6.3ms^{-1}$. What is their acceleration?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1pfrYC0vagk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Question 4: Answer
+
+1. __Knowns:__ $v_{i} = 5.55ms^{-1}$, $v_{f} = 6.3ms^{-1}$, $\Delta t = 3s$
+2. __Unknowns:__ $\text{acceleration (a)}$
+3. __Formula:__ $a = \frac{\Delta v}{\Delta t} = \frac{v_{f} - v_{i}}{\Delta t}$
+
+\begin{align*}
+    a &= \frac{6.3 - 5.55}{3} \\
+    a &= \frac{0.75}{3} =  0.25ms^{-2}
+\end{align*}
+
+---
+
 ## Homework
 
 - Due Monday, August 24th: Homework Booklet Q2, Q3, Q1
 - Tutorials: Tuesday Lunchtime in A5
 - Ask me for help with your homework at any time!
+- Do the work in your exercise book.
