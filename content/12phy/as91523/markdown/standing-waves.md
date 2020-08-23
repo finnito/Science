@@ -156,3 +156,9 @@ Calculate the 3rd harmonic for a string with length 25cm where the speed of soun
 - Double open ends has fundamental $\lambda = 2L$
 
 ![](https://www.allaboutcircuits.com/uploads/articles/harmonics-in-open-ended-pipes.png)
+
+---
+
+![](../assets/tb5a-q3.png)
+
+---
