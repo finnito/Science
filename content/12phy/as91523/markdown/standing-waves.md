@@ -117,3 +117,42 @@ Calculate the fundamental frequency of a string with length 25cm, where the spee
 Calculate the 3rd harmonic for a string with length 25cm where the speed of sound is $330ms^{-1}$.
 
 ---
+
+## Starter
+
+![](../assets/starter.png)
+
+---
+
+## Learning Outcomes
+
+5. Explain the modes of resonance of a string in terms of the fundamental vibration and the harmonics
+6. Calculate the harmonic frequencies of a string
+
+---
+
+## Resonance in Strings {.c2}
+
+1. Calculate the wavelength of the harmonic using the wavelength relationship $\lambda_{n} = \frac{2L}{n}$
+2. Use the wave formula $v=f\lambda$ to calculate the frequency of the harmonic
+
+![](https://www.open.edu/openlearn/ocw/pluginfile.php/75903/mod_oucontent/oucontent/646/37f7df20/783e0f1f/ta212_2_010i.small.jpg)
+
+---
+
+![](../assets/hwb-q12a.png)
+
+---
+
+![](../assets/hwb-q12b.png)
+
+---
+
+## Open Ended Pipes {.c2}
+
+- Open ends of a pipe are __antinodes__ - places of maximum displacement
+- A single open end fundamental has  $\lambda = 4L$
+- A single open end can only produce harmonics when $n$ is odd
+- Double open ends has fundamental $\lambda = 2L$
+
+![](https://www.allaboutcircuits.com/uploads/articles/harmonics-in-open-ended-pipes.png)
