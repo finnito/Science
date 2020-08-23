@@ -76,6 +76,10 @@ menu:
     - __LO__: Use data to compare the surface conditions of planets
     - __LO__: Identify the structure of the Sun how it produces energy
     - __LO__: Explain how solar eclipses form
+    - Kahoot to start
+    - Notes on the solar system
+    - Notes on the sun
+    - Research document & questions on the solar system
 8. #### The Space Station
     - Power supply & relate it to the sun
         - ↪️ Note power supply of other space vehicles
