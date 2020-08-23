@@ -12,25 +12,18 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-## Distance-Time Graphs
+## Distance-Time Graphs {.c2}
 
-We can plot a graph with __time on the x-axis__ and __distance on the y-axis__ to help us visualise data. Graphs are very useful to easily gain information from measurements.
+- We can plot a graph with __time on the x-axis__ and __distance on the y-axis__ to help us visualise data.
+- __Distance-time__ graphs tell us about the velocity of the object!
 
-![Distance-Time Graph](../assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }
-
----
-
-## Interpreting Distance-Time Graphs
-
-![Distance-Time Graph](../assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }
-
-What can you tell me about the velocity of the runner in seconds A, B, C, D and E?
+![](../assets/1-distance-time-graph.png "Distance-Time Graph")
 
 ---
 
-## Interpreting Distance-Time Graphs
+## Interpreting Distance-Time Graphs  {.c2}
 
-![Distance-Time Graph](../assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }
+![](../assets/1-distance-time-graph.png "Distance-Time Graph")
 
 - __Positive gradient__: Moving away
 - __Flat gradient__: Stationary
@@ -38,28 +31,41 @@ What can you tell me about the velocity of the runner in seconds A, B, C, D and 
 
 ---
 
-## Drawing Graphs
+## Interpreting Distance-Time Graphs {.c2}
 
-![Distance-Time Graph](../assets/1-distance-time-graph.png "Distance-Time Graph"){ width=30% }
+In pairs, __describe__ the velocity of the object at A, B, C, D and E?
 
-- Start the axis at zero
-- Title each axis
-- Units on each axis
-- Title the graph
-- Use a ruler
-- Make your scale even
+![](../assets/1-distance-time-graph.png "Distance-Time Graph")
 
 ---
 
-## sciPAD Page 11, 12, 13
-
----
-
-## Calculating Velocity From Graphs
+## Calculating Velocity From Graphs {.c2}
 
 \begin{align*}
-    & v = \frac{\Delta d}{\Delta t} \\\\
+    & v = \frac{\Delta d}{\Delta t} = \frac{d_{f} - d_{i}}{t_{f} - t_{i}} \\
     & v = \frac{rise}{run}
 \end{align*}
 
-![Distance-Time Graph](../assets/1-distance-time-graph.png "Distance-Time Graph"){ width=60% }
+![](../assets/1-distance-time-graph.png "Distance-Time Graph")
+
+---
+
+## Interpreting Distance-Time Graphs {.c2}
+
+In pairs, __calculate__ the velocity of the object at A, B, C, D and E? _Make sure you show working._
+
+![](../assets/1-distance-time-graph.png "Distance-Time Graph")
+
+---
+
+## Homework
+
+| Due Today                                                | Due Monday August 31st                            |
+|:---------------------------------------------------------|:--------------------------------------------------|
+| Q2, Q3, Q1                                               | Q5, Q6                                            |
+| Come show me!                                            | A5 tomorrow if you need help (or ask me in class) |
+| Those without homework, A5 tomorrow lunch time to do it! | __Answer all questions in your exercise book__    |
+
+---
+
+## sciPAD P11 Q1, P14 Q1
