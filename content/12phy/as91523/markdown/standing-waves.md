@@ -162,3 +162,44 @@ Calculate the 3rd harmonic for a string with length 25cm where the speed of soun
 ![](../assets/tb5a-q3.png)
 
 ---
+
+## Starter
+
+Quizziz: https://quizizz.com/admin/quiz/5a7d8747b69214001faec0e9/standing-waves
+
+---
+
+## Harmonics vs Overtones
+
+|     |              | String       | Closed Pipe  | Open Pipe    |
+|:----|:-------------|:-------------|:-------------|:-------------|
+| n=1 | 1st Harmonic | Fundamental  | Fundamental  | Fundamental  |
+| n=2 | 2nd Harmonic | 1st Overtone |              | 2nd Overtone |
+| n=3 | 3rd Harmonic | 2nd Overtone | 1st Overtone | 3rd Overtone |
+| n=4 | 4th Harmonic | 3rd Overtone |              | 4th Overtone |
+| n=5 | 5th Harmonic | 4th          | 2nd Overtone | 5th Overtone |
+
+---
+
+## Musical Wind Instruments
+
+- In order to produce different frequencies in a wind instrument, wind is generally sent past a sharp lip.
+- This sharp lip will create a large number of frequencies, but only specific ones will produce standing waves and therefore resonant frequencies.
+
+![](../assets/sharp-lip.png)
+
+---
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/62/Harmonic_Standing_Wave.gif)
+
+---
+
+## Timbre {.c2}
+
+- Different instruments playing the same frequency will produce a different set of harmonics, causing the quality of the note to be quite different.
+
+![](https://p7.hiclipart.com/preview/99/177/124/wavetable-synthesis-additive-synthesis-sound-synthesizers-waveform-timbre-waveform.jpg)
+
+---
+
+## Homework Booklet Q13
