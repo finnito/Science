@@ -41,16 +41,18 @@ In pairs, __describe__ the velocity of the object at A, B, C, D and E?
 
 ## Calculating Velocity From Graphs {.c2}
 
+![](../assets/1-distance-time-graph.png "Distance-Time Graph")
+
 \begin{align*}
-    & v = \frac{\Delta d}{\Delta t} = \frac{d_{f} - d_{i}}{t_{f} - t_{i}} \\
-    & v = \frac{rise}{run}
+    & v = \text{ gradient} \\
+    & v = \frac{rise}{run} \\
+    & v = \frac{\Delta d}{\Delta t} = \frac{d_{f} - d_{i}}{t_{f} - t_{i}}
 \end{align*}
 
-![](../assets/1-distance-time-graph.png "Distance-Time Graph")
 
 ---
 
-## Interpreting Distance-Time Graphs {.c2}
+## Question {.c2}
 
 In pairs, __calculate__ the velocity of the object at A, B, C, D and E? _Make sure you show working._
 
