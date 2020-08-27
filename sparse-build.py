@@ -32,20 +32,24 @@ def main():
         "type": event_args[2]
     }
 
+    with open("out.txt", "w") as f:
+        f.truncate()
+
     if event["type"] in ["Updated", "Created"]:
-        print(f"{event['type']}    {event['path']}")
         if event["path"].endswith("_index.md"):
-            print(" - Building: Hugo")
+            send_osascript('display notification "Building Hugo" \
+                with title "🧬 Science"')
             try:
                 shutil.rmtree('public')
             except OSError:
                 pass
             subprocess.call(['hugo', '--gc', '--minify', '--config=config-dev.toml', '--quiet'])
             send_osascript('display notification "Built Hugo" \
-                with title "Science" sound name "Morse"')
+                with title "🧬 Science" sound name "Morse"')
             reload_webpage()
         elif event["path"].endswith(".md"):
-            print(" - Building: Slides, PDF and Hugo")
+            send_osascript('display notification "Building Slides, PDF & Hugo" \
+                with title "🧬 Science"')
             path_array = event["path"].split("/")
             unit = "/".join(path_array[:8])
             file = path_array[-1]
@@ -86,11 +90,10 @@ def main():
             subprocess.call([f"mv {unit}/*.md {unit}/markdown/"], shell=True)
             subprocess.call([f"mv {unit}/markdown/_index.md {unit}"], shell=True)
             send_osascript('display notification "Built slides, PDF & Hugo" \
-                with title "Science" sound name "Morse"')
+                with title "🧬 Science" sound name "Morse"')
             reload_webpage()
         else:
             pass
-        print("-"*15)
 
 def reload_webpage():
     """ Reloads the current science.test
