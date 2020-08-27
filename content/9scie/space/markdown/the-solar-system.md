@@ -54,5 +54,3 @@ Kahoot!
 
 - __Convective Zone__: where energy gets transferred out via convection (hot air rises, cool air sinks)
 - __Radiative Zone__: photosphere, where it is cool enough for light to be emitted (the part we see)
-
-
