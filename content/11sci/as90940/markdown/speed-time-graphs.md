@@ -14,25 +14,43 @@ header-includes:
 
 ## Starter
 
-![Distance-Time Graph](../assets/2-starter.png "Distance-Time Graph"){ width=90% }
+![](https://mathsmadeeasy.co.uk/wp-content/uploads/2020/07/Diatance-time.png)
 
 ---
 
-# Velocity-Time Graphs
+## Speed-Time Graphs {.c2}
 
-Much like we can plot a distance-time graph, we can also plot velocity-time graphs.
+- The gradient of a distance-time graph is the __velocity__
+- The gradient of a speed-time graph is the __acceleration__
+- The area under a speed-time graph is the __distance travelled__
 
-Velocity-time graphs are useful for determining whether an object is accelerating and for calculating the distance travelled.
-
-![Velocity-Time Graph](../assets/2-velocity-time-graph.png "Velocity-Time Graph"){ width=60% }
+![](../assets/2-velocity-time-graph.png "Velocity-Time Graph")
 
 ---
 
-## Calculating Acceleration
+## Calculating Acceleration {.c2}
 
-![Velocity-Time Graph](../assets/2-velocity-time-graph.png "Velocity-Time Graph"){ width=60% }
+![](../assets/2-velocity-time-graph.png)
 
 \begin{align*}
-    & a = \frac{\Delta v}{\Delta t} \\\\
-    & a = \frac{rise}{run} && \text{using a velocity-time graph}
+    a &= \frac{rise}{run} \\
+    a &= \frac{\Delta v}{\Delta t} \\
+    a &= \frac{v_{f} - v_{i}}{\Delta t}
 \end{align*}
+
+---
+
+## Finding the Distance
+
+- Calculate the area under the __speed-time graph__ to find the distance travelled
+- Break it up into rectangles & triangles to calculate the area
+
+---
+
+![](https://mathsmadeeasy.co.uk/wp-content/uploads/2020/07/Diatance-time.png)
+
+---
+
+## Questions
+
+sciPAD Page 14, 19 21
