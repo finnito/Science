@@ -13,7 +13,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 ## Homework Due Dates
 
 1. Monday, August 24th: Homework Booklet Q2, Q3, Q1
-2. Monday, August 31st: 
+2. Monday, August 31st: Homework Booklet Q5, Q6
 3. Monday, September 7th: 
 4. Monday, September 14th: 
 5. Monday, September 21st: 
@@ -68,16 +68,16 @@ Tuesday lunchtime in A5, every week until you go on exam leave! Bring something 
 
 ## Unit Plan
 
-|            | L1 (Mon)         | L2 (Wed)         | L3 (Thurs)               | L4 (Fri)                         |
-|:-----------|:-----------------|:-----------------|:-------------------------|:---------------------------------|
-| __T3 W5__  | __Senior Exams__ | __Senior Exams__ | [1. Velocity](#velocity) | [2. Acceleration](#acceleration) |
-| __T3 W6__  |                  |                  |                          |                                  |
-| __T3 W7__  |                  |                  |                          |                                  |
-| __T3 W8__  |                  |                  |                          |                                  |
-| __T3 W9__  |                  |                  |                          |                                  |
-| __T3 W10__ |                  |                  |                          |                                  |
-| __T4 W1__  |                  |                  |                          |                                  |
-| __T4 W2__  |                  |                  |                          | __End of Topic Test__            |
+|            | L1 (Mon)                                         | L2 (Wed)                                   | L3 (Thurs)               | L4 (Fri)                         |
+|:-----------|:-------------------------------------------------|:-------------------------------------------|:-------------------------|:---------------------------------|
+| __T3 W5__  | __Senior Exams__                                 | __Senior Exams__                           | [1. Velocity](#velocity) | [2. Acceleration](#acceleration) |
+| __T3 W6__  | [3. Distance-Time Graphs](#distance-time-graphs) | [4. Speed-Time Graphs](#speed-time-graphs) |                          |                                  |
+| __T3 W7__  |                                                  |                                            |                          |                                  |
+| __T3 W8__  |                                                  |                                            |                          |                                  |
+| __T3 W9__  |                                                  |                                            |                          |                                  |
+| __T3 W10__ |                                                  |                                            |                          |                                  |
+| __T4 W1__  |                                                  |                                            |                          |                                  |
+| __T4 W2__  |                                                  |                                            |                          | __End of Topic Test__            |
 
 ### Lesson Plans
 
@@ -93,3 +93,13 @@ Tuesday lunchtime in A5, every week until you go on exam leave! Bring something 
 	- 3x practice questions
 	- Reminder of homework & tutorials
 	- sciPAD page 28 Q1-2
+3. #### Distance-Time Graphs
+	- Return Chem Reactions tests
+	- Notes on distance-time graphs
+	- Practice question on distance-time graphs
+	- Assign homework
+4. #### Speed-Time Graphs
+	- Kahoot Starter: https://create.kahoot.it/details/distance-time-graphs/a71fa913-eb15-4a59-9074-01fc3c4e6bc5
+	- Distance-time graph warmup question
+	- Notes on speed-time graphs
+	- Practice question
