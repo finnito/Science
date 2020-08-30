@@ -32,9 +32,6 @@ def main():
         "type": event_args[2]
     }
 
-    with open("out.txt", "w") as f:
-        f.truncate()
-
     if event["type"] in ["Updated", "Created"]:
         if event["path"].endswith("_index.md"):
             send_osascript('display notification "Building Hugo" \
