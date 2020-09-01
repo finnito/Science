@@ -4,6 +4,7 @@ subtitle: 11SCI - Mechanics
 author: Finn LeSueur
 date: 2019
 theme: finn
+weight: 5
 header-includes:
 - \usepackage{graphicx}
 - \usepackage[T1]{fontenc}
@@ -31,7 +32,7 @@ Force has lots of applications in our world! Everything from cars, to aeroplanes
 
 Force is a __push__ or a __pull__ and is measured in __Newtons (N)__.
 
-Forces have a size (1, 2, 3, 4) and a direction (left, right, up, down).
+Forces have a size (1, 2, 3, 4) and a direction (left, right, up, down, $40^{\circ}$).
 
 ---
 
@@ -43,17 +44,17 @@ Draw a box to represent yourself, with arrows coming out of the box to represent
 
 ---
 
-## Force Diagram
-
-![Force Diagram](../assets/3-force-diagram.png)
+![](../assets/sitting-in-chair.png)
 
 ---
 
-### Force Diagram
+## Force Diagram {.c2}
 
-- The length of the arrow represent the __size__ of the force
-- The direction of the arrow represents the direction of the force
-- Arrows should all be labelled with names and sizes if possible
+- Longer arrows indicate __more force__, and vice versa
+- The arrow points in the direction the force is acting
+- Arrows should be labelled $F_{name}$
+
+![](../assets/3-force-diagram.png)
 
 ---
 
@@ -65,11 +66,34 @@ Sitting on your chair, are the forces acting on you balanced or unbalanced? How 
 
 ---
 
+## Balanced Forces
+
+- If a force is balanced, the object is in equilibrium and __does not accelerate__
+- If the forces are unbalanced, the object is not in equilibrium and __does accelerate__
+
+---
+
+![](../assets/balanced-and-unbalanced.jpg)
+
+---
+
+![](../assets/book-on-table.jpg)
+
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/YyJSlcIbd-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ### Vertical and Horizontal Forces
 
 - Vertical and horizontal forces are separate. They do not affect each other.
 - We can _balance_ them to find out the __net force__ in the vertical and horizontal directions.
 - If we compare them and they are the same, then forces are balanced. If they are different, forces are unbalanced.
+
+---
+
+![](../assets/xy-balanced-and-unbalanced.png)
 
 ---
 

@@ -71,8 +71,8 @@ Tuesday lunchtime in A5, every week until you go on exam leave! Bring something 
 |            | L1 (Mon)                                         | L2 (Wed)                                   | L3 (Thurs)               | L4 (Fri)                         |
 |:-----------|:-------------------------------------------------|:-------------------------------------------|:-------------------------|:---------------------------------|
 | __T3 W5__  | __Senior Exams__                                 | __Senior Exams__                           | [1. Velocity](#velocity) | [2. Acceleration](#acceleration) |
-| __T3 W6__  | [3. Distance-Time Graphs](#distance-time-graphs) | [4. Speed-Time Graphs](#speed-time-graphs) |                          |                                  |
-| __T3 W7__  |                                                  |                                            |                          |                                  |
+| __T3 W6__  | [3. Distance-Time Graphs](#distance-time-graphs) | [4. Speed-Time Graphs](#speed-time-graphs) | [5.]()                   | [.6]()                           |
+| __T3 W7__  | [7.]()                                           | [8.]()                                     |                          |                                  |
 | __T3 W8__  |                                                  |                                            |                          |                                  |
 | __T3 W9__  |                                                  |                                            |                          |                                  |
 | __T3 W10__ |                                                  |                                            |                          |                                  |
