@@ -114,8 +114,8 @@ header-includes:
 ## Path Difference {.c2}
 
 - Path difference can be written as $pd$
-- __Nodal Lines__: $pd = n\lambda$
-- __Antinodal Lines__: $pd = (n - \frac{1}{2})\lambda$
+- __Antinodal Lines__: $pd = n\lambda$
+- __Nodal Lines__: $pd = (n - \frac{1}{2})\lambda$
 
 ![](../assets/IMG_1265.jpg)
 
@@ -133,7 +133,12 @@ header-includes:
 
 ---
 
+## Starter
+
 ![](../assets/tb-2p-interference.png)
+
+- If you used the equations, verify by counting wavelengths on the diagram.
+- If you used the diagram, verify your answer by doing calculations.
 
 ---
 
@@ -143,7 +148,7 @@ header-includes:
 
 <aside class="notes">
 1. For the triangle with $\theta$, $tan(\theta)=\frac{y}{D}$
-2. For the triangle with $\theta'$, $sin(\theta')=\frac{\delta}{a}$
+2. For the triangle with $\theta'$, $sin(\theta')=\frac{\delta}{d}$
 3. We can say $tan(\theta) \approx sin(\theta) \approx \theta \approx \frac{y}{D}$
 </aside>
 
@@ -165,3 +170,36 @@ header-includes:
 $pd = n\lambda$ OR $pd = (n - \frac{1}{2})\lambda$
 </aside>
 
+---
+
+## Interference Formula {.c2}
+
+\begin{align*}
+    pd &= \frac{dx}{L}
+\end{align*}
+
+- $pd$ is path difference (m)
+- $d$ is source separation (m)
+- $x$ is fringe separation (m)
+- $L$ is distance from source to screen (m)
+
+---
+
+## Interference Formula {.c2}
+
+\begin{align*}
+    x = \frac{pdL}{d}
+\end{align*}
+
+- as wavelength increases, so does the spacing (x)
+- as L increases, so does the spacing (x)
+- as separation increases, the spacing decreases
+
+---
+
+## Interference Formula {.c2}
+
+- Since $d sin(\theta) = pd$
+- $pd = n\lambda$ AND $pd = (n - \frac{1}{2})\lambda$
+- $d sin(\theta) = n\lambda$ for antinodes
+- $d sin(\theta) = (n-\frac{1}{2})\lambda$ for nodes
