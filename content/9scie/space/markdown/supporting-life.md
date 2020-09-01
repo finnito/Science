@@ -4,7 +4,7 @@ subtitle: 9SCIE - Space
 author: Finn LeSueur
 date: 2020
 theme: finn
-weight: 
+weight: 8
 colortheme: dolphin
 font-size: 35px
 text-align: center
