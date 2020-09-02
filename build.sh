@@ -34,8 +34,8 @@ main() {
             echo "Entered $i"
             createFolders
             createSlides
-            createPDFs
-            createZIPs
+            #createPDFs
+            #createZIPs
             putMDInRoot
             cd ../../
         else
