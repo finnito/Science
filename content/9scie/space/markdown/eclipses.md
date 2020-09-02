@@ -106,6 +106,12 @@ Brainstorm on the board what you know about eclipses! Diagrams, dates, what obje
 
 ---
 
+## When is the next solar eclipse?
+
+The next total solar eclipse in New Zealand will occur in Central Otago on 22/07/2028 at 4.15pm. Put it your calendar on your phones!
+
+---
+
 <iframe width="1138" height="640" src="https://www.youtube.com/embed/oNH3akWXaV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
