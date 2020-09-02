@@ -31,7 +31,7 @@ header-includes:
 - When waves pass through an opening or bump against a barrier, they will __diffract__
 - __Openings__: The most diffraction occurs when the opening width and wavelength are similar
 
-![](https://thepropertiesofwaves.weebly.com/uploads/2/6/2/5/26255225/345897420.jpg?623)
+![](https://thepropertiesofwaves.weebly.com/uploads/2/6/2/5/26255225/345897420.jpg)
 
 ---
 
