@@ -15,7 +15,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 1. Monday, August 24th: Homework Booklet Q2, Q3, Q1
 2. Monday, August 31st: Homework Booklet Q5, Q6
 3. Monday, September 7th: 
-4. Monday, September 14th: 
+4. Monday, September 14th: Homework Booklet Q12, Q13, Q14
 5. Monday, September 21st: 
 6. Monday, October 12th: 
 7. Monday, October 19th: 
