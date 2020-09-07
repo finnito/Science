@@ -102,3 +102,40 @@ Sitting on your chair, are the forces acting on you balanced or unbalanced? How 
 ---
 
 # sciPAD Page 33-35
+
+---
+
+## Force & Weight {.c2}
+
+\begin{align*}
+    Force = mass \times acceleration \\
+    F = ma
+\end{align*}
+
+- Force acting upon a mass will create an acceleration
+- An acceleration acting upon a mass is felt as a force
+- ^ Gravity (acceleration) acting upon mass (you) is felt as a force (weight)
+- Weight is a force
+
+---
+
+## Weight vs Mass
+
+
+| Mass  | Weight  |
+|---|---|
+| Measured in $kgs$  | Measured in Newtons  |
+| Is constant  | Changes with acceleration/gravity |
+| Cannot be measured directly  | Can be measured using a scale  |
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMKcO-T5Y4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Your Weight
+
+- The acceleration due to gravity on Earth is $10\frac{m}{s^{2}}$.
+- Calculate your weight on Earth using $F=ma$
+- Use this website to visualise your weight on other planets: 
