@@ -34,7 +34,7 @@ menu:
 | __T3 W5__ | 4. [Day, Night, Seasons](#day-night-seasons)            | 5. [Seasons](#seasons)                                  | 6. [Phases of the Moon](#phases-of-the-moon) |
 | __T3 W6__ | 7. [The Solar System](#the-solar-system)                | 8. [The Space Station](#the-space-station)              | 9. [Supporting Life](#supporting-life)       |
 | __T3 W7__ | 10. [Solar System Project P1](#solar-system-project-p1) | 11. [Solar System Project P2](#solar-system-project-p2) | 12. [Revision P1](#revision-p1)              |
-| __T3 W8__ | 13. [Solar System Project P3](#solar-system-project-p3) | 14. [Revision P2](#revision-p2)                         | 15. __TEST__                                 |
+| __T3 W8__ | 13. [All in a Year](#all-in-a-year)                     | 14. [Revision P2](#revision-p2)                         | 15. __TEST__                                 |
 
 ### Lesson Plans
 
@@ -100,8 +100,9 @@ menu:
 11. #### Solar System Project P2
     - Painting of planets
 12. #### Revision P1
-13. #### Solar System Project P3
-    - Out on the field for the photo!
+13. #### All in a Year
+    - New seating plan
+    - All in a Year worksheet
 14. #### Revision P2
 15. #### __TEST__ 
 
