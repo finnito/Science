@@ -22,7 +22,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Tutorials
 
-Tuesday lunchtime in A5, every week until you go on exam leave! Bring something you are unsure about and get help!
+Wednesday lunchtime in Science breakout space upstairs, every week until you go on exam leave! Bring something you are unsure about and get help!
 
 ## Learning Outcomes
 
