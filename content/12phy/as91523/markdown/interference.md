@@ -7,6 +7,7 @@ theme: finn
 weight: 5
 colortheme: dolphin
 font-size: 35px
+katex: true
 text-align: center
 header-includes:
 - \usepackage{graphicx}
