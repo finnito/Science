@@ -8,7 +8,7 @@
             "repo": "finnito/Science",
             "branch": "master",
             "action": "have been deployed to the server",
-            "run": "bash /srv/science.lesueur.nz/build.sh"
+            "run": "bash /srv/science.lesueur.nz/build.sh 2>&1"
         }
     ]
 }
