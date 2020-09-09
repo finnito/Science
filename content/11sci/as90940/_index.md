@@ -73,7 +73,7 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 | __T3 W5__  | __Senior Exams__                                 | __Senior Exams__                           | [1. Velocity](#velocity)                 | [2. Acceleration](#acceleration)      |
 | __T3 W6__  | [3. Distance-Time Graphs](#distance-time-graphs) | [4. Speed-Time Graphs](#speed-time-graphs) | [5.]()                                   | [.6]()                                |
 | __T3 W7__  | [7.]()                                           | 8.                                         | 9. [Mid-Topic Test 1](#mid-topic-test-1) | 10. [Self Marking 1](#self-marking-1) |
-| __T3 W8__  | 11. [Mass vs Weight](#mass-vs-acceleration)      |                                            |                                          |                                       |
+| __T3 W8__  | 11. [Mass vs Weight 1](#mass-vs-weight-1)      | 12. [Mass vs Weight 2](#mass-vs-weight-2) | 13. [Types of Forces](#types-of-forces)                                         |                                       |
 | __T3 W9__  |                                                  |                                            |                                          |                                       |
 | __T3 W10__ |                                                  |                                            |                                          |                                       |
 | __T4 W1__  |                                                  |                                            |                                          |                                       |
@@ -103,16 +103,16 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 	- Distance-time graph warmup question
 	- Notes on speed-time graphs
 	- Practice question
-11. #### Mass vs Weight
+11. #### Mass vs Weight 1
 	- Quizlet to start: https://quizlet.com/nz/523302535/balanced-and-unbalanced-forces-forces-flash-cards/
 	- Notes on mass vs weight
-12. #### Mass vs Weight Worksheet
+12. #### Mass vs Weight 2
 	- Quizlet to start: https://quizlet.com/nz/523302535/balanced-and-unbalanced-forces-forces-flash-cards/
 	- Worksheet: https://docs.google.com/document/d/1zSkTiskCbPepE8mruywTBD7QPDppQQHCJpW93AF3ldo/edit?usp=sharing
 	- Do answers on the board as a group
 	- Issue homework
 13. #### Types of Forces
-        - Starter: finish worksheet from previous class
-        - Make notes on types of forces
-        - Exercises in labelling force diagrams
-
+	-Starter:finishworksheet from previous class
+	- Make notes on types of forces
+	- sciPAD page 34 and 36
+	- Self-mark the sciPAD using the QR code

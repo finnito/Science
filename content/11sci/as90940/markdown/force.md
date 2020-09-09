@@ -160,4 +160,23 @@ Complete the questions on the last page of the worksheet from last period!
     - Drag (water/air)
     - Friction (hard materials)
 
-![](https://image.shutterstock.com/z/stock-vector-education-chart-of-physics-for-different-types-of-force-diagram-vector-illustration-661087543.jpg)
+---
+
+## Force Diagrams
+
+- Equal and opposite forces should be the same length
+- Greater forces have longer arrows
+- Accelerating means unbalanced forces
+- Balanced (zero net force) means no acceleration (constant velocity)
+
+---
+
+![](http://sbt.blob.core.windows.net/storyboards/oliversmith/balanced-and-unbalanced-forces.png)
+
+---
+
+## Task
+
+1. sciPAD page 34
+2. sciPAD page 36
+3. Use the QR code at the back to find the answers and mark your work!
