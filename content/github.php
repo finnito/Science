@@ -71,7 +71,7 @@ function run() {
                 $body .= '</ul>';
                 $body .= '<p>Cheers, <br/>Github Webhook Endpoint</p>';
 
-                mail($config['email']['to'], $endpoint['action'], $body, $headers);
+                mail($config['email']['to'], "Commit(s) by ".$payload->pusher->name." on finnito/Science", $body, $headers);
             }
             return true;
         }
