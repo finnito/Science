@@ -32,5 +32,3 @@ weight: 2
 | Week 10 |                |                         | __June 15th__  | Energy for Life  | __Sep 21__ | Radiation |             |                  |
 | Week 11 |                |                         | __June 22nd__  | Plants           |            |           |             |                  |
 | Week 12 |                |                         | __June 29th__  | Plants           |            |           |             |                  |
-
- 
