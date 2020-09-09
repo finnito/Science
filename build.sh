@@ -65,7 +65,9 @@ fixMisplacedMD() {
     cd content || exit
     for i in "${MODULES[@]}"; do
         if cd $i; then
-            if mv $(ls *.md | grep -v _index.md) markdown; then
+            shopt -s nullglob extglob
+            #if mv $(ls *.md | grep -v _index.md) markdown; then
+            if mv -t markdown/ !(_index).md; then
                 echo "    Put Markdown files back in 'markdown'"
             fi
             cd ../../
