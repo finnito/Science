@@ -112,7 +112,7 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 	- Do answers on the board as a group
 	- Issue homework
 13. #### Types of Forces
-	-Starter:finishworksheet from previous class
+	- Starter: finish worksheet from previous class
 	- Make notes on types of forces
 	- sciPAD page 34 and 36
 	- Self-mark the sciPAD using the QR code
