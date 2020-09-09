@@ -1,5 +1,5 @@
 name: Deploy to Linode Server
-on: [push]
+on: []
 
 jobs:
   build:

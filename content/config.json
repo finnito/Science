@@ -1,0 +1,14 @@
+{
+    "email": {
+        "from": "github-hook@lesueur.nz",
+        "to": "finn@lesueur.nz"
+    },
+    "endpoints": [
+        {
+            "repo": "finnito/science",
+            "branch": "master",
+            "action": "Commits have been pushed to the server.",
+            "run": "../build.sh"
+        }
+    ]
+}
