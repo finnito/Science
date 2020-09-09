@@ -138,4 +138,5 @@ Sitting on your chair, are the forces acting on you balanced or unbalanced? How 
 
 - The acceleration due to gravity on Earth is $10\frac{m}{s^{2}}$.
 - Calculate your weight on Earth using $F=ma$
-- Use this website to visualise your weight on other planets: 
+- Use this website to visualise your weight on other planets: https://exploratorium.edu/ronh/weight/
+
