@@ -5,10 +5,10 @@
     },
     "endpoints": [
         {
-            "repo": "finnito/science",
+            "repo": "finnito/Science",
             "branch": "master",
-            "action": "Commits have been pushed to the server.",
-            "run": "../build.sh"
+            "action": "have been deployed to the server",
+            "run": "bash /srv/science.lesueur.nz/build.sh"
         }
     ]
 }
