@@ -2,10 +2,10 @@
 set -e
 
 MODULES=(
-    '9scie/introduction-to-science'
-    '9scie/energy-for-life'
-    '9scie/plants-as-producers'
-    '9scie/space'
+    '09scie/introduction-to-science'
+    '09scie/energy-for-life'
+    '09scie/plants-as-producers'
+    '09scie/space'
     '10scie/5-fire-and-fuels'
     '10scie/6-geology'
     '11sci/as90940'
