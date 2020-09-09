@@ -5,6 +5,7 @@ author: Finn LeSueur
 date: 2019
 theme: finn
 weight: 5
+katex: true
 header-includes:
 - \usepackage{graphicx}
 - \usepackage[T1]{fontenc}
