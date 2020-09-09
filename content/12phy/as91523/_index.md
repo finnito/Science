@@ -38,18 +38,18 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 
 ## Unit Plan
 
-|             | Lesson 1 (Mon)                                     | Lesson 2 (Tues)                               | Lesson 3 (Wed)                             | Lesson 4 (Thurs)                             |
-|:------------|:---------------------------------------------------|:----------------------------------------------|:-------------------------------------------|:---------------------------------------------|
-| __T2 W12__  | 1. [Intro to Waves](#intro-to-waves)               | 2. [Hand back Test](#hand-back-test)          | 3. [Intro Continued](#intro-continued-1)   | 4. [Intro Continued](#intro-continued-2)     |
-| __T3 W1__   | 5. [Doppler Effect](#intro-to-the-doppler-effect)  | 6. [Doppler Effect](#intro-doppler-equation)  | 7. [Doppler Effect](#doppler-continued-1)  | 8. [Doppler Effect](#doppler-continued-2)    |
-| __T3 W2__   | 9. [Beats](#beats)                                 | 10. [Beats Practical](#beats-practical)       | 11. [Beats](#beats-hbq)                    | 12. [Standing Waves](#standing-waves-intro)  |
-| __T3 W3__   | _Exam Revision_                                    | _Exam Revision_                               | _Exam Revision_                            | _Exam Revision_                              |
-| __T3 W4__   | __School Exams__                                   | __School Exams__                              | __School Exams__                           | __School Exams__                             |
-| __T3 W5__   | __School Exams__                                   | __School Exams__                              | _Return Exam_                              | 13. Standing Waves & Music                   |
-| __T3 W6__   | 14. Standing Waves & Music                         | 15. Attitude Presentations                    | 16. Standing Waves & Music                 | 17. Standing Waves & Music                   |
-| __T3 W7__   | 18. Interference Pattern (2 Point)                 | 19. Interference Pattern (2 Point)            | 20. Interference Pattern (2 Point)         | 21. Multi-Point Interference                 |
-| __T3 W8__   | 22. [Multi-Point Interference](#diffraction-practical)                       | 23. Multi-Point Interference                  | Multi-Point Interference                   | _Revision/Catch-Up_                          |
-| __T3 W9__   | _Revision/Catch-Up_                                | _Revision_                                    | _Revision_                                 | __TEST__                                     |
+|            | Lesson 1 (Mon)                                         | Lesson 2 (Tues)                              | Lesson 3 (Wed)                            | Lesson 4 (Thurs)                            |
+|:-----------|:-------------------------------------------------------|:---------------------------------------------|:------------------------------------------|:--------------------------------------------|
+| __T2 W12__ | 1. [Intro to Waves](#intro-to-waves)                   | 2. [Hand back Test](#hand-back-test)         | 3. [Intro Continued](#intro-continued-1)  | 4. [Intro Continued](#intro-continued-2)    |
+| __T3 W1__  | 5. [Doppler Effect](#intro-to-the-doppler-effect)      | 6. [Doppler Effect](#intro-doppler-equation) | 7. [Doppler Effect](#doppler-continued-1) | 8. [Doppler Effect](#doppler-continued-2)   |
+| __T3 W2__  | 9. [Beats](#beats)                                     | 10. [Beats Practical](#beats-practical)      | 11. [Beats](#beats-hbq)                   | 12. [Standing Waves](#standing-waves-intro) |
+| __T3 W3__  | _Exam Revision_                                        | _Exam Revision_                              | _Exam Revision_                           | _Exam Revision_                             |
+| __T3 W4__  | __School Exams__                                       | __School Exams__                             | __School Exams__                          | __School Exams__                            |
+| __T3 W5__  | __School Exams__                                       | __School Exams__                             | _Return Exam_                             | 13. Standing Waves & Music                  |
+| __T3 W6__  | 14. Standing Waves & Music                             | 15. Attitude Presentations                   | 16. Standing Waves & Music                | 17. Standing Waves & Music                  |
+| __T3 W7__  | 18. Interference Pattern (2 Point)                     | 19. Interference Pattern (2 Point)           | 20. Interference Pattern (2 Point)        | 21. Multi-Point Interference                |
+| __T3 W8__  | 22. [Multi-Point Interference](#diffraction-practical) | 23. Multi-Point Interference                 | 24. Diffraction Gratings                  | _Revision/Catch-Up_                         |
+| __T3 W9__  | _Revision/Catch-Up_                                    | _Revision_                                   | _Revision_                                | __TEST__                                    |
 
 ### Lesson Plans
 
@@ -102,5 +102,5 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 22. #### Diffraction Practical
     - "Diffraction of Laser Light" Lab document
     - Recap of diffraction gratings notes
-    - 
-    - 
+24. #### Diffraction Gratings
+    - Homework booklet Q20. Work quietly from the start of the class and then go through the question in detail talking about x/y diffraction.
