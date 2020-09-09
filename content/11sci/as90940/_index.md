@@ -111,3 +111,8 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 	- Worksheet: https://docs.google.com/document/d/1zSkTiskCbPepE8mruywTBD7QPDppQQHCJpW93AF3ldo/edit?usp=sharing
 	- Do answers on the board as a group
 	- Issue homework
+13. #### Types of Forces
+        - Starter: finish worksheet from previous class
+        - Make notes on types of forces
+        - Exercises in labelling force diagrams
+
