@@ -69,8 +69,6 @@ function run() {
                         . '">read more</a></small></li>';
                 }
                 $body .= '</ul>';
-                $body .= '<p>What follows is the output of the script:</p><pre>';
-                $body .= $output. '</pre>';
                 $body .= '<p>Cheers, <br/>Github Webhook Endpoint</p>';
 
                 mail($config['email']['to'], $endpoint['action'], $body, $headers);
