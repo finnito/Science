@@ -8,7 +8,7 @@
  */
 
 // read config.json
-$config_filename = 'public/config.json';
+$config_filename = '/srv/science.lesueur.nz/public/config.json';
 if (!file_exists($config_filename)) {
     echo "Can't find ".$config_filename;
     throw new Exception("Can't find ".$config_filename);
