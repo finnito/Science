@@ -46,7 +46,7 @@ function run() {
 
             // execute update script, and record its output
             ob_start();
-            echo exec($endpoint['run']);
+            system($endpoint['run']);
             $output = ob_end_contents();
 
             // prepare and send the notification email
