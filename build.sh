@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -e
+shopt -s nullglob extglob
 
 MODULES=(
     '09scie/introduction-to-science'
@@ -65,7 +66,6 @@ fixMisplacedMD() {
     cd content || exit
     for i in "${MODULES[@]}"; do
         if cd $i; then
-            shopt -s nullglob extglob
             #if mv $(ls *.md | grep -v _index.md) markdown; then
             if mv -t markdown/ !(_index).md; then
                 echo "    Put Markdown files back in 'markdown'"
@@ -185,7 +185,7 @@ runHugo() {
 }
 
 putMDBack() {
-    if mv $(ls *.md | grep -v _index.md) markdown; then
+    if mv -t markdown/ !(_index).md; then
         echo "    Put Markdown files back in 'markdown'"
     fi
 }
