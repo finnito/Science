@@ -23,8 +23,8 @@ if (isset($config['email'])) {
 
 // execute update script, and record its output
 ob_start();
-system($endpoint['run']);
-$output = ob_end_contents();
+system($config["endpoints"][0]['run']);
+$output = ob_get_contents();
 
 // prepare and send the notification email
 $body = "";
