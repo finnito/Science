@@ -20,7 +20,7 @@ MODULES=(
 )
 
 main() {
-    cd /src/science.lesueur.nz/
+    cd /srv/science.lesueur.nz/
     fixMisplacedMD
     git stash
     git pull origin master
@@ -62,6 +62,7 @@ main() {
 }
 
 fixMisplacedMD() {
+    cd content || exit
     for i in "${MODULES[@]}"; do
         if cd $i; then
             if mv $(ls *.md | grep -v _index.md) markdown; then
@@ -70,6 +71,7 @@ fixMisplacedMD() {
             cd ../../
         fi
     done
+    cd ../
 }
 
 createFolders() {
