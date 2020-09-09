@@ -45,9 +45,9 @@ function run() {
             ) {
 
             // execute update script, and record its output
-            ob_start();
-            system($endpoint['run']);
-            $output = ob_end_contents();
+            // ob_start();
+            exec("php /srv/science.lesueur.nz/email.php > /dev/null &");
+            // $output = ob_end_contents();
 
             // prepare and send the notification email
             if (isset($config['email'])) {
