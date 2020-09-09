@@ -140,3 +140,24 @@ Sitting on your chair, are the forces acting on you balanced or unbalanced? How 
 - Calculate your weight on Earth using $F=ma$
 - Use this website to visualise your weight on other planets: https://exploratorium.edu/ronh/weight/
 
+---
+
+## Starter
+
+Complete the questions on the last page of the worksheet from last period!
+
+---
+
+## Types of Forces {.c2}
+
+- __Down__: Weight (due to gravity)
+- __Up__
+    - Lift (planes, birds, things with wings)
+    - Bouyancy (floating in water)
+    - Support (rigid physical connections)
+- __Faster__: Push/thrust forces (rockets, rugby)
+- __Slower__: Generally called _resistive_ forces
+    - Drag (water/air)
+    - Friction (hard materials)
+
+![](https://image.shutterstock.com/z/stock-vector-education-chart-of-physics-for-different-types-of-force-diagram-vector-illustration-661087543.jpg)
