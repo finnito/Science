@@ -20,6 +20,7 @@ MODULES=(
 )
 
 main() {
+    cd /src/science.lesueur.nz/
     fixMisplacedMD
     git stash
     git pull origin master
