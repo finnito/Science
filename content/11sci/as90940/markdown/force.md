@@ -181,3 +181,54 @@ Complete the questions on the last page of the worksheet from last period!
 1. sciPAD page 34
 2. sciPAD page 36
 3. Use the QR code at the back to find the answers and mark your work!
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pCkgAelO3og" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Learning Outcomes
+
+1. Describe the relationship between mass and acceleration of an object which is acted upon by a given unbalanced force (called __net force__).
+2. Use the relationship $F = ma$ to calculate the net force, mass or acceleration of an object.
+
+---
+
+## Net Force
+
+- Net force is the resultant force in the x and y directions
+- If the forces are equal and opposite, there is zero net force
+- If there is zero net force, acceleration is zero
+- We cannot know if the object is stationary or moving at a constant velocity without more information from the question
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dYw4meRWGd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Terminal Velocity {.c2}
+
+- Friction forces increase as the velocity of an object increases
+- When friction and weight forces are balanced, the object stops accelerating
+- This is terminal velocity!
+
+![Source: http://misswise.weebly.com/terminal-velocity.html](http://misswise.weebly.com/uploads/1/8/2/0/18209119/5250254_orig.gif)
+
+---
+
+## Terminal Velocity {.c2}
+
+- The object starts from rest at the top of the jump
+- Its velocity increases due to the acceleration due to gravity (weight force)
+- The friction force, drag, increases with velocity until they become balanced
+- The velocity becomes constant
+
+![Source: https://hardphysics13.wordpress.com/terminal-velocity/](https://i2.wp.com/www.bbc.co.uk/schools/gcsebitesize/science/images/add_aqa_phy_velocity_graph_falling_object.jpg)
+
+---
+
+## Task
+
+Question 18 and then Question 17 from the homework bookler

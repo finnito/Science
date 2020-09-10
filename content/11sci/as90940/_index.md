@@ -116,3 +116,12 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 	- Make notes on types of forces
 	- sciPAD page 34 and 36
 	- Self-mark the sciPAD using the QR code
+14. #### Terminal Velocity
+	- Learning Outcomes:
+		1. Describe the relationship between mass and acceleration of an object which is acted upon by a given unbalanced force (called __net force__).
+		2. Use the relationship $F = ma$ to calculate the net force, mass or acceleration of an object.
+	- Video starter
+	- Notes on net force
+	- Video: Felix Baumgartner jump from space
+	- Notes on terminal velocity
+	- Homework booklet Q18, Q17
