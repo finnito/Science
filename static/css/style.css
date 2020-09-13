@@ -33,6 +33,17 @@ img, iframe {
   margin-right: 0.5rem;
 }
 
+.koru {
+  margin: 0;
+  width: 100vw;
+  height: 30px;
+  background-image: url(/koru-repeatable.png);
+  background-repeat: repeat-x;
+  background-size: contain;
+  border-bottom-right-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+
 iframe[title^='Sponsor'] {
   box-shadow: none;
 }
