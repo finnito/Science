@@ -11,8 +11,8 @@
   <body>
     <a class="skip-main" href="#main">Skip to main content</a>
     <nav>
-      {{ partial "buttons.html" . }}
       <div class="koru"></div>
+      <div class="desktop top-buttons">{{ partial "buttons.html" . }}</div>
       <h1>{{ .Site.Title }}</h1>
       <input class="toggle mobile" type="checkbox" title="Toggle mobile menu"/>
       <div class="hamburger mobile">
@@ -32,6 +32,9 @@
               <a title="Navigate to {{ .Name }} home page" href="{{ .URL | relURL }}" >{{ .Name }}</a>
             </li>
             {{ end }}
+            <div class="mobile">
+              {{ partial "buttons.html" . }}
+            </div>
           </ul>
         </div>
       </div>
