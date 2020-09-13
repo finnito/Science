@@ -30,7 +30,7 @@ We can capture radiation from the sun and use it for energy!
 
 ---
 
-## What is Electromagnetic (EM) Radiation? {.c2}
+## What is Electromagnetic (EM) Radiation?
 
 - A type of __radiant energy__ which can move through a vacuum.
 - Comes in many forms like visible light and heat energy
@@ -43,10 +43,10 @@ We can capture radiation from the sun and use it for energy!
 2. Cut out the face and spend 5-10 minutes decorating it
 3. Open the experiment document on Google Classroom and __read through the background and method__
 
+---
+
 ![Source: [Pintrest](https://www.pinterest.com/pin/345158758919974716/)](https://i.pinimg.com/originals/9a/19/9e/9a199eb6c2b084694f3f0a36b71b9269.jpg)
 
 ---
 
 [Kahoot!](https://create.kahoot.it/v2/details/04a154ec-fcd2-4733-8525-4d1784b31d5d)
-
----
