@@ -11,11 +11,9 @@
                 title="Read {{ .Title }} notes for {{ $page.Title }}">
                 {{ .Title }}
             </a> 
-            (<a href="slides/{{ .File.BaseFileName }}.html" title="View slides for {{ .Title }}">Slides</a>, <a href="pdfs/{{ .File.BaseFileName }}.pdf" title="View PDF notes for {{ .Title }}"> PDF</a>)
+            (<a href="slides/{{ .File.BaseFileName }}.html" title="View slides for {{ .Title }}">Slides</a>)
         </li>
         {{ end }}
     </ol>
-
-    <a class="button download" href='{{ $page | relURL }}{{ $page.Resources.GetMatch "*.zip" }}' title="Download PDFs for {{ $page.Title }}">⬇️ Download all PDFs</a>
 {{ end }}
 
