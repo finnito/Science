@@ -7,6 +7,7 @@ MODULES=(
     '09scie/energy-for-life'
     '09scie/plants-as-producers'
     '09scie/space'
+    '09scie/radiation'
     '10scie/5-fire-and-fuels'
     '10scie/6-geology'
     '11sci/as90940'
