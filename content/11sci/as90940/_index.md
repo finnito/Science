@@ -132,5 +132,6 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 	- What can you do with a Newton, practical.
 	- https://www.riskassess.co.nz/risk_assessment/8683487
 	- https://docs.google.com/document/d/1MAugSiWvqV5CDR6J25Ei_9C276uywrKt-cJBRz_AJpo/edit
+	- Homework Booklet Questions: 19 & 20
 17. #### Forces Recap
 	- 

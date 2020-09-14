@@ -123,11 +123,11 @@ Sitting on your chair, are the forces acting on you balanced or unbalanced? How 
 ## Weight vs Mass
 
 
-| Mass  | Weight  |
-|---|---|
-| Measured in $kgs$  | Measured in Newtons  |
-| Is constant  | Changes with acceleration/gravity |
-| Cannot be measured directly  | Can be measured using a scale  |
+| Mass                        | Weight                            |
+|:----------------------------|:----------------------------------|
+| Measured in $kgs$           | Measured in Newtons               |
+| Is constant                 | Changes with acceleration/gravity |
+| Cannot be measured directly | Can be measured using a scale     |
 
 ---
 
@@ -242,3 +242,23 @@ Question 18 and then Question 17 from the homework booklet
 2. What is the difference between mass and weight?
 3. Calculate the __weight__ of a $1.5kg$ mass on Earth.
 4. After $10s$ a runner has accelerated from __rest__ to $3m/s$
+
+---
+
+## L16: Homework Booklet Q19
+
+- To answer this question, carefully read the question and the things that you should include in your answer.
+- A good way to structure it would be for each point:
+    - Draw a force diagram
+    - Explain the forces (net force, balanced, unbalanced, horizontal, vertical)
+    - Explain the acceleration of the rocket due to the forces, and thus its speed
+    - Explain what is causing friction, and the relative size of those friction forces
+
+---
+
+## Homework Booklet Q20
+
+- Right is constant velocity, left is moving to the left but slowing down.
+- For each bird:
+    - Describe the net force (balanced, unbalanced, direction)
+    - Relate this to the acceleration of the bird and therefore the velocity
