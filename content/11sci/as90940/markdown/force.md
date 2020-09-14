@@ -192,6 +192,7 @@ Complete the questions on the last page of the worksheet from last period!
 
 1. Describe the relationship between mass and acceleration of an object which is acted upon by a given unbalanced force (called __net force__).
 2. Use the relationship $F = ma$ to calculate the net force, mass or acceleration of an object.
+3. Understand forces acting during terminal velocity
 
 ---
 
@@ -231,4 +232,13 @@ Complete the questions on the last page of the worksheet from last period!
 
 ## Task
 
-Question 18 and then Question 17 from the homework bookler
+Question 18 and then Question 17 from the homework booklet
+
+---
+
+## Starter
+
+1. Do you recall $v=\frac{d}{t}$? calculate the velocity of a cyclist that travels $100m$ in $15s$.
+2. What is the difference between mass and weight?
+3. Calculate the __weight__ of a $1.5kg$ mass on Earth.
+4. After $10s$ a runner has accelerated from __rest__ to $3m/s$
