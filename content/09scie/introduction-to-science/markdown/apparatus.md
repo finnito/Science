@@ -1,6 +1,6 @@
 ---
 title: Apparatus
-subtitle: 9SCIE - Introduction to Science
+subtitle: 9SCIE - Introduction to Pūtaiao
 author: Finn LeSueur
 date: 2020
 theme: finn
@@ -17,7 +17,7 @@ header-includes:
 
 ## Learning Outcomes
 
-- Describe, locate and draw the main pieces of equipment used in Science lessons.
+- Describe, locate and draw the main pieces of equipment used in Pūtaiao lessons.
 
 ---
 
@@ -35,7 +35,7 @@ We will go over the answers soon!
 
 ## Drawing Diagrams
 
-In Science we prefer to use _diagrams_ instead of _drawings_ as they are much simpler and easier to understand.
+In Pūtaiao we prefer to use _diagrams_ instead of _drawings_ as they are much simpler and easier to understand.
 
 The images on the previous slide are drawings. We will simplify these into 1-dimensional drawings!
 

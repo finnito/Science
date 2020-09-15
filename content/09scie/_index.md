@@ -1,6 +1,6 @@
 ---
-title: 9 Science
-subtitle: Welcome to 9 Science
+title: 9 Pūtaiao
+subtitle: Welcome to 9 Pūtaiao
 date: 2020-01-07
 menu: "main"
 linkTitle: "9SCIE"
@@ -21,9 +21,9 @@ weight: 2
 
 |         | Term 1         |                         | Term 2         |                  | Term 3     |           | Term 4      |                  |
 |:--------|:---------------|:------------------------|:---------------|:-----------------|:-----------|:----------|:------------|:-----------------|
-| Week 1  | __Jan 27th__   | Introduction to Science | __Apr 13th__   | Reactions Matter | __Jul 20__ | Plants    | __Oct 12__  | Radiation        |
-| Week 2  | __Feb 3rd__    | Introduction to Science | __April 20th__ | Reactions Matter | __Jul 27__ | Plants    | __Oct 19__  | Radiation        |
-| Week 3  | __Feb 10th__   | Introduction to Science | __April 27th__ | Reactions Matter | __Aug 3__  | Plants    | __Oct 26__  | Radiation        |
+| Week 1  | __Jan 27th__   | Introduction to Pūtaiao | __Apr 13th__   | Reactions Matter | __Jul 20__ | Plants    | __Oct 12__  | Radiation        |
+| Week 2  | __Feb 3rd__    | Introduction to Pūtaiao | __April 20th__ | Reactions Matter | __Jul 27__ | Plants    | __Oct 19__  | Radiation        |
+| Week 3  | __Feb 10th__   | Introduction to Pūtaiao | __April 27th__ | Reactions Matter | __Aug 3__  | Plants    | __Oct 26__  | Radiation        |
 | Week 4  | __Feb 17th__   | Reactions Matter        | __May 4th__    | Reactions Matter | __Aug 10__ | Space     | __Nov 2__   | Revision         |
 | Week 5  | __Feb 24th__   | Reactions Matter        | __May 11th__   | Energy for Life  | __Aug 17__ | Space     | __Nov 9__   | Junior Exams     |
 | Week 6  | __March 2nd__  | Reactions Matter        | __May 18th__   | Energy for Life  | __Aug 24__ | Space     | __Nov 16__  | Teacher's Choice |

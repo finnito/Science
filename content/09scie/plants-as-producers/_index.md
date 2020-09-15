@@ -82,7 +82,7 @@ menu:
     - Issue revision materials
         1. Start by working on the questions in the Revision Google Doc
         2. I have extended the Quizlet flashcards with further questions
-        3. Use the revision notes/Science with LSF website if you missed anything
+        3. Use the revision notes/Pūtaiao with LSF website if you missed anything
         4. Practice your spelling!
         5. Watch the videos at home and the Kingdom of Plants documentary with your family one evening
         6. Complete the Education Perfect revision task (~1hr)

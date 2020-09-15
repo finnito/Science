@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-There are five topics in Science 102
+There are five topics in Pūtaiao 102
 
 1. Genetics (ext.) – finished in Term 1
 2. Microbes (int.) – finished yesterday

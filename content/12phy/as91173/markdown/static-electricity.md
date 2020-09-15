@@ -19,7 +19,7 @@ header-includes:
 
 # Mahi Tuatahi
 
-Take 5 minutes and brainstorm in your book all the things that you can remember off the top of your head about electricity from Year 10 Science.
+Take 5 minutes and brainstorm in your book all the things that you can remember off the top of your head about electricity from Year 10 Pūtaiao.
 ---
 
 # Static Electricity
@@ -66,7 +66,7 @@ Electrons are extremely light and move very fast. Therefore they can sometimes e
 
 ### Question 1
 
-What did we do in Year 10 Science to remove charges from one object and put them onto another?
+What did we do in Year 10 Pūtaiao to remove charges from one object and put them onto another?
 
 ---
 

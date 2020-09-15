@@ -93,7 +93,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 	- Fill in notes on gas tests in the research document if time.
 15. Practice Test
 	- Issue booklet for practice assessment
-    - https://science.lesueur.nz/11sci/as90947/slides/assessment-tips.html
+    - https://pūtaiao.lesueur.nz/11sci/as90947/slides/assessment-tips.html
 	- Go through how the assessment will work
 	- Make predictions & complete word/symbol equations before starting whakamātau work
     - https://www.riskassess.co.nz/risk_assessment/8368055

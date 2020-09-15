@@ -22,7 +22,7 @@ katex: true
 
 ## Tutorials
 
-Wednesday lunchtime in Science breakout space upstairs, every week until you go on exam leave! Bring something you are unsure about and get help!
+Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go on exam leave! Bring something you are unsure about and get help!
 
 ## Learning Outcomes
 

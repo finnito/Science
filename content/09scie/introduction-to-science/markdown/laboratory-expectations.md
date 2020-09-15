@@ -1,6 +1,6 @@
 ---
 title: Laboratory Expectations
-subtitle: 9SCIE - Introduction to Science
+subtitle: 9SCIE - Introduction to Pūtaiao
 author: Finn LeSueur
 date: 2020
 theme: finn

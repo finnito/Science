@@ -24,7 +24,7 @@ header-includes:
 
 ## The Rate of Reaction
 
-Understanding the rate of reaction is very important in Science we need to be able to control it when performing reactions on an industrial scale.
+Understanding the rate of reaction is very important in Pūtaiao we need to be able to control it when performing reactions on an industrial scale.
 
 It can be defined as the rate at which __products are produced__ OR __reactants are used up__.
 
