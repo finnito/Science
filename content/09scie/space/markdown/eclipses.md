@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Brainstorm on the board what you know about eclipses! Diagrams, dates, what objects are involved in the solar system? Where do they occur? etc.
 

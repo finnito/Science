@@ -22,7 +22,7 @@ header-includes:
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 1. What are some key observations that would indicate incomplete combustion?
 2. What are some key observations that would indicate complete combustion?

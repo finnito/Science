@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{wrapfig}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. Name a machine that transforms gravitational potential energy to electrical energy
 2. What is the chemical element, __K__, and what food is a good source of it? 
@@ -143,11 +143,11 @@ Think about the nutrients in bread and how how long can you hold a piece of brea
 
 __Task__: Match these up
 
-|Digestive Enzyme|What it does|
-|-----|------|
-|Carbohydrase|Breaks fat into glycerol and fatty acids|
-|Lipase|Breaks protein into amino acids|
-|Protease|Breaks carbohydrate into sugar molecules|
+| Digestive Enzyme | What it does                             |
+|:-----------------|:-----------------------------------------|
+| Carbohydrase     | Breaks fat into glycerol and fatty acids |
+| Lipase           | Breaks protein into amino acids          |
+| Protease         | Breaks carbohydrate into sugar molecules |
 
 ---
 

@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. Collect the two sheets from the front of the class and glue them into your book.
 2. Quietly read through the two sheets once you have done that.

@@ -16,7 +16,7 @@ header-includes:
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Ethan and Kelley are playing on a merry-go-round spinning clockwise. Ethan is sitting 3m from the center and has a speed of $1.5ms^{1}$.
 
@@ -204,7 +204,7 @@ Step 2: Impulse
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Lena is swinging a bucket of water in a circle around her head to demonstrate circular motion. The length of the rope is 0.75m and it takes 0.84s to go around.
 
@@ -214,7 +214,7 @@ Lena is swinging a bucket of water in a circle around her head to demonstrate ci
 
 ---
 
-## Starter: Answers
+## Mahi Tuatahi: Answers
 
 1. Explain why the bucket is always accelerating. __(A)__
 

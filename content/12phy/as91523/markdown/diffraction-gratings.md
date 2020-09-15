@@ -17,13 +17,13 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 ![](../assets/tb4b4.png)
 
 ---
 
-## Starter Answers
+## Mahi Tuatahi Answers
 
 1. $6\times^{14}Hz$
 2. $s^{-1}$

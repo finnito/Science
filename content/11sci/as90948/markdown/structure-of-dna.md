@@ -22,13 +22,13 @@ header-includes:
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 [Kahoot: https://create.kahoot.it/details/dna-chromosomes-and-genes/b4becff7-cec8-4f8f-be51-4d3546001f66](https://create.kahoot.it/details/dna-chromosomes-and-genes/b4becff7-cec8-4f8f-be51-4d3546001f66)
 
 ---
 
-## Starter 2
+## Mahi Tuatahi 2
 
 1. List the names of the four bases that make up the backbone of DNA
 2. Which bases pair with each other?

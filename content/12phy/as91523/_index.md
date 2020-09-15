@@ -62,7 +62,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
     - Quizziz: https://quizizz.com/admin/quiz/start_new/56fc7c19905a99040f5f2ef7
 2. #### Hand back Test
     - Hand back previous unit (Electromag) test & revision
-    - Starter: Quizlet flashcards & Quizlet Live: https://quizlet.com/83814791/waves-flash-cards/
+    - Mahi Tuatahi: Quizlet flashcards & Quizlet Live: https://quizlet.com/83814791/waves-flash-cards/
     - Waves Revision Questions #1 Q1
 3. #### Intro Continued 1
     - Notes with example calculations on using $T = \frac{1}{f}$ and $v=f\lambda$.
@@ -76,7 +76,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
     - Notes describing the doppler effect & its cause
     - Notes explaining the equations that may be used
 6. #### Intro Doppler Equation
-    - Starter in notes
+    - Mahi Tuatahi in notes
     - Introduce $f'=f\frac{v_{w}}{v_{w} \pm v_{s}}$
     - Examples and videos in notes
     - Textbook exercise
@@ -90,7 +90,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
     - Assign homework
     - Textbook if time
 10. #### Beats Whakamātau
-    - Starter in the slides
+    - Mahi Tuatahi in the slides
         - Hand out textbook chapter while they're working
         - Write list of missing homework up while they're working
     - [Whakamātau: confirming $f_{b} = | f' - f |$](https://docs.google.com/document/d/1vD8-3cC0KFPNR-J4pMgjBO_x_TgE07JR07LddT2QzfE/edit#)

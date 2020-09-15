@@ -25,7 +25,7 @@ header-includes:
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 1. Draw a vertical line in the center of your page and label it from top to bottom with: 5 billion years ago, 4 billion, 3 billion, 2 billion, 1 billion and now.
 2. Label one side __Scientists Estimation__ and the other __My Estimation__.

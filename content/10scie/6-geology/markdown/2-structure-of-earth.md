@@ -21,7 +21,7 @@ header-includes:
 
 ---
 
-## Starter (20min)
+## Mahi Tuatahi (20min)
 
 Using a device, research one method that scientists use to measure the age of Earth, and what evidence they have used. Work in pairs and be ready to tell the class about your findings!
 

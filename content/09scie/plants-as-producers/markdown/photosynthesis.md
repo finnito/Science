@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Choose two seeds below. In your book, __Describe at least two adaptations that help it be dispersed and explain why dispersal is important.__
 

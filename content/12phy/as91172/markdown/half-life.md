@@ -23,7 +23,7 @@ header-includes:
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. A Carbon-14 nucleus emits a beta particle, then the daughter nucleus also emits a beta particle immediately after. Write down a single nuclear equation for these reactions.
 2. An Uranium-241 nucleus emits an alpha particle AND a beta particle. Write down the equation.

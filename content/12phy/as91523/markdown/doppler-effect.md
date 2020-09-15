@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Bodgan is observing a star through a telescope, and it appears to be orange. He looks up the wavelength of orange light and finds it to be around $600nm$.
 
@@ -83,7 +83,7 @@ Police can use radar guns to measure the amount of compression or expansion of t
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. Convert $1000m$ into $Mm$
 2. Convert $1000m$ into $mm$
@@ -139,7 +139,7 @@ A doctor at the hospital hears an ambulance leave the hospital at $30km/h$ and r
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Cameron is watching a plane by the airport. Its engines emit sound at $2000Hz$; the speed of sound in air is $330ms^{-1}$.
 

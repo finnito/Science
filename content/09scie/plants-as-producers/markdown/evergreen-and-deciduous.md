@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Respiration and photosynthesis can be thought of as opposites to each other.
 

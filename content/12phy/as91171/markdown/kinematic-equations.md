@@ -14,7 +14,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Try and solve this problem:
 

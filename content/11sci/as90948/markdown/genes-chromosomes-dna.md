@@ -81,7 +81,7 @@ Each gene has two __alleles__, one __allele__ comes from each parent. E.g. brown
 
 ---
 
-### Starter: Review!
+### Mahi Tuatahi: Review!
 
 Discuss with the people around you and create a diagram relating cells, nuclei, DNA, chromosomes, DNA and alleles to each other. Try and do it without using your notes (but look if you need to!).
 

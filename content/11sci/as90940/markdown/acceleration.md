@@ -12,7 +12,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-## Starter: Kahoot!
+## Mahi Tuatahi: Kahoot!
 
 Use your phones or laptops. Join as fast as you can!
 

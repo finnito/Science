@@ -144,7 +144,7 @@ Because Josh is walking __away__, the frequency should be lower, so $90Hz$.
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Josh is back holding his device. It is now emitting a frequency of $125Hz$, and Zak is running past him. He hears a beat frequency of $5.5Hz$.
 

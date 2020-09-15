@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Open your book to your __table of ions__. In groups (below), use your devices to find out the names of the __ions__ of your column, and write the names on the board.
 

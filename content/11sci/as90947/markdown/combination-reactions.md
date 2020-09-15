@@ -17,7 +17,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. Write down the __general reaction__ for a displacement reaction
 2. What might you observe if a displacement reaction has occurred?

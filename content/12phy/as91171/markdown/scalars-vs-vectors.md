@@ -14,7 +14,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Mr LeSueur is cycling at a speed of $4ms^{-1}$ and starts to accelerate. If he accelerates at $3ms^{-2}$, how long will it take for him to reach a speed of $12ms^{-1}$?
 
@@ -94,7 +94,7 @@ A car is driven 3 km east for 200 seconds,  then 4 km south for 250 seconds, the
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. A bird flies $3km$ to the est and then $4km$ to the south. Find the resultant __displacement__ of the bird.
 2. The bird takes $35min$ to complete the flight. Calculate its average __speed__ and __velocity__ in meters per second.

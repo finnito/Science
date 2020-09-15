@@ -11,7 +11,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Starter (2016 Exam)
+# Mahi Tuatahi (2016 Exam)
 
 Rhiana is riding a horse along New Brighton Beach. __Each__ of the horse's hooves have a surface area of $0.0044m^{2}$ which sink into the sand when the horse stops. The horse exerts a pressure of $200155Pa$.
 

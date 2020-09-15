@@ -32,7 +32,7 @@ menu:
 
 __Kaupapa:__ _Perform some basic combustion whakamātaus and get introduced to Fire & Fuels._
 
-__Starter:__
+__Mahi Tuatahi:__
 
 Video: [Firefighters put jet fuel on a fire](https://www.youtube.com/watch?v=UxC2OOSEPyQ)
 
@@ -54,7 +54,7 @@ __Whakamātau:__ Workbook: Burning Things (pg. 2)
 
 __Kaupapa:__ _What is the purpose of a wick?_
 
-__Starter:__ Walking water demonstration
+__Mahi Tuatahi:__ Walking water demonstration
 
 __Notes:__ [Why Have a Wick](slides/2-why-have-a-wick/) [(PDF)](pdfs/2-why-have-a-wick.pdf)
 

@@ -16,7 +16,7 @@ header-includes:
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 ---
 
@@ -260,7 +260,7 @@ and reduces the amount of energy stored by a lot.
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 1. Give the equations for kinetic, gravitational potential and elastic potential energy.
 2. Give the name and formula for the law that you can use to relate __force, spring constant and displacement__.
@@ -269,7 +269,7 @@ and reduces the amount of energy stored by a lot.
 
 ---
 
-## Starter: Answers (1 & 2)
+## Mahi Tuatahi: Answers (1 & 2)
 
 1. Give the equations for kinetic, gravitational potential and elastic potential energy.
 
@@ -287,7 +287,7 @@ and reduces the amount of energy stored by a lot.
 
 ---
 
-## Starter: Answers (3)
+## Mahi Tuatahi: Answers (3)
 
 Step 1: Weight per Spring
 \begin{align*}
@@ -305,7 +305,7 @@ Step 2: Displacement
 
 ---
 
-# Starter: Answers (4)
+# Mahi Tuatahi: Answers (4)
 
 \begin{align*}
     & E_{p} = \frac{1}{2}kx^{2} \\\\

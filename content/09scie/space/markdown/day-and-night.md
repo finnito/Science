@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-__Starter__: Using the whiteboards, brainstorm what you know about how day/night and the seasons work!
+__Mahi Tuatahi__: Using the whiteboards, brainstorm what you know about how day/night and the seasons work!
 
 ---
 

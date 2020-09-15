@@ -12,7 +12,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Starter
+# Mahi Tuatahi
 
 A circuit has current $1.2A$ and voltage of 12V and has a single bulb.
 

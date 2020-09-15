@@ -13,7 +13,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. What is a magnetic field?
 2. What is the symbol and unit for magnetic field?
@@ -73,33 +73,33 @@ What direction is the force acting upon the four sides of this loop? What does t
 
 ---
 
-## Starter 1
+## Mahi Tuatahi 1
 
 What direction is the magnetic force in these examples?
 
-![](../assets/10-starter-1.png)
+![](../assets/10-mahi tuatahi-1.png)
 
 ---
 
-## Starter 2
+## Mahi Tuatahi 2
 
-![](../assets/10-starter-2.png)
-
----
-
-## Starter 3
-
-![](../assets/10-starter-3.png)
+![](../assets/10-mahi tuatahi-2.png)
 
 ---
 
-## Starter 4
+## Mahi Tuatahi 3
 
-![](../assets/10-starter-4.png)
+![](../assets/10-mahi tuatahi-3.png)
 
 ---
 
-### Starter Answers
+## Mahi Tuatahi 4
+
+![](../assets/10-mahi tuatahi-4.png)
+
+---
+
+### Mahi Tuatahi Answers
 
 Up, down, into the board, out of the board
 

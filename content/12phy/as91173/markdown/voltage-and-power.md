@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Starter
+# Mahi Tuatahi
 
 1. Draw a series circuit with 6V power supply, a bulb and a resistor. Indicate the positive and negative terminals on the power supply, and indicate the direction of conventional current and the actual movement of electrons.
 2. What is the definition of current?

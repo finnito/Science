@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. Glue the diagram of the Big Bang into your book (across two pages, or fold it in half)
 2. Open "The Scale of the Universe" on Google Classroom and explore

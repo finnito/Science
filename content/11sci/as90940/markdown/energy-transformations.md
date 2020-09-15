@@ -11,7 +11,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Read page 55 and 56 of your sciPAD to remind yourself of some types of energy and how it is transformed between different types.
 

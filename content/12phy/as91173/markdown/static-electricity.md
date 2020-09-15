@@ -17,7 +17,7 @@ header-includes:
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Take 5 minutes and brainstorm in your book all the things that you can remember off the top of your head about electricity from Year 10 Science.
 ---

@@ -155,7 +155,7 @@ When waves intersect each other, they __interfere__. This is where the amplitude
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Mathieu is surfing at Taylors Mistake and decides to count the waves. He notices that 3 waves pass him 60s.
 

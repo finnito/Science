@@ -16,7 +16,7 @@ header-includes:
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 \begin{equation}
     F=ma
@@ -187,9 +187,9 @@ __Question__: Assuming the mass of the Earth is $5.972\times 10^{24} kg$ at a di
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
-![](../assets/torque-starter.png){ width=50% }
+![](../assets/torque-mahi tuatahi.png){ width=50% }
 
 1. Calculate the clockwise torque
 2. Calculate the anticlockwise torque

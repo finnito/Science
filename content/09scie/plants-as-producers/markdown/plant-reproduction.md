@@ -22,7 +22,7 @@ header-includes:
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. What are some organelles that only __plant__ cells have?
 2. What are some organelles that both __plant__ and __animal__ cells have?

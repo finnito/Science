@@ -55,7 +55,7 @@ menu:
 4. #### Day, Night, Seasons
     - __LO__: Describe how day and night are caused by rotation
     - __LO__: Identify prominent features on the Earth and Moon
-    - __Starter:__ Brainstorm about days, nights, seasons!
+    - __Mahi Tuatahi:__ Brainstorm about days, nights, seasons!
     - Notes on days and nights
     - Diagram of day/night
     - Interactive: https://theskylive.com/3dsolarsystem

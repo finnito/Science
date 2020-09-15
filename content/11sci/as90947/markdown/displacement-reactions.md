@@ -23,7 +23,7 @@ header-includes:
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. Write down the __general reaction__ for a precipitation reaction
 2. What is a precipitate?

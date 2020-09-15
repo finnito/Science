@@ -128,7 +128,7 @@ The food producers of the cell - they are where photosynthesis occurs to gain en
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. Use the diagrams around the room to __collect any unfinished notes__ and __label your plant and animal cell diagrams__ (use pencil!)
 

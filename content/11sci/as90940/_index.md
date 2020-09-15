@@ -99,7 +99,7 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 	- Practice question on distance-time graphs
 	- Assign homework
 4. #### Speed-Time Graphs
-	- Kahoot Starter: https://create.kahoot.it/details/distance-time-graphs/a71fa913-eb15-4a59-9074-01fc3c4e6bc5
+	- Kahoot Mahi Tuatahi: https://create.kahoot.it/details/distance-time-graphs/a71fa913-eb15-4a59-9074-01fc3c4e6bc5
 	- Distance-time graph warmup question
 	- Notes on speed-time graphs
 	- Practice question
@@ -112,7 +112,7 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 	- Do answers on the board as a group
 	- Issue homework
 13. #### Types of Forces
-	- Starter: finish worksheet from previous class
+	- Mahi Tuatahi: finish worksheet from previous class
 	- Make notes on types of forces
 	- sciPAD page 34 and 36
 	- Self-mark the sciPAD using the QR code
@@ -120,7 +120,7 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 	- Learning Outcomes:
 		1. Describe the relationship between mass and acceleration of an object which is acted upon by a given unbalanced force (called __net force__).
 		2. Use the relationship $F = ma$ to calculate the net force, mass or acceleration of an object.
-	- Video starter
+	- Video mahi tuatahi
 	- Notes on net force
 	- Video: Felix Baumgartner jump from space
 	- Notes on terminal velocity

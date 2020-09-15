@@ -13,7 +13,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Brainstorm situations where force is involved, things that cause force and how it can be used in a __Physics__ context on the board!
 
@@ -143,7 +143,7 @@ Sitting on your chair, are the forces acting on you balanced or unbalanced? How 
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Complete the questions on the last page of the worksheet from last period!
 
@@ -236,7 +236,7 @@ Question 18 and then Question 17 from the homework booklet
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. Do you recall $v=\frac{d}{t}$? calculate the velocity of a cyclist that travels $100m$ in $15s$.
 2. What is the difference between mass and weight?

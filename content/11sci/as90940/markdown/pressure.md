@@ -11,7 +11,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Calculate the __net__ force acting upon these objects:
 
@@ -96,7 +96,7 @@ Pressure is defined as: _the amount of force per unit area_.
 
 ---
 
-## Starter (2018 Exam)
+## Mahi Tuatahi (2018 Exam)
 
 Jacob bikes down The Flying Nun. He and his bike have a mass of $82kg$ and he accelerates at $0.8ms^{-2}$.
 

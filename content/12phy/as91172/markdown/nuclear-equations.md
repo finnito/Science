@@ -26,7 +26,7 @@ Be able to write equations for these nuclear reactions:
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 In alpha emission, the decaying atom loses 2 protons and 2 neutrons.
 

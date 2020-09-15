@@ -44,7 +44,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 2. Periodic Table & Electrons
      - Worksheet
 3. Ionic Compounds
-     - Starter: Form into table groups and find out the name of each ion in a column and compile them on the board (project the table)
+     - Mahi Tuatahi: Form into table groups and find out the name of each ion in a column and compile them on the board (project the table)
      - Copy other groups names onto your own table
      - Notes on atoms vs ions using diagrams and electron shell configurations
      - Notes on creating ionic compounds
@@ -58,31 +58,31 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
     - Talk about electron exchange
     - Notes on writing equations
 6. Precipitation Reactions
-    - Starter: writing word equation
+    - Mahi Tuatahi: writing word equation
     - Notes on precipitation reactions
     - Practice example forming lead iodide
 7. Ionic Compounds
     - Need to do more practice with ionic compounds.
-    - Starter: write a word and symbol equation for a precipitation reaction
+    - Mahi Tuatahi: write a word and symbol equation for a precipitation reaction
     - Do CAR's 'knobs and holes' card match activity
     - Do ionic compound Battleships
 8. Precipitation Reactions
-    - Starter: Describe a precipitation reaction (equation, observations, and a word equation)
+    - Mahi Tuatahi: Describe a precipitation reaction (equation, observations, and a word equation)
     - Whakamātau: Precipitation Challenge
 9. Displacement Reactions
-    - Starter: Recap precipitation reactions
+    - Mahi Tuatahi: Recap precipitation reactions
     - Notes and examples on displacement reactions
 10. Combination Reactions
-    - Starter: Displacement reactions question
+    - Mahi Tuatahi: Displacement reactions question
     - Notes and examples on combination reactions
     - Education Perfect task on reactions?
 11. Displacement Whakamātau
 12. Decomposition Reactions
-    - Starter reviewing previous reaction types
+    - Mahi Tuatahi reviewing previous reaction types
     - Notes & video on decomposition reactions
     - Issue research assignment, explain it and give them the period to work on it
 13. Decomposition Reactions Whakamātau
-    - Do the starter from the notes which wasn't done in 13.
+    - Do the mahi tuatahi from the notes which wasn't done in 13.
     - https://www.riskassess.co.nz/risk_assessment/8323191
     - Whakamātau: https://docs.google.com/document/d/1unjjfmfy7Xv74AHvVPbJpdXAqNialWporSM26jtDcXA/edit
 14. Gas Tests

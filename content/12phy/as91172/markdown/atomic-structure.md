@@ -22,7 +22,7 @@ header-includes:
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. Define the following: __atomic number__, __mass number__, __nucleons__, __isotopes__.
 2. Use a periodic table to find out the number of protons, electrons and neutrons in an __aluminium atom__.

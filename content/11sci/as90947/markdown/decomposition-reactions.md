@@ -17,7 +17,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. Give the _general equation_ for:
     - A precipitation reaction

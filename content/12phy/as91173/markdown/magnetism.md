@@ -13,7 +13,7 @@ header-includes:
 katex: true
 ---
 
-## Starter 1
+## Mahi Tuatahi 1
 
 If an object has a charge of $0.03C$, how many electrons has it lost?
 
@@ -21,7 +21,7 @@ __Hint:__ Charge of one electron $=-1.6\times10^{-19}C$
 
 ---
 
-## Starter 1 Answer
+## Mahi Tuatahi 1 Answer
 
 \begin{align*}
     & n = \frac{0.03}{1.6\times10^{-19}} \\\\\\\\
@@ -30,7 +30,7 @@ __Hint:__ Charge of one electron $=-1.6\times10^{-19}C$
 
 ---
 
-## Starter 2
+## Mahi Tuatahi 2
 
 There is $80mA$ of current flowing through a $2k\Omega$ resistor.
 
@@ -39,7 +39,7 @@ There is $80mA$ of current flowing through a $2k\Omega$ resistor.
 
 ---
 
-## Starter 2 Answer
+## Mahi Tuatahi 2 Answer
 
 \begin{align*}
     & I = \frac{q}{t} \\\\
@@ -148,7 +148,7 @@ _If you use your left hand, the particle is negatively charged_
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 A charged object ($q=1.6\times10^{-19}C$) moves across a magnetic field with a speed of $4.0\times10^{3}ms^{-1}$. The magnetic field strength is $12T$.
 

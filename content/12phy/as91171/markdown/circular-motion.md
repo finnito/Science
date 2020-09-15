@@ -16,7 +16,7 @@ header-includes:
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Aaron is painting the outside of his house. He is standing on a 3.5m long plank with a support at each end. The plank weighs 4.8kg. He is standing 0.8m from the left side and he weighs 63kg.
 
@@ -120,7 +120,7 @@ Calculate the force required to keep the ball moving in a circle.
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 <img src="assets/q-49.png" style="max-width: 40%;"/>
 

@@ -118,9 +118,9 @@ Calculate the 3rd harmonic for a string with length 25cm where the speed of soun
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
-![](../assets/starter.png)
+![](../assets/mahi tuatahi.png)
 
 ---
 
@@ -163,7 +163,7 @@ Calculate the 3rd harmonic for a string with length 25cm where the speed of soun
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 Quizziz: https://quizizz.com/admin/quiz/5a7d8747b69214001faec0e9/standing-waves
 

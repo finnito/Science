@@ -12,7 +12,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Play with the simulation linked in Google Classroom and __brainstorm situations where static electricity is dangerous and how to minimise the danger.__
 

@@ -83,7 +83,7 @@ just use the potential energy calculation because they are just different expres
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 A rocket is launched with an acceleration of $90ms^{-2}$. It has a mass of $5kg$ and it accelerates until it reaches a height of 2000m. How much work is the rocket thruster doing?
 

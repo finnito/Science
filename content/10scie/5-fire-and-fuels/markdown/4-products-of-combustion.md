@@ -21,7 +21,7 @@ header-includes:
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Research and describe the three sides of the fire triangle for a lighter.
 

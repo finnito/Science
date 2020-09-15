@@ -17,7 +17,7 @@ header-includes:
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 1. If a balloon has charge of $-3C$: did the balloon lose or gain electrons, and how many?
 2. If Charlotte has charge of $0.2C$ did she lose or gain electrons and how many?
@@ -26,7 +26,7 @@ header-includes:
 
 ---
 
-## Starter: Answer
+## Mahi Tuatahi: Answer
 
 1. If a balloon has charge of $-3C$: did the balloon lose or gain electrons, and how many?
 
@@ -133,7 +133,7 @@ Electric Field:
 
 \newpage
 
-# Starter
+# Mahi Tuatahi
 
 An object with charge $25 \times 10^{-6}C$ is placed in an electric field with strength $3000NC^{-1}$.
 

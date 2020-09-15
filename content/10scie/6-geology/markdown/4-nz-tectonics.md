@@ -21,7 +21,7 @@ header-includes:
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Explore this website: [http://dinosaurpictures.org/ancient-earth#240](http://dinosaurpictures.org/ancient-earth#240)
 

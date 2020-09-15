@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. Write down the symbol for: __alpha particle__, __beta particle__, and __gamma radiation__ if you know.
 2. Describe what an alpha particle consists of.
@@ -132,7 +132,7 @@ What would happen to each radiation type as it enters a magnetic field (coming o
 
 ---
 
-## Starter
+## Mahi Tuatahi
 
 1. List the three types of radioactive decay and how damaging the products of each decay can be
 2. Give examples of the kind of protection that would need to have for each type of radiation

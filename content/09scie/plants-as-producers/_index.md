@@ -72,7 +72,7 @@ menu:
     - Relate its efficiency to the seasons
     - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
 11. #### Evergreen vs Deciduous
-    - Starter in notes
+    - Mahi Tuatahi in notes
     - Notes
     - Worksheet photosynthesis section
     - Education Perfect Task on photosynthesis (graph reading)

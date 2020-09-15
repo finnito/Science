@@ -13,7 +13,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Give the definition, symbol, unit and formula for the following:
 

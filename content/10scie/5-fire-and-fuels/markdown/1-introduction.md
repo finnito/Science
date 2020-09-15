@@ -23,7 +23,7 @@ header-includes:
 
 ---
 
-# Starter
+# Mahi Tuatahi
 
 Look up the temperature at which these fuels burn and place them in order from coolest to hottest.
 
