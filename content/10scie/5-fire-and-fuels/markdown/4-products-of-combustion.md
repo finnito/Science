@@ -56,11 +56,11 @@ Write down your answer with a diagram in your exercise book.
 
 ---
 
-# Practical
+# Whakamātau
 
 - Open to page 7 of your workbook: __What is produced when a candle burns?__
-- Read through the experiment carefully
+- Read through the whakamātau carefully
 - Come up to the demo bench
 - Form into groups of 3-5 and collect the required equipment
-- Conduct the experiment (20min)
+- Conduct the whakamātau (20min)
 - Clean up your station

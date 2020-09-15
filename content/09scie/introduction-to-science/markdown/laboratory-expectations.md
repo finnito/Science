@@ -43,7 +43,7 @@ You are responsible for the cleanliness and equipment at your station!
 ## The Red Boards
 
 - Always place your equipment on the red boards, they are there to protect the benches from spills.
-- __Complete all experiments on the red boards__.
+- __Complete all whakamātaus on the red boards__.
 
 ---
 
@@ -51,15 +51,15 @@ You are responsible for the cleanliness and equipment at your station!
 
 - Large rubbish items go in the black bin
 - Clean and flat paper/cardboard go in the green bins
-- Small rubbish items and materials left over from experiments go into the yoghurt containers around the room
+- Small rubbish items and materials left over from whakamātaus go into the yoghurt containers around the room
 - __No solid materials are to go down the sink__
 - __Stations nearest each sink are responsible for keeping it clean__
 
 ---
 
-## Finishing an Experiment
+## Finishing an Whakamātau
 
-After finishing an experiment it is important to make sure the equipment is __clean__ and placed __neatly__ into the tray for the next class.
+After finishing an whakamātau it is important to make sure the equipment is __clean__ and placed __neatly__ into the tray for the next class.
 
 You __must__ clean the gear you have used before placing it in the tray.
 

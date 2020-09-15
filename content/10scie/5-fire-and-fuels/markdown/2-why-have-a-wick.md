@@ -45,12 +45,12 @@ header-includes:
 
 ---
 
-## Wick Practical
+## Wick Whakamātau
 
 1. Safety
-2. Practical read through
+2. Whakamātau read through
 3. Check understanding each step
-4. Explain must do Qs 1,2,3 during practical
+4. Explain must do Qs 1,2,3 during whakamātau
 5. Timeframe (20mins)
 6. Clean up check
 
@@ -61,7 +61,7 @@ header-includes:
 1. Why didn’t the solid paraffin wax ignite?
 2. Did the liquid wax ignite? Why/ why not?
 3. How does the wick allow the wax to burn?
-      (think about last lesson’s practical)
+      (think about last lesson’s whakamātau)
 4. Why doesn’t the wick burn?
     (clue:  evaporation and sweating)
 

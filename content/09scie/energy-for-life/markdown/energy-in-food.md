@@ -74,7 +74,7 @@ It takes you approximately $147J$ to jump $0.3m$ off the ground. How many jumps 
  
  ---
  
- In fact, we can find the amount of energy in a food in the lab! We will do this experiment later in this unit.
+ In fact, we can find the amount of energy in a food in the lab! We will do this whakamātau later in this unit.
  
  Before we start, recall that it takes $1J$ to warm $1ml$ of water by 1 degree C.
  

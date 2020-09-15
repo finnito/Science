@@ -150,7 +150,7 @@ A metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8
 \end{align*}
 ---
 
-### Thought Experiment
+### Thought Whakamātau
 
 - Dragging a piece of wire through a magnetic field creates an __induced voltage__
 - If the circuit is complete it creates an __induced current__

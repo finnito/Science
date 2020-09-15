@@ -15,7 +15,7 @@ __NZQA Link:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standa
 
 
 |        | Lesson 1              | Lesson 2                 | Lesson 3                  | Lesson 4          |
-|--------|-----------------------|--------------------------|---------------------------|-------------------|
+|:-------|:----------------------|:-------------------------|:--------------------------|:------------------|
 | Week 1 |                       | Introduction             | MRS C GREN                | Education Perfect |
 | Week 2 | Intro to Adaptations  | Structural & Behavioural | Physiological             | Law of Tolerance  |
 | Week 3 | Humans in Antartctica |                          |                           |                   |
@@ -43,7 +43,7 @@ __NZQA Link:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standa
     - Watch video and make notes on adaptations
 6. Physiological Adaptations
 7. Law of Tolerance
-    - Egg denaturing practical https://www.riskassess.co.nz/risk_assessment/8044485
+    - Egg denaturing whakamātau https://www.riskassess.co.nz/risk_assessment/8044485
 8. Antarctica
     - Diving in Antarctica video (slide 24)
     - Notes on 25-34

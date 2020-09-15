@@ -155,7 +155,7 @@ No acceleration, therefore constant speed. $v_{i} = v_{f}$
 
 ---
 
-# Thought Experiment
+# Thought Whakamātau
 If the cannon ball is fired with a __greated horizontal velocity__ will it take longer to hit the ground?
 
 ---

@@ -24,13 +24,13 @@ menu:
 
 ## Unit Plan
 
-|             | L1 (Mon/Tues)                | L2 (Wed)                     | L3 (Fri)                      |
-|:------------|:-----------------------------|:-----------------------------|:------------------------------|
-| __T2 W11__  | 1. Video/Finish E4L          | 2. Plant & Animal Cells      | 3. Experiments & Microscopes  |
-| __T2 W12__  | 4. __P:__ Microscopes        | 5. Graph Reading             | 6. Plant Reproduction         |
-| __T3 W1__   | 7. Plant Reproduction        | 8. Adaptations of Seeds      | 9. __P__: Flower Dissection   |
-| __T3 W2__   | 10. Photosynthesis           | 11. Evergreen vs Deciduous   | 12. __TOD__                   |
-| __T3 W3__   | 13. [Revision](#revision-1)  | 14. [Revision](#revision-2)  | 15. __TEST__                  |
+|            | L1 (Mon/Tues)               | L2 (Wed)                    | L3 (Fri)                     |
+|:-----------|:----------------------------|:----------------------------|:-----------------------------|
+| __T2 W11__ | 1. Video/Finish E4L         | 2. Plant & Animal Cells     | 3. Whakamātaus & Microscopes |
+| __T2 W12__ | 4. __P:__ Microscopes       | 5. Graph Reading            | 6. Plant Reproduction        |
+| __T3 W1__  | 7. Plant Reproduction       | 8. Adaptations of Seeds     | 9. __P__: Flower Dissection  |
+| __T3 W2__  | 10. Photosynthesis          | 11. Evergreen vs Deciduous  | 12. __TOD__                  |
+| __T3 W3__  | 13. [Revision](#revision-1) | 14. [Revision](#revision-2) | 15. __TEST__                 |
 
 ### Lesson Plans
 
@@ -47,9 +47,9 @@ menu:
     - Quizziz: https://quizizz.com/admin/quiz/5a5f4eb1326b42000ff15aa4/cells
     - Video on microscopes
     - Use EP task to help label microscope diagram in exercise books
-    - Make notes on preparing a slide using experiment document
+    - Make notes on preparing a slide using whakamātau document
     - Read about and answer questions on the formation of cell theory
-4. #### __Practical__: Microscopes
+4. #### __Whakamātau__: Microscopes
     - FCG do this on Monday P4, KNS to do this Friday P5.
 5. #### Graph Reading
 6. #### Plant Reproduction
@@ -64,7 +64,7 @@ menu:
     - Emphasise that plants need to disperse to be able to spread out, and not compete for sunlight/nutrients
     - Spelling practice & flashcards: https://www.aaaspell.com/spelling_lists/4118311
 9. #### __P__: Flower Dissection
-    - Flower dissection practical: https://www.riskassess.co.nz/risk_assessment/8324197
+    - Flower dissection whakamātau: https://www.riskassess.co.nz/risk_assessment/8324197
     - Spelling practice: https://www.aaaspell.com/spelling_lists/4118311
 10. #### Photosynthesis
     - Equation

@@ -31,9 +31,9 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 	2. Define the term speed.
 	3. Use simple instruments such as rulers and stopwatches to measure distance and time.
 	4. Calculate the __average speed__ of objects. Use $v=d/t$.
-	5. Draw __distance/time graphs__ from data obtained in experiments.
+	5. Draw __distance/time graphs__ from data obtained in whakamātaus.
 	6. Use the slope of a distance/time graph to describe and/or calculate the speed of an object.
-	7. Draw __speed/time__ graphs from given data or data obtained in motion experiments.
+	7. Draw __speed/time__ graphs from given data or data obtained in motion whakamātaus.
 	8. Use the slop of a speed/time graph to describe and/or calculate the speed of an object.
 	9. Define __acceleration__ including its unit and symbol.
 	10. Calculate acceleration from speed and time data and speed/time graphs. Use $a = v/t$.
@@ -68,16 +68,16 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 
 ## Unit Plan
 
-|            | L1 (Mon)                                            | L2 (Wed)                                   | L3 (Thurs)                               | L4 (Fri)                              |
-|:-----------|:----------------------------------------------------|:-------------------------------------------|:-----------------------------------------|:--------------------------------------|
-| __T3 W5__  | __Senior Exams__                                    | __Senior Exams__                           | [1. Velocity](#velocity)                 | [2. Acceleration](#acceleration)      |
-| __T3 W6__  | [3. Distance-Time Graphs](#distance-time-graphs)    | [4. Speed-Time Graphs](#speed-time-graphs) | [5.]()                                   | [.6]()                                |
-| __T3 W7__  | [7.]()                                              | 8.                                         | 9. [Mid-Topic Test 1](#mid-topic-test-1) | 10. [Self Marking 1](#self-marking-1) |
-| __T3 W8__  | 11. [Mass vs Weight 1](#mass-vs-weight-1)           | 12. [Mass vs Weight 2](#mass-vs-weight-2)  | 13. [Types of Forces](#types-of-forces)  |                                       |
-| __T3 W9__  | 15. [Running Man Practical](#running-man-practical) | 16. [Newton Practical](#newton-practical)  | 17. [Forces Recap](#forces-recap)        | 18. Gravitational Energy              |
-| __T3 W10__ | 19. Gravitation and Kinetic Energy                  | 20. Kinetic Energy                         | 21. Energy Transformations               | 22. Power and Work                    |
-| __T4 W1__  | 23. Power and Work                                  | 24. Pressure                               | 25. Pressure                             | 26. Pressure                          |
-| __T4 W2__  | 27. Revision P1                                     | 28. Revision P2                            | 29. Revision P3                          | __End of Topic Test__                 |
+|            | L1 (Mon)                                              | L2 (Wed)                                    | L3 (Thurs)                               | L4 (Fri)                              |
+|:-----------|:------------------------------------------------------|:--------------------------------------------|:-----------------------------------------|:--------------------------------------|
+| __T3 W5__  | __Senior Exams__                                      | __Senior Exams__                            | [1. Velocity](#velocity)                 | [2. Acceleration](#acceleration)      |
+| __T3 W6__  | [3. Distance-Time Graphs](#distance-time-graphs)      | [4. Speed-Time Graphs](#speed-time-graphs)  | [5.]()                                   | [.6]()                                |
+| __T3 W7__  | [7.]()                                                | 8.                                          | 9. [Mid-Topic Test 1](#mid-topic-test-1) | 10. [Self Marking 1](#self-marking-1) |
+| __T3 W8__  | 11. [Mass vs Weight 1](#mass-vs-weight-1)             | 12. [Mass vs Weight 2](#mass-vs-weight-2)   | 13. [Types of Forces](#types-of-forces)  |                                       |
+| __T3 W9__  | 15. [Running Man Whakamātau](#running-man-whakamātau) | 16. [Newton Whakamātau](#newton-whakamātau) | 17. [Forces Recap](#forces-recap)        | 18. Gravitational Energy              |
+| __T3 W10__ | 19. Gravitation and Kinetic Energy                    | 20. Kinetic Energy                          | 21. Energy Transformations               | 22. Power and Work                    |
+| __T4 W1__  | 23. Power and Work                                    | 24. Pressure                                | 25. Pressure                             | 26. Pressure                          |
+| __T4 W2__  | 27. Revision P1                                       | 28. Revision P2                             | 29. Revision P3                          | __End of Topic Test__                 |
 
 ### Lesson Plans
 
@@ -125,11 +125,11 @@ Wednesday lunchtime in Science breakout space upstairs, every week until you go 
 	- Video: Felix Baumgartner jump from space
 	- Notes on terminal velocity
 	- Homework booklet Q18, Q17
-15. #### Running Man Practical
+15. #### Running Man Whakamātau
 	- https://www.riskassess.co.nz/risk_assessment/8683515
 	- https://docs.google.com/document/d/1FS_v-xPwk28aUzmyJckI0g2LJWDvJwMUTSkgDplqX9U/edit
-16. #### Newton Practical
-	- What can you do with a Newton, practical.
+16. #### Newton Whakamātau
+	- What can you do with a Newton, whakamātau.
 	- https://www.riskassess.co.nz/risk_assessment/8683487
 	- https://docs.google.com/document/d/1MAugSiWvqV5CDR6J25Ei_9C276uywrKt-cJBRz_AJpo/edit
 	- Homework Booklet Questions: 19 & 20

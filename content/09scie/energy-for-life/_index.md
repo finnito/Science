@@ -25,7 +25,7 @@ menu:
 ## Unit Plan
 
 |        | Lesson 1                    | Lesson 2                 | Lesson 3             |
-|--------|-----------------------------|--------------------------|----------------------|
+|:-------|:----------------------------|:-------------------------|:---------------------|
 | Week 1 | Forms of Energy             | Conservation of Energy   |                      |
 | Week 2 | Energy in Food              | Use of Nutrients         | __Prac:__ Toy Circus |
 | Week 3 | Active and Potential Energy | Diets                    | Digestion & Disease  |
@@ -56,7 +56,7 @@ menu:
     - Slides on the nutrients in food and their uses
     - Task trying to find the most nutritious snack in the class
 
-5. __Practical:__ Toy Circus
+5. __Whakamātau:__ Toy Circus
     - https://www.riskassess.co.nz/risk_assessment/8040185
 
 6. Describe and create a healthy diet
@@ -65,10 +65,10 @@ menu:
     - Homework: make a healthy meal for your family & document it with photos and some nutritional information
 
 7. Distinguish between active and potential forms of energy
-    - __Practical:__ Mega Bow Experiment
+    - __Whakamātau:__ Mega Bow Whakamātau
 
 8. Describe the chemical tests to identify starch, glucose, protein and lipid in food
-    - __Practical:__ Food tests
+    - __Whakamātau:__ Food tests
     - Demonstrate the tests in at the front of the class & make notes
 
 9. Describe what digestion involves and why it is necessary
@@ -86,7 +86,7 @@ menu:
 12. Describe how the energy in glucose in released through respiration
 
 13. Revision / Catch-Up
-    - __Practical:__ Energy in peanuts & cheezels experiment
+    - __Whakamātau:__ Energy in peanuts & cheezels whakamātau
 
 14. Revision
 

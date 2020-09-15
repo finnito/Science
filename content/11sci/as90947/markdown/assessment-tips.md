@@ -27,11 +27,11 @@ header-includes:
 
 ### How the Assessment Works
 
-| Day 1                 | Day 2                 | Day 3                      |
-|:----------------------|:----------------------|:---------------------------|
-| Write predictions     | Continue experiments  | Finish experiments         |
-| Write word equations  |                       | Complete write-up          |
-| Start experiments     |                       | Do excellence comparisons  |
+| Day 1                | Day 2                | Day 3                     |
+|:---------------------|:---------------------|:--------------------------|
+| Write predictions    | Continue whakamātaus | Finish whakamātaus        |
+| Write word equations |                      | Complete write-up         |
+| Start whakamātaus    |                      | Do excellence comparisons |
 
 ---
 
@@ -183,10 +183,10 @@ For 2 out of the 6 reactions:
 
 ## What Do I Need To Know?
 
-| Types of Reactions  | Gas Tests                   | Equations            | Observations                        |
-|:--------------------|:----------------------------|:---------------------|:------------------------------------|
-| Combination         | Oxygen (glowing splint)     | Word equations       | Colours                             |
-| Displacement        | Carbon dioxide (limewater)  | Ionic formula        | Gasses                              |
-| Precipitation       | Hydrogen (pop)              | Symbol equations     | Solids formed                       |
-| Decomposition       |                             | Balancing equations  | Count #/type of reactants/products  |
+| Types of Reactions | Gas Tests                  | Equations           | Observations                       |
+|:-------------------|:---------------------------|:--------------------|:-----------------------------------|
+| Combination        | Oxygen (glowing splint)    | Word equations      | Colours                            |
+| Displacement       | Carbon dioxide (limewater) | Ionic formula       | Gasses                             |
+| Precipitation      | Hydrogen (pop)             | Symbol equations    | Solids formed                      |
+| Decomposition      |                            | Balancing equations | Count #/type of reactants/products |
 

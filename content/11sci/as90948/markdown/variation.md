@@ -52,7 +52,7 @@ __Come write them on the board!__
 
 ---
 
-### Experiment: sciPAD Page 50
+### Whakamātau: sciPAD Page 50
 
 ---
 

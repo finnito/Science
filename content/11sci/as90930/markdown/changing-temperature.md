@@ -37,7 +37,7 @@ header-includes:
 
 ---
 
-## Experiment Groups
+## Whakamātau Groups
 
 ![Groups](../assets/3-groups.png)
 
@@ -47,7 +47,7 @@ header-includes:
 
 In your group:
 
-1. Title your experiment
+1. Title your whakamātau
 2. Come up with an __aim__ (what are you investigating; be specific)
 3. Come up with a __hypothesis__ (what do you predict; be specific)
 
@@ -62,8 +62,8 @@ In your group:
 
 ### Step 3: Control Variables & Reliability
 
-- __Control Variable__: Things that you are keeping __constant__. What will you not change throughout your experiment?
-- __Reliability__: An experiment is reliable if the results are within x seconds of each other when the method is repeated. The same method must give the same results each time.
+- __Control Variable__: Things that you are keeping __constant__. What will you not change throughout your whakamātau?
+- __Reliability__: An whakamātau is reliable if the results are within x seconds of each other when the method is repeated. The same method must give the same results each time.
 
 ---
 
@@ -78,22 +78,22 @@ In your group:
 ### Step 4: Continued
 
 - State your range of measurement for your independent variable, its units and how you will measure it,
-- States some control variables and how to control them during the experiment.
+- States some control variables and how to control them during the whakamātau.
 
 ---
 
 ### Step 5: Data/Results
 
-- Design a table to record your results __before__ you start the experiment,
+- Design a table to record your results __before__ you start the whakamātau,
 - You will need to think about how many trials you are going to do, how many measurements you will make and calculating an average.
 
 ---
 
-|                         | Trial 1  | Trial 2  | Trial 3  | Average  |
-|:------------------------|:---------|:---------|:---------|:---------|
-| Temp 1 ($10^{\circ}C$)  |          |          |          |          |
-| Temp 2 ($20^{\circ}C$)  |          |          |          |          |
-| Temp 3 ($30^{\circ}C$)  |          |          |          |          |
-| Temp 4 ($40^{\circ}C$)  |          |          |          |          |
+|                        | Trial 1 | Trial 2 | Trial 3 | Average |
+|:-----------------------|:--------|:--------|:--------|:--------|
+| Temp 1 ($10^{\circ}C$) |         |         |         |         |
+| Temp 2 ($20^{\circ}C$) |         |         |         |         |
+| Temp 3 ($30^{\circ}C$) |         |         |         |         |
+| Temp 4 ($40^{\circ}C$) |         |         |         |         |
 
 

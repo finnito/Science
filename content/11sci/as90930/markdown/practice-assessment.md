@@ -35,7 +35,7 @@ Group Work:
 - Aim (from the instruction sheet)
 - Hypothesis, independent, dependent and control variables
 - Method & results table
-- Conduct the experiment (day 2)
+- Conduct the whakamātau (day 2)
 
 ---
 

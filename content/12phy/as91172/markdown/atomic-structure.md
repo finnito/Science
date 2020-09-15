@@ -60,7 +60,7 @@ header-includes:
 
 ## Joseph Thomson (1856–1940)
 
-- A British physicist who discovered and experimented with cathode rays. It was found that these rays consisted of what are later called electrons by Thomson.
+- A British physicist who discovered and whakamātaued with cathode rays. It was found that these rays consisted of what are later called electrons by Thomson.
 - “An atom is a ball of positive charge with electrons dotted evenly through it like currants in a plum pudding. Overall, the atom is neutral”.
 
 ---
@@ -71,13 +71,13 @@ header-includes:
 
 ## Ernest Rutherford (1871-1937)
 
-- This New Zealand physicist attempted to prove Thomson’s model of the atom was correct and designed an experiment.
+- This New Zealand physicist attempted to prove Thomson’s model of the atom was correct and designed an whakamātau.
 
 ---
 
-### Gold Foil Experiment
+### Gold Foil Whakamātau
 
-![](../assets/2-gold-foil-experiment.png){width=90%}
+![](../assets/2-gold-foil-whakamātau.png){width=90%}
 
 ---
 
@@ -134,18 +134,18 @@ For each of these conclusions, explain how the results show this.
 
 ## James Chadwick (1891-1974)
 
-- In 1932, he performed an experiment to discover the third type of sub-atomic particle that is not deflected by an electric or magnetic field – the “neutron”.
+- In 1932, he performed an whakamātau to discover the third type of sub-atomic particle that is not deflected by an electric or magnetic field – the “neutron”.
 
 ---
 
-### Designing the Gold Foil experiment
+### Designing the Gold Foil whakamātau
 
-1. Explain why the experiment had to be carried out in a vacuum.
+1. Explain why the whakamātau had to be carried out in a vacuum.
 2. Explain why it was necessary for the gold foil to be a few atoms thick.
 
 ---
 
-1. Explain why the experiment had to be carried out in a vacuum.
+1. Explain why the whakamātau had to be carried out in a vacuum.
 
 - If the alpha particles had not been travelling through vacuum, they would have been affected by the molecules in the air. Then the results (the deviation in the particles’ paths) would not be dependent only on the atoms of the gold foil.
 

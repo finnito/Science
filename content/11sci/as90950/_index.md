@@ -42,7 +42,7 @@ __Google Meets:__ Thursday 8:45am
 
 ### Lesson 2
 
-- If possible, do the Yeast Fermentation Experiment, you can substitute balloons for plastic bags or something else capable of containing the air.
+- If possible, do the Yeast Fermentation Whakamātau, you can substitute balloons for plastic bags or something else capable of containing the air.
 
 ### Lesson 3
 

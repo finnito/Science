@@ -58,7 +58,7 @@ Guess the dates of the following on your line:
 
 ---
 
-## Practical: Toilet Paper Timeline
+## Whakamātau: Toilet Paper Timeline
 
 ---
 

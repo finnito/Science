@@ -43,7 +43,7 @@ menu:
 ### Lesson Plans
 
 1. #### What is Radiation
-    - __Practical__: Magnifying glasses
+    - __Whakamātau__: Magnifying glasses
     - https://www.riskassess.co.nz/risk_assessment/8683757
     - https://docs.google.com/document/d/1eHEYVkrcIuxCJRzjo8bzL7omQNZTgbFdLttHfDRmIdc/edit
     - __Demo__: Concave mirror, solar panel
@@ -51,7 +51,7 @@ menu:
 2. #### EM Radiation
 3. #### Visible Light
     - Colour patches
-    - __Practical__: Newton's Disc
+    - __Whakamātau__: Newton's Disc
     - https://drive.google.com/drive/u/0/folders/1GZMb1ILwVISiCNxoKqoyUYMOAplP1z-o
     - __Demo__: Prisms and Rainbows
     - https://www.riskassess.co.nz/risk_assessment/8683835
@@ -63,17 +63,17 @@ menu:
     - __Homework Assignment Given__
 6. #### Absorption, Reflection, Refraction
     - __Demo__: Heat lamp, concave mirrors, convex lenses
-    - __Practical__: Water in coloured cans
+    - __Whakamātau__: Water in coloured cans
 7. #### Recap and Catch-Up
 8. #### Reflection
     - Curved mirrors
     - __Demo__: Pig illusion
     - Ray diagrams
     - Lateral invesion
-    - __Practical__: Drawing a star
+    - __Whakamātau__: Drawing a star
 9. #### Refraction
     - __Demo__: Coin in water, prism lenses, 100ml beaker
-    - __Practical__ Light trolley & ray diagrams
+    - __Whakamātau__ Light trolley & ray diagrams
 10. #### Total Internal Reflection
     - __Demo__: Disappearing test tubes
     - __Demo__: Water stream, optic fibre, plastic rod, 1000ml beaker, diamond, prisms

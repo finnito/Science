@@ -178,7 +178,7 @@ Because Zak is running __away__, the frequency should be decreased: $f' = 119.5H
 ## Tasks
 
 1. Worksheet (glue it in)
-    - Practical
+    - Whakamātau
     - Exercise Q1
     - Exercise Q3
 2. Homework booklet Question 10

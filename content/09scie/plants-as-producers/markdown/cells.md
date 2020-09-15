@@ -172,7 +172,7 @@ __Task__: Use the Education Perfect task to help you identify the different part
 
 ### Preparing a Slide
 
-Open the microscope experiment document on Google Classroom and scroll down to __Steps to make a good slide:__.
+Open the microscope whakamātau document on Google Classroom and scroll down to __Steps to make a good slide:__.
 
 __Task__: Copy these four steps into your exercise book and then read the section __Using a microscope__.
 

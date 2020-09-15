@@ -113,6 +113,6 @@ Carbon Monoxide binds to your red blood cells more strongly than oxygen, causing
 1. What is the reason the flame has less heat in incomplete combustion?
 2. What type of energy does the energy convert into after heat (in the water)?
 3. Did all of the energy go into the water? Explain your answer.
-4. What changes would you make to this experiment to make it more reliable or valid? (think control variables)
+4. What changes would you make to this whakamātau to make it more reliable or valid? (think control variables)
 
 

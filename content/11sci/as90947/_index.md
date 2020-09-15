@@ -27,14 +27,14 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Unit Plan
 
-|         | Monday                            | Tuesday                      | Thursday                    | Friday                       |
-|:--------|:----------------------------------|:-----------------------------|:----------------------------|:-----------------------------|
-| T2 W10  | 1. Review of the Atom             | 2. P-Table & Electrons       | 3.  Compounds               | __TOD__                      |
-| T2 W11  | 4. Compounds & Electron Transfer  | 5. Writing Equations         | 6. Precipitation Reactions  | 7. Ionic Compounds           |
-| T2 W12  | 8. Precipitation Reactions        | 9. Displacement Reactions    | 10. Combination Reactions   | 11. Displacement Practical   |
-| T3 W1   | 12. Decomposition Reactions       | 13. Decomposition Practical  | 14. Gas Tests               | 15. __Practice Assessment__  |
-| T3 W2   | 16. __Practice Assessment__       | 17.  _Revision & Feedback_   | __Assessment__              | __TOD__                      |
-| T3 W3   | 18. __Assessment__                | 19. __Assessment__           | _Genetics Revision_         | _Genetics Revision_          |
+|        | Monday                           | Tuesday                      | Thursday                   | Friday                      |
+|:-------|:---------------------------------|:-----------------------------|:---------------------------|:----------------------------|
+| T2 W10 | 1. Review of the Atom            | 2. P-Table & Electrons       | 3.  Compounds              | __TOD__                     |
+| T2 W11 | 4. Compounds & Electron Transfer | 5. Writing Equations         | 6. Precipitation Reactions | 7. Ionic Compounds          |
+| T2 W12 | 8. Precipitation Reactions       | 9. Displacement Reactions    | 10. Combination Reactions  | 11. Displacement Whakamātau |
+| T3 W1  | 12. Decomposition Reactions      | 13. Decomposition Whakamātau | 14. Gas Tests              | 15. __Practice Assessment__ |
+| T3 W2  | 16. __Practice Assessment__      | 17.  _Revision & Feedback_   | __Assessment__             | __TOD__                     |
+| T3 W3  | 18. __Assessment__               | 19. __Assessment__           | _Genetics Revision_        | _Genetics Revision_         |
 
 ### Lesson Plans
 
@@ -68,7 +68,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
     - Do ionic compound Battleships
 8. Precipitation Reactions
     - Starter: Describe a precipitation reaction (equation, observations, and a word equation)
-    - Practical: Precipitation Challenge
+    - Whakamātau: Precipitation Challenge
 9. Displacement Reactions
     - Starter: Recap precipitation reactions
     - Notes and examples on displacement reactions
@@ -76,26 +76,26 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
     - Starter: Displacement reactions question
     - Notes and examples on combination reactions
     - Education Perfect task on reactions?
-11. Displacement Practical
+11. Displacement Whakamātau
 12. Decomposition Reactions
     - Starter reviewing previous reaction types
     - Notes & video on decomposition reactions
     - Issue research assignment, explain it and give them the period to work on it
-13. Decomposition Reactions Practical
+13. Decomposition Reactions Whakamātau
     - Do the starter from the notes which wasn't done in 13.
     - https://www.riskassess.co.nz/risk_assessment/8323191
-    - Practical: https://docs.google.com/document/d/1unjjfmfy7Xv74AHvVPbJpdXAqNialWporSM26jtDcXA/edit
+    - Whakamātau: https://docs.google.com/document/d/1unjjfmfy7Xv74AHvVPbJpdXAqNialWporSM26jtDcXA/edit
 14. Gas Tests
-    - Instruct students to make notes in their books as they go through each experiment
-    - Notes should include success criteria and a diagram for how to set up the experiment
-	- Gas tests experiments
+    - Instruct students to make notes in their books as they go through each whakamātau
+    - Notes should include success criteria and a diagram for how to set up the whakamātau
+	- Gas tests whakamātaus
 	    - https://www.riskassess.co.nz/risk_assessment/8323197
 	- Fill in notes on gas tests in the research document if time.
 15. Practice Test
 	- Issue booklet for practice assessment
     - https://science.lesueur.nz/11sci/as90947/slides/assessment-tips.html
 	- Go through how the assessment will work
-	- Make predictions & complete word/symbol equations before starting practical work
+	- Make predictions & complete word/symbol equations before starting whakamātau work
     - https://www.riskassess.co.nz/risk_assessment/8368055
 16. Continue Practice Test
 17. Feedback/Compare & Contrast

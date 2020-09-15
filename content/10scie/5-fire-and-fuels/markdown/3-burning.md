@@ -58,11 +58,11 @@ If all three sides of the triangle are present, a fire could start. By removing 
 
 ---
 
-# Fire-Proof Paper Practical
+# Fire-Proof Paper Whakamātau
 
 How can you set paper on fire without destroying it?
 
-__Aim:__ Design a simple experiment to show how fuels burn.
+__Aim:__ Design a simple whakamātau to show how fuels burn.
 
 ---
 
@@ -81,7 +81,7 @@ __Materials__
 - Students write down
 - 5mins to review methods
 - Select best method
-- Students run experiment   METHS INVISIBLE
+- Students run whakamātau   METHS INVISIBLE
 - Dip paper in 1:1 meths:water mix
 - Use beakers and sink
 - Light paper, let burn out

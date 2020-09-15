@@ -45,6 +45,6 @@ To increase the surface area of calcium carbonate we can use smaller chips and e
 
 ---
 
-## Experiment Groups
+## Whakamātau Groups
 
 ![Groups](../assets/3-groups.png)

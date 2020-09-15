@@ -30,7 +30,7 @@ menu:
 
 ### 1. Unit Introduction
 
-__Kaupapa:__ _Perform some basic combustion experiments and get introduced to Fire & Fuels._
+__Kaupapa:__ _Perform some basic combustion whakamātaus and get introduced to Fire & Fuels._
 
 __Starter:__
 
@@ -46,7 +46,7 @@ What temperature does these fuels start burning? Put them in order from coolest 
 
 __Notes:__ [Introduction](slides/1-introduction/) [(PDF)](pdfs/1-introduction.pdf)
 
-__Practical:__ Workbook: Burning Things (pg. 2)
+__Whakamātau:__ Workbook: Burning Things (pg. 2)
 
 ---
 
@@ -58,4 +58,4 @@ __Starter:__ Walking water demonstration
 
 __Notes:__ [Why Have a Wick](slides/2-why-have-a-wick/) [(PDF)](pdfs/2-why-have-a-wick.pdf)
 
-__Practical:__ Workbook: Why Have a Wick (pg. 4)
+__Whakamātau:__ Workbook: Why Have a Wick (pg. 4)

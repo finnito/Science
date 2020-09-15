@@ -18,7 +18,7 @@ header-includes:
 - AS90930
 - 4 Credits
 - Internal
-- Practical & written assessment in Week 11 of Term 1
+- Whakamātau & written assessment in Week 11 of Term 1
 
 ---
 
@@ -49,7 +49,7 @@ Can you think of any others?
 
 ---
 
-## Experiment: Measuring the Rate of Reaction
+## Whakamātau: Measuring the Rate of Reaction
 
 Method is on Google Classroom
 
@@ -78,7 +78,7 @@ When measuring the amount of mass lost, the mass goes down so the graph should l
 
 ---
 
-## Loss of Mass Experiment
+## Loss of Mass Whakamātau
 
 Method is on Google Classroom - please open it up, read it and come to the demo bench!
 
