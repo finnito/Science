@@ -1,5 +1,5 @@
 ---
-title: 11 Pūtaiao
+title: Year 11 Pūtaiao
 menu: "main"
 linkTitle: "11SCI"
 ---

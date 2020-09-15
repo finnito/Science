@@ -1,5 +1,5 @@
 ---
-title: 12 Earth and Space Pūtaiao
+title: Year 12 Earth and Space Pūtaiao
 menu: "main"
 linkTitle: "12ESS"
 ---

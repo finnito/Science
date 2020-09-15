@@ -1,5 +1,5 @@
 ---
-title: 9 Pūtaiao
+title: Year 9 Pūtaiao
 subtitle: Welcome to 9 Pūtaiao
 date: 2020-01-07
 menu: "main"
