@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -e
+
 shopt -s nullglob extglob
 
 MODULES=(
@@ -65,11 +65,13 @@ main() {
 
 fixMisplacedMD() {
     cd content || exit
+    mdfiles=( !(_index).md )
     for i in "${MODULES[@]}"; do
         if cd $i; then
-            #if mv $(ls *.md | grep -v _index.md) markdown; then
-            if mv -t markdown/ !(_index).md; then
-                echo "    Put Markdown files back in 'markdown'"
+            if (( ${#mdfiles[@]} > 0 )); then
+                if mv -t markdown/ -- "${mdfiles[@]}"; then
+                    echo "    Put Markdown files back in 'markdown'"
+                fi
             fi
             cd ../../
         fi
@@ -186,8 +188,14 @@ runHugo() {
 }
 
 putMDBack() {
-    if mv -t markdown/ !(_index).md; then
-        echo "    Put Markdown files back in 'markdown'"
+    mdfiles=( !(_index).md )
+    # if mv -t markdown/ !(_index).md; then
+    #     echo "    Put Markdown files back in 'markdown'"
+    # fi
+    if (( ${#mdfiles[@]} > 0 )); then
+        if mv -t markdown/ -- "${mdfiles[@]}"; then
+            echo "    Put Markdown files back in 'markdown'"
+        fi
     fi
 }
 
