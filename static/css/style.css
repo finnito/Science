@@ -174,11 +174,11 @@ main h3 + ol li > ol li {
 ol li:first-of-type p { margin-top: 0; }
 
 .report {
-  background-color: #ff7979;
+  background-color: #471718;
 }
 
 a.edit-page {
-  background-color: #badc58;
+  background-color: #A17032;
 }
 
 .button.download { background-color: #3498db; }
