@@ -1,4 +1,4 @@
-baseurl       = "https://science.lesueur.nz"
+baseurl       = "/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
