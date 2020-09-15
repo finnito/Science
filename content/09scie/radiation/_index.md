@@ -50,6 +50,10 @@ menu:
     - __Demo__: Concave mirror, solar panel
     - https://www.riskassess.co.nz/risk_assessment/8683841
 2. #### EM Radiation
+    - __Mahi Tuatahi__: Conclusions from magnifying glasses experiment
+    - Notes on EM radiation
+    - [Quizlet flashcards](https://quizlet.com/nz/526266053/electromagnetic-spectrum-flash-cards/)
+    - Education Perfect Task
 3. #### Visible Light
     - Colour patches
     - __Whakamātau__: Newton's Disc
