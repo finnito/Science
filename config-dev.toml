@@ -2,7 +2,7 @@ baseurl       = "http://science.test/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title         = "Science with LSF"
+title         = "Pūtaiao with LSF"
 canonifyurls  = true
 uglyurls      = false
 staticDir     = ["static"]
@@ -17,7 +17,7 @@ pygmentCodeFences       = true
   unsafe  = true
 
 [Params]
-  subtitle    = "Science Courses taught by Finn LeSueur"
+  subtitle    = "Pūtaiao Courses taught by Finn LeSueur"
   logo        = "logo.png"
   favicon     = "favicon.png"
   dateFormat  = "January 2, 2006"
