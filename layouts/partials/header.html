@@ -49,8 +49,8 @@
       {{ end }}
       <li{{ if eq .p1 .p2 }} class="active"{{ end }}>
         {{ if not .p1.IsHome }} < {{ end }}
-        {{ if ne .p1 .p2 }}<a title="Breadcrumb: Navigate to {{ .p1.Title }}" href="{{ .p1.Permalink }}"> {{ end }}
-        {{ .p1.Title }}
+        {{ if ne .p1 .p2 }}<a title="Breadcrumb: Navigate to {{ .p1.Title | markdownify }}" href="{{ .p1.Permalink }}"> {{ end }}
+        {{ .p1.Title | markdownify }}
         {{ if ne .p1 .p2 }}</a>{{ end }}
       </li>
       {{ end }}
