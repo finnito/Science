@@ -16,16 +16,16 @@ menu:
 6. Name a famous scientist and explain why their work is so important. 
 7. Explain how scientists use __scientific method__ to investigate a hunch or question.
 8. Describe a fair test and explain the difference between __independent__, __dependent__  and a __control variable__.
-9. Understand how to set up an investigation and collect and display reliable data in tables and graphs.
+9. Understand how to set up an tūhura and collect and display reliable data in tables and graphs.
 
 {{< slides >}}
 
 ## Unit Plan
 
-|        | Lesson 1                    | Lesson 2                   | Lesson 3                   |
-|:-------|:----------------------------|:---------------------------|:---------------------------|
-| Week 1 | _Teacher Only Day_          | Introduction to Pūtaiao    | Apparatus                  |
-| Week 2 | Using Apparatus             | Bunsen Burner              | Hypotheses _(Leave)_       |
-| Week 3 | __TwE TEST__ _(Leave)_      | Famous Scientist _(Leave)_ | Famous Scientist _(Leave)_ |
-| Week 4 | Carrying out Investigations | Variables                  | Graphs                     |
-| Week 5 | Scientific Evidence         | Revision                   | __TEST__                   |
+|        | Lesson 1               | Lesson 2                   | Lesson 3                   |
+|:-------|:-----------------------|:---------------------------|:---------------------------|
+| Week 1 | _Teacher Only Day_     | Introduction to Pūtaiao    | Apparatus                  |
+| Week 2 | Using Apparatus        | Bunsen Burner              | Hypotheses _(Leave)_       |
+| Week 3 | __TwE TEST__ _(Leave)_ | Famous Scientist _(Leave)_ | Famous Scientist _(Leave)_ |
+| Week 4 | Carrying out Tūhuras   | Variables                  | Graphs                     |
+| Week 5 | Scientific Evidence    | Revision                   | __TEST__                   |

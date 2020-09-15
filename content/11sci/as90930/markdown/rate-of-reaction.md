@@ -1,6 +1,6 @@
 ---
 title: Rate of Reaction
-subtitle: 11SCI - Chemical Investigation
+subtitle: 11SCI - Chemical Tūhura
 author: Finn LeSueur
 date: 202-
 theme: finn

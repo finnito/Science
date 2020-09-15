@@ -1,6 +1,6 @@
 ---
 title: Changing Temperature
-subtitle: 11SCI - Chemical Investigation
+subtitle: 11SCI - Chemical Tūhura
 author: Finn LeSueur
 date: 2020
 theme: finn

@@ -1,6 +1,6 @@
 ---
 title: Assessment Tips
-subtitle: 11SCI - Chemical Investigation
+subtitle: 11SCI - Chemical Tūhura
 author: Finn LeSueur
 date: 2020
 theme: finn
@@ -19,7 +19,7 @@ There are five topics in Pūtaiao 102
 
 1. Genetics (ext.) – finished in Term 1
 2. Microbes (int.) – finished yesterday
-3. Chemistry Investigation (int.) – we were half-way through this topic when the lockdown began in Term 1
+3. Chemistry Tūhura (int.) – we were half-way through this topic when the lockdown began in Term 1
 4. Mechanics (ext.)
 5. Chemical Reactions (int.)
 
@@ -27,7 +27,7 @@ There are five topics in Pūtaiao 102
 
 ## AS 90930
 
-Chemistry Investigation
+Chemistry Tūhura
 
 (The 2nd half)
 

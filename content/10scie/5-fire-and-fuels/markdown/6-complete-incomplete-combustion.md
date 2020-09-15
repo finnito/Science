@@ -79,7 +79,7 @@ Carbon Monoxide binds to your red blood cells more strongly than oxygen, causing
 
 ---
 
-# Investigation
+# Tūhura
 
 - AIM – to investigate the energy released during complete and incomplete combustion
 - METHOD (draw diagram)

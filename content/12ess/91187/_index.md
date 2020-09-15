@@ -1,5 +1,5 @@
 ---
-title: AS91187 - Meteorite Investigation
+title: AS91187 - Meteorite Tūhura
 menu:
     main:
         parent: "12ESS"

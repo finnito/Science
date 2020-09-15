@@ -1,6 +1,6 @@
 ---
 title: Changing Concentration
-subtitle: 11SCI - Chemical Investigation
+subtitle: 11SCI - Chemical Tūhura
 author: Finn LeSueur
 date: 2020
 theme: finn
@@ -51,7 +51,7 @@ $$\text{Volume of Acid} = \frac{percentage}{100} \times \text{total volume}$$
 $$\text{Volume of Acid} = \frac{percentage}{100} \times \text{total volume}$$
 
 | Concentration | Volume | $ml$ of $HCl$ | $ml$ of $H_{2}O$ |
-|---------------|--------|---------------|------------------|
+|:--------------|:-------|:--------------|:-----------------|
 | 90%           | 100ml  |               |                  |
 | 80%           | 75ml   |               |                  |
 | 75%           | 50ml   |               |                  |
@@ -61,7 +61,7 @@ $$\text{Volume of Acid} = \frac{percentage}{100} \times \text{total volume}$$
 ---
 
 | Concentration | Volume | $ml$ of $HCl$ | $ml$ of $H_{2}O$ |
-|---------------|--------|---------------|------------------|
+|:--------------|:-------|:--------------|:-----------------|
 | 90%           | 100ml  | $90ml$        | $10ml$           |
 | 80%           | 75ml   |               |                  |
 | 75%           | 50ml   |               |                  |
@@ -71,7 +71,7 @@ $$\text{Volume of Acid} = \frac{percentage}{100} \times \text{total volume}$$
 ---
 
 | Concentration | Volume | $ml$ of $HCl$ | $ml$ of $H_{2}O$ |
-|---------------|--------|---------------|------------------|
+|:--------------|:-------|:--------------|:-----------------|
 | 90%           | 100ml  | $90ml$        | $10ml$           |
 | 80%           | 75ml   | $60ml$        | $15ml$           |
 | 75%           | 50ml   |               |                  |
@@ -81,7 +81,7 @@ $$\text{Volume of Acid} = \frac{percentage}{100} \times \text{total volume}$$
 ---
 
 | Concentration | Volume | $ml$ of $HCl$ | $ml$ of $H_{2}O$ |
-|---------------|--------|---------------|------------------|
+|:--------------|:-------|:--------------|:-----------------|
 | 90%           | 100ml  | $90ml$        | $10ml$           |
 | 80%           | 75ml   | $60ml$        | $15ml$           |
 | 75%           | 50ml   | $37.5ml$      | $12.5ml$         |
@@ -91,7 +91,7 @@ $$\text{Volume of Acid} = \frac{percentage}{100} \times \text{total volume}$$
 ---
 
 | Concentration | Volume | $ml$ of $HCl$ | $ml$ of $H_{2}O$ |
-|---------------|--------|---------------|------------------|
+|:--------------|:-------|:--------------|:-----------------|
 | 90%           | 100ml  | $90ml$        | $10ml$           |
 | 80%           | 75ml   | $60ml$        | $15ml$           |
 | 75%           | 50ml   | $37.5ml$      | $12.5ml$         |
@@ -101,7 +101,7 @@ $$\text{Volume of Acid} = \frac{percentage}{100} \times \text{total volume}$$
 ---
 
 | Concentration | Volume | $ml$ of $HCl$ | $ml$ of $H_{2}O$ |
-|---------------|--------|---------------|------------------|
+|:--------------|:-------|:--------------|:-----------------|
 | 90%           | 100ml  | $90ml$        | $10ml$           |
 | 80%           | 75ml   | $60ml$        | $15ml$           |
 | 75%           | 50ml   | $37.5ml$      | $12.5ml$         |
