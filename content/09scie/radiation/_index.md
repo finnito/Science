@@ -1,5 +1,6 @@
 ---
 title: Radiation & The Human Body
+weight: 6
 menu:
     main:
         parent: "9SCIE"

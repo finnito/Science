@@ -1,5 +1,6 @@
 ---
-title: Plants as Producers
+title: Plants as Producers - _Ngā Tipu_
+weight: 4
 menu:
     main:
         parent: "9SCIE"

@@ -1,5 +1,6 @@
 ---
 title: Space
+weight: 5
 menu:
     main:
         parent: "9SCIE"

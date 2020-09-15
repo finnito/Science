@@ -1,5 +1,6 @@
 ---
 title: Energy For Life
+weight: 3
 menu:
     main:
         parent: "9SCIE"

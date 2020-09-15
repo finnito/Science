@@ -1,6 +1,7 @@
 ---
 title: Introduction to Pūtaiao
 date: 2020-01-20
+weight: 1
 menu:
     main:
         parent: "9SCIE"

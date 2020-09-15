@@ -8,14 +8,7 @@ slug: "9scie"
 weight: 2
 ---
 
-## Units
-
-1. [Introduction to Science](introduction-to-science/)
-2. [Reactions Matter](reactions-matter/)
-3. [Energy for Life](energy-for-life/)
-4. [Plants as Producers](plants-as-producers/)
-5. [Space](space/)
-6. [Radiation](radiation/)
+{{< units >}}
 
 ## 2020 Year Planner
 
