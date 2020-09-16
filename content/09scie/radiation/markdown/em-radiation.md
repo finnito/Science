@@ -95,7 +95,12 @@ Write down the order of the different electromagnetic waves (_ngaru autōhiko_) 
 - Is between $380$ to $700 nanometers$
 - Purple/violet has the most energy (shortest wavelength)
 - Red has the least energy (longest wavelength)
-- __Task__: Write the order of the visible spectrum colours
+
+![Source: [Pinterest](https://www.pinterest.nz/pin/418905202833693750/)](https://i.pinimg.com/600x315/29/c4/ba/29c4bafe1aa1c27cae3fab27ba0163c5.jpg)
+
+---
+
+__Task__: Write the order of the visible spectrum colours
 
 ![Source: [Pinterest](https://www.pinterest.nz/pin/418905202833693750/)](https://i.pinimg.com/600x315/29/c4/ba/29c4bafe1aa1c27cae3fab27ba0163c5.jpg)
 
@@ -105,6 +110,12 @@ Write down the order of the different electromagnetic waves (_ngaru autōhiko_) 
 
 - The distance between consecutive peaks or troughs on a wave!
 - Red light has a wavelength of $700nm$ which is $0.0000007m$!
+
+![Source: [Khan Academy](https://www.khanacademy.org/science/high-school-physics/waves-and-sound/wave-characteristics/a/wave-characteristics-review-ap-physics-1)](https://cdn.kastatic.org/ka-perseus-images/bdee68f794185f6348574d22bc68fc0fcfa6bb7c.png)
+
+
+---
+
 - Radio waves can have a wavelength of up to $10,000km!
 - Gamma waves can have a wavelength of $0.00000000001m$!
 
