@@ -8,13 +8,13 @@ var AddClock = window.AddClock || (function(){
         var date = new Date();
 
         const days = [
-            "Rātapu"
+            "Rātapu",
             "Rāhina",
             "Rātu",
             "Rāapa",
             "Rāpare",
             "Rāmere",
-            "Rāhoroi",
+            "Rāhoroi"
         ];
         const months = [
             "Kohi-tātea",
