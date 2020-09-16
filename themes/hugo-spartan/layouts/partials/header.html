@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <style>{{ readFile "/themes/hugo-spartan/static/css/style.css" | safeCSS }}</style>
+    <link rel="icon" href="favicon.png">
+  </head>
+
+  <body>
+    <a class="skip-main" href="#main">Skip to main content</a>
+    <nav>
+      <div class="koru"></div>
+      <div class="desktop top-buttons">{{ partial "buttons.html" . }}</div>
+      <h1>{{ .Site.Title }}</h1>
+      <input class="toggle mobile" type="checkbox" title="Toggle mobile menu"/>
+      <div class="hamburger mobile">
+          <div>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <p>Classes</p>
+      </div>
+      <div class="nav-wrapper">
+        <div>
+          <ul class="menu">
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+            <li class='{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{ end }}'>
+              <a title="Navigate to {{ .Name }} home page" href="{{ .URL | relURL }}" >{{ .Name }}</a>
+            </li>
+            {{ end }}
+            <div class="mobile">
+              {{ partial "buttons.html" . }}
+            </div>
+          </ul>
+        </div>
+      </div>
+      <ol class="breadcrumb">
+        {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+      </ol>
+      {{ define "breadcrumbnav" }}
+      {{ if .p1.Parent }}
+      {{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
+      {{ else if not .p1.IsHome }}
+      {{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
+      {{ end }}
+      <li{{ if eq .p1 .p2 }} class="active"{{ end }}>
+        {{ if not .p1.IsHome }} < {{ end }}
+        {{ if ne .p1 .p2 }}<a title="Breadcrumb: Navigate to {{ .p1.Title | markdownify }}" href="{{ .p1.Permalink }}"> {{ end }}
+        {{ .p1.Title | markdownify }}
+        {{ if ne .p1 .p2 }}</a>{{ end }}
+      </li>
+      {{ end }}
+    </nav>
+    <main id="main">

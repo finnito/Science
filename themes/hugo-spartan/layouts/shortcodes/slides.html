@@ -1,0 +1,19 @@
+<h2 id="slides">Slides<sup><a class="heading-anchor" href="#slides">🔗</a></sup></h2>
+
+{{ $page := .Page }}
+
+{{ with $page.Pages }}
+    <ol>
+        {{ range . }}
+        <li>
+            <a
+                href="{{ .File.BaseFileName }}/"
+                title="Read {{ .Title }} notes for {{ $page.Title }}">
+                {{ .Title }}
+            </a> 
+            (<a href="slides/{{ .File.BaseFileName }}.html" title="View slides for {{ .Title }}">Slides</a>)
+        </li>
+        {{ end }}
+    </ol>
+{{ end }}
+

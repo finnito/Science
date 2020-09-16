@@ -1,0 +1,18 @@
+<h2 id="units">Units<sup><a class="heading-anchor" href="#units">🔗</a></sup></h2>
+
+{{ $page := .Page }}
+
+{{ with $page.Pages }}
+    <ol>
+        {{ range . }}
+        <li>
+            <a
+                href="/{{ .Dir }}"
+                title="Open {{ .Title | markdownify }}">
+                {{ .Title | markdownify }}
+            </a> 
+        </li>
+        {{ end }}
+    </ol>
+{{ end }}
+
