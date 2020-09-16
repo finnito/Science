@@ -1,6 +1,0 @@
-[submodule "static/reveal.js"]
-	path = static/reveal.js
-	url = https://github.com/Finnito/reveal.js-fork.git
-[submodule "themes/hugo-spartan"]
-	path = themes/hugo-spartan
-	url = https://github.com/Finnito/hugo-spartan.git
