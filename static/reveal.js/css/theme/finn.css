@@ -1,0 +1,383 @@
+/**
+ * White theme for reveal.js. This is the opposite of the 'black' theme.
+ *
+ * By Hakim El Hattab, http://hakim.se
+ */
+/*@import url(../../lib/font/source-sans-pro/source-sans-pro.css);*/
+section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
+  color: #fff; }
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+
+.reveal .controls {
+  bottom: 60px;
+}
+body {
+  background: #fff;
+  background-color: #fff; }
+
+.reveal {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 40px;
+  font-weight: normal;
+  color: #222; }
+
+::selection {
+  color: #fff;
+  background: #98bdef;
+  text-shadow: none; }
+
+::-moz-selection {
+  color: #fff;
+  background: #98bdef;
+  text-shadow: none; }
+
+.reveal .slides {
+  height: 90vh;
+  width: 90vw;
+  text-align: left;
+  margin-top: 0;
+}
+
+.reveal section {
+  max-height: 100%;
+}
+
+.reveal .slide-background-content { height: auto; }
+
+.reveal .slides section,
+.reveal .slides section > section {
+  line-height: 1.1;
+  font-weight: inherit;
+  padding: 0;
+  height: auto;
+}
+
+.kowhaiwhai {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  background-image: url(/kowhaiwhai-rotated.png);
+  height: 50px;
+}
+
+.reveal .back-button {
+  background-color: #ecf0f1;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  margin: 1rem;
+  display: inline-block;
+  box-shadow: 0 0px 6px rgba(0,0,0,0.16), 0 0px 6px rgba(0,0,0,0.23);
+  position: absolute;
+  top: 0;
+  z-index: 99;
+  font-size: 1rem;
+  opacity: 0.5;
+  transition: all 150ms;
+}
+
+.reveal .back-button:hover,
+.reveal .back-button:active {
+  opacity: 1;
+}
+
+.reveal #clock {
+  position: absolute;
+  margin: 1rem;
+  right: 0;
+  font-size: 2rem;
+  color: rgba(0,0,0,0.5);
+  text-align: right;
+}
+
+.reveal .slides section#title-slide { text-align: center; }
+
+.reveal .slides section.c2 {
+  display: flex !important;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.reveal .slides section.c2 h1,
+.reveal .slides section.c2 h2,
+.reveal .slides section.c2 h3,
+.reveal .slides section.c2 h4,
+.reveal .slides section.c2 h5 {
+  flex-basis: 100%;
+}
+
+.reveal .slides section.c2 ul,
+.reveal .slides section.c2 ol,
+.reveal .slides section.c2 p,
+.reveal .slides section.c2 div,
+.reveal .slides section.c2 figure,
+.reveal .slides section.c2 iframe {
+  flex-basis: calc(50% - 1em);
+}
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  margin: 0 0 20px 0;
+  color: #222;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-transform: uppercase;
+  text-shadow: none;
+  word-wrap: break-word; }
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5 { text-align: center; }
+
+.reveal h1 {
+  font-size: 1.4em; }
+
+.reveal h2 {
+  font-size: 1.3em; }
+
+.reveal h3 {
+  font-size: 1.2em; }
+
+.reveal h4 {
+  font-size: 1em; }
+
+.reveal h1 {
+  text-shadow: none; }
+
+/*********************************************
+ * OTHER
+ *********************************************/
+.reveal p {
+  margin: 20px 0;
+  line-height: 1.3; }
+
+/* Ensure certain elements are never larger than the slide itself */
+.reveal img,
+.reveal video,
+.reveal iframe {
+  max-width: 100%;
+  max-height: 70vh;
+  margin: auto;
+  display: block;
+}
+
+.reveal strong,
+.reveal b {
+  font-weight: bold; }
+
+.reveal em {
+  font-style: italic; }
+
+.reveal ol,
+.reveal dl,
+.reveal ul {
+  display: inline-block;
+  text-align: left;
+  margin: 0 0 0 1em; }
+
+.reveal ol {
+  list-style-type: decimal; }
+
+.reveal ul {
+  list-style-type: disc; }
+
+.reveal ul ul {
+  list-style-type: square; }
+
+.reveal ul ul ul {
+  list-style-type: circle; }
+
+.reveal ul ul,
+.reveal ul ol,
+.reveal ol ol,
+.reveal ol ul {
+  display: block;
+  margin-left: 40px; }
+
+.reveal li {
+  margin: 1rem auto;
+}
+
+.reveal dt {
+  font-weight: bold; }
+
+.reveal dd {
+  margin-left: 40px; }
+
+.reveal blockquote {
+  display: block;
+  position: relative;
+  margin: 0;
+  font-style: italic;
+  background: rgba(0,0,0,0.2);
+  border-radius: 0.25rem;
+  border-left: 4px solid #2ecc71;
+  padding-left: 2rem;
+}
+
+.reveal blockquote p:first-child,
+.reveal blockquote p:last-child {
+  display: inline-block; }
+
+.reveal q {
+  font-style: italic; }
+
+.reveal pre {
+  display: block;
+  position: relative;
+  width: 90%;
+  margin: 20px auto;
+  text-align: left;
+  font-size: 0.55em;
+  font-family: monospace;
+  line-height: 1.2em;
+  word-wrap: break-word;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15); }
+
+.reveal code {
+  font-family: monospace;
+  text-transform: none; }
+
+.reveal pre code {
+  display: block;
+  padding: 5px;
+  overflow: auto;
+  max-height: 400px;
+  word-wrap: normal; }
+
+.reveal table {
+  margin: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid;
+}
+
+.reveal table th {
+  font-weight: bold; }
+
+.reveal th:not(:last-child),
+.reveal td:not(:last-child) { border-right: 1px solid black; }
+
+.reveal table th,
+.reveal table td {
+  text-align: left;
+  padding: 0.2em 0.5em 0.2em 0.5em;
+  border-bottom: 1px solid; }
+
+.reveal table th[align="center"],
+.reveal table td[align="center"] {
+  text-align: center; }
+
+.reveal table th[align="right"],
+.reveal table td[align="right"] {
+  text-align: right; }
+
+.reveal table tbody tr:last-child th,
+.reveal table tbody tr:last-child td {
+  border-bottom: none; }
+
+.reveal sup {
+  vertical-align: super;
+  font-size: smaller; }
+
+.reveal sub {
+  vertical-align: sub;
+  font-size: smaller; }
+
+.reveal small {
+  display: inline-block;
+  font-size: 0.6em;
+  line-height: 1.2em;
+  vertical-align: top; }
+
+.reveal small * {
+  vertical-align: top; }
+
+/*********************************************
+ * LINKS
+ *********************************************/
+.reveal a {
+  color: #2a76dd;
+  text-decoration: none;
+  -webkit-transition: color .15s ease;
+  -moz-transition: color .15s ease;
+  transition: color .15s ease; }
+
+.reveal a:hover {
+  color: #6ca0e8;
+  text-shadow: none;
+  border: none; }
+
+.reveal .roll span:after {
+  color: #fff;
+  background: #1a53a1; }
+
+/*********************************************
+ * IMAGES
+ *********************************************/
+.reveal section img {
+  margin: 1rem auto;
+  background: rgba(255, 255, 255, 0.12);
+  display: block;
+
+  /*border: 4px solid #222;*/
+  /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);*/ }
+
+.reveal section img.plain {
+  border: 0;
+  box-shadow: none; }
+
+.reveal a img {
+  -webkit-transition: all .15s linear;
+  -moz-transition: all .15s linear;
+  transition: all .15s linear; }
+
+.reveal a:hover img {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: #2a76dd;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
+
+.reveal figcaption {
+  color: #777;
+  font-size: 0.6em;
+}
+
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+.reveal .controls {
+  color: #2a76dd; }
+
+/*********************************************
+ * PROGRESS BAR
+ *********************************************/
+.reveal .progress {
+  background: rgba(0, 0, 0, 0.2);
+  color: #2a76dd; }
+
+.reveal .progress span {
+  -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
+
+/*********************************************
+ * PRINT BACKGROUND
+ *********************************************/
+@media print {
+  .backgrounds {
+    background-color: #fff; } }
