@@ -2,8 +2,9 @@
 title: Pressure
 subtitle: 11SCI - Mechanics
 author: Finn LeSueur
-date: 2019
+date: 2020
 theme: finn
+weight: 6
 header-includes:
 - \usepackage{graphicx}
 - \usepackage[T1]{fontenc}
@@ -11,21 +12,30 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Mahi Tuatahi
+## Learning Outcomes
 
-Calculate the __net__ force acting upon these objects:
+Copy these learning outcomes and the date into your books!
 
-![Unbalanced Forces](../assets/4-unbalanced-forces.png)
+1. Recap forces
+2. Explain force and pressure in terms of everyday situations. Use $P = F/A$.
 
 ---
 
-## Question 1
+## L17 Mahi Tuatahi
+
+Calculate the __net__ force acting upon these objects:
+
+![](../assets/4-unbalanced-forces.png)
+
+---
+
+## Pātai Tahi
 
 What does an unbalanced force do to the motion of an object?
 
 ---
 
-### Answer 1
+### Whakatika Tahi
 
 It causes the object to accelerate (or deaccelerate).
 
@@ -38,19 +48,17 @@ We know this because of the equation
 
 ---
 
-## Question 2
+## Pātai Rua
 
-For the equation
+For the followig equation give the __name__ and __unit__ for each variable in the equation.
 
 \begin{align*}
     & F = m \times a
 \end{align*}
 
-give the __name__ and __unit__ for each variable in the equation.
-
 ---
 
-### Answer 2
+### Whakatika Rua
 
 - F stands for __force__ and has units __Newtons (N)__
 - m stands for __mass__ and has units __kilograms (kg)__
@@ -58,22 +66,22 @@ give the __name__ and __unit__ for each variable in the equation.
 
 ---
 
-## Question 3
+## Pātai Toru
 
 - What do you think of when you think of pressure?
 - What affects the pressure exerted by an object?
 
 ---
 
-### Question 4
+### Pātai Whā
 
 The most classic case of pressure is sharpening a knife. Why do we sharpen knives? What does sharpening a knife change about the knife?
 
 ---
 
-# Pressure
+# Pressure / _Pēhanga_
 
-Pressure is defined as: _the amount of force per unit area_.
+Pressure is defined as: _the amount of force per square meter_.
 
 \begin{align*}
     & pressure = \frac{force}{area} \\\\
@@ -91,18 +99,8 @@ Pressure is defined as: _the amount of force per unit area_.
     & P = \frac{F}{A}
 \end{align*}
 
-- Therefore, pressure is measured in Newtons / meters squared ($\frac{N}{m^{2}}$ OR $Nm^{-2}$)
-- This is also known as a Pascal (Pa)
-
----
-
-## Mahi Tuatahi (2018 Exam)
-
-Jacob bikes down The Flying Nun. He and his bike have a mass of $82kg$ and he accelerates at $0.8ms^{-2}$.
-
-1. Calculate the __net force__ acting upon Jacob and his bike to cause this acceleration
-2. Draw a force diagram showing the forces acting upon Jacob as he accelerates
-3. Describe the size and direction of the forces compared to each other (horizontal and vertical)
+- Therefore, pressure is measured in Newtons per meters squared ($\frac{N}{m^{2}}$ OR $Nm^{-2}$)
+- This is also known as a Pascal (Pa): $Pa = \frac{N}{m^{2}} = NM^{-2}$
 
 ---
 
@@ -118,7 +116,7 @@ Jacob bikes down The Flying Nun. He and his bike have a mass of $82kg$ and he ac
 
 ---
 
-### Answers
+### Ngā Whakatika
 
 \begin{align*}
     & P = \frac{F}{A} \\\\
@@ -141,7 +139,7 @@ Jacob bikes down The Flying Nun. He and his bike have a mass of $82kg$ and he ac
 
 ---
 
-### Answers
+### Ngā Whakatika
 
 \begin{align*}
     & A = \frac{F}{P} \\\\
@@ -164,7 +162,7 @@ Jacob bikes down The Flying Nun. He and his bike have a mass of $82kg$ and he ac
 
 ---
 
-### Answers
+### Ngā Whakatika
 
 \begin{align*}
     & F = P \times A \\\\
@@ -172,6 +170,26 @@ Jacob bikes down The Flying Nun. He and his bike have a mass of $82kg$ and he ac
     & \text{8. } F = 0.5 \times 7 = 3.5N \\\\
     & \text{9. } F = 0.75 \times 10 = 7.5N
 \end{align*}
+
+---
+
+## Pressure Whakamātau
+
+We are going to:
+
+1. Calculate our weights
+2. Find the area of our feet
+3. Calculate the pressure we all exert on the ground!
+
+---
+
+## L18 Mahi Tuatahi (2018 Exam)
+
+Jacob bikes down The Flying Nun. He and his bike have a mass of $82kg$ and he accelerates at $0.8ms^{-2}$.
+
+1. Calculate the __net force__ acting upon Jacob and his bike to cause this acceleration
+2. Draw a force diagram showing the forces acting upon Jacob as he accelerates
+3. Describe the size and direction of the forces compared to each other (horizontal and vertical)
 
 ---
 

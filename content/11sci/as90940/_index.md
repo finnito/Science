@@ -74,7 +74,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 | __T3 W6__  | [3. Distance-Time Graphs](#distance-time-graphs)      | [4. Speed-Time Graphs](#speed-time-graphs)  | [5.]()                                   | [.6]()                                |
 | __T3 W7__  | [7.]()                                                | 8.                                          | 9. [Mid-Topic Test 1](#mid-topic-test-1) | 10. [Self Marking 1](#self-marking-1) |
 | __T3 W8__  | 11. [Mass vs Weight 1](#mass-vs-weight-1)             | 12. [Mass vs Weight 2](#mass-vs-weight-2)   | 13. [Types of Forces](#types-of-forces)  |                                       |
-| __T3 W9__  | 15. [Running Man Whakamātau](#running-man-whakamātau) | 16. [Newton Whakamātau](#newton-whakamātau) | 17. [Forces Recap](#forces-recap)        | 18. Gravitational Energy              |
+| __T3 W9__  | 15. [Running Man Whakamātau](#running-man-whakamātau) | 16. [Newton Whakamātau](#newton-whakamātau) | 17. [Pressure 1](#pressure-1)            | 18. Gravitational Energy              |
 | __T3 W10__ | 19. Gravitation and Kinetic Energy                    | 20. Kinetic Energy                          | 21. Energy Transformations               | 22. Power and Work                    |
 | __T4 W1__  | 23. Power and Work                                    | 24. Pressure                                | 25. Pressure                             | 26. Pressure                          |
 | __T4 W2__  | 27. Revision P1                                       | 28. Revision P2                             | 29. Revision P3                          | __End of Topic Test__                 |
@@ -133,5 +133,9 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	- https://www.riskassess.co.nz/risk_assessment/8683487
 	- https://docs.google.com/document/d/1MAugSiWvqV5CDR6J25Ei_9C276uywrKt-cJBRz_AJpo/edit
 	- Homework Booklet Questions: 19 & 20
-17. #### Forces Recap
-	- 
+17. #### Pressure 1
+	- __Mahi tuatahi__ in slides
+	- Four recap pātai on forces
+	- Notes on pressure
+	- Example calculations to find P, F and A
+	- Pressure Whakamātau - finding weight, foot surface area and therefore own-pressure.
