@@ -200,7 +200,7 @@ Giovanni is running a 100m sprint. Each of his feet have a surface area of $200c
 
 ---
 
-### Answer
+### Whakatika
 
 Because __weight__ is a force, we know that we are looking for $F$.
 
