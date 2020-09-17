@@ -109,7 +109,7 @@ Sitting on your chair, are the forces acting on you balanced or unbalanced? How 
 ## Force & Weight {.c2}
 
 \begin{align*}
-    Force = mass \times acceleration \\
+    Force = mass \times acceleration \newline
     F = ma
 \end{align*}
 

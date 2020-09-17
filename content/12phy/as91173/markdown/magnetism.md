@@ -24,7 +24,7 @@ __Hint:__ Charge of one electron $=-1.6\times10^{-19}C$
 ## Mahi Tuatahi 1 Answer
 
 \begin{align*}
-    & n = \frac{0.03}{1.6\times10^{-19}} \\\\\\\\
+    & n = \frac{0.03}{1.6\times10^{-19}} \newline\newline
     & n = 1.875\times10^{17}
 \end{align*}
 
@@ -42,17 +42,17 @@ There is $80mA$ of current flowing through a $2k\Omega$ resistor.
 ## Mahi Tuatahi 2 Answer
 
 \begin{align*}
-    & I = \frac{q}{t} \\\\
-    & It = q \\\\
-    & q = 0.08 \times 1 = 0.08C \\\\
+    & I = \frac{q}{t} \newline
+    & It = q \newline
+    & q = 0.08 \times 1 = 0.08C \newline
     & n = \frac{0.08}{1.6\times^{-19}} = 5\times10^{17}
 \end{align*}
 
 ---
 
 \begin{align*}
-    & P = IV, V = IR\\\\
-    & P = I^{2}R \\\\
+    & P = IV, V = IR\newline
+    & P = I^{2}R \newline
     & P = 0.08^{2} \times 2000 = 12.8W (Js^{-1})
 \end{align*}
 
@@ -133,8 +133,8 @@ Calculate the magnetic force applied on each proton.
 #### Answer
 
 \begin{align*}
-    & F = Bqv \\\\
-    & F = 0.2 \times 1.6\times10^{-19} \times 2.0\times10^{-6} \\\\
+    & F = Bqv \newline
+    & F = 0.2 \times 1.6\times10^{-19} \times 2.0\times10^{-6} \newline
     & F = 6.4 \times 10^{-26}N
 \end{align*}
 

@@ -110,8 +110,8 @@ If a balloon has charge of $-3C$: did the balloon lose or gain electrons, and ho
 ---
 
 \begin{align*}
-    & \text{Negative C -> electrons gained (-ve charge)} \\\\
-    & num_{e} = 3 \times (6.25 \times 10^{18}) \\\\
+    & \text{Negative C -> electrons gained (-ve charge)} \newline
+    & num_{e} = 3 \times (6.25 \times 10^{18}) \newline
     & num_{e} = 1.875 \times 10^{19} && \text{ electrons gained}
 \end{align*}
 
@@ -124,7 +124,7 @@ If Charlotte has charge of $0.2C$ did she lose or gain electrons and how many?
 ---
 
 \begin{align*}
-    & \text{Positive C -> electrons lost (+ve charge)} \\\\
-    & num_{e} = 0.2 \times (6.25 \times 10^{18}) \\\\
+    & \text{Positive C -> electrons lost (+ve charge)} \newline
+    & num_{e} = 0.2 \times (6.25 \times 10^{18}) \newline
     & num_{e} = 1.25 \times 10^{18} && \text{ electrons lost}
 \end{align*}

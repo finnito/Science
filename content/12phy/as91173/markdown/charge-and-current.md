@@ -55,9 +55,9 @@ __e.g. electrons move through metal__
 ---
 
 \begin{align*}
-    & I = \frac{q}{t} \\\\
-    & \text{I = current measured in what?} \\\\
-    & \text{q = charge measure in what?} \\\\
+    & I = \frac{q}{t} \newline
+    & \text{I = current measured in what?} \newline
+    & \text{q = charge measure in what?} \newline
     & \text{t = time measured in what?}
 \end{align*}
 

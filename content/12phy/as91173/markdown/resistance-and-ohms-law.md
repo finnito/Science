@@ -28,7 +28,7 @@ Recall that a circuit is an energy delivery system!
 
 ## Curent
 \begin{align*}
-    & current = \frac{charge}{time} \\\\
+    & current = \frac{charge}{time} \newline
     & I = \frac{q}{t}
 \end{align*}
 
@@ -36,7 +36,7 @@ Recall that a circuit is an energy delivery system!
 
 ## Voltage
 \begin{align*}
-    & voltage = \frac{\text{Electric field strength}}{charge} \\\\
+    & voltage = \frac{\text{Electric field strength}}{charge} \newline
     & V = \frac{E}{q}
 \end{align*}
 
@@ -45,7 +45,7 @@ Recall that a circuit is an energy delivery system!
 ## Power
 
 \begin{align*}
-    & power = current \times voltage \\\\
+    & power = current \times voltage \newline
     & P = IV
 \end{align*}
 
@@ -91,8 +91,8 @@ The higher the resistance, the more heat produced!
 ## Ohm's Law
 
 \begin{align*}
-    & V = IR \\\\
-    & voltage = current \times resistance \\\\
+    & V = IR \newline
+    & voltage = current \times resistance \newline
 \end{align*}
 
 - Voltage is measured in..
@@ -112,10 +112,10 @@ The higher the resistance, the more heat produced!
 ### Question 1 Answer
 
 \begin{align*}
-    & V = IR \\\\
-    & I = \frac{V}{R} \\\\
-    & I = \frac{12}{1500} \\\\
-    & I = 0.008A \\\\
+    & V = IR \newline
+    & I = \frac{V}{R} \newline
+    & I = \frac{12}{1500} \newline
+    & I = 0.008A \newline
 \end{align*}
 
 ---
@@ -123,10 +123,10 @@ The higher the resistance, the more heat produced!
 ### Question 2 Answer
 
 \begin{align*}
-    & V = IR \\\\
-    & R = \frac{V}{I} \\\\
-    & R = \frac{9}{0.00003} \\\\
-    & R = 300000\Omega \\\\
+    & V = IR \newline
+    & R = \frac{V}{I} \newline
+    & R = \frac{9}{0.00003} \newline
+    & R = 300000\Omega \newline
 \end{align*}
 
 ---
@@ -134,7 +134,7 @@ The higher the resistance, the more heat produced!
 #### Question 3 Answer
 
 \begin{align*}
-    & V = IR \\\\
-    & V = (180 \times 10^{-6}) \times (0.6 \times 10^{6}) \\\\
-    & V = 108V \\\\
+    & V = IR \newline
+    & V = (180 \times 10^{-6}) \times (0.6 \times 10^{6}) \newline
+    & V = 108V \newline
 \end{align*}

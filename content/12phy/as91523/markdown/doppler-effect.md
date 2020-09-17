@@ -60,14 +60,14 @@ Bodgan is observing a star through a telescope, and it appears to be orange. He 
 - If you do not have these equations in your book, copy them down and include the units for each variable.
 
 \begin{align*}
-    & v = f\lambda \\\\
+    & v = f\lambda \newline
     & velocity = frequency \times wavelength
 \end{align*}
 
 ---
 
 \begin{align*}
-    & f = \frac{1}{T} \\\\
+    & f = \frac{1}{T} \newline
     & frequency = \frac{1}{period}
 \end{align*}
 

@@ -55,7 +55,7 @@ What happens to the atoms/molecules during a chemical reaction?
 Complete the word and balanced symbol equation for this reaction.
 
 \begin{align*}
-    & methane \quad + \quad oxygen \rightarrow \hspace{2cm} + \hspace{2cm} \\\\
+    & methane \quad + \quad oxygen \rightarrow \hspace{2cm} + \hspace{2cm} \newline
     & CH_{4} \quad + \quad O_{2} \rightarrow \hspace{2cm} + \hspace{2cm}
 \end{align*}
 
@@ -66,7 +66,7 @@ Complete the word and balanced symbol equation for this reaction.
 Complete combustion of methane:
 
 \begin{align*}
-    & methane \quad + \quad oxygen \rightarrow \quad \text{carbon dioxide} + \quad water \\\\
+    & methane \quad + \quad oxygen \rightarrow \quad \text{carbon dioxide} + \quad water \newline
     & CH_{4} \quad + \quad 2O_{2} \rightarrow \quad CO_{2} + \quad 2H_{2}O
 \end{align*}
 
@@ -77,7 +77,7 @@ Complete combustion of methane:
 Complete the word and balanced symbol equation for this reaction.
 
 \begin{align*}
-    & magnesium \quad + \quad oxygen \rightarrow \hspace{2cm} \\\\
+    & magnesium \quad + \quad oxygen \rightarrow \hspace{2cm} \newline
     & Mg \quad + \quad O_{2} \rightarrow \hspace{2cm}
 \end{align*}
 
@@ -88,7 +88,7 @@ Complete the word and balanced symbol equation for this reaction.
 Burning of Magnesium
 
 \begin{align*}
-    & magnesium \quad + \quad oxygen \rightarrow \quad \text{magnesium oxide} \\\\
+    & magnesium \quad + \quad oxygen \rightarrow \quad \text{magnesium oxide} \newline
     & 2Mg \quad + \quad O_{2} \rightarrow \quad 2MgO
 \end{align*}
 
@@ -97,9 +97,9 @@ Burning of Magnesium
 ### Balance these reactions:
 
 \begin{align*}
-    & C \quad + \quad O_{2} \rightarrow \quad CO_{2} \\\\
-    & H_{2} \quad + \quad O_{2} \rightarrow \quad H_{2}O \\\\
-    & N_{2} \quad + \quad H_{2} \rightarrow \quad NH_{3} \\\\
+    & C \quad + \quad O_{2} \rightarrow \quad CO_{2} \newline
+    & H_{2} \quad + \quad O_{2} \rightarrow \quad H_{2}O \newline
+    & N_{2} \quad + \quad H_{2} \rightarrow \quad NH_{3} \newline
     & CH_{4} \quad + \quad O_{2} \rightarrow \quad CO_{2} + \quad H_{2}O
 \end{align*}
 
@@ -108,9 +108,9 @@ Burning of Magnesium
 #### Answer
 
 \begin{align*}
-    & C \quad + \quad O_{2} \rightarrow \quad CO_{2} \\\\
-    & 2H_{2} \quad + \quad O_{2} \rightarrow \quad 2H_{2}O \\\\
-    & N_{2} \quad + \quad 3H_{2} \rightarrow \quad 2NH_{3} \\\\
+    & C \quad + \quad O_{2} \rightarrow \quad CO_{2} \newline
+    & 2H_{2} \quad + \quad O_{2} \rightarrow \quad 2H_{2}O \newline
+    & N_{2} \quad + \quad 3H_{2} \rightarrow \quad 2NH_{3} \newline
     & CH_{4} \quad + \quad 2O_{2} \rightarrow \quad CO_{2} + \quad 2H_{2}O
 \end{align*}
 

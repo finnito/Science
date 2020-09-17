@@ -86,8 +86,8 @@ Calculate the approximate density of Earth using the following information:
 ### Answer
 
 \begin{align*}
-    & density = |frac{mass}{volume} \\\\
-    & density = \frac{6\times10^{24}kg}{1\times10^{21}m^{3}} \\\\
+    & density = |frac{mass}{volume} \newline
+    & density = \frac{6\times10^{24}kg}{1\times10^{21}m^{3}} \newline
     & density = 6000kg/m^{3} \text{ 6000kg per cubic meter}
 \end{align*}
 

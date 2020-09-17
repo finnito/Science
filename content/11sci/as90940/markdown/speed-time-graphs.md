@@ -33,8 +33,8 @@ header-includes:
 ![](../assets/2-velocity-time-graph.png)
 
 \begin{align*}
-    a &= \frac{rise}{run} \\
-    a &= \frac{\Delta v}{\Delta t} \\
+    a &= \frac{rise}{run} \newline
+    a &= \frac{\Delta v}{\Delta t} \newline
     a &= \frac{v_{f} - v_{i}}{\Delta t}
 \end{align*}
 

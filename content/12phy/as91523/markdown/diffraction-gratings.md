@@ -66,7 +66,7 @@ header-includes:
 - Diffraction gratings are typically described like so: "2000 lines per cm" and you need to find slit spacing ($d$) from this
 
 \begin{align*}
-    d &= \frac{1cm}{2000 lines} = 5\times10^{-4}cm \\
+    d &= \frac{1cm}{2000 lines} = 5\times10^{-4}cm \newline
     d &= 5\times10^{-6}m
 \end{align*}
 

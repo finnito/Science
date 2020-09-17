@@ -47,8 +47,8 @@ This means that the atomic number of the decaying atom is ________ by ________ a
 ---
 
 \begin{align*}
-    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}He \\\\
-    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}\alpha \\\\
+    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}He \newline
+    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}\alpha \newline
 \end{align*}
 
 ---
@@ -68,8 +68,8 @@ This means that the atomic number of the decay atom is ________ by ________ and 
 ---
 
 \begin{align*}
-    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}e \\\\
-    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}\beta \\\\
+    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}e \newline
+    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}\beta \newline
 \end{align*}
 
 ---
@@ -87,7 +87,7 @@ In a gamma emission, the decaying atom only loses energy, which means it has the
 ---
 
 \begin{align*}
-    & {}^{201}_{79}Au \rightarrow {}^{201}_{79}Au + \gamma \\\\
+    & {}^{201}_{79}Au \rightarrow {}^{201}_{79}Au + \gamma \newline
 \end{align*}
 
 ---

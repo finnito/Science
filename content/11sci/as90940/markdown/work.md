@@ -63,7 +63,7 @@ __Recall__: Work is the amount of energy transferred
 In the vertical direction, work can be calculated using this formula
 
 \begin{align*}
-    & work = force \times distance \\\\
+    & work = force \times distance \newline
     & W = F \times d
 \end{align*}
 
@@ -102,8 +102,8 @@ A rocket is launched with an acceleration of $90ms^{-2}$. It has a mass of $5kg$
 - Since Joules is the unit for energy, we know this means energy per second.
 
 \begin{align*}
-    & power = \frac{work}{time} \\\\
-    & P = \frac{W}{t} \\\\
+    & power = \frac{work}{time} \newline
+    & P = \frac{W}{t} \newline
 \end{align*}
 
 ---

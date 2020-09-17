@@ -137,7 +137,7 @@ Alternatively we can call this, negative and positive acceleration. All the __ne
 This works because of algebra:
 
 \begin{align*}
-    & a - b = a + -b \\\\
+    & a - b = a + -b \newline
 \end{align*}
 
 ---
@@ -147,7 +147,7 @@ This works because of algebra:
 Velocity is a vector and a change ($\Delta$) is calculated like this: 
 
 \begin{align*}
-    & \Delta v = v_{f} - v_{i} \\\\
+    & \Delta v = v_{f} - v_{i} \newline
 \end{align*}
 
 Can we turn this into __vector addition__?
@@ -157,8 +157,8 @@ Can we turn this into __vector addition__?
 ### $\Delta$ v
 
 \begin{align*}
-    & \Delta v = v_{f} - v_{i} \\\\
-    & \Delta v = v_{f} + (-v_{i}) \\\\
+    & \Delta v = v_{f} - v_{i} \newline
+    & \Delta v = v_{f} + (-v_{i}) \newline
 \end{align*}
 
 What does making negative $v_{i}$ do to the vector?
@@ -194,7 +194,7 @@ Take two minutes and find an equation for the horizontal component of the triang
 To find the horizontal component:
 
 \begin{align*}
-    & a = \frac{o}{tan(\theta)} \\\\
+    & a = \frac{o}{tan(\theta)} \newline
 \end{align*}
 
 ---
@@ -210,5 +210,5 @@ Take two minutes and find an equation for the vertical component of the triangle
 To find the horizontal component:
 
 \begin{align*}
-    & o = a \times tan(\theta) \\\\
+    & o = a \times tan(\theta) \newline
 \end{align*}

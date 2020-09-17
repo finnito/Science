@@ -158,10 +158,10 @@ header-includes:
 ## Interference Formula {.c2}
 
 \begin{align*}
-    \theta &= \frac{x}{L} \\
-    L \theta &= x \\
-    L \frac{pd}{d} &= x \\
-    L pd &= dx \\
+    \theta &= \frac{x}{L} \newline
+    L \theta &= x \newline
+    L \frac{pd}{d} &= x \newline
+    L pd &= dx \newline
     pd &= \frac{dx}{L}
 \end{align*}
 

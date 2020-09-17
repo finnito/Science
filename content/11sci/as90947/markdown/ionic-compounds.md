@@ -100,7 +100,7 @@ Copy this table into your own book and work in pairs to complete it.
 - To use more than one of an ion you use a subscript <sub>like this</sub>
 
 \begin{align*}
-    Na^{+} + Cl^{-} \rightarrow NaCl \\\\
+    Na^{+} + Cl^{-} \rightarrow NaCl \newline
     Cu^{2+} + 2OH^{-} \rightarrow Cu(OH)_{2}
 \end{align*}
 

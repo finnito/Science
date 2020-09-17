@@ -44,7 +44,7 @@ How would you put this fire out?
 When something is burned, a chemical reaction occurs between the fuel and oxygen.
 
 \begin{align*}
-    & magnesium + oxygen \rightarrow \text{magnesium oxide} \\\\
+    & magnesium + oxygen \rightarrow \text{magnesium oxide} \newline
     & carbon + oxygen \rightarrow \text{carbon dioxide}
 \end{align*}
 

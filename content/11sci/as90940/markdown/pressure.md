@@ -43,8 +43,8 @@ It causes the object to accelerate (or de-accelerate).
 We know this because of the equation
 
 \begin{align*}
-    & force = mass\times acceleration \\\\
-    & F = m \times a
+    force &= mass\times acceleration \newline
+    F &= m \times a
 \end{align*}
 
 ---
@@ -85,8 +85,8 @@ The most classic case of pressure is sharpening a knife. Why do we sharpen knive
 Pressure is defined as: _the amount of force per square meter_.
 
 \begin{align*}
-    & pressure = \frac{force}{area} \\\\
-    & P = \frac{F}{A}
+    pressure &= \frac{force}{area} \newline
+    P &= \frac{F}{A}
 \end{align*}
 
 - Force is measured in __Newtons (N)__
@@ -120,10 +120,10 @@ Pressure is defined as: _the amount of force per square meter_.
 ### Ngā Whakatika
 
 \begin{align*}
-    & P = \frac{F}{A} \\\\
-    & \text{1. } P = \frac{3}{0.5} = 6Pa \\\\
-    & \text{2. } P = \frac{3}{0.25} = 12Pa \\\\
-    & \text{3. } P = \frac{3}{0.125} = 24Pa
+    P &= \frac{F}{A} \newline
+    \text{1. } &P = \frac{3}{0.5} = 6Pa \newline
+    \text{2. } &P = \frac{3}{0.25} = 12Pa \newline
+    \text{3. } &P = \frac{3}{0.125} = 24Pa
 \end{align*}
 
 ---
@@ -143,10 +143,10 @@ Pressure is defined as: _the amount of force per square meter_.
 ### Ngā Whakatika
 
 \begin{align*}
-    & A = \frac{F}{P} \\\\
-    & \text{4. } A = \frac{5}{7} = 0.71m^{2} \\\\
-    & \text{5. } A = \frac{7}{3} =  2.33m^{2} \\\\
-    & \text{6. } A = \frac{10}{3} = 3.33m^{2}
+    A &= \frac{F}{P} \newline
+    \text{4. } &A = \frac{5}{7} = 0.71m^{2} \newline
+    \text{5. } &A = \frac{7}{3} =  2.33m^{2} \newline
+    \text{6. } &A = \frac{10}{3} = 3.33m^{2}
 \end{align*}
 
 ---
@@ -166,10 +166,10 @@ Pressure is defined as: _the amount of force per square meter_.
 ### Ngā Whakatika
 
 \begin{align*}
-    & F = P \times A \\\\
-    & \text{7. } F = 0.25 \times 5 = 1.25N \\\\
-    & \text{8. } F = 0.5 \times 7 = 3.5N \\\\
-    & \text{9. } F = 0.75 \times 10 = 7.5N
+    F &= P \times A \newline
+    & \text{7. } F &= 0.25 \times 5 = 1.25N \newline
+    & \text{8. } F &= 0.5 \times 7 = 3.5N \newline
+    & \text{9. } F &= 0.75 \times 10 = 7.5N
 \end{align*}
 
 ---
@@ -205,11 +205,11 @@ Giovanni is running a 100m sprint. Each of his feet have a surface area of $200c
 Because __weight__ is a force, we know that we are looking for $F$.
 
 \begin{align*}
-    & P = 13000Pa
-    & A = 0.02m^{2} \times 2 = 0.04m^{2} \\\\
-    & F = P \times A \\\\
-    & F = 13000 \times 0.04 \\\\
-    & F = 520N
+    P &= 13000Pa
+    A &= 0.02m^{2} \times 2 = 0.04m^{2} \newline
+    F &= P \times A \newline
+    F &= 13000 \times 0.04 \newline
+    F &= 520N
 \end{align*}
 
 ---

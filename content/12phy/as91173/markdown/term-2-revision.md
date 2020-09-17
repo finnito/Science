@@ -32,7 +32,7 @@ For both __cations__ and __anions__:
 \end{align*}
 
 \begin{align*}
-    & \vec{F} = \vec{E}q \\\\
+    & \vec{F} = \vec{E}q \newline
 \end{align*}
 
 6. Draw a uniform electric field between two plates with a potential difference of $2,000V$ and distance of $25cm$.
@@ -50,7 +50,7 @@ For both __cations__ and __anions__:
 ---
 
 \begin{align*}
-    & P = IV \\\\
+    & P = IV \newline
     & V = IR
 \end{align*}
 

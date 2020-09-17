@@ -138,14 +138,14 @@ A metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8
 ---
 
 \begin{align*}
-    & V = BvL \\\\
-    & V = 0.7 \times 8 \times 0.24 \\\\
+    & V = BvL \newline
+    & V = 0.7 \times 8 \times 0.24 \newline
     & V = 1.344V
 \end{align*}
 
 \begin{align*}
-    & V = IR \\\\
-    & I = \frac{V}{R} \\\\
+    & V = IR \newline
+    & I = \frac{V}{R} \newline
     & I = \frac{1.344}{10} = 0.1344A
 \end{align*}
 ---

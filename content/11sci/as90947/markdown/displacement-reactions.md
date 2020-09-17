@@ -38,11 +38,11 @@ header-includes:
 
 ## Displacement Reactions
 
-\\[
+\newline[
 \begin{align*}
     A + BC \longrightarrow B + AC
 \end{align*}
-\\]
+\newline]
 
 A reaction where an ion (B) is _replaced_ by another ion (A) in a compound.
 
@@ -93,12 +93,12 @@ In chemistry, one ion displaces another because it is more __reactive__.
 
 Note which end is the most and least reactive on your resource sheet.
 
-\\[
+\newline[
 \begin{align*}
-    & \text{Most Reactive} \longrightarrow \text{Least Reactive} \\
+    & \text{Most Reactive} \longrightarrow \text{Least Reactive} \newline
     & Ca, Mg, Al, Zn, Fe, Pb, (H), Cu, Ag
 \end{align*}
-\\]
+\newline]
 
 ---
 
