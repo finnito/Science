@@ -1,6 +1,3 @@
 public/
-*.html
-*.pdf
-*.zip
 **/**/slides/assets/*
 *log
