@@ -101,7 +101,7 @@ def reload_webpage():
         tell window 1
             --options
             set myTab to tab 1
-            set myTab to first tab whose URL starts with "http://science.test"
+            set myTab to first tab whose URL starts with "http://putaiao.test"
 
             if current tab is not myTab then set current tab to myTab
             tell myTab to do JavaScript "location.reload();"
