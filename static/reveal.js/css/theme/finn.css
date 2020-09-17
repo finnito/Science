@@ -222,9 +222,9 @@ body {
 .reveal blockquote {
   display: block;
   position: relative;
-  margin: 0;
+  margin: 0.5rem;
   font-style: italic;
-  background: rgba(0,0,0,0.2);
+  background: rgba(0,0,0,0.05);
   border-radius: 0.25rem;
   border-left: 4px solid #2ecc71;
   padding-left: 2rem;
