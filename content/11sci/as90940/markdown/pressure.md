@@ -94,8 +94,6 @@ Pressure is defined as: _the amount of force per square meter_.
 
 ---
 
-# Pressure Continued
-
 \begin{align*}
     & P = \frac{F}{A}
 \end{align*}
