@@ -4,6 +4,7 @@ subtitle: 11SCI - Mechanics
 author: Finn LeSueur
 date: 2020
 theme: finn
+katex: true
 weight: 6
 header-includes:
 - \usepackage{graphicx}
@@ -37,7 +38,7 @@ What does an unbalanced force do to the motion of an object?
 
 ### Whakatika Tahi
 
-It causes the object to accelerate (or deaccelerate).
+It causes the object to accelerate (or de-accelerate).
 
 We know this because of the equation
 
@@ -100,7 +101,7 @@ Pressure is defined as: _the amount of force per square meter_.
 \end{align*}
 
 - Therefore, pressure is measured in Newtons per meters squared ($\frac{N}{m^{2}}$ OR $Nm^{-2}$)
-- This is also known as a Pascal (Pa): $Pa = \frac{N}{m^{2}} = NM^{-2}$
+- This is also known as a Pascal (Pa): $Pa = \frac{N}{m^{2}} = Nm^{-2}$
 
 ---
 
