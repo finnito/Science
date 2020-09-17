@@ -55,11 +55,14 @@ menu:
     - [Quizlet flashcards](https://quizlet.com/nz/526266053/electromagnetic-spectrum-flash-cards/)
     - Education Perfect Task
 3. #### Visible Light
-    - Colour patches
-    - __Whakamātau__: Newton's Disc
-    - https://drive.google.com/drive/u/0/folders/1GZMb1ILwVISiCNxoKqoyUYMOAplP1z-o
-    - __Demo__: Prisms and Rainbows
-    - https://www.riskassess.co.nz/risk_assessment/8683835
+    - __Mahi Tuatahi__: Mix and match activity
+    - Notes on visible light, luminous object, what are colours
+    - __Whakakite__: Prisms/Ngā Poro
+        - https://www.riskassess.co.nz/risk_assessment/8683835
+    - __Whakakite__: Newton's Wheel
+    - Notes on colour blindness
+    - __Whakamātau__: [Colour blindness test](https://enchroma.com/pages/color-blindness-test?format2=number)
+    - Extra: [Quizlet flashcards](https://quizlet.com/nz/526266053/electromagnetic-spectrum-flash-cards/)
 4. #### Visible Light 2
     - Colour blind test
     - Chromatic adaptation
