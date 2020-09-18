@@ -22,6 +22,43 @@ img, iframe {
   box-shadow: 0 0 10px rgba(0,0,0,0.16), 0 0 10px rgba(0,0,0,0.23);
   border-radius: 0.25rem;
   overflow: hidden;
+  max-height: 75vh;
+}
+
+main > hr {
+  display: none;
+}
+
+main > h1::before {
+  content: "# ";
+}
+
+main > h2::before {
+  content: "## ";
+}
+
+main > h3::before {
+  content: "### ";
+}
+
+main > h4::before {
+  content: "#### ";
+}
+
+main > h1 {
+  border-bottom: 3px solid black;
+}
+
+main > h2 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+main > h3 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+main > h4 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 :target {
@@ -50,15 +87,27 @@ iframe[title^='Sponsor'] {
 
 h1 {
   margin: 0.5rem 0;
+  font-weight: 700;
 }
 
 h2 {
   margin-bottom: 0;
+  font-weight: 600;
+  
 }
 
 h2 em {
   font-weight: 300;
   font-style: italic;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+li h4,
+h4 {
+  font-weight: 500;
 }
 
 h4 { margin: 0; }
