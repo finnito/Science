@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Exam Timer | Pūtaiao with LSF</title>
+    <style>
+        html,body {margin: 0; padding: 0;}
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            height: 100vh;
+            width: 100vw;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+        h1, h2 {text-align: center;}
+        h1 {
+            font-size: 12vw;
+            margin: 0;
+        }
+        h2 {
+            font-size: 5vw;
+            margin: 0;
+        }
+
+        p { font-size: 2.5rem; }
+
+        input, label {display: inline-block;}
+
+        *[contenteditable] {
+            border: 1px solid #dcdde1;
+            border-radius: 0.25rem;
+            padding: 0.25rem 1rem;
+            transition: border 150ms;
+        }
+        .kowhaiwhai {
+            margin: 0;
+            width: 100vw;
+            height: 50px;
+            background-image: url(/kowhaiwhai.png);
+            background-repeat: repeat-x;
+            background-size: contain;
+            border-bottom-right-radius: 0.25rem;
+            border-bottom-left-radius: 0.25rem;
+        }
+    </style>
+    <link rel="icon" href="/favicon.png">
+  </head>
+  <body>
+    <div>
+        <label>Exam Finishing Time (format: 14:10 am/pm)</label>
+        <input type="time"/>
+    </div>
+    <div>
+        <h2 contenteditable>Exam Title (Edit Me)</h2>
+        <h1 id="countdown"></h1>
+        <p contenteditable>
+            - Bags at the front<br/>
+            - Pens, pencils, calculators, rulers and water at desks only<br/>
+            - Reset calculator if necessary<br/>
+            - Phones on silent and in your bags at the front<br/>
+            - No leaving in the first 30 minutes or last 30 minutes
+        </p>
+    </div>
+    <div class="kowhaiwhai"></div>
+    <script>
+        // Update the count down every 1 second
+        var x = setInterval(function() {
+
+            var res = document.querySelector("input").value.split(":");
+
+            var countDownDate = new Date();
+            countDownDate.setHours(res[0]);
+            countDownDate.setMinutes(res[1]);
+            countDownDate = countDownDate.getTime();
+
+          // Get today's date and time
+          var now = new Date().getTime();
+
+          console.log(countDownDate);
+          console.log(now);
+
+          // Find the distance between now and the count down date
+          var distance = Math.round((countDownDate - now)/1000);
+
+          console.log(distance);
+
+          // Time calculations for days, hours, minutes and seconds
+          var hours = Math.floor((distance % (60 * 60 * 24)) / (60 * 60));
+          var minutes = Math.floor((distance % (60 * 60)) / (60));
+
+          // Display the result in the element with id="demo"
+          document.getElementById("countdown").innerHTML = hours + "h "
+          + minutes + "m ";
+
+          // If the count down is finished, write some text 
+          if (distance < 0) {
+            document.getElementById("countdown").innerHTML = "Finished!";
+          }
+        }, 1000);
+    </script>
+  </body>
+</html>
