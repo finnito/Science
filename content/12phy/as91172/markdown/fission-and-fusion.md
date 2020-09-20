@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Understand the difference between nuclear fission and fusion
 - Use $E=mc^{2}$

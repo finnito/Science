@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Be able to calculate the frequency of beats
 - Be able to calculate the velocity of a source using the beat frequency

@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - Describe how earthquakes travel through the Earth's rust
 - Describe the characteristics of P, S and L seismic waves
@@ -68,7 +68,7 @@ header-includes:
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - How do we measure earthquakes?
 

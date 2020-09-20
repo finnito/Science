@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Be able to identify different forms of energy
 - Be able to describe different forms of energy
@@ -85,7 +85,7 @@ Gravitational, nuclear, chemical, elastic and magnetic
 Match these types of energy and their definitions up in your book:
 
 |               |            |                                |                                 |
-|---------------|------------|--------------------------------|---------------------------------|
+|:--------------|:-----------|:-------------------------------|:--------------------------------|
 | Thermal       | Light      | Light Bulbs, a Bunsen flame    | talking, TV, radio              |
 | Gravitational | Kinetic    | hot water, a hot radiator      | Nuclear bombs, power stations   |
 | Nuclear       | Sound      | Anything that is moving        | Food, batteries, burning things |

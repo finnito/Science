@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Understand the history and process of how we came to our current atomic model
 

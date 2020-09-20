@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - To describe what is needed for burning to occur.
 

@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 I can use a Bunsen burner safely and explain how it works.
 

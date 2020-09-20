@@ -20,7 +20,7 @@ header-includes:
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. Explain how the seasons are produced by an orbit
 2. Explain how the Moon has phases and creates tides

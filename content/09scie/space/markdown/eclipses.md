@@ -22,7 +22,7 @@ Brainstorm on the board what you know about eclipses! Diagrams, dates, what obje
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Explain how the different types of eclipses form
 

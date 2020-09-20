@@ -17,7 +17,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - To describe what happens in a displacement reaction.
 

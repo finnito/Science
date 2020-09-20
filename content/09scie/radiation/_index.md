@@ -8,7 +8,7 @@ menu:
 
 {{< slides >}}
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. __What is Radiation?__
     - I can name the main source of radiation and describe how it transfers energy

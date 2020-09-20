@@ -24,7 +24,7 @@ header-includes:
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Describe what digestion involves and why it is necessary
 

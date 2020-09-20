@@ -8,7 +8,7 @@ menu:
 
 {{< slides >}}
 
-## Whāinga Ako
+## Ngā Whāinga Ako
 
 1. Describe the key components of the history of the atom, including Dalton, Thompson and Rutherford models.
 2. Describe Rutherford’s gold leaf experiment.
@@ -37,6 +37,7 @@ menu:
 
 1. #### Structure of the Atom
     - Follow slides #1
+    - Kahoot if needed: https://create.kahoot.it/v2/details/ca4b9437-4d48-4ba3-a526-97b558ee04a3
 2. #### Discovering the Atomic Structure 1
     - Homework Booklet: 2004 Q2, 2005 Q1-2, 2006 Q1, 2007 Q1
     - Worksheet 1: Questions 1-4

@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - To be able to explain the function of a wick
 

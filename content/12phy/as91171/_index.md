@@ -7,7 +7,7 @@ menu:
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91171](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91171)
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. __Motion__
     1. Constant acceleration in a straight line
@@ -34,16 +34,16 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Unit Plan
 
-|          | Lesson 1              | Lesson 2               | Lesson 3                  | Lesson 4                 |
-|:---------|:----------------------|:-----------------------|:--------------------------|:-------------------------|
-| Week 1   | _Teacher Only Day_    | _Juniors Only_         | Maths License             | Speed & Acceleration     |
-| Week 2   | Scalars & Vectors     | Vectors in 1D (Delta)  | _Waitangi Day_            | Vectors in 2D            |
-| Week 3   | Vector Components     | Vector Revision        | Vector Test               | Kinematic Equations      |
-| Week 4   | Kinematic Equations   | Kinematic Equations    | Newton's Laws             | Newton's Laws            |
-| Week 5   | Newton's Laws         | __Mid-Topic Test #1__  | Projectile Motion         | Projectile Motion        |
-| Week 6   | Projectile Motion     | Projectile Motion      | Projectile Motion         | Torque & Equilibrium     |
-| Week 7   | Torque & Equilibrium  | Torque & Equilibrium   | Torque & Equilibrium      | Torque & Equilibrium     |
-| Week 8   | Circular Motion       | Circular Motion        | Circular Motion           | __Mid-Topic Test #2__    |
-| Week 9   | Momentum & Impulse    | Momentum & Impulse     | Momentum & Impulse        | Momentum & Impulse       |
-| Week 10  | Momentum & Impulse    | Energy Conservation    | Elastic Potential Energy  | Work & Power             |
-| Week 11  | __Revision__          | __TEST__               | _Hand Back Test_          | _Work on Test Mistakes_  |
+|         | Lesson 1             | Lesson 2              | Lesson 3                 | Lesson 4                |
+|:--------|:---------------------|:----------------------|:-------------------------|:------------------------|
+| Week 1  | _Teacher Only Day_   | _Juniors Only_        | Maths License            | Speed & Acceleration    |
+| Week 2  | Scalars & Vectors    | Vectors in 1D (Delta) | _Waitangi Day_           | Vectors in 2D           |
+| Week 3  | Vector Components    | Vector Revision       | Vector Test              | Kinematic Equations     |
+| Week 4  | Kinematic Equations  | Kinematic Equations   | Newton's Laws            | Newton's Laws           |
+| Week 5  | Newton's Laws        | __Mid-Topic Test #1__ | Projectile Motion        | Projectile Motion       |
+| Week 6  | Projectile Motion    | Projectile Motion     | Projectile Motion        | Torque & Equilibrium    |
+| Week 7  | Torque & Equilibrium | Torque & Equilibrium  | Torque & Equilibrium     | Torque & Equilibrium    |
+| Week 8  | Circular Motion      | Circular Motion       | Circular Motion          | __Mid-Topic Test #2__   |
+| Week 9  | Momentum & Impulse   | Momentum & Impulse    | Momentum & Impulse       | Momentum & Impulse      |
+| Week 10 | Momentum & Impulse   | Energy Conservation   | Elastic Potential Energy | Work & Power            |
+| Week 11 | __Revision__         | __TEST__              | _Hand Back Test_         | _Work on Test Mistakes_ |

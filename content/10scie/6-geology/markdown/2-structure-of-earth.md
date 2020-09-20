@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - To recall the layers of the Earth and distinguish between oceanic and continental crust.
 

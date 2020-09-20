@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Describe, locate and draw the main pieces of equipment used in Pūtaiao lessons.
 

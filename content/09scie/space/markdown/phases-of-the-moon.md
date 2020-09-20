@@ -20,7 +20,7 @@ header-includes:
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Explain how the Moon has phases
 - Practice explaining concepts

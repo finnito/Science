@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 Explain the basic structure and wavelength of a standing wave
 
@@ -124,7 +124,7 @@ Calculate the 3rd harmonic for a string with length 25cm where the speed of soun
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 5. Explain the modes of resonance of a string in terms of the fundamental vibration and the harmonics
 6. Calculate the harmonic frequencies of a string

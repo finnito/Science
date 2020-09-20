@@ -24,7 +24,7 @@ katex: true
 
 Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go on exam leave! Bring something you are unsure about and get help!
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. __Motion__
 	1. Name the metric units of __distance__, __time__ and __speed__ and give their symbols.
@@ -117,7 +117,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	- sciPAD page 34 and 36
 	- Self-mark the sciPAD using the QR code
 14. #### Terminal Velocity
-	- Learning Outcomes:
+	- Ngā Whāinga Ako:
 		1. Describe the relationship between mass and acceleration of an object which is acted upon by a given unbalanced force (called __net force__).
 		2. Use the relationship $F = ma$ to calculate the net force, mass or acceleration of an object.
 	- Video mahi tuatahi

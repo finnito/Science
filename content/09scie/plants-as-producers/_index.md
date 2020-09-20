@@ -8,7 +8,7 @@ menu:
 
 {{< slides >}}
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. __Living Organisms__
     1. Identify and describe the difference between living and non-living
@@ -36,7 +36,7 @@ menu:
 ### Lesson Plans
 
 1. #### Video/Finish Energy for Life Test
-    - Glue in Learning Outcomes
+    - Glue in Ngā Whāinga Ako
     - Watch _Life, Season 1, Episode 8: Plants (58min)_
 2. #### Plant & Animal Cells
     - Watch video on an introduction to cells

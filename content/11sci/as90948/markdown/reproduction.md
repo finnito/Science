@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - Define _species_
 - Compare and contrast sexual and asexual reproduction

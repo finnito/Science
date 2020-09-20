@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - Investigate and test for the products created in combustion.
 

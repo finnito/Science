@@ -6,7 +6,7 @@ menu:
         parent: "9SCIE"
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. Identify different forms of energy,
 2. Distinguish between active and potential forms of energy,

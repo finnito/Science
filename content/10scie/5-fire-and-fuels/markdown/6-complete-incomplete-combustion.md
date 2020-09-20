@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - Describe the differences between complete and incomplete combustion
 - Explain the disadvantages and dangers of incomplete combustion

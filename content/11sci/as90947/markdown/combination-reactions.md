@@ -29,7 +29,7 @@ header-includes:
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - To describe what happens in a combination reaction.
 

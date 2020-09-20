@@ -10,7 +10,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 
 {{< slides >}}
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. Demonstrate the appropriate use of significant figures
 2. Use $v=f \lambda$ and $f = \frac{1}{T}$ to calculate the wavelength, time period, frequency and velocity of a wave

@@ -12,7 +12,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Be able to describe the law of conservation of energy
 - Be able to give examples of the law of conservation of energy
@@ -29,7 +29,7 @@ Recall from last class the different types of energy:
 ---
 
 | Potential     | Active   |
-|---------------|----------|
+|:--------------|:---------|
 | Chemical      | Kinetic  |
 | Gravitational | Heat     |
 | Elastic       | Radiant  |

@@ -20,7 +20,7 @@ __Mahi Tuatahi__: Using the whiteboards, brainstorm what you know about how day/
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. Describe how day and night are caused by rotation
 2. Identify prominent features on the Earth and Moon

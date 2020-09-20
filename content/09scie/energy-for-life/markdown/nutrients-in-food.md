@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{wrapfig}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Be able to list the major nutrients found in food
 - Be able to say what each nutrient is used for
@@ -244,7 +244,7 @@ Dietary minerals are the chemical elements required by living organisms other th
 __Task:__ Match these up!
 
 | Nutrient      | Use                                      |
-|---------------|------------------------------------------|
+|:--------------|:-----------------------------------------|
 | Minerals      | Small amounts for cells to work properly |
 | Proteins      | Energy and to make cell membranes        |
 | Carbohydrates | In small amounts to make chemicals       |

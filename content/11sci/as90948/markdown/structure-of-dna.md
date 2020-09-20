@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - Understand the structure of DNA (double helix, nucleotide, sugar, phosphate, base, and the base pairing rule).
 

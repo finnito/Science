@@ -23,7 +23,7 @@ header-includes:
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Describe plant growth, reproduction, __dispersal__ and why bees are so important.
 

@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - Use plate tectonics to explain why and where earthquakes and volcanic eruptions happen.
 

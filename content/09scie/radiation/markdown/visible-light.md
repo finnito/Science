@@ -24,7 +24,7 @@ header-includes:
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. I understand that visible light is made up of different wavelengths of light
 

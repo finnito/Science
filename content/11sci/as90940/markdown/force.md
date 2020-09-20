@@ -188,7 +188,7 @@ Complete the questions on the last page of the worksheet from last period!
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. Describe the relationship between mass and acceleration of an object which is acted upon by a given unbalanced force (called __net force__).
 2. Use the relationship $F = ma$ to calculate the net force, mass or acceleration of an object.

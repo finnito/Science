@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. To write word equations to show a chemical reaction
 2. To write symbol equations to show a chemical reactions with symbols of state

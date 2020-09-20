@@ -25,7 +25,7 @@ header-includes:
 
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - Review the structure of the atom
 

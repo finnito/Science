@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{wrapfig}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Be able to give the unit for energy
 - Be able to find the energy content of a food on a label

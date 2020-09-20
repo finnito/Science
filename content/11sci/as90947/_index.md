@@ -7,7 +7,7 @@ menu:
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90947](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90947)
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. To recall the symbols of the common elements in the periodic table
 2. To recall what happens in a chemical reaction and evidence for it happening

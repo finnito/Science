@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Understand and use the terms “genotype and phenotype”, “homozygous and heterozygous” and “dominant and recessive”.
 - Know how to carry out genetic crosses using punnet squares and determine genotypic and phenotypic ratios.

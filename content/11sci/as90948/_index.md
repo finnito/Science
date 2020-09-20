@@ -7,7 +7,7 @@ menu:
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90948](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90948)
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. Understand the relationship between cells, nuclei, chromosomes, genes, alleles and DNA.
 2. Understand the role DNA plays in carrying instructions to the next generation and determining phenotype.
@@ -35,11 +35,11 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Unit Plan
 
-|         | Lesson 1                                            | Lesson 2                     | Lesson 3                            | Lesson 4                       |
-|:--------|:----------------------------------------------------|:-----------------------------|:------------------------------------|:-------------------------------|
-| Week 1  | _Teacher Only Day_                                  | _Juniors Only_               | Relationship between cells to DNA   | The Role of DNA                |
-| Week 2  | Structure of DNA                                    | Structure of DNA & Proteins  | _Waitangi Day_                      | Variation                      |
-| Week 3  | Mitosis                                             | Mitosis                      | Meiosis                             | Meiosis                        |
-| Week 4  | Advantages & Disadvantages of Asexual Reproduction  | Sexual Reproduction          | Compare & Contrast Meiosis/Mitosis  | Mutations                      |
-| Week 5  | Genetic Terms                                       | Genetic Crosses              | _Athletics Day_                     | Phenotypic & Genotypic Ratios  |
-| Week 6  | Pedigree Charts                                     | Test Crosses                 | __Revision__                        | __TEST__                       |
+|        | Lesson 1                                           | Lesson 2                    | Lesson 3                           | Lesson 4                      |
+|:-------|:---------------------------------------------------|:----------------------------|:-----------------------------------|:------------------------------|
+| Week 1 | _Teacher Only Day_                                 | _Juniors Only_              | Relationship between cells to DNA  | The Role of DNA               |
+| Week 2 | Structure of DNA                                   | Structure of DNA & Proteins | _Waitangi Day_                     | Variation                     |
+| Week 3 | Mitosis                                            | Mitosis                     | Meiosis                            | Meiosis                       |
+| Week 4 | Advantages & Disadvantages of Asexual Reproduction | Sexual Reproduction         | Compare & Contrast Meiosis/Mitosis | Mutations                     |
+| Week 5 | Genetic Terms                                      | Genetic Crosses             | _Athletics Day_                    | Phenotypic & Genotypic Ratios |
+| Week 6 | Pedigree Charts                                    | Test Crosses                | __Revision__                       | __TEST__                      |

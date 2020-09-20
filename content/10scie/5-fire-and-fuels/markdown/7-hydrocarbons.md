@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - Recognise that a hydrocarbon contains only C and H atoms
 - Name and write the formula for the first six hydrocarbons

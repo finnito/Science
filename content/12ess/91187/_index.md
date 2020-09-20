@@ -7,7 +7,7 @@ menu:
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91187](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91187)
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 {{< slides >}}
 

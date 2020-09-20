@@ -24,7 +24,7 @@ header-includes:
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Be able to create a healthy diet
 

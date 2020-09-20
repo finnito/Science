@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - Understand the relationship between cells, nuclei, chromosomes, genes, alleles and DNA.
 - Understand the role DNA plays in carrying instructions to the next generation and determining phenotype.

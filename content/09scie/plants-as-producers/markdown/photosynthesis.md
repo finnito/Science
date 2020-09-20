@@ -24,7 +24,7 @@ Choose two seeds below. In your book, __Describe at least two adaptations that h
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. Describe and explain the process of photosynthesis
 2. Explain why plants are so important to life on Earth

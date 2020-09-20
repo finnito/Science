@@ -13,7 +13,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 Copy these learning outcomes and the date into your books!
 

@@ -12,7 +12,7 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. Name the metric units of __distance__, __time__ and __speed__ and give their symbols.
 2. Define the term speed.

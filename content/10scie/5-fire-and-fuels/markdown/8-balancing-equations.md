@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 8. Write the word equation for complete combustion
 9. Write the balanced symbol equation for complete combustion

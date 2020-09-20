@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - To understand the theory of plate tectonics and Wegener's theory of _continental drift_.
 - To describe the evidence to support Wegener's theory.

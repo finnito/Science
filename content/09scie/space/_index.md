@@ -8,7 +8,7 @@ menu:
 
 {{< slides >}}
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. __Earth & Moon__
     1. Describe how day and night are caused by rotation

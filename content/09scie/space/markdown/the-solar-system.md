@@ -24,7 +24,7 @@ Kahoot!
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 1. Explain the difference between the sun, planets and moons
 2. Use data to compare the surface conditions of planets

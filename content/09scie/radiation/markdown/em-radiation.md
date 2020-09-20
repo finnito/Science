@@ -24,7 +24,7 @@ We can capture radiation from the sun and use it for energy!
 
 ---
 
-## L1 Learning Outcomes
+## L1 Ngā Whāinga Ako
 
 1. I can name the main source of radiation and describe how it transfers energy
 
@@ -60,7 +60,7 @@ We can capture radiation from the sun and use it for energy!
 
 ---
 
-## Lesson 2 Learning Outcomes
+## Lesson 2 Ngā Whāinga Ako
 
 1. I can recall the order and use of each type of electromagnetic radiation/_hihi autōhiko_
 2. I can name the seven colours of the visible spectrum and describe how to produce a spectrum by dispersion

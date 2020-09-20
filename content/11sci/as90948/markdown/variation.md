@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-# Learning Outcomes
+# Ngā Whāinga Ako
 
 - Understand variation in terms of it being continuous or not continuous
 

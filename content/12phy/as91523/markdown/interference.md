@@ -21,7 +21,7 @@ header-includes:
 
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 - Explain the interference of two wave patterns in terms of nodes, anti-nodes and path difference
 

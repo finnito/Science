@@ -15,7 +15,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 13. Explain the greenhouse effect and its advantages and disadvantages
 14. List the greenhouse gasses

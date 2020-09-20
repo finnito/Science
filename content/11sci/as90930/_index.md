@@ -7,7 +7,7 @@ menu:
 
 NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90930](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90930)
 
-## Learning Outcomes
+## Ngā Whāinga Ako
 
 {{< slides >}}
 
