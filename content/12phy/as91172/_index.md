@@ -8,6 +8,23 @@ menu:
 
 {{< slides >}}
 
+## Whāinga Ako
+
+1. Describe the key components of the history of the atom, including Dalton, Thompson and Rutherford models.
+2. Describe Rutherford’s gold leaf experiment.
+3. Define the terms proton, neutron, electron, nucleon, atomic mass, atomic number and isotope.
+4. Understand the conditions governing atomic stability and therefore why some atoms are radioactive
+5. Describe half-life, and the dangers of radioactive waste.
+6. Complete basic calculations involving half-life.
+7. Describe the three forms of radioactivity – Alpha, Beta and Gamma radiation.
+8. Balance nuclear equations using the knowledge of the conservation of atomic and mass numbers.
+9. Describe the effect a magnetic field has on each form of radiation
+10. Describe binding energy and mass energy equivalence in terms of E=MC2
+11. Explain the difference between Fission and Fusion
+12. Discuss how nuclear power is generated, safety features and dangers. Include basic history of Fukushima, Chernobyl, Windscale, Three Mile island, Hiroshima & and Nagasaki and K-19, K-27, K-413.
+13. Complete energy and power calculations for a nuclear power plant.
+
+
 ## Unit Plan
 
 |        | Lesson 1 (Mon)           | Lesson 2 (Tues)                   | Lesson 3 (Wed)                    | Lesson 4 (Thurs)        |
@@ -19,6 +36,7 @@ menu:
 ### Lesson Plans
 
 1. #### Structure of the Atom
+    - Follow slides #1
 2. #### Discovering the Atomic Structure 1
     - Homework Booklet: 2004 Q2, 2005 Q1-2, 2006 Q1, 2007 Q1
     - Worksheet 1: Questions 1-4
