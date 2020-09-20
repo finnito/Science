@@ -2,11 +2,9 @@
 title: Atoms and Isotopes
 subtitle: 12PHY - Atomic and Nuclear Physics
 author: Finn LeSueur
-date: 2019
+date: 2020
 theme: finn
 weight: 1
-colortheme: dolphin
-font-size: 35px
 text-align: center
 header-includes:
 - \usepackage{graphicx}
@@ -24,17 +22,15 @@ header-includes:
 
 ---
 
-## Learning Outcomes
+## Akoranga Tahi: Whāinga Ako
 
-1. Learn about the structure of the atom
-2. Learn about isotopes
-3. Learn about other models of the atom
+3. Define the terms proton, neutron, electron, nucleon, atomic mass, atomic number and isotope.
 
 ---
 
 ## Question: What is everything made up of?
 
-- Elements!
+- Atoms/Elements!
 
 ---
 
@@ -137,7 +133,9 @@ Now add the atomic and mass numbers to __oxygen__, __sodium__, __aluminium__ and
 
 ## Atoms vs Ions
 
-- Every atom is neutral (has no overall charge). This is because they have the same number of protons and electrons. The positive charge of protons and the negative charge of electrons cancel each other out.
+- Every atom is neutral (has no net charge).
+- They have the same number of protons (+ve) and electrons (-ve).
+- The positive charge of protons and the negative charge of electrons cancel each other out.
 
 ---
 
@@ -150,8 +148,8 @@ Now add the atomic and mass numbers to __oxygen__, __sodium__, __aluminium__ and
 
 # Isotopes
 
-- Isotopes are the atoms that have the same number of protons (i.e. same element) but different numbers of neutrons.
-- They have the same atomic number but different mass numbers.
+- Isotopes are the atoms that have the same number of protons (same atomic number)
+- But different numbers of neutrons, giving them different mass numbers.
 - e.g. Carbon-12, Carbon-13, Carbon-14
 - (the numbers 12, 13, 14 are mass numbers)
 
