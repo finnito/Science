@@ -236,6 +236,7 @@ a.edit-page {
 }
 
 .button.download { background-color: #3498db; }
+.button.download:visited { color: white; }
 
 .top-buttons a,
 .button {
