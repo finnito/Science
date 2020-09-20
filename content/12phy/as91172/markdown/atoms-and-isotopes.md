@@ -20,8 +20,15 @@ header-includes:
 
 - Internal
 - 3 credits
-- Assessed on Week 1, Term 4
-- Those away are assessed in Week 2 (or 3), Term 4
+- Assessed on Friday Week 2, Term 4
+
+---
+
+## Learning Outcomes
+
+1. Learn about the structure of the atom
+2. Learn about isotopes
+3. Learn about other models of the atom
 
 ---
 
@@ -73,13 +80,39 @@ We know that each element is made up of a unique type atom
 
 ---
 
-- Electrons are constantly moving around the nucleus in an unknown way.
+- Electrons are constantly moving around the nucleus in a probabilistic way.
 - Protons have positive charge, electrons have negative charge and neutrons are neutral.
 - The nucleus is very small compare to the size of the whole atom, but has 99.95% of the mass (because electrons are very light).
 
 ---
 
+![[Source](https://www.britannica.com/science/Bohr-model)](https://cdn.britannica.com/s:700x500/09/149209-050-CA687C2F/Bohr-model-nitrogen-atom.jpg)
+
+---
+
+## Pātai Tahi
+
 Give the number of protons, neutrons, electrons and nucleons for __oxygen__, __sodium__, __aluminium__ and __copper__.
+
+|           | Nucleons | Protons | Neutrons | Electrons |
+|:----------|:---------|:--------|:---------|:----------|
+| Oxygen    |          |         |          |           |
+| Sodium    |          |         |          |           |
+| Aluminium |          |         |          |           |
+| Copper    |          |         |          |           |
+
+---
+
+### Whakatika Tahi
+
+|           | Nucleons | Protons | Neutrons | Electrons |
+|:----------|:---------|:--------|:---------|:----------|
+| Oxygen    | 16       | 8       | 8        | 8         |
+| Sodium    | 23       | 11      | 12       | 11        |
+| Aluminium | 27       | 13      | 14       | 13        |
+| Copper    | 64       | 29      | 35       | 29        |
+
+
 
 ---
 
@@ -93,6 +126,13 @@ Give the number of protons, neutrons, electrons and nucleons for __oxygen__, __s
 
 Now add the atomic and mass numbers to __oxygen__, __sodium__, __aluminium__ and __copper__.
 
+|           | Nucleons | Protons | Neutrons | Electrons |
+|:----------|:---------|:--------|:---------|:----------|
+| Oxygen    | 16       | 8       | 8        | 8         |
+| Sodium    | 23       | 11      | 12       | 11        |
+| Aluminium | 27       | 13      | 14       | 13        |
+| Copper    | 64       | 29      | 35       | 29        |
+
 ---
 
 ## Atoms vs Ions
@@ -104,9 +144,7 @@ Now add the atomic and mass numbers to __oxygen__, __sodium__, __aluminium__ and
 - However, an atom may lose (or gain) one or more electrons, in which case they become ‘ions’ – having a positive (or negative) charge. Losing or gaining electron(s) is called ionisation.
 - Atoms are neutral, ions are charged.
 
----
-
-![](../assets/1-table.png)
+![[Source](http://funi.lotap.renstra.fr09.org/ion-diagram.html)](https://static-cdn.imageservice.cloud/3528258/igcse-chemistry-2017-140-draw-dot-and-cross-diagrams-to-show-the.jpg)
 
 ---
 
@@ -119,4 +157,24 @@ Now add the atomic and mass numbers to __oxygen__, __sodium__, __aluminium__ and
 
 ---
 
-![](../assets/1-carbon-isotopes.png)
+## Pātai Rua
+
+For Carbon-12, Carbon-13 and Carbon-14, give the number of protons, neutrons and electrons.
+
+|           | Nucleons | Protons | Neutrons | Electrons |
+|:----------|:---------|:--------|:---------|:----------|
+| Carbon-12 |          |         |          |           |
+| Carbon-13 |          |         |          |           |
+| Carbon-14 |          |         |          |           |
+
+---
+
+### Whakatika Rua
+
+For Carbon-12, Carbon-13 and Carbon-14, give the number of protons, neutrons and electrons.
+
+|           | Nucleons | Protons | Neutrons | Electrons |
+|:----------|:---------|:--------|:---------|:----------|
+| Carbon-12 | 12       | 6       | 6        | 6         |
+| Carbon-13 | 12       | 6       | 7        | 6         |
+| Carbon-14 | 12       | 6       | 8        | 6         |
