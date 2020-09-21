@@ -45,6 +45,12 @@ body {
   max-height: 100%;
 }
 
+.reveal h1 em,
+.reveal h2 em,
+.reveal h3 em {
+  font-weight: 300;
+}
+
 .reveal .slide-background-content { height: auto; }
 
 .reveal .slides section,
@@ -62,6 +68,21 @@ body {
   width: 100vw;
   background-image: url(/kowhaiwhai-rotated.png);
   height: 50px;
+}
+
+.reveal .instruction {
+  background-color: #f6e58d;
+  padding: 0 0.25rem;
+  border-radius: 0.25rem;
+}
+
+.reveal .instruction::before {
+  content: "❗️";
+}
+
+.reveal .instruction p {
+  display: inline-block;
+  margin: 0;
 }
 
 .reveal .back-button {
@@ -224,7 +245,7 @@ body {
   position: relative;
   margin: 0.5rem;
   font-style: italic;
-  background: rgba(0,0,0,0.05);
+  background: rgba(46, 204, 113, 0.1);
   border-radius: 0.25rem;
   border-left: 4px solid #2ecc71;
   padding-left: 2rem;
