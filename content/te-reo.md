@@ -1,0 +1,15 @@
+---
+title: Te Reo Cheatsheet
+---
+
+A simple cheatsheet of teaching-related language to use in the classroom or on slides.
+
+- __Mahi Tuatahi__: Do Now/Starter
+- __Matapaki__: Discussion
+- __Ngā Whāinga Ako__: Learning Outcomes
+- __Pressure__: Pēhanga
+- __Pātai__: Question
+- __Te Reo__: Maori
+- __Te/Ngā__: The (singular)/the (plural)
+- __Whakamātau__: Investigation/Experiment
+- __Whakatika__: Answer
