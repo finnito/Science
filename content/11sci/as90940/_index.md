@@ -74,9 +74,9 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 | __T3 W6__  | [3. Distance-Time Graphs](#distance-time-graphs)      | [4. Speed-Time Graphs](#speed-time-graphs)  | [5.]()                                   | [.6]()                                |
 | __T3 W7__  | [7.]()                                                | 8.                                          | 9. [Mid-Topic Test 1](#mid-topic-test-1) | 10. [Self Marking 1](#self-marking-1) |
 | __T3 W8__  | 11. [Mass vs Weight 1](#mass-vs-weight-1)             | 12. [Mass vs Weight 2](#mass-vs-weight-2)   | 13. [Types of Forces](#types-of-forces)  |                                       |
-| __T3 W9__  | 15. [Running Man Whakamātau](#running-man-whakamātau) | 16. [Newton Whakamātau](#newton-whakamātau) | 17. [Pressure 1](#pressure-1)            | 18. Gravitational Energy              |
-| __T3 W10__ | 19. Gravitation and Kinetic Energy                    | 20. Kinetic Energy                          | 21. Energy Transformations               | 22. Power and Work                    |
-| __T4 W1__  | 23. Power and Work                                    | 24. Pressure                                | 25. Pressure                             | 26. Pressure                          |
+| __T3 W9__  | 15. [Running Man Whakamātau](#running-man-whakamātau) | 16. [Newton Whakamātau](#newton-whakamātau) | 17. [Pressure 1](#pressure-1)            | 18. [Pressure 1](#pressure-2)         |
+| __T3 W10__ | 19. [Gravitational Energy](#gravitational-energy)     | 20. Kinetic Energy                          | 21. Energy Transformations               | 22. Power and Work                    |
+| __T4 W1__  | 23. Power and Work                                    | 24.                                         | 25.                                      | 26.                                   |
 | __T4 W2__  | 27. Revision P1                                       | 28. Revision P2                             | 29. Revision P3                          | __End of Topic Test__                 |
 
 ### Lesson Plans
@@ -139,3 +139,12 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	- Notes on pressure
 	- Example calculations to find P, F and A
 	- Pressure Whakamātau - finding weight, foot surface area and therefore own-pressure.
+18. #### Pressure 2
+	- __Mahi Tuatahi__: Calculating force using the pressure equation
+	- Finish __Pressure Whakamātau__
+	- Two modified past exam questions in the slides
+19. #### Gravitational Energy
+	- __Mahi Tuatahi__: Title & date in books, complete crossword on pressure (sciPAD page 47)
+	- Video/Discussion on objects falling in a vacuum
+	- Notes on Gravitational Potential Energy
+	- 4x practice pātai in slides
