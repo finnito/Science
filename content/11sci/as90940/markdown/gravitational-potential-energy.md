@@ -36,7 +36,7 @@ Write these in your book
 
 ---
 
-## Gravitational Potential Energy / _Pūngao Tō Ā-papa_
+## Gravitational Potential Energy / _Pūngao Tō Ā-Papa_
 
 > The potential an object has to transfer energy (do work), due to being at a particular position in a gravitational field.
 

@@ -68,16 +68,16 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 
 ## Unit Plan
 
-|            | L1 (Mon)                                              | L2 (Wed)                                    | L3 (Thurs)                               | L4 (Fri)                              |
-|:-----------|:------------------------------------------------------|:--------------------------------------------|:-----------------------------------------|:--------------------------------------|
-| __T3 W5__  | __Senior Exams__                                      | __Senior Exams__                            | [1. Velocity](#velocity)                 | [2. Acceleration](#acceleration)      |
-| __T3 W6__  | [3. Distance-Time Graphs](#distance-time-graphs)      | [4. Speed-Time Graphs](#speed-time-graphs)  | [5.]()                                   | [.6]()                                |
-| __T3 W7__  | [7.]()                                                | 8.                                          | 9. [Mid-Topic Test 1](#mid-topic-test-1) | 10. [Self Marking 1](#self-marking-1) |
-| __T3 W8__  | 11. [Mass vs Weight 1](#mass-vs-weight-1)             | 12. [Mass vs Weight 2](#mass-vs-weight-2)   | 13. [Types of Forces](#types-of-forces)  |                                       |
-| __T3 W9__  | 15. [Running Man Whakamātau](#running-man-whakamātau) | 16. [Newton Whakamātau](#newton-whakamātau) | 17. [Pressure 1](#pressure-1)            | 18. [Pressure 1](#pressure-2)         |
-| __T3 W10__ | 19. [Gravitational Energy](#gravitational-energy)     | 20. Kinetic Energy                          | 21. Energy Transformations               | 22. Power and Work                    |
-| __T4 W1__  | 23. Power and Work                                    | 24.                                         | 25.                                      | 26.                                   |
-| __T4 W2__  | 27. Revision P1                                       | 28. Revision P2                             | 29. Revision P3                          | __End of Topic Test__                 |
+|            | L1 (Mon)                                              | L2 (Wed)                                    | L3 (Thurs)                                                | L4 (Fri)                                                  |
+|:-----------|:------------------------------------------------------|:--------------------------------------------|:----------------------------------------------------------|:----------------------------------------------------------|
+| __T3 W5__  | __Senior Exams__                                      | __Senior Exams__                            | 1. [Velocity](#velocity)                                  | 2. [Acceleration](#acceleration)                          |
+| __T3 W6__  | 3. [Distance-Time Graphs](#distance-time-graphs)      | 4. [Speed-Time Graphs](#speed-time-graphs)  | 5. []()                                                   | .6 []()                                                   |
+| __T3 W7__  | 7. []()                                               | 8.                                          | 9. [Mid-Topic Test 1](#mid-topic-test-1)                  | 10. [Self Marking 1](#self-marking-1)                     |
+| __T3 W8__  | 11. [Mass vs Weight 1](#mass-vs-weight-1)             | 12. [Mass vs Weight 2](#mass-vs-weight-2)   | 13. [Types of Forces](#types-of-forces)                   |                                                           |
+| __T3 W9__  | 15. [Running Man Whakamātau](#running-man-whakamātau) | 16. [Newton Whakamātau](#newton-whakamātau) | 17. [Pressure 1](#pressure-1)                             | 18. [Pressure 1](#pressure-2)                             |
+| __T3 W10__ | 19. [Gravitational Energy](#gravitational-energy)     | 20. [Kinetic Energy](#kinetic-energy)       | 21. [Energy Transformations 1](#energy-transformations-1) | 22. [Energy Transformations 2](#energy-transformations-2) |
+| __T4 W1__  | 23. Power and Work                                    | 24.                                         | 25.                                                       | 26.                                                       |
+| __T4 W2__  | 27. Revision P1                                       | 28. Revision P2                             | 29. Revision P3                                           | __End of Topic Test__                                     |
 
 ### Lesson Plans
 
@@ -103,6 +103,12 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	- Distance-time graph warmup question
 	- Notes on speed-time graphs
 	- Practice question
+5. #### 
+6. #### 
+7. #### 
+8. #### 
+9. #### 
+10. #### 
 11. #### Mass vs Weight 1
 	- Quizlet to start: https://quizlet.com/nz/523302535/balanced-and-unbalanced-forces-forces-flash-cards/
 	- Notes on mass vs weight
@@ -148,3 +154,14 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	- Video/Discussion on objects falling in a vacuum
 	- Notes on Gravitational Potential Energy
 	- 4x practice pātai in slides
+20. #### Kinetic Energy
+	-  __Mahi Tuatahi__: Title & date in books; pressure question in slides
+	-  Notes on kinetic energy
+	-  __Whakamātau__: [Finding Your Kinetic Energy](https://docs.google.com/document/d/143FbJhOA5wh3IF8gIIowpyaBYpWGXXgu2BXWG2AsvO0/edit#)
+21. #### Energy Transformations 1
+	- __Whakamātau__: [Marble Drop](https://docs.google.com/document/d/1y7j1-76ZAAiMDJh88dS2za1aFfAnEw8eOPkSKkwBSwI/edit)
+		- https://www.riskassess.co.nz/risk_assessment/8719177
+22. #### Energy Transformations 2
+	- __Whakamātau__: [Pressure & Sand](https://docs.google.com/document/d/166Nupros3SOimesW0hO4Pe_z586gcNRBswFdg2QshAI/edit)
+		- https://www.riskassess.co.nz/risk_assessment/8719145
+	- 

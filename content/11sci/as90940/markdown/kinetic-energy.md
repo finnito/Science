@@ -11,30 +11,36 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Mahi Tuatahi (2016 Exam)
+# L20: Mahi Tuatahi (2016 Exam)
 
-Rhiana is riding a horse along New Brighton Beach. __Each__ of the horse's hooves have a surface area of $0.0044m^{2}$ which sink into the sand when the horse stops. The horse exerts a pressure of $200155Pa$.
-
-__Calculate the weight of the horse.__
-
+- Rhiana is riding a horse along New Brighton Beach. __Each__ of the horse's hooves have a surface area of $0.0044m^{2}$ which sink into the sand when the horse stops. The horse exerts a total pressure of $200155Pa$.
+- __Calculate the weight of the horse.__
+    - Equation
+    - Substitute
+    - Solve
 
 ---
 
-## Answer
+## Te Whakatika
 
-A horse has four hooves, so the total surface area that the horse is exerting pressure through is:
-
-\begin{align*}
-    & A = 0.0044 \times 4 = 0.0176m^{2}
-\end{align*}
-
-Recall that  __weight is a force__, so we  can rearrange $P=\frac{F}{A}$ for $F$.
+A horse has four hooves, so the total surface area that the horse is exerting pressure through is $A = 0.0044 \times 4 = 0.0176m^{2}$
 
 \begin{align*}
-    & F = P \times A \newline
-    & F = 200155 \times 0.0176 = 3522.728N
+    P &= \frac{F}{A} \newline
+    200155 &= \frac{F}{0.0176} \newline
+    200155 \times 0.0176 &= F = 3522.728N
 \end{align*}
 
+---
+
+## Ngā Whāinga Ako
+
+1. Give the symbols and units for kinetic energy
+2. $E_{k} = \frac{1}{2}mv^{2}$
+
+:::instruction
+Write the date, the learning outcomes and title "Kinetic Energy" in your books.
+:::
 ---
 
 # Kinetic Energy
@@ -45,6 +51,7 @@ Recall that  __weight is a force__, so we  can rearrange $P=\frac{F}{A}$ for $F$
 
 ## What is Kinetic Energy?
 
+> Kinetic energy is the energy that an object possesses due to its __velocity__!
 
 ---
 
@@ -53,7 +60,8 @@ Recall that  __weight is a force__, so we  can rearrange $P=\frac{F}{A}$ for $F$
 Kinetic energy depends on the __mass__ and __velocity__ of an object.
 
 \begin{align*}
-    & E_{k} = \frac{1}{2} \times m \times v^{2}
+    E_{k} &= \frac{1}{2} \times mass \times \text{velocity squared} \newline
+    E_{k} &= \frac{1}{2} \times m \times v^{2}
 \end{align*}
 
 ---
@@ -69,13 +77,13 @@ Kinetic energy depends on the __mass__ and __velocity__ of an object.
 
 ---
 
-### Example 1
+### Pātai Tahi
 
 Mr LeSueur rides his bike to work at $32km/h$ ($8.89ms^{-1}$). Both he and his bike have a combined mass of $80kg$. __Calculate his kinetic energy__.
 
 ---
 
-#### Answer
+#### Whakatika Tahi
 
 We know $m=80kg$ and $v=8.89ms^{-1}$, and we are looking for $E_{k}$.
 
@@ -86,13 +94,13 @@ We know $m=80kg$ and $v=8.89ms^{-1}$, and we are looking for $E_{k}$.
 
 ---
 
-### Example 2
+### Pātai Rua
 
 Sophie is skiing down Upper Fascination at Mt Hutt, and is trying to go really fast. Her combined mass is $60kg$ and she is moving at $60km/h$ ($16.67ms^{-1}$). __Calculate her kinetic energy__.
 
 ---
 
-#### Answer
+#### Whakatika Tua
 
 We know $m=60kg$ and $v=16.67ms^{-1}$, and we are looking for $E_{k}$.
 
@@ -103,7 +111,9 @@ We know $m=60kg$ and $v=16.67ms^{-1}$, and we are looking for $E_{k}$.
 
 ---
 
-<iframe width="560" height="321" src="https://www.youtube.com/embed/dYw4meRWGd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Whakamātau: Finding Your Kinetic Energy
+
+Open the whakamātau document on Google Classroom!
 
 ---
 
