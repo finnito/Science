@@ -11,6 +11,31 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
+## What Other Types of Energy Are There?
+
+There are many types of energy in the universe:
+
+- Gravitational potential energy
+- Heat energy
+- Sound energy
+- Light energy
+- Elastic potential energy
+- Electrical energy
+
+---
+
+### What do they have in common?
+
+- All energy is measured in __Joules__ ($J$).
+- A change in energy is called __work__  (measured in Joules).
+
+---
+
+## Conservation of Energy
+
+- Energy cannot be created or destroyed, only transformed.
+- This means that gravitational potential energy can be transformed into kinetic energy, and kinetic energy into other forms of energy. It is always _taken_ from somewhere, never created from nothing.
+
 # Mahi Tuatahi
 
 Read page 55 and 56 of your sciPAD to remind yourself of some types of energy and how it is transformed between different types.
