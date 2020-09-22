@@ -64,12 +64,18 @@ menu:
     - __Whakamātau__: [Colour blindness test](https://enchroma.com/pages/color-blindness-test?format2=number)
     - Extra: [Quizlet flashcards](https://quizlet.com/nz/526266053/electromagnetic-spectrum-flash-cards/)
 4. #### Visible Light 2
-    - Colour blind test
-    - Chromatic adaptation
-    - Optical illusions
+    - __Mahi Tuatahi__: [Quizlet](https://quizlet.com/nz/526266053/electromagnetic-spectrum-flash-cards/)
+    - __Whakamātau__: [Making a Newton's Wheel](https://docs.google.com/document/d/1pzFSz-_PqFU1ZEqVlJRATxHHD4jabLneIcpT7d5BIiE/edit#)
+        - https://www.riskassess.co.nz/risk_assessment/8716493
 5. #### UV and Skin Cancer
-    - __Homework Assignment Given__
+    - __Mahi Tuatahi__: In slides on spectrum order
+    - Notes on ionizing radiation
+    - Notes on UV light
+    - Notes on ozone layer
+    - Clean the lab
+    - __Ngohe__: Read https://www.sciencedaily.com/releases/2020/08/200826083036.htm
 6. #### Absorption, Reflection, Refraction
+    - __Homework Assignment Given__
     - __Demo__: Heat lamp, concave mirrors, convex lenses
     - __Whakamātau__: Water in coloured cans
 7. #### Recap and Catch-Up
