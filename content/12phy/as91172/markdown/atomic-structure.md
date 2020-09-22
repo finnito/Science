@@ -16,37 +16,21 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Ngā Whāinga Ako
+## L2 Mahi Tuatahi
+
+1. Put the date in your book
+2. Define the following: __atomic number__, __mass number__, __nucleons__, __isotopes__.
+3. Use a periodic table to find out the number of protons, electrons and neutrons in an __aluminium atom__.
+
+---
+
+## Te Whāinga Ako
 
 - Understand the history and process of how we came to our current atomic model
 
 ---
 
-## Mahi Tuatahi
-
-1. Define the following: __atomic number__, __mass number__, __nucleons__, __isotopes__.
-2. Use a periodic table to find out the number of protons, electrons and neutrons in an __aluminium atom__.
-3. Draw a __helium atom__.
-4. An atom has 47 protons, 47 electrons and 274 neutrons. What kind of atoms is this?
-
----
-
-## Rutherford's Atomic Structure
-
-- The central region is called the nucleus. It is made up of protons and neutrons which are strongly bound together by nuclear force.
-- Protons and neutrons are called nucleons.
-- Electrons are constantly moving around the nucleus in an unknown way.
-
----
-
-- Protons have positive charge, electrons have negative charge and neutrons are neutral.
-- The nucleus is very small compare to the size of the whole atom, but has 99.95% of the mass (because electrons are very light).
-
----
-
-### Question: How do we know this?
-
-- If you had an empty box, how could you know what is inside?
+<iframe width="1309" height="745" src="https://www.youtube.com/embed/xazQRcSCRaY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -60,7 +44,7 @@ header-includes:
 
 ## Joseph Thomson (1856–1940)
 
-- A British physicist who discovered and whakamātaued with cathode rays. It was found that these rays consisted of what are later called electrons by Thomson.
+- A British physicist who discovered and experimented with cathode rays. It was found that these rays consisted of what are later called electrons by Thomson.
 - “An atom is a ball of positive charge with electrons dotted evenly through it like currants in a plum pudding. Overall, the atom is neutral”.
 
 ---
@@ -69,42 +53,48 @@ header-includes:
 
 ---
 
+## Rutherford's Atomic Structure
+
+- The central region is called the nucleus. It is made up of protons and neutrons which are strongly bound together by nuclear force.
+- Protons and neutrons are called nucleons.
+- Electrons are constantly moving around the nucleus in a probabilistic way.
+
+---
+
+- Protons have positive charge, electrons have negative charge and neutrons are neutral.
+- The nucleus is very small compare to the size of the whole atom, but has 99.95% of the mass (because electrons are very light).
+
+---
+
 ## Ernest Rutherford (1871-1937)
 
-- This New Zealand physicist attempted to prove Thomson’s model of the atom was correct and designed an whakamātau.
+- This New Zealand physicist attempted to prove Thomson’s model of the atom was correct and designed a whakamātau.
 
 ---
 
 ### Gold Foil Whakamātau
 
-![](../assets/2-gold-foil-whakamātau.png){width=90%}
+![](../assets/2-gold-foil-experiment.png)
 
 ---
 
-![](../assets/2-gold-foil.png){width=75%}
+![](../assets/2-gold-foil.png)
 
 ---
 
-![](../assets/2-atom-deflection.png){width=30%}
+![](../assets/2-atom-deflection.png)
 
 ---
 
 #### The Results
 
 - Most alpha particles went straight through the foil
+    - The atom consists of mostly empty space
 - A few particles were deflected
+    - There is a charged mass within the nucleus
 - Very few bounded back or were deflected at large angles
-
----
-
-#### Conclusions
-
-For each of these conclusions, explain how the results show this.
-
-1. The atom consists of mostly empty space
-2. There is a charged mass within the nucleus
-3. The charged mass is very small
-4. The charged mass is very dense
+    - The charged mass is very small
+    - The charged mass is very dense
 
 ---
 
@@ -134,28 +124,34 @@ For each of these conclusions, explain how the results show this.
 
 ## James Chadwick (1891-1974)
 
-- In 1932, he performed an whakamātau to discover the third type of sub-atomic particle that is not deflected by an electric or magnetic field – the “neutron”.
+- In 1932, he performed a whakamātau to discover the third type of sub-atomic particle that is not deflected by an electric or magnetic field – the “neutron”.
 
 ---
 
-### Designing the Gold Foil whakamātau
+## L3 Mahi Tuatahi
 
-1. Explain why the whakamātau had to be carried out in a vacuum.
+1. Explain why the gold foil whakamātau had to be carried out in a vacuum.
 2. Explain why it was necessary for the gold foil to be a few atoms thick.
 
 ---
 
-1. Explain why the whakamātau had to be carried out in a vacuum.
+## Whakatika Tahi
 
 - If the alpha particles had not been travelling through vacuum, they would have been affected by the molecules in the air. Then the results (the deviation in the particles’ paths) would not be dependent only on the atoms of the gold foil.
 
 ---
 
-2. Explain why it was necessary for the gold foil to be a few atoms thick.
+## Whakatika Rua
 
 - Rutherford was aiming to see how alpha particles would behave as they went through the foil. Alpha particles are stopped very easily. If the gold foil was thicker it would have stopped the particles completely and not let any to go through.
 
 ---
 
-Complete questions 1 and 2 on the Worksheet 3.
+<iframe width="1136" height="639" src="https://www.youtube.com/embed/1EdTw4I6L0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
+## Ngohe
+
+1. Glue in your periodic table
+2. Complete homework booklet Q2, Q4
