@@ -22,9 +22,11 @@ A simple cheatsheet of teaching-related language to use in the classroom or on s
 - __Mahi Tuatahi__: Do Now/Starter
 - __Matapaki__: Discussion
 - __Ngā Whāinga Ako__: Learning Outcomes
-- __Pressure__: Pēhanga
+- __Ngohe__: Task/Activity
+- __Pēhanga__: Pressure
 - __Pātai__: Question
 - __Te Reo__: Maori
 - __Te/Ngā__: The (singular)/the (plural)
+- __Whakakite__: Demonstration
 - __Whakamātau__: Investigation/Experiment
 - __Whakatika__: Answer
