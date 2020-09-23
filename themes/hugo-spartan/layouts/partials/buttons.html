@@ -1,8 +1,8 @@
 {{ with .File }}
     {{ if eq .File.LogicalName "_index.md" }}
-        <a class="edit-page" title="Edit {{$.Title}} on Github" target="_blank" href="https://github.com/finnito/Science/edit/master/content/{{ .Path }}">✍️ Edit Page</a>
+        <a class="edit-page button" title="Edit {{$.Title}} on Github" target="_blank" href="https://github.com/finnito/Science/edit/master/content/{{ .Path }}">✍️ Edit Page</a>
     {{ else }}
-        <a class="edit-page" title="Edit {{$.Title}} on Github" target="_blank" href="https://github.com/finnito/Science/edit/master/content/{{ .Dir }}markdown/{{ .LogicalName }}">✍️ Edit Page</a>
+        <a class="edit-page button" title="Edit {{$.Title}} on Github" target="_blank" href="https://github.com/finnito/Science/edit/master/content/{{ .Dir }}markdown/{{ .LogicalName }}">✍️ Edit Page</a>
     {{ end }}
 {{ end }}
-    <a class="report" target="_blank" title="Report a Problem" href='https://github.com/finnito/Science/issues/new?body=1.%20Give%20your%20issue%20a%20descriptive%20title%0A2.%20Describe%20your%20bug%2Fsuggestion%2Fmissing%20content%20in%20detail%20here%0A3.%20Add%20the%20device%20you%20are%20reporting%20it%20on%0A4.%20Don%27t%20forget%20to%20remove%20this%20list%21%20%F0%9F%91%8D%0A%0A%2A%2ADevice%3A%2A%2A%0A%2A%2AURL%3A%2A%2A%20[{{.Permalink}}]({{.Permalink}})&assignees=finnito&projects=finnito/science/1&labels=Website%20Report'>🙋 Feedback?</a>
+    <a class="report button" target="_blank" title="Report a Problem" href='https://github.com/finnito/Science/issues/new?body=1.%20Give%20your%20issue%20a%20descriptive%20title%0A2.%20Describe%20your%20bug%2Fsuggestion%2Fmissing%20content%20in%20detail%20here%0A3.%20Add%20the%20device%20you%20are%20reporting%20it%20on%0A4.%20Don%27t%20forget%20to%20remove%20this%20list%21%20%F0%9F%91%8D%0A%0A%2A%2ADevice%3A%2A%2A%0A%2A%2AURL%3A%2A%2A%20[{{.Permalink}}]({{.Permalink}})&assignees=finnito&projects=finnito/science/1&labels=Website%20Report'>🙋 Feedback?</a>
