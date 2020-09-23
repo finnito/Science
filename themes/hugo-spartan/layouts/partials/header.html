@@ -8,7 +8,7 @@
     <link rel="icon" href="favicon.png">
   </head>
 
-  <body>
+  <body class="{{ if .IsPage }}single{{ else }}list{{ end }}">
     <a class="skip-main" href="#main">Skip to main content</a>
     <nav>
       <div class="koru"></div>

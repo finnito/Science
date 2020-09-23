@@ -45,19 +45,19 @@ main > h4::before {
   content: "#### ";
 }
 
-main > h1 {
+body.single main > h1 {
   border-bottom: 3px solid black;
 }
 
-main > h2 {
+body.single main > h2 {
   border-bottom: 1px solid rgba(0, 0, 0, 0.25);
 }
 
-main > h3 {
+body.single main > h3 {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-main > h4 {
+body.single main > h4 {
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
