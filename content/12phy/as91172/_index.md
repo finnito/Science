@@ -33,7 +33,7 @@ menu:
 | T4 W1  | 5. Radioactive Decays 2  | 6. Writing Equations              | 7. Half-Life                      | 8. Catch-Up             |
 | T4 W2  | 9. Fission & Fusion 1    | 10. Fission & Fusion 2            | 11. __Revision__                  | 12. __Test__            |
 
-### Lesson Plans
+### Ngā Mahere Akoranga
 
 1. #### Structure of the Atom
     - Follow slides #1

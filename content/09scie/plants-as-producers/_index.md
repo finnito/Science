@@ -33,7 +33,7 @@ menu:
 | __T3 W2__  | 10. Photosynthesis          | 11. Evergreen vs Deciduous  | 12. __TOD__                  |
 | __T3 W3__  | 13. [Revision](#revision-1) | 14. [Revision](#revision-2) | 15. __TEST__                 |
 
-### Lesson Plans
+### Ngā Mahere Akoranga
 
 1. #### Video/Finish Energy for Life Test
     - Glue in Ngā Whāinga Ako

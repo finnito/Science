@@ -21,7 +21,7 @@ __NZQA Link:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standa
 | Week 3 | Humans in Antartctica |                          |                           |                   |
 | Week 4 | Case Study            | Case Study               | Start Assessment Research |                   |
 
-## Lesson Plans
+## Ngā Mahere Akoranga
 
 1. Introduction
     - Read through the slides attached

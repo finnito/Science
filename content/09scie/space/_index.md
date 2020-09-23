@@ -37,7 +37,7 @@ menu:
 | __T3 W7__ | 10. [Solar System Project P1](#solar-system-project-p1) | 11. [Solar System Project P2](#solar-system-project-p2)         | 12. [Revision P1](#revision-p1)              |
 | __T3 W8__ | 13. [All in a Year](#all-in-a-year)                     | 14. [Phases of the Moon Revision](#phases-of-the-moon-revision) | 15. __TEST__                                 |
 
-### Lesson Plans
+### Ngā Mahere Akoranga
 
 1. #### Origin of the Universe
     - __LO__: Describe theories on the origin of the Universe … including the Big Bang

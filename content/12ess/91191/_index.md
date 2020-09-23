@@ -21,7 +21,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 | T1 Week 11 | Underwater Avalanches \n & Landslides | Answering Exam Questions | Answering Exam Questions | Answering Exam Questions         |
 | T2 Week 1  | Revision                              | Revision                 | Revision                 | __End of Topic Test__            |
 
-## Lesson Plans
+## Ngā Mahere Akoranga
 
 ## Term 2, Week 2
 

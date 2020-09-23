@@ -79,7 +79,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 | __T4 W1__  | 23. Power and Work                                    | 24.                                         | 25.                                                       | 26.                                                       |
 | __T4 W2__  | 27. Revision P1                                       | 28. Revision P2                             | 29. Revision P3                                           | __End of Topic Test__                                     |
 
-### Lesson Plans
+### Ngā Mahere Akoranga
 
 1. #### Velocity
 	- Intro to distance, speed and velocity with notes

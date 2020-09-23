@@ -41,7 +41,7 @@ menu:
 | __T4 W2__  | 10. [Total Internal Reflection](#total-internal-reflection) | 11. [Structure of the Eye](#structure-of-the-eye) | 12. [Eye Dissection](#eye-dissection)                                      |
 | __T4 W3__  | 13. [Revision 1](#revision-1)                               | 14. [Revision 2](#revision-2)                     | 15. __TEST__                                                               |
 
-### Lesson Plans
+### Ngā Mahere Akoranga
 
 1. #### What is Radiation
     - __Whakamātau__: Magnifying glasses

@@ -36,7 +36,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 | T3 W2  | 16. __Practice Assessment__      | 17.  _Revision & Feedback_   | __Assessment__             | __TOD__                     |
 | T3 W3  | 18. __Assessment__               | 19. __Assessment__           | _Genetics Revision_        | _Genetics Revision_         |
 
-### Lesson Plans
+### Ngā Mahere Akoranga
 
 1. Review of the Atom
      - Intro to the unit

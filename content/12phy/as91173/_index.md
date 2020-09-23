@@ -8,7 +8,7 @@ katex: true
 
 {{< slides >}}
 
-## Lesson Plans
+## Ngā Mahere Akoranga
 
 
 |        | Lesson 1        | Lesson 2               | Lesson 3                   | Lesson 4                |
@@ -24,7 +24,7 @@ katex: true
 | T2 W11 | Revision        | Revision               | Revision                   | Revision                |
 | T2 W12 | Revision        | __TEST__               |                            | _Hand Back_             |
 
-## AS91173 Lesson Plans
+## AS91173 Ngā Mahere Akoranga
 
 ## Week 1
 

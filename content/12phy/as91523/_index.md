@@ -51,7 +51,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 | __T3 W8__  | 22. [Multi-Point Interference](#diffraction-whakamātau) | 23. Multi-Point Interference                 | 24. Diffraction Gratings                  | _Revision/Catch-Up_                         |
 | __T3 W9__  | _Revision/Catch-Up_                                     | _Revision_                                   | _Revision_                                | __TEST__                                    |
 
-### Lesson Plans
+### Ngā Mahere Akoranga
 
 1. #### Intro to Waves
     - Transverse waves & longitudinal waves

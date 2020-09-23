@@ -33,7 +33,7 @@ menu:
 | Week 4 | _Queen's B-Day_             | __Prac:__ Nutrient Tests | Digestion System     |
 | Week 5 | Absorption of Nutrients     | Glucose & Respiration    | __TEST__             |
 
-## Lesson Plans
+## Ngā Mahere Akoranga
 
 1. Identify and describe different forms of energy
     - Go through slides on energy, make notes & answer questions
