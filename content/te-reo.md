@@ -19,8 +19,11 @@ A simple cheatsheet of teaching-related language to use in the classroom or on s
 |          | Whiringa-ā-rangi |         |
 |          | Hakihea          |         |
 
+- __Akoranga__: Lesson
+- __Mahere Kōwae__: Unit Plan
 - __Mahi Tuatahi__: Do Now/Starter
 - __Matapaki__: Discussion
+- __Ngā Mahere Akoranga__: Lesson Plans
 - __Ngā Whāinga Ako__: Learning Outcomes
 - __Ngohe__: Task/Activity
 - __Pēhanga__: Pressure
