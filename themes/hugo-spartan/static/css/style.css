@@ -141,7 +141,9 @@ a.skip-main:focus, a.skip-main:active {
 .heading-anchor { font-size: 0.8rem; text-decoration: none; }
 
 blockquote { 
-  border-left: 2px solid #bdc3c7;
+  border-left: 2px solid #2ecc71;
+  background-color: rgba(46, 204, 113,0.1);
+  border-radius: 0.25rem;
   margin-left: 1rem;
   padding-left: 1rem;
 }
