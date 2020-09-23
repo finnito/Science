@@ -93,5 +93,5 @@ Write down three types of ionizing radiation
 
 This article on the ozone layer is posted on Google Classroom. Find it and give it a read!
 
-![](https://www.sciencedaily.com/releases/2020/08/200826083036.htm)
+[https://www.sciencedaily.com/releases/2020/08/200826083036.htm](https://www.sciencedaily.com/releases/2020/08/200826083036.htm)
     
