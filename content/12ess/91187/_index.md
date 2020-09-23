@@ -11,7 +11,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 {{< slides >}}
 
-## Unit Plan
+## Mahere Kōwae
 
 |        | Monday                             | Wednesday                                            | Thursday        | Friday                                        |
 |:-------|:-----------------------------------|:-----------------------------------------------------|:----------------|:----------------------------------------------|

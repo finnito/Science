@@ -11,7 +11,7 @@ __NZQA Link:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standa
 
 {{< slides >}}
 
-## Unit Plan
+## Mahere Kōwae
 
 
 |        | Lesson 1              | Lesson 2                 | Lesson 3                  | Lesson 4          |

@@ -27,7 +27,7 @@ menu:
     4. Describe theories on the origin of the Universe … including the Big Bang
     5. Explain constellations
 
-## Unit Plan
+## Mahere Kōwae
 
 |           | L1 (Mon/Tues)                                           | L2 (Wed)                                                        | L3 (Fri)                                     |
 |:----------|:--------------------------------------------------------|:----------------------------------------------------------------|:---------------------------------------------|

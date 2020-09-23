@@ -25,7 +25,7 @@ menu:
 13. Complete energy and power calculations for a nuclear power plant.
 
 
-## Unit Plan
+## Mahere Kōwae
 
 |        | Lesson 1 (Mon)           | Lesson 2 (Tues)                   | Lesson 3 (Wed)                    | Lesson 4 (Thurs)        |
 |:-------|:-------------------------|:----------------------------------|:----------------------------------|:------------------------|

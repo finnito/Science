@@ -36,7 +36,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 6. Term 3, Week 8 (Mon Sept 7th): 
 7. Term 3, Week 9 (Mon Sept 14th): Interference Q18, Q19  
 
-## Unit Plan
+## Mahere Kōwae
 
 |            | Lesson 1 (Mon)                                          | Lesson 2 (Tues)                              | Lesson 3 (Wed)                            | Lesson 4 (Thurs)                            |
 |:-----------|:--------------------------------------------------------|:---------------------------------------------|:------------------------------------------|:--------------------------------------------|

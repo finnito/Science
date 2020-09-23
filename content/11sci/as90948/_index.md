@@ -33,7 +33,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 {{< slides >}}
 
-## Unit Plan
+## Mahere Kōwae
 
 |        | Lesson 1                                           | Lesson 2                    | Lesson 3                           | Lesson 4                      |
 |:-------|:---------------------------------------------------|:----------------------------|:-----------------------------------|:------------------------------|

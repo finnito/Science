@@ -66,7 +66,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	7. Name the unit of power and give its symbol.
 	8. Calculate the power of a device from given data.
 
-## Unit Plan
+## Mahere Kōwae
 
 |            | L1 (Mon)                                              | L2 (Wed)                                    | L3 (Thurs)                                                | L4 (Fri)                                                  |
 |:-----------|:------------------------------------------------------|:--------------------------------------------|:----------------------------------------------------------|:----------------------------------------------------------|

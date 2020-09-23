@@ -11,7 +11,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 {{< slides >}}
 
-## Unit Plan
+## Mahere Kōwae
 
 |           | Lesson 1 (Mon)                    | Lesson 2 (Tues)       | Lesson 3 (Thurs)        | Lesson 4 (Fri)          |
 |:----------|:----------------------------------|:----------------------|:------------------------|:------------------------|
