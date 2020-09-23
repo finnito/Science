@@ -159,7 +159,10 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	-  Notes on kinetic energy
 	-  __Whakamātau__: [Finding Your Kinetic Energy](https://docs.google.com/document/d/143FbJhOA5wh3IF8gIIowpyaBYpWGXXgu2BXWG2AsvO0/edit#)
 21. #### Energy Transformations 1
-	- __Whakamātau__: [Marble Drop](https://docs.google.com/document/d/1y7j1-76ZAAiMDJh88dS2za1aFfAnEw8eOPkSKkwBSwI/edit)
+	- __Mahi Tuatahi__: Brainstorm types of energy (in slides)
+	- Notes on conservation of energy
+	- Practice pātai on potential --> kinetic transformation
+	- __Tūhura__: [Marble Drop](https://docs.google.com/document/d/1y7j1-76ZAAiMDJh88dS2za1aFfAnEw8eOPkSKkwBSwI/edit)
 		- https://www.riskassess.co.nz/risk_assessment/8719177
 22. #### Energy Transformations 2
 	- __Whakamātau__: [Pressure & Sand](https://docs.google.com/document/d/166Nupros3SOimesW0hO4Pe_z586gcNRBswFdg2QshAI/edit)
