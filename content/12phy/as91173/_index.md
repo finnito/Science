@@ -11,7 +11,7 @@ katex: true
 ## Ngā Mahere Akoranga
 
 
-|        | Lesson 1        | Lesson 2               | Lesson 3                   | Lesson 4                |
+|        | Akoranga 1      | Akoranga 2             | Akoranga 3                 | Akoranga 4              |
 |:-------|:----------------|:-----------------------|:---------------------------|:------------------------|
 | T2 W3  |                 | Static Electricity     | Conductors & Insulators    | Charge & Current        |
 | T2 W4  | Voltage & Power | Resistance & Ohm's Law | Series & Parallel Circuits | Catch-Up                |

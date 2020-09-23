@@ -11,23 +11,23 @@ menu:
 
 __Google Meets:__ Thursday 8:45am
 
-### Lesson 1
+### Akoranga 1
 
 - The Structure of Fungi & Fungi Reproduction Slides
 - Education Perfect Task
 - Google Forms Quiz
 
-### Lesson 2
+### Akoranga 2
 
 - Google Meet for questions & chat about fungi & viruses
 - Check up on how we're all going
 
-### Lesson 3
+### Akoranga 3
 
 - Viruses Slides
 - Education Perfect Task
 
-### Lesson 4
+### Akoranga 4
 
 - Extracellular Digestion in Bacteria and Fungi
 - Google Forms Quiz
@@ -36,15 +36,15 @@ __Google Meets:__ Thursday 8:45am
 
 ## Term 2, Week 3
 
-### Lesson 1
+### Akoranga 1
 
 - Make notes using the Yeast Fermentation slides
 
-### Lesson 2
+### Akoranga 2
 
 - If possible, do the Yeast Fermentation Whakamātau, you can substitute balloons for plastic bags or something else capable of containing the air.
 
-### Lesson 3
+### Akoranga 3
 
 - Catch up on any missed content & make sure you've handed everything in on Google Classroom.
 
@@ -54,12 +54,12 @@ __Google Meets:__ Thursday 8:45am
 
 This week we are finishing learning the content we need to move on to our assessment for this unit. The assessment will take three weeks.
 
-### Lesson 1
+### Akoranga 1
 
 - Read through and make notes from the preservation slides
 - Complete the Education Perfect task on factors affecting fungi and bacteria
 
-### Lesson 2
+### Akoranga 2
 
 - Read through and make notes from the making yoghurt slides
 - Complete the Education Perfect task

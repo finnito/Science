@@ -14,7 +14,7 @@ __NZQA Link:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standa
 ## Mahere Kōwae
 
 
-|        | Lesson 1              | Lesson 2                 | Lesson 3                  | Lesson 4          |
+|        | Akoranga 1            | Akoranga 2               | Akoranga 3                | Akoranga 4        |
 |:-------|:----------------------|:-------------------------|:--------------------------|:------------------|
 | Week 1 |                       | Introduction             | MRS C GREN                | Education Perfect |
 | Week 2 | Intro to Adaptations  | Structural & Behavioural | Physiological             | Law of Tolerance  |

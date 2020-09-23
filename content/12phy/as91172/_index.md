@@ -27,7 +27,7 @@ menu:
 
 ## Mahere Kōwae
 
-|        | Lesson 1 (Mon)           | Lesson 2 (Tues)                   | Lesson 3 (Wed)                    | Lesson 4 (Thurs)        |
+|        | Akoranga 1 (Mon)         | Akoranga 2 (Tues)                 | Akoranga 3 (Wed)                  | Akoranga 4 (Thurs)      |
 |:-------|:-------------------------|:----------------------------------|:----------------------------------|:------------------------|
 | T3 W10 | 1. Structure of the Atom | 2. Discovering Atomic Structure 1 | 3. Discovering Atomic Structure 2 | 4. Radioactive Decays 1 |
 | T4 W1  | 5. Radioactive Decays 2  | 6. Writing Equations              | 7. Half-Life                      | 8. Catch-Up             |

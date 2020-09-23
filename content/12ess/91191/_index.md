@@ -27,23 +27,23 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 __Google Meets:__ Wednesday 9:35am
 
-### Lesson 1
+### Akoranga 1
 
 - Read through & make notes from Introduction to Earthquakes slides
 - Use Textbook Page 167 to help with the diagram annotation (attached)
 
-### Lesson 2
+### Akoranga 2
 
 - Google Meet Wednesday 9:35am
 - Earthquakes Waves Document
 - Earthquakes Education Perfect Task
 
-### Lesson 3
+### Akoranga 3
 
 - Read NZ Earthquakes slides
 - Complete task on Alpine Fault 
 
-### Lesson 4
+### Akoranga 4
 
 - Complete the earthquakes recap document
 - Complete pages 178-179 in textbook (attached)
@@ -57,20 +57,20 @@ This week is a short week so there'll only be three lessons. Two on tsunamis and
 
 __Google Meet:__ Wednesday 9:35am
 
-### Lesson 1
+### Akoranga 1
 
 - Copy the tsunami diagram from the notes into your book
 - Complete the Ted ED activity
 - Do the Quizziz until you get 100%. When you do, upload a screenshot to this assignment!
 
-### Lesson 2
+### Akoranga 2
 
 - Complete the ordering task
 - Complete the Education Perfect task
 - Do textbook pages 180-187
 - Upload photos/screenshots of your ordering task and textbook work once you are done
 
-### Lesson 3
+### Akoranga 3
 
 You have three options of what to work on for revision, they are given below in order of most to least useful. I HIGHLY recommend working on the past exam questions before anything else.
 

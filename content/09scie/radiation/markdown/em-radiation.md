@@ -51,7 +51,7 @@ We can capture radiation from the sun and use it for energy!
 
 ---
 
-## Lesson 2 Mahi Tuatahi
+## Akoranga 2 Mahi Tuatahi
 
 1.  Draw below, a diagram of what your magnifying glass looked like while you were trying to ignite your piece of paper. Indicate areas of relative brightness/darkness.
 2.  Try and explain what is happening to the light to cause your diagram above.
@@ -60,7 +60,7 @@ We can capture radiation from the sun and use it for energy!
 
 ---
 
-## Lesson 2 Ngā Whāinga Ako
+## Akoranga 2 Ngā Whāinga Ako
 
 1. I can recall the order and use of each type of electromagnetic radiation/_hihi autōhiko_
 2. I can name the seven colours of the visible spectrum and describe how to produce a spectrum by dispersion

@@ -26,7 +26,7 @@ menu:
 15. Explain how burning fuels is contributing to the greenhouse effect
 16. List air pollutants which are produced from fossil fuels and describe their effects on human health
 
-## Lesson Sequence
+## Akoranga Sequence
 
 ### 1. Unit Introduction
 

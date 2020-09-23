@@ -34,7 +34,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Mahere Kōwae
 
-|         | Lesson 1             | Lesson 2              | Lesson 3                 | Lesson 4                |
+|         | Akoranga 1           | Akoranga 2            | Akoranga 3               | Akoranga 4              |
 |:--------|:---------------------|:----------------------|:-------------------------|:------------------------|
 | Week 1  | _Teacher Only Day_   | _Juniors Only_        | Maths License            | Speed & Acceleration    |
 | Week 2  | Scalars & Vectors    | Vectors in 1D (Delta) | _Waitangi Day_           | Vectors in 2D           |

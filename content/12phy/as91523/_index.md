@@ -38,7 +38,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 
 ## Mahere Kōwae
 
-|            | Lesson 1 (Mon)                                          | Lesson 2 (Tues)                              | Lesson 3 (Wed)                            | Lesson 4 (Thurs)                            |
+|            | Akoranga 1 (Mon)                                        | Akoranga 2 (Tues)                            | Akoranga 3 (Wed)                          | Akoranga 4 (Thurs)                          |
 |:-----------|:--------------------------------------------------------|:---------------------------------------------|:------------------------------------------|:--------------------------------------------|
 | __T2 W12__ | 1. [Intro to Waves](#intro-to-waves)                    | 2. [Hand back Test](#hand-back-test)         | 3. [Intro Continued](#intro-continued-1)  | 4. [Intro Continued](#intro-continued-2)    |
 | __T3 W1__  | 5. [Doppler Effect](#intro-to-the-doppler-effect)       | 6. [Doppler Effect](#intro-doppler-equation) | 7. [Doppler Effect](#doppler-continued-1) | 8. [Doppler Effect](#doppler-continued-2)   |

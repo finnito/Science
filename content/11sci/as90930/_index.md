@@ -13,7 +13,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 ## Mahere Kōwae
 
-|           | Lesson 1 (Mon)                    | Lesson 2 (Tues)       | Lesson 3 (Thurs)        | Lesson 4 (Fri)          |
+|           | Akoranga 1 (Mon)                  | Akoranga 2 (Tues)     | Akoranga 3 (Thurs)      | Akoranga 4 (Fri)        |
 |:----------|:----------------------------------|:----------------------|:------------------------|:------------------------|
 | __T1 W7__ | __Genetics Test__                 | Rates of Reaction     | Rates of Reaction       | Collision Theory        |
 | __T1 W8__ | Effect of Temperature             | Effect of Temperature | Effect of Concentration | Effect of Concentration |
