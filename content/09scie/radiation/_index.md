@@ -33,7 +33,7 @@ menu:
 
 ## Mahere Kōwae
 
-|            | L1 (Mon/Tues)                                               | L2 (Wed)                                          | L3 (Fri)                                                                   |
+|            | Akoranga 1 (Mon/Tues)                                       | Akoranga 2 (Wed)                                  | Akoranga 3 (Fri)                                                           |
 |:-----------|:------------------------------------------------------------|:--------------------------------------------------|:---------------------------------------------------------------------------|
 | __T3 W9__  | 1. [What is Radiation](#what-is-radiation)                  | 2. [EM Radiation](#em-radiation)                  | 3. [Visible Light](#visible-light)                                         |
 | __T3 W10__ | 4. [Visible Light 2](#visible-light-2)                      | 5. [UV and Skin Cancer](#uv-and-skin-cancer)      | 6. [Absorption, Reflection, Refraction](#absorption-reflection-refraction) |

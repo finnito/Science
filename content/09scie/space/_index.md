@@ -29,7 +29,7 @@ menu:
 
 ## Mahere Kōwae
 
-|           | L1 (Mon/Tues)                                           | L2 (Wed)                                                        | L3 (Fri)                                     |
+|           | Akoranga 1 (Mon/Tues)                                   | Akoranga 2 (Wed)                                                | Akoranga 3 (Fri)                             |
 |:----------|:--------------------------------------------------------|:----------------------------------------------------------------|:---------------------------------------------|
 | __T3 W4__ | 1. [Origin of the Universe](#origin-of-the-universe)    | 2.                                                              | 3. [Documentary](#documentary)               |
 | __T3 W5__ | 4. [Day, Night, Seasons](#day-night-seasons)            | 5. [Seasons](#seasons)                                          | 6. [Phases of the Moon](#phases-of-the-moon) |

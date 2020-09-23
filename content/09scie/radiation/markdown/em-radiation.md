@@ -24,7 +24,7 @@ We can capture radiation from the sun and use it for energy!
 
 ---
 
-## L1 Ngā Whāinga Ako
+## Akoranga 1 Ngā Whāinga Ako
 
 1. I can name the main source of radiation and describe how it transfers energy
 

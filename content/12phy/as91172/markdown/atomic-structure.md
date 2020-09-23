@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## L2 Mahi Tuatahi
+## Akoranga 2 Mahi Tuatahi
 
 1. Put the date in your book
 2. Define the following: __atomic number__, __mass number__, __nucleons__, __isotopes__.
@@ -128,7 +128,7 @@ header-includes:
 
 ---
 
-## L3 Mahi Tuatahi
+## Akoranga 3 Mahi Tuatahi
 
 1. Explain why the gold foil whakamātau had to be carried out in a vacuum.
 2. Explain why it was necessary for the gold foil to be a few atoms thick.

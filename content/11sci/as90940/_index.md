@@ -68,7 +68,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 
 ## Mahere Kōwae
 
-|            | L1 (Mon)                                              | L2 (Wed)                                    | L3 (Thurs)                                                | L4 (Fri)                                                  |
+|            | Akoranga 1 (Mon)                                      | Akoranga 2 (Wed)                            | Akoranga 3 (Thurs)                                        | Akoranga 4 (Fri)                                          |
 |:-----------|:------------------------------------------------------|:--------------------------------------------|:----------------------------------------------------------|:----------------------------------------------------------|
 | __T3 W5__  | __Senior Exams__                                      | __Senior Exams__                            | 1. [Velocity](#velocity)                                  | 2. [Acceleration](#acceleration)                          |
 | __T3 W6__  | 3. [Distance-Time Graphs](#distance-time-graphs)      | 4. [Speed-Time Graphs](#speed-time-graphs)  | 5. []()                                                   | .6 []()                                                   |

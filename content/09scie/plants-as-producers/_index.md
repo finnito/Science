@@ -25,7 +25,7 @@ menu:
 
 ## Mahere Kōwae
 
-|            | L1 (Mon/Tues)               | L2 (Wed)                    | L3 (Fri)                     |
+|            | Akoranga 1 (Mon/Tues)       | Akoranga 2 (Wed)            | Akoranga 3 (Fri)             |
 |:-----------|:----------------------------|:----------------------------|:-----------------------------|
 | __T2 W11__ | 1. Video/Finish E4L         | 2. Plant & Animal Cells     | 3. Whakamātaus & Microscopes |
 | __T2 W12__ | 4. __P:__ Microscopes       | 5. Graph Reading            | 6. Plant Reproduction        |

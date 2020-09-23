@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## L5 Mahi Tuatahi
+## Akoranga 5 Mahi Tuatahi
 
 1. Write the date in your books
 2. Write the order of the electromagnetic spectrum from lowest to highest energy (use your notes)
