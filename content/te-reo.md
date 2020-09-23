@@ -30,6 +30,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on s
 - __Pātai__: Question
 - __Te Reo__: Maori
 - __Te/Ngā__: The (singular)/the (plural)
+- __Tūhura__: Investigation
 - __Whakakite__: Demonstration
-- __Whakamātau__: Investigation/Experiment
+- __Whakamātau__: Experiment
 - __Whakatika__: Answer
