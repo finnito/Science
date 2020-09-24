@@ -3,6 +3,7 @@ title: Energy Transformations
 subtitle: 11SCI - Mechanics
 author: Finn LeSueur
 date: 2019
+weight: 9
 theme: finn
 header-includes:
 - \usepackage{graphicx}

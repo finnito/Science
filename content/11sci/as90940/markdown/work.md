@@ -3,6 +3,7 @@ title: Power & Work
 subtitle: 11SCI - Mechanics
 author: Finn LeSueur
 date: 2019
+weight: 10
 theme: finn
 header-includes:
 - \usepackage{graphicx}

@@ -3,6 +3,7 @@ title: Kinetic Energy
 subtitle: 11SCI - Mechanics
 author: Finn LeSueur
 date: 2019
+weight: 8
 theme: finn
 header-includes:
 - \usepackage{graphicx}
