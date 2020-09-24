@@ -16,27 +16,23 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Mahi Tuatahi
+## Akoranga 4: Mahi Tuatahi
 
-1. Write down the symbol for: __alpha particle__, __beta particle__, and __gamma radiation__ if you know.
-2. Describe what an alpha particle consists of.
-3. Describe what a beta particle is.
+Is it possible to turn copper into gold? Discuss with the person next to you!
 
 ---
 
-## What is a nuclear reaction?
+## Te Whāinga Ako
+
+- Describe the three forms of radioactivity – Alpha, Beta and Gamma radiation.
+
+---
+
+## Pātai: What is a nuclear reaction?
 
 - It is not a physical reaction
 - It is not a chemical reaction
 - It is a reaction where there is __a change or rearrangement of the nucleons__ in a nucleus
-
----
-
-Is it possible to turn copper into gold?
-
-![](../assets/3-copper-atom.png){width=20%}
-
-![](../assets/3-gold-atom.jpg){width=20%}
 
 ---
 
@@ -51,6 +47,22 @@ Is it possible to turn copper into gold?
 ### Radioactive Decay
 
 ![](../assets/3-radioactive-decay.jpg){width=60%}
+
+---
+
+### Pātai: But why?
+
+- __Whakatika__: There is an electrostatic force pushing the nucleons apart, but the strong nuclear force is holding them together. When the electrostatic force overpowers the strong nuclear force, the atom breaks apart --> radioactive decay!
+- This occurs because as the nucleus gets bigger, the strong nuclear force has to act over a larger volume and therefore exerts a weaker force!
+
+---
+
+Some principles apply!
+
+- conservation of energy
+- conservation of momentum (linear and angular)
+- conservation of charge
+- conservation of nucleon number
 
 ---
 
@@ -70,9 +82,9 @@ Polonium-211 is an unstable isotope and goes through __alpha decay__ to become a
 
 ---
 
-### Alpha Radiation ($\alpha$)
+### Alpha Radiation
 
-- Helium nuclei (positively charged)
+- Helium nuclei (positively charged), symbol $\alpha$
 - Made up of two protons and two neutrons
 - Slow moving (up to 10% speed of light)
 - Short range (up to a few cm)
@@ -94,9 +106,9 @@ Hydrogen-3 goes through beta decay to become a more stable helium-3 atom. It doe
 
 ---
 
-### Beta Radiation ($\beta$)
+### Beta Radiation
 
-- High-energy electron (negative charge)
+- High-energy electron (negative charge), symbol $\beta$
 - When emitted, a neutron decays into a proton inside the nucleus
 - Can travel up to 90% the speed of light
 
@@ -107,8 +119,9 @@ Hydrogen-3 goes through beta decay to become a more stable helium-3 atom. It doe
 
 ---
 
-### Gamma Radiation ($\gamma$)
+### Gamma Radiation
 
+- Symbol $\gamma$
 - Electromagnetic radiation with very high energy
 - Occurs as a result of a nucleus being left in a very excited state after undergoing other types of radioactivity
 - Fast moving, travels at the speed of light
