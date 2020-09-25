@@ -40,7 +40,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 
 1. Review of the Atom
      - Intro to the unit
-     - Review of the atom notes/worksheet + slides for backup
+     - Review of the atom notes/worksheet + ngā kirita for backup
 2. Periodic Table & Electrons
      - Worksheet
 3. Ionic Compounds
@@ -99,7 +99,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
     - https://www.riskassess.co.nz/risk_assessment/8368055
 16. Continue Practice Test
 17. Feedback/Compare & Contrast
-    - Give class-wide feedback on how to improve (assessment tips slides)
+    - Give class-wide feedback on how to improve (assessment tips in ngā kirita)
     - Split the class into two:
         - One part learns how to do the excellence __compare and contrast__
         - Other part continues work on their research documents & revises for the actual test

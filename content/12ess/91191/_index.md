@@ -40,7 +40,7 @@ __Google Meets:__ Wednesday 9:35am
 
 ### Akoranga 3
 
-- Read NZ Earthquakes slides
+- Read NZ Earthquakes ngā kirita
 - Complete task on Alpine Fault 
 
 ### Akoranga 4

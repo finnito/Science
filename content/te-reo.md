@@ -2,7 +2,7 @@
 title: Te Reo Cheatsheet
 ---
 
-A simple cheatsheet of teaching-related language to use in the classroom or on slides.
+A simple cheatsheet of teaching-related language to use in the classroom or on ngā kirita.
 
 | Weekdays | Months           | Numbers |
 |:---------|:-----------------|:--------|

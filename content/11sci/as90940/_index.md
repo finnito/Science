@@ -140,7 +140,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	- https://docs.google.com/document/d/1MAugSiWvqV5CDR6J25Ei_9C276uywrKt-cJBRz_AJpo/edit
 	- Homework Booklet Questions: 19 & 20
 17. #### Pressure 1
-	- __Mahi tuatahi__ in slides
+	- __Mahi tuatahi__ in ngā kirita
 	- Four recap pātai on forces
 	- Notes on pressure
 	- Example calculations to find P, F and A
@@ -148,18 +148,18 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 18. #### Pressure 2
 	- __Mahi Tuatahi__: Calculating force using the pressure equation
 	- Finish __Pressure Whakamātau__
-	- Two modified past exam questions in the slides
+	- Two modified past exam questions in the ngā kirita
 19. #### Gravitational Energy
 	- __Mahi Tuatahi__: Title & date in books, complete crossword on pressure (sciPAD page 47)
 	- Video/Discussion on objects falling in a vacuum
 	- Notes on Gravitational Potential Energy
-	- 4x practice pātai in slides
+	- 4x practice pātai in ngā kirita
 20. #### Kinetic Energy
-	-  __Mahi Tuatahi__: Title & date in books; pressure question in slides
+	-  __Mahi Tuatahi__: Title & date in books; pressure question in ngā kirita
 	-  Notes on kinetic energy
 	-  __Whakamātau__: [Finding Your Kinetic Energy](https://docs.google.com/document/d/143FbJhOA5wh3IF8gIIowpyaBYpWGXXgu2BXWG2AsvO0/edit#)
 21. #### Energy Transformations 1
-	- __Mahi Tuatahi__: Brainstorm types of energy (in slides)
+	- __Mahi Tuatahi__: Brainstorm types of energy (in ngā kirita)
 	- Notes on conservation of energy
 	- Practice pātai on potential --> kinetic transformation
 	- __Tūhura__: [Marble Drop](https://docs.google.com/document/d/1y7j1-76ZAAiMDJh88dS2za1aFfAnEw8eOPkSKkwBSwI/edit)

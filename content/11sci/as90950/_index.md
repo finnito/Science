@@ -13,7 +13,7 @@ __Google Meets:__ Thursday 8:45am
 
 ### Akoranga 1
 
-- The Structure of Fungi & Fungi Reproduction Slides
+- The Structure of Fungi & Fungi Reproduction Ngā Kirita
 - Education Perfect Task
 - Google Forms Quiz
 
@@ -24,7 +24,7 @@ __Google Meets:__ Thursday 8:45am
 
 ### Akoranga 3
 
-- Viruses Slides
+- Viruses Ngā Kirita
 - Education Perfect Task
 
 ### Akoranga 4
@@ -38,7 +38,7 @@ __Google Meets:__ Thursday 8:45am
 
 ### Akoranga 1
 
-- Make notes using the Yeast Fermentation slides
+- Make notes using the Yeast Fermentation ngā kirita
 
 ### Akoranga 2
 
@@ -56,12 +56,12 @@ This week we are finishing learning the content we need to move on to our assess
 
 ### Akoranga 1
 
-- Read through and make notes from the preservation slides
+- Read through and make notes from the preservation ngā kirita
 - Complete the Education Perfect task on factors affecting fungi and bacteria
 
 ### Akoranga 2
 
-- Read through and make notes from the making yoghurt slides
+- Read through and make notes from the making yoghurt ngā kirita
 - Complete the Education Perfect task
 
 ---

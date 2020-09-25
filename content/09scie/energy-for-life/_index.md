@@ -48,13 +48,13 @@ menu:
     - Attach a photo of your notes to this assessment
 
 3. Describe the amount of energy in food using kilojoules (kJ) and discuss the energy needs of humans
-    - Slides on energy in food + little task inside
+    - Ngā Kirita on energy in food + little task inside
     - Video inside
     - Kahoot inside
     - Read food poster and use your knowledge of energy to pick the best drink
 
 4. Explain why each type of nutrient is needed
-    - Slides on the nutrients in food and their uses
+    - Ngā Kirita on the nutrients in food and their uses
     - Task trying to find the most nutritious snack in the class
 
 5. __Whakamātau:__ Toy Circus

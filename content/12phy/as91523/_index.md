@@ -90,7 +90,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
     - Assign homework
     - Textbook if time
 10. #### Beats Whakamātau
-    - Mahi Tuatahi in the slides
+    - Mahi Tuatahi in ngā kirita
         - Hand out textbook chapter while they're working
         - Write list of missing homework up while they're working
     - [Whakamātau: confirming $f_{b} = | f' - f |$](https://docs.google.com/document/d/1vD8-3cC0KFPNR-J4pMgjBO_x_TgE07JR07LddT2QzfE/edit#)

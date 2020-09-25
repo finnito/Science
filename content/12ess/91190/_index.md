@@ -24,18 +24,18 @@ __NZQA Link:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standa
 ## Ngā Mahere Akoranga
 
 1. Introduction
-    - Read through the slides attached
+    - Read through ngā kirita attached
     - Write down any definitions you encounter
-    - Complete the environment identification task inside the slides
-    - Complete the definition mix-and-match inside the slides
+    - Complete the environment identification task inside ngā kirita
+    - Complete the definition mix-and-match inside ngā kirita
 2. MRS C GREN
-    - Follow the slides
-    - Complete the table inside the slides
+    - Follow ngā kirita
+    - Complete the table inside ngā kirita
     - Complete the research task about an animal
 3. Education Perfect
     - Do the Year 9 & 10 recap tasks on Education Perfect
 4. Introduction to Adaptations
-    - Slides and tasks in slides
+    - Ngā Kirita and tasks in ngā kirita
     - Quizlet best of three competition
     - Evolve a Human 2.0
 5. Structural & Behavioural Adaptations
@@ -47,5 +47,5 @@ __NZQA Link:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standa
 8. Antarctica
     - Diving in Antarctica video (slide 24)
     - Notes on 25-34
-    - Clothing task on slides 35-36
+    - Clothing task on ngā kirita 35-36
     - Finish mapping task from earlier in the week

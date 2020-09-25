@@ -36,16 +36,16 @@ menu:
 ### Ngā Mahere Akoranga
 
 1. #### Structure of the Atom
-    - Follow slides #1
+    - Follow ngā kirita #1
     - Kahoot if needed: https://create.kahoot.it/v2/details/ca4b9437-4d48-4ba3-a526-97b558ee04a3
 2. #### Discovering the Atomic Structure 1
-    - __Mahi Tuatahi__: In slides
+    - __Mahi Tuatahi__: In ngā kirita
     - Notes on atomic models and their history
     - Notes on _Gold Foil_ whakamātau
     - __Whakakite__: Show Gieger counter & radiation sources. Discuss types of radiation.
 3. #### Discovering the Atomic Structure 2
-    - __Mahi Tuatahi__: In slides on gold foil experiment
-    - Video on atomic structures in slides
+    - __Mahi Tuatahi__: In ngā kirita on gold foil experiment
+    - Video on atomic structures in ngā kirita
     - __Ngohe Tahi__: Homework Booklet: Q2 & Q4
 4. #### Radioactive Decays 1
 5. #### Radioactive Decays 2
