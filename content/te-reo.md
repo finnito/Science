@@ -2,7 +2,7 @@
 title: Te Reo Cheatsheet
 ---
 
-A simple cheatsheet of teaching-related language to use in the classroom or on ngā kirita.
+A simple cheatsheet of teaching-related language to use in the classroom or on ngā kirita. Use [Paekupu](https://paekupu.co.nz/words/wordlist/te-reo-pūtaiao/english-to-maori) for pūtaiao specific language.
 
 | Weekdays | Months           | Numbers |
 |:---------|:-----------------|:--------|
@@ -27,7 +27,6 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Ngā Mahere Akoranga__: Lesson Plans
 - __Ngā Whāinga Ako__: Learning Outcomes
 - __Ngohe__: Task/Activity
-- __Pēhanga__: Pressure
 - __Pātai__: Question
 - __Te Reo__: Maori
 - __Te/Ngā__: The (singular)/the (plural)
