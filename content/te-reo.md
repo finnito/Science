@@ -20,6 +20,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 |          | Hakihea          |         |
 
 - __Akoranga__: Lesson
+- __Aromatawai__: Assessment
 - __Mahere Kōwae__: Unit Plan
 - __Mahi Tuatahi__: Do Now/Starter
 - __Matapaki__: Discussion
@@ -28,6 +29,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Ngā Whāinga Ako__: Learning Outcomes
 - __Ngohe__: Task/Activity
 - __Pātai__: Question
+- __Rangahau__: Research
 - __Te Reo__: Maori
 - __Te/Ngā__: The (singular)/the (plural)
 - __Tūhura__: Investigation
