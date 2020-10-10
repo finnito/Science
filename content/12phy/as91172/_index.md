@@ -19,7 +19,7 @@ menu:
 7. Describe the three forms of radioactivity – Alpha, Beta and Gamma radiation.
 8. Balance nuclear equations using the knowledge of the conservation of atomic and mass numbers.
 9. Describe the effect a magnetic field has on each form of radiation
-10. Describe binding energy and mass energy equivalence in terms of E=MC2
+10. Describe binding energy and mass energy equivalence in terms of $E=mc^{2}$
 11. Explain the difference between Fission and Fusion
 12. Discuss how nuclear power is generated, safety features and dangers. Include basic history of Fukushima, Chernobyl, Windscale, Three Mile island, Hiroshima & and Nagasaki and K-19, K-27, K-413.
 13. Complete energy and power calculations for a nuclear power plant.
@@ -55,7 +55,18 @@ menu:
     - Notes on uses of radioactive decays
     - Two videos about decay and nuclear mishaps
 6. #### Writing Equations
+    - __Mahi Tuatahi__: Cloze in notes
+    - __Te Whāinga Ako__: Balance nuclear equations using the knowledge of the conservation of atomic and mass numbers.
+    - Clozes, notes and example decays for all three types of decay
+    - Less guided decays at the end including double decays and absorption
 7. #### Half-Life
+    - __Mahi Tuatahi__: 3x nuclear equations in slides
+    - __Te Whāinga Ako__:
+        - Be able to make half-life graphs
+        - Be able to interpret half-life graphs
+    - Video and notes about half-life
+    - 1x brute force calculation question
+    - 1x more refined graphical calculation
 8. #### Catch-Up
 9. #### Fission & Fusion 1
 10. #### Fission & Fusion 2

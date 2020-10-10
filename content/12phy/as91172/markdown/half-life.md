@@ -16,45 +16,54 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
+# Akoranga 7 Mahi Tuatahi
+
+1. A Carbon-14 nucleus emits a beta particle, then the daughter nucleus also emits a beta particle immediately after. Write a single equation showing this.
+2. An Uranium-241 nucleus emits an alpha particle AND a beta particle. Write down the equation.
+3. An atom of Carbon-11 absorbs a neutron. Write down the nuclear equation.
+
+---
+
+\begin{align*}
+		{}^{14}_{6}C \rightarrow {}^{14}_{7}N + {}^{0}_{-1}\beta \newline
+		{}^{14}_{7}N \rightarrow {}^{14}_{8}O + {}^{0}_{-1}\beta
+	\end{align*}
+
+\begin{align*}
+	{}^{241}_{92}U \rightarrow {}^{237}_{87}Fr + {}^{4}_{2}\alpha + {}^{0}_{-1}\beta
+\end{align*}
+
+\begin{align*}
+	{}^{11}_{6}C + {}^{0}_{1}n \rightarrow {}^{12}_{6}
+\end{align*}
+
+---
+
 ## Ngā Whāinga Ako
 
 - Be able to make half-life graphs
 - Be able to interpret half-life graphs
 
----
-
-## Mahi Tuatahi
-
-1. A Carbon-14 nucleus emits a beta particle, then the daughter nucleus also emits a beta particle immediately after. Write down a single nuclear equation for these reactions.
-2. An Uranium-241 nucleus emits an alpha particle AND a beta particle. Write down the equation.
-3. An atom of Carbon-11 absorbs a neutron. Write down the nuclear equation.
-
-<aside class="notes">
-	\begin{align*}
-		{}^{14}_{6}C \rightarrow {}^{14}_{7}N + {}^{0}_{-1}\beta \newline
-		{}^{14}_{7}N \rightarrow {}^{14}_{8}O + {}^{0}_{-1}\beta
-	\end{align*}
-
-	\begin{align*}
-		{}^{241}_{92}U \rightarrow {}^{237}_{87}Fr + {}^{4}_{2}\alpha + {}^{0}_{-1}\beta
-	\end{align*}
-
-	\begin{align*}
-		{}^{11}_{6}C + {}^{0}_{1}n \rightarrow {}^{12}_{6}
-	\end{align*}
-</aside>
+<p class="instruction">Write ngā whāinga ako in your books</p>
 
 ---
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/zXw2cOSBB8E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Half-Life
+
+> The half-life is the time taken for half of the undecayed atoms in a sample to decay.
+
+- Radioactive materials have unique half-lives.
 - It is impossible to predict when an unstable/radioactive atom will disintegrate (decay), because the actual timing of the decay is random.
-- However, scientists have discovered that different radioactive materials disintegrate at different rates and; they disintegrate exponentially.
-- Knowing this, we can predict the proportion of atoms which disintegrate in a particular time.
 
 ---
 
-### Example
+### Tauira
 
-A small sample of a radioactive material iodine-131 has been observed for several days while it decayed into xenon-131.
+A small sample of a radioactive material iodine-131 has been observed for several days while it decayed into xenon-131. Read the below and determine its half-life.
 
 - On the first day, the sample contained 40,000 iodine-131 nuclei.
 - Eight days later, the sample only had 20,000 iodine-131 nuclei left.
@@ -62,34 +71,40 @@ A small sample of a radioactive material iodine-131 has been observed for severa
 
 ---
 
-![](../assets/5-half-life-graph.png){width=80%}
+### Pātai Tahi: What shape is this graph? Sketch it in your books.
+
+![](../assets/5-half-life-graph.png)
 
 ---
 
-## Half-Life
+### Pātai Rua
 
-- The half-life is the time taken for half of the undecayed atoms in a sample to decay.
-- Radioactive materials have unique half-lives.
+The half-life of Hydrogen-3 is approximately 12.25 years. If you found a small sample of Tritium containing 5,000,000 undecayed nuclei.
 
-![](../assets/5-half-life-table.png){width=60%}
+1. How many nuclei will be left after 12.25 years
+2. How many nuclei will be left after 24.5 years
+3. How many nuclei will be left after 49 years
+4. How many nuclei will be left after 196 years
+5. How long until there is less than 2500 undecayed nuclei left?
+
+---
+
+#### Whakatika Rua
+
+1. 2,500,000
+2. 1,250,000
+3. 312,500
+4. 76.29
+5. Between 10-11 half-lives
 
 ---
 
-The half-life of Hydrogen-3 is approximately 12.25 years. If you found a small sample of Tritium containing 5,000,000 undecayed nuclei, how many undecayed nuclei will there be after:
-
-1. 12.25 years
-2. 24.5 years
-3. 49 years
-4. 196 years
-
-How long until there is less than 2500 undecayed nuclei left?
-
----
+### Pātai Toru
 
 You found a $50 g$ sample of Cobalt-60. The half-life of Cobalt-60 is 5 years.
 What would be the mass of the Cobalt-60 sample after 20 years?
 
-1. Calculate how long it would take for the mass of the 50 g sample to fall just below $1.17 g$.
+1. Estimate how long it would take for the mass of the 50 g sample to fall just below $1.17 g$.
 2. Sketch a mass vs. time graph of the Cobalt-60 sample over a 30-year period.
 3. Use the graph to estimate the mass of the sample after 12.5 years.
 
