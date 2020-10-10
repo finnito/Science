@@ -138,6 +138,7 @@ body {
 .reveal .slides section.c2 figure,
 .reveal .slides section.c2 iframe {
   flex-basis: calc(50% - 1em);
+  margin: 0;
 }
 
 /*********************************************
