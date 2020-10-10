@@ -18,7 +18,7 @@ katex: true
 4. Monday, September 14th: Homework Booklet Q12, Q13, Q14
 5. Monday, September 21st: 
 6. Monday, October 12th: 
-7. Monday, October 19th: 
+7. Monday, October 19th: Q30, Q35
 
 ## Tutorials
 
@@ -31,9 +31,9 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	2. Define the term speed.
 	3. Use simple instruments such as rulers and stopwatches to measure distance and time.
 	4. Calculate the __average speed__ of objects. Use $v=d/t$.
-	5. Draw __distance/time graphs__ from data obtained in whakamātaus.
+	5. Draw __distance/time graphs__ from data obtained in ngā whakamātau.
 	6. Use the slope of a distance/time graph to describe and/or calculate the speed of an object.
-	7. Draw __speed/time__ graphs from given data or data obtained in motion whakamātaus.
+	7. Draw __speed/time__ graphs from given data or data obtained in motion ngā whakamātau.
 	8. Use the slop of a speed/time graph to describe and/or calculate the speed of an object.
 	9. Define __acceleration__ including its unit and symbol.
 	10. Calculate acceleration from speed and time data and speed/time graphs. Use $a = v/t$.
@@ -68,16 +68,16 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 
 ## Mahere Kōwae
 
-|            | Akoranga 1 (Mon)                                      | Akoranga 2 (Wed)                            | Akoranga 3 (Thurs)                                        | Akoranga 4 (Fri)                                          |
-|:-----------|:------------------------------------------------------|:--------------------------------------------|:----------------------------------------------------------|:----------------------------------------------------------|
-| __T3 W5__  | __Senior Exams__                                      | __Senior Exams__                            | 1. [Velocity](#velocity)                                  | 2. [Acceleration](#acceleration)                          |
-| __T3 W6__  | 3. [Distance-Time Graphs](#distance-time-graphs)      | 4. [Speed-Time Graphs](#speed-time-graphs)  | 5. []()                                                   | .6 []()                                                   |
-| __T3 W7__  | 7. []()                                               | 8.                                          | 9. [Mid-Topic Test 1](#mid-topic-test-1)                  | 10. [Self Marking 1](#self-marking-1)                     |
-| __T3 W8__  | 11. [Mass vs Weight 1](#mass-vs-weight-1)             | 12. [Mass vs Weight 2](#mass-vs-weight-2)   | 13. [Types of Forces](#types-of-forces)                   |                                                           |
-| __T3 W9__  | 15. [Running Man Whakamātau](#running-man-whakamātau) | 16. [Newton Whakamātau](#newton-whakamātau) | 17. [Pressure 1](#pressure-1)                             | 18. [Pressure 1](#pressure-2)                             |
-| __T3 W10__ | 19. [Gravitational Energy](#gravitational-energy)     | 20. [Kinetic Energy](#kinetic-energy)       | 21. [Energy Transformations 1](#energy-transformations-1) | 22. [Energy Transformations 2](#energy-transformations-2) |
-| __T4 W1__  | 23. Power and Work                                    | 24.                                         | 25.                                                       | 26.                                                       |
-| __T4 W2__  | 27. Revision P1                                       | 28. Revision P2                             | 29. Revision P3                                           | __End of Topic Test__                                     |
+|            | Akoranga 1 (Mon)                                          | Akoranga 2 (Wed)                            | Akoranga 3 (Thurs)                                        | Akoranga 4 (Fri)                                          |
+|:-----------|:----------------------------------------------------------|:--------------------------------------------|:----------------------------------------------------------|:----------------------------------------------------------|
+| __T3 W5__  | __Senior Exams__                                          | __Senior Exams__                            | 1. [Velocity](#velocity)                                  | 2. [Acceleration](#acceleration)                          |
+| __T3 W6__  | 3. [Distance-Time Graphs](#distance-time-graphs)          | 4. [Speed-Time Graphs](#speed-time-graphs)  | 5. []()                                                   | .6 []()                                                   |
+| __T3 W7__  | 7. []()                                                   | 8.                                          | 9. [Mid-Topic Test 1](#mid-topic-test-1)                  | 10. [Self Marking 1](#self-marking-1)                     |
+| __T3 W8__  | 11. [Mass vs Weight 1](#mass-vs-weight-1)                 | 12. [Mass vs Weight 2](#mass-vs-weight-2)   | 13. [Types of Forces](#types-of-forces)                   |                                                           |
+| __T3 W9__  | 15. [Running Man Whakamātau](#running-man-whakamātau)     | 16. [Newton Whakamātau](#newton-whakamātau) | 17. [Pressure 1](#pressure-1)                             | 18. [Pressure 2](#pressure-2)                             |
+| __T3 W10__ | 19. [Gravitational Energy](#gravitational-energy)         | 20. [Kinetic Energy](#kinetic-energy)       | 21. [Energy Transformations 1](#energy-transformations-1) | 22. [Energy Transformations 2](#energy-transformations-2) |
+| __T4 W1__  | 23. [Energy Transformations 3](#energy-transformations-3) | 24. [Work 1](#work-1)                       | 25. [Work 2](#work-2)                                     | 26. [Power](#power)                                       |
+| __T4 W2__  | 27. [Revision 1](#revision-1)                             | 28. [Revision 2](#revision-2)               | 29. [Revision 3](#revision-3)                             | __End of Topic Test__                                     |
 
 ### Ngā Mahere Akoranga
 
@@ -167,11 +167,45 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 22. #### Energy Transformations 2
 	- __Whakamātau__: [Pressure & Sand](https://docs.google.com/document/d/166Nupros3SOimesW0hO4Pe_z586gcNRBswFdg2QshAI/edit)
 		- https://www.riskassess.co.nz/risk_assessment/8719145
-23. #### 
-24. #### 
-25. #### 
-26. #### 
-27. #### 
-28. #### 
-29. #### 
+23. #### Energy Transformations 3
+	- __Mahi Tuatahi__: Quizlet match x3 and then live
+		- https://quizlet.com/nz/509974458/11-mechanics-energy-flash-cards/
+    - __Ngā Whāinga Ako__:
+    	1. Identify energy changes.
+		2. Use $E_{k} = \frac{1}{2}mv^{2}$
+		3. Explain the conservation of mechanical energy in free fall situations (e.g. ball sports)
+	- Notes recalling the conservation of energy
+	- Homework booklet Q40 (achieved and excellence parts)
+24. #### Work 1
+	- __Mahi Tuatahi__: Discussions to recall previous learning (in slides)
+    - __Ngā Whāinga Ako__:
+    	1. Define __work__.
+		2. Name the unit of work and give its symbol.
+		3. Use $W = Fd$.
+	- Notes on work
+	- Example questions using $W = Fd$
+25. #### Work 2
+	- __Mahi Tuatahi__: Compare change in energies of two skiers taking different paths down a mountain (in slides)
+    - __Ngā Whāinga Ako__: Use $W = Fd$ and $Ep = mgh$ to determine amounts of energy transfer.
+    - Compare similarities/differences of $W = Fd$ and $Ep = mgh$ to understand that they can be the same
+    - Practice question in slides
+    - Homework booklet Q33 as more practice 
+26. #### Power
+	- __Mahi Tuatahi__: [Kahoot on work](https://create.kahoot.it/v2/details/34b75563-b84d-4694-9318-f0012ffdb8e3)
+    - __Ngā Whāinga Ako__:
+	    1. Define __power__.
+		2. Name the unit of power and give its symbol.
+		3. Calculate the power of a device from given data.
+	- Notes on power
+	- Example calculations
+	- Homework booklet Q36 as more practice
+27. #### Revision 1
+	- __Mahi Tuatahi__:
+    - __Ngā Whāinga Ako__:
+28. #### Revision 2
+	- __Mahi Tuatahi__:
+    - __Ngā Whāinga Ako__:
+29. #### Revision 3
+	- __Mahi Tuatahi__:
+    - __Ngā Whāinga Ako__:
 30. #### __TEST__
