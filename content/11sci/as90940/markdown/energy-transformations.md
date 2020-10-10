@@ -113,3 +113,52 @@ In Physics we live in an idealised world where friction does not exist and energ
 This means that 100% of elastic potential energy is converted into kinetic energy, in the case of the rubber band.
 
 It means that 100% of gravitational potential energy is converted into kinetic energy in the case of a sky diver.
+
+---
+
+# Akoranga 23 Mahi Tuatahi:
+
+1. Write the date in your books
+2. Open the Quizlet on Google Classroom and complete "Match" three times
+3. Get ready to play the Quizlet Live
+
+---
+
+
+## Ngā Whāinga Ako
+
+1. Identify energy changes.
+2. Use $E_{k} = \frac{1}{2}mv^{2}$
+3. Explain the conservation of mechanical energy in free fall situations (e.g. ball sports)
+
+<p class="instruction">Write ngā whāinga ako in your books</p>
+
+---
+
+## Pātai: Do you recall the law of conservation of energy?
+
+---
+
+## Conservation of Energy
+
+> Energy cannot be created or destroyed, only transformed
+
+We investigated this last term by calculating the __gravitational potential energy__ of a marble at the top of a tube and predicting how fast it would be moving at the bottom of the tube if __all__ of the $E_{p}$ was transformed into kinetic energy $E_{k}$.
+
+---
+
+> Energy cannot be created or destroyed, only transformed
+
+- This means that we can say $E_{k} = E_{p}$
+- In words, all kinetic energy is transformed into potential energy, or vice versa.
+
+---
+
+### Pātai: Homework Booklet Q40
+
+- Open homework booklet 40
+- 40a is an achieved level question
+- 40b is an excellence level question
+    - start by identifying the change in energy
+    - then use it to calculate the speed if all of that energy is transformed into kinetic energy
+ 
