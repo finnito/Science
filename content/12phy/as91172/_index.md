@@ -49,6 +49,11 @@ menu:
     - __Ngohe Tahi__: Homework Booklet: Q2 & Q4
 4. #### Radioactive Decays 1
 5. #### Radioactive Decays 2
+    - __Mahi Tuatahi__: Recall physical quantities conserved during nuclear decays
+    - __Te Whāinga Ako__: Describe the three forms of radioactivity – Alpha, Beta and Gamma radiation.
+    - Notes on beta and gamma decays
+    - Notes on uses of radioactive decays
+    - Two videos about decay and nuclear mishaps
 6. #### Writing Equations
 7. #### Half-Life
 8. #### Catch-Up

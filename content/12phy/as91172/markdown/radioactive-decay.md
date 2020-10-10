@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Akoranga 4: Mahi Tuatahi
+# Akoranga 4: Mahi Tuatahi
 
 Is it possible to turn copper into gold? Discuss with the person next to you!
 
@@ -46,7 +46,7 @@ Is it possible to turn copper into gold? Discuss with the person next to you!
 
 ### Radioactive Decay
 
-![](../assets/3-radioactive-decay.jpg){width=60%}
+![](../assets/3-radioactive-decay.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ Some principles apply!
 
 Polonium-211
 
-![](../assets/3-pl-211.gif){width=60%}
+![](../assets/3-pl-211.gif)
 
 ---
 
@@ -78,7 +78,7 @@ Polonium-211 is an unstable isotope and goes through __alpha decay__ to become a
 
 ## Alpha Particle
 
-![](../assets/3-alpha-particle.png){width=70%}
+![](../assets/3-alpha-particle.png)
 
 ---
 
@@ -98,7 +98,7 @@ Polonium-211 is an unstable isotope and goes through __alpha decay__ to become a
 
 Hydrogen-3
 
-![](../assets/3-hydrogen-3.png){width=70%}
+![](../assets/3-hydrogen-3.png)
 
 ---
 
@@ -106,14 +106,28 @@ Hydrogen-3 goes through beta decay to become a more stable helium-3 atom. It doe
 
 ---
 
-### Beta Radiation
+# Akoranga 5 Mahi Tuatahi
 
-- High-energy electron (negative charge), symbol $\beta$
-- When emitted, a neutron decays into a proton inside the nucleus
-- Can travel up to 90% the speed of light
+1. Write the date in your books
+2. Try and remember, without using your books, what are three _things_ that are conserved during radioactive decay?
 
 ---
 
+## Te Whāinga Ako
+
+1. Describe the three forms of radioactivity – Alpha, Beta and Gamma radiation.
+
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/UtZw9jfIxXM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Beta Radiation
+
+- High-energy electron (negative charge), symbol $\beta$
+- When emitted, a neutron decays (changes) into a proton inside the nucleus
+- Can travel up to 90% the speed of light
 - Medium range: about 30cm
 - Medium penetration: can be stopped by a sheet of aluminium about 5mm thick
 
@@ -128,28 +142,20 @@ Hydrogen-3 goes through beta decay to become a more stable helium-3 atom. It doe
 
 ---
 
-- Has greatest penetration ability: can penetrate through several centimetres of lead
-- Has least ionizing ability
+- Has greatest penetration ability: can penetrate through several centimeters of lead
+- Has the least ionizing ability
 
 ---
 
-![](../assets/3-radiation-comparison.png){width=70%}
+![](../assets/3-radiation-comparison.png)
 
 ---
 
-What would happen to each radiation type as it enters a magnetic field (coming out of the page) travelling from the left?
+What would happen to each radiation type as it enters a magnetic field (coming out of the page) traveling from the left?
 
 ---
 
-![](../assets/3-radiation-in-b-field.gif){width=70%}
-
----
-
-## Mahi Tuatahi
-
-1. List the three types of radioactive decay and how damaging the products of each decay can be
-2. Give examples of the kind of protection that would need to have for each type of radiation
-3. How would each type of radiation be affected when moving right to left in a magnetic field going into the page?
+![](../assets/3-radiation-in-b-field.gif)
 
 ---
 
@@ -157,75 +163,41 @@ What would happen to each radiation type as it enters a magnetic field (coming o
 
 ---
 
-Recall: Alpha Radiation
-
-![](../assets/3-alpha-particle.png){width=80%}
+## Pātai: What is nuclear radiation/materials used for?
 
 ---
 
-Recall: Beta Radiation
-
-![](../assets/3-beta-decay.png){width=80%}
-
-----
-
-Recall: Gamma Decay
-
-![](../assets/3-gamma-decay.png){width=80%}
-
----
-
-## Question: What is nuclear radiation/materials used for?
-
----
-
-### Nuclear Bombs
-
-They work through nuclear fission or fusion of such materials as plutonium and uranium.
-
----
-
-### Nuclear Reactors
+### Nuclear Reactors {.c2}
 
 Our current nuclear power reactors utilise nuclear fission of plutonium to create energy. Unfortunately they also produce radioactive by-products which are hard to dispose of in a safe way.
 
-![](../assets/3-nuclear-reactor.jpg){width=30%}
+![](../assets/3-nuclear-reactor.jpg)
 
 ---
 
-### Steralisation
+### Steralisation {.c2}
 
 It can also be used to steralise a variety of medical instruments and food.
 
+![[Source](https://www.azernews.az/business/71561.html)](https://www.azernews.az/media/pictures/sterilization.jpg)
+
 ---
 
-### Tracers
+### Tracers {.c2}
 
 It can also be used in medical imaging and tracers to follow the path of materials through an ecosystem.
 
-![](../assets/3-radioactive-tracer.jpg){width=50%}
+![](../assets/3-radioactive-tracer.jpg)
 
 ---
 
-### Smoke Detectors
+### Smoke Detectors {.c2}
 
 Inside an ionisation chamber, americium-241 decays through alpha decay. The alpha particles collide with the air molecules causing them to become ionized. Because they are now charged, current can be carried between the two plates inside the chamber.
 
-Smoke particles interact with the ionized particles causing them to lose their charge, and therefore cause the current to decrease and the alarm to go off.
-
----
-
-![](../assets/3-smoke-alarm.jpg){width=80%}
+![](../assets/3-smoke-alarm.jpg)
 
 ---
 
 <iframe width="646" height="363" src="https://www.youtube.com/embed/SHZAaGidUbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## Homework (Due Friday, marked and corrected)
-
-- Worksheets 1, 2 and left half of 3
-- Homework Booklet: Atom Models 2004 Q1, 2005 Q2
-- Homework Booklet: Radioactivity Q1, 3, 4, 5, 6
-
----
