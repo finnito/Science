@@ -73,7 +73,7 @@ In fact, we can make any two energy equations equal to each other! E.g. Spring p
 
 ### Pātai
 
-Mr Le Sueur has mass 71kg and has climbed a tree 4.5m tall to jump into a lake. How fast will he be travelling when he hits the water?
+Mr Le Sueur has mass 71kg and has climbed a tree 4.5m tall to jump into a lake. How fast will he be traveling when he hits the water?
 
 - Starts with $E_{p}$, so calculate it
 - Then transformed all to $E_{k}$, so put known values into $E_{k}=\frac{1}{2}mv^{2}$
@@ -100,7 +100,7 @@ Mr Le Sueur has mass 71kg and has climbed a tree 4.5m tall to jump into a lake. 
 
 ---
 
-# Mahi Tuatahi
+# Akoranga 22 Mahi Tuatahi
 
 Read page 55 and 56 of your sciPAD to remind yourself of some types of energy and how it is transformed between different types.
 
