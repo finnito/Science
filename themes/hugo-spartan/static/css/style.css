@@ -75,6 +75,21 @@ h1 > a {
   margin-right: 0.5rem;
 }
 
+p.instruction {
+  background-color: #f6e58d;
+  padding: 0 0.25rem;
+  border-radius: 0.25rem;
+}
+
+p.instruction::before {
+  content: "❗️";
+}
+
+p.instruction p {
+  display: inline-block;
+  margin: 0;
+}
+
 .koru {
   margin: 0;
   width: 100vw;
