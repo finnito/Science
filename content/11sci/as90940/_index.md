@@ -189,7 +189,10 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
     - __Ngā Whāinga Ako__: Use $W = Fd$ and $Ep = mgh$ to determine amounts of energy transfer.
     - Compare similarities/differences of $W = Fd$ and $Ep = mgh$ to understand that they can be the same
     - Practice question in slides
-    - Homework booklet Q33 as more practice 
+    - Homework booklet Q33 as more practice
+    - __Whakamātau__: Bungs Away
+    	+ https://www.riskassess.co.nz/risk_assessment/8752509
+    	+ 
 26. #### Power
 	- __Mahi Tuatahi__: [Kahoot on work](https://create.kahoot.it/v2/details/34b75563-b84d-4694-9318-f0012ffdb8e3)
     - __Ngā Whāinga Ako__:
