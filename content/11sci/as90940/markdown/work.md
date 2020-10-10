@@ -288,7 +288,7 @@ Chris (48 kg) climbs 2m up some stairs to a diving board. He completes the climb
 
 \begin{align*}
     W &= F \times d \newline
-    &= (48 times 10) \times 2 = 960J
+    &= (48 \times 10) \times 2 = 960J
 \end{align*}
 
 \begin{align*}
@@ -312,7 +312,7 @@ Homework booklet Q36. _Hint: find work first, and then power._
 
 \begin{align*}
     W &= F \times d \newline
-    &= (62 times 10) \times 46.2 = 28,644J
+    &= (62 \times 10) \times 46.2 = 28,644J
 \end{align*}
 
 \begin{align*}
