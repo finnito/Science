@@ -1,6 +1,7 @@
 ---
 title: Atomic and Nuclear Physics
 nzqa: 91172
+katex: true
 menu:
     main:
         parent: "12PHY"

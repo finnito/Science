@@ -2,12 +2,10 @@
 title: Atomic Structure
 subtitle: 12PHY - Atomic and Nuclear Physics
 author: Finn LeSueur
-date: 2019
+date: 2020
 theme: finn
 weight: 2
-colortheme: dolphin
-font-size: 35px
-text-align: center
+katex: true
 header-includes:
 - \usepackage{graphicx}
 - \usepackage[T1]{fontenc}

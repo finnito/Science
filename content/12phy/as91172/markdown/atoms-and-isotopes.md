@@ -5,7 +5,7 @@ author: Finn LeSueur
 date: 2020
 theme: finn
 weight: 1
-text-align: center
+katex: true
 header-includes:
 - \usepackage{graphicx}
 - \usepackage[T1]{fontenc}
