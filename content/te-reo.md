@@ -22,6 +22,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Akoranga__: Lesson
 - __Aromatawai__: Assessment
 - __Mahere Kōwae__: Unit Plan
+- __Mahi Kāinga__: Homework
 - __Mahi Tuatahi__: Do Now/Starter
 - __Matapaki__: Discussion
 - __Ngā Kirita__: Slides
