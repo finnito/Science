@@ -108,8 +108,8 @@ What would be the mass of the Cobalt-60 sample after 20 years?
 
 ---
 
-## Homework (Due Friday, marked and corrected)
+## Mahi Kāinga (Due Friday, marked and corrected)
 
 - Worksheets 1, 2 and left half of 3
-- Homework Booklet: Atom Models 2004 Q1, 2005 Q2
-- Homework Booklet: Radioactivity Q1, 3, 4, 5, 6
+- Mahi Kāinga Booklet: Atom Models 2004 Q1, 2005 Q2
+- Mahi Kāinga Booklet: Radioactivity Q1, 3, 4, 5, 6

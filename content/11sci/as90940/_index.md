@@ -10,12 +10,12 @@ katex: true
 
 {{< slides >}}
 
-## Homework Due Dates
+## Mahi Kāinga Due Dates
 
-1. Monday, August 24th: Homework Booklet Q2, Q3, Q1
-2. Monday, August 31st: Homework Booklet Q5, Q6
+1. Monday, August 24th: Mahi Kāinga Booklet Q2, Q3, Q1
+2. Monday, August 31st: Mahi Kāinga Booklet Q5, Q6
 3. Monday, September 7th: 
-4. Monday, September 14th: Homework Booklet Q12, Q13, Q14
+4. Monday, September 14th: Mahi Kāinga Booklet Q12, Q13, Q14
 5. Monday, September 21st: 
 6. Monday, October 12th: 
 7. Monday, October 19th: Q30, Q35
@@ -84,20 +84,20 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 1. #### Velocity
 	- Intro to distance, speed and velocity with notes
 	- 3x practice questions in the notes
-	- Issue homework booklet, explain motivation and regular weekly homework
+	- Issue mahi kāinga booklet, explain motivation and regular weekly mahi kāinga
 	- sciPAD questions to finish
 2. #### Acceleration
 	- Speed & Velocity Kahoot to start
 	- https://create.kahoot.it/kahoots/my-kahoots/folder/2f5a1b63-53ba-4c44-9678-287ca08d461d
 	- Notes on acceleration
 	- 3x practice questions
-	- Reminder of homework & tutorials
+	- Reminder of mahi kāinga & tutorials
 	- sciPAD page 28 Q1-2
 3. #### Distance-Time Graphs
 	- Return Chem Reactions tests
 	- Notes on distance-time graphs
 	- Practice question on distance-time graphs
-	- Assign homework
+	- Assign mahi kāinga
 4. #### Speed-Time Graphs
 	- Kahoot Mahi Tuatahi: https://create.kahoot.it/details/distance-time-graphs/a71fa913-eb15-4a59-9074-01fc3c4e6bc5
 	- Distance-time graph warmup question
@@ -116,7 +116,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	- Quizlet to start: https://quizlet.com/nz/523302535/balanced-and-unbalanced-forces-forces-flash-cards/
 	- Worksheet: https://docs.google.com/document/d/1zSkTiskCbPepE8mruywTBD7QPDppQQHCJpW93AF3ldo/edit?usp=sharing
 	- Do answers on the board as a group
-	- Issue homework
+	- Issue mahi kāinga
 13. #### Types of Forces
 	- Mahi Tuatahi: finish worksheet from previous class
 	- Make notes on types of forces
@@ -130,7 +130,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	- Notes on net force
 	- Video: Felix Baumgartner jump from space
 	- Notes on terminal velocity
-	- Homework booklet Q18, Q17
+	- Mahi Kāinga booklet Q18, Q17
 15. #### Running Man Whakamātau
 	- https://www.riskassess.co.nz/risk_assessment/8683515
 	- https://docs.google.com/document/d/1FS_v-xPwk28aUzmyJckI0g2LJWDvJwMUTSkgDplqX9U/edit
@@ -138,7 +138,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 	- What can you do with a Newton, whakamātau.
 	- https://www.riskassess.co.nz/risk_assessment/8683487
 	- https://docs.google.com/document/d/1MAugSiWvqV5CDR6J25Ei_9C276uywrKt-cJBRz_AJpo/edit
-	- Homework Booklet Questions: 19 & 20
+	- Mahi Kāinga Booklet Questions: 19 & 20
 17. #### Pressure 1
 	- __Mahi tuatahi__ in ngā kirita
 	- Four recap pātai on forces
@@ -175,7 +175,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 		2. Use $E_{k} = \frac{1}{2}mv^{2}$
 		3. Explain the conservation of mechanical energy in free fall situations (e.g. ball sports)
 	- Notes recalling the conservation of energy
-	- Homework booklet Q40 (achieved and excellence parts)
+	- Mahi Kāinga booklet Q40 (achieved and excellence parts)
 24. #### Work 1
 	- __Mahi Tuatahi__: Discussions to recall previous learning (in slides)
     - __Ngā Whāinga Ako__:
@@ -189,7 +189,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
     - __Ngā Whāinga Ako__: Use $W = Fd$ and $Ep = mgh$ to determine amounts of energy transfer.
     - Compare similarities/differences of $W = Fd$ and $Ep = mgh$ to understand that they can be the same
     - Practice question in slides
-    - Homework booklet Q33 as more practice
+    - Mahi Kāinga booklet Q33 as more practice
     - __Whakamātau__: Bungs Away
     	+ https://www.riskassess.co.nz/risk_assessment/8752509
     	+ 
@@ -201,7 +201,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 		3. Calculate the power of a device from given data.
 	- Notes on power
 	- Tauria calculations
-	- Homework booklet Q36 as more practice
+	- Mahi Kāinga booklet Q36 as more practice
 27. #### Revision 1
 	- __Mahi Tuatahi__:
     - __Ngā Whāinga Ako__:

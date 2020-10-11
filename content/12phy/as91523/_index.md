@@ -26,7 +26,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 12. Use $\lambda = \frac{dx}{L}$ to solve problems with a diffraction grating
 13. Use $n\lambda = dsin(\theta)$ to analyse the spectrum angles produced by a diffraction grating
 
-## Homework
+## Mahi Kāinga
 
 1. Term 3, Week 1 (Fri July 25th): Wave Fundamentals Question 1 & 2
 2. Term 3, Week 2 (Mon July 27th): Doppler Question 9
@@ -70,7 +70,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
     - Waves Revision Questions #1 Q2
     - Physics Worksheet 3.3 Waves Q1-5
 4. #### Intro Continued 2
-    - Hand out test marking schedule & assign as homework over the holidays
+    - Hand out test marking schedule & assign as mahi kāinga over the holidays
     - Any material not finished in 3.
 5. #### Intro to the Doppler Effect
     - Notes describing the doppler effect & its cause
@@ -83,19 +83,19 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 7. #### Doppler Continued 1
     - Textbook exercises & video tauria
 8. #### Doppler Continued 2
-    - Homework booklet question 
+    - Mahi Kāinga booklet question 
 9. #### Beats
     - Introduce $f_{b} = | f' - f |$
     - Notes & tauria questions
-    - Assign homework
+    - Assign mahi kāinga
     - Textbook if time
 10. #### Beats Whakamātau
     - Mahi Tuatahi in ngā kirita
         - Hand out textbook chapter while they're working
-        - Write list of missing homework up while they're working
+        - Write list of missing mahi kāinga up while they're working
     - [Whakamātau: confirming $f_{b} = | f' - f |$](https://docs.google.com/document/d/1vD8-3cC0KFPNR-J4pMgjBO_x_TgE07JR07LddT2QzfE/edit#)
     - Worksheet "whakamātau", Q1 and Q3
-    - Fast finishers: homework booklet Q10
+    - Fast finishers: mahi kāinga booklet Q10
 11. #### Beats HBQ
     - Question 10
 12. #### Standing Waves Intro
@@ -103,4 +103,4 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
     - "Diffraction of Laser Light" Lab document
     - Recap of diffraction gratings notes
 24. #### Diffraction Gratings
-    - Homework booklet Q20. Work quietly from the start of the class and then go through the question in detail talking about x/y diffraction.
+    - Mahi Kāinga booklet Q20. Work quietly from the start of the class and then go through the question in detail talking about x/y diffraction.

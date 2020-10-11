@@ -152,4 +152,4 @@ header-includes:
 ## Ngohe
 
 1. Glue in your periodic table
-2. Complete homework booklet Q2, Q4
+2. Complete mahi kāinga booklet Q2, Q4

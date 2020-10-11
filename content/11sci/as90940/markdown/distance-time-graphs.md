@@ -60,13 +60,13 @@ In pairs, __calculate__ the velocity of the object at A, B, C, D and E? _Make su
 
 ---
 
-## Homework
+## Mahi Kāinga
 
-| Due Today                                                | Due Monday August 31st                            |
-|:---------------------------------------------------------|:--------------------------------------------------|
-| Q2, Q3, Q1                                               | Q5, Q6                                            |
-| Come show me!                                            | A5 tomorrow if you need help (or ask me in class) |
-| Those without homework, A5 tomorrow lunch time to do it! | __Answer all questions in your exercise book__    |
+| Due Today                                                   | Due Monday August 31st                            |
+|:------------------------------------------------------------|:--------------------------------------------------|
+| Q2, Q3, Q1                                                  | Q5, Q6                                            |
+| Come show me!                                               | A5 tomorrow if you need help (or ask me in class) |
+| Those without mahi kāinga, A5 tomorrow lunch time to do it! | __Answer all questions in your exercise book__    |
 
 ---
 

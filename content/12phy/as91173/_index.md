@@ -32,7 +32,7 @@ __Google Meet:__ Wednesday 11:20am
 
 This week is a short week so we will only have three lessons. We are starting our new topic, Electricity and Magnetism. We will spend the next 10 weeks (all of Term 2) on the topic, hopefully having our test in Week 12 of Term 2.
 
-I have uploaded the homework book materials, all of the worksheets, the textbook activities and linked to the notes for this topic in Google Classroom so that you can find them whenever you need. As usual I will distribute the answers to the homework book as we go through the topic.
+I have uploaded the mahi kāinga book materials, all of the worksheets, the textbook activities and linked to the notes for this topic in Google Classroom so that you can find them whenever you need. As usual I will distribute the answers to the mahi kāinga book as we go through the topic.
 
 1. Static Electricity
     - Work through the static electricity notes
@@ -46,7 +46,7 @@ I have uploaded the homework book materials, all of the worksheets, the textbook
 
 3. Charge & Current
     - Complete questions 1 and two from Activity 18A in the textbook
-    - Compete Question 2a from the Homework Booklet
+    - Compete Question 2a from the Mahi Kāinga Booklet
 
 ---
 
@@ -64,7 +64,7 @@ __Google Meets:__ Wednesday 11.20am, Thursday 2.10pm
 
 3. Series & Parallel Circuits
     - Read through the notes & complete the embedded questions
-    - Complete Question 7: 12V Lamps in the Homework Book - DC Electricity
+    - Complete Question 7: 12V Lamps in the Mahi Kāinga Book - DC Electricity
 
 ---
 
@@ -82,7 +82,7 @@ This week we will be looking at the following:
     - Find the notes in the usual area
     - Electric field strength
         - Worksheet 1 Question 11a-d
-        - Homework book Electric Fields Question 4a, 4b
+        - Mahi Kāinga book Electric Fields Question 4a, 4b
     - Electric potential energy
         - Textbook Activity 17A 1, 9a-b 
     - Voltage between parallel plates
@@ -103,7 +103,7 @@ This week we will be looking at the following:
     - Work through questions that were unfinished from the previous week
 2. Electric Field Between Parallel Plates
     - Work through unfinished questions
-    - Assign 1x homework question due Monday 25th, P1.
+    - Assign 1x mahi kāinga question due Monday 25th, P1.
 3. Dangers of Electricity
 4. Prac: Series & Parallel Circuits
 
@@ -121,7 +121,7 @@ This week we will be looking at the following:
 3. Voltage Divider
     - Continue
 4. Voltage Divider
-    - Homework book past exam question
+    - Mahi Kāinga book past exam question
 
 ---
 
@@ -155,7 +155,7 @@ This week we will be looking at the following:
     - Class demonstration using galvanometer, solenoid & magnet
     - Quick questions at the end of the powerpoint
     - Textbook: Activity 20A Qa
-    - Homework Booklet: Q24
+    - Mahi Kāinga Booklet: Q24
 
 ---
 

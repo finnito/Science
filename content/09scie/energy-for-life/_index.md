@@ -61,9 +61,9 @@ menu:
     - https://www.riskassess.co.nz/risk_assessment/8040185
 
 6. Describe and create a healthy diet
-    - Homework prep: ask parents what their diet was when they were young
+    - Mahi Kāinga prep: ask parents what their diet was when they were young
     - Create a poster documenting what makes up a good diet and gives people dos and don'ts
-    - Homework: make a healthy meal for your family & document it with photos and some nutritional information
+    - Mahi Kāinga: make a healthy meal for your family & document it with photos and some nutritional information
 
 7. Distinguish between active and potential forms of energy
     - __Whakamātau:__ Mega Bow Whakamātau

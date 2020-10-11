@@ -141,9 +141,9 @@ A runner is approaching the finish line, moving at $5.55ms^{-1}$ but needs to sp
 
 ---
 
-## Homework
+## Mahi Kāinga
 
-- Due Monday, August 24th: Homework Booklet Q2, Q3, Q1
+- Due Monday, August 24th: Mahi Kāinga Booklet Q2, Q3, Q1
 - Tutorials: Tuesday Lunchtime in A5
-- Ask me for help with your homework at any time!
+- Ask me for help with your mahi kāinga at any time!
 - Do the work in your exercise book.

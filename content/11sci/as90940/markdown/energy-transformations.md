@@ -154,9 +154,9 @@ We investigated this last term by calculating the __gravitational potential ener
 
 ---
 
-### Pātai: Homework Booklet Q40
+### Pātai: Mahi Kāinga Booklet Q40
 
-- Open homework booklet 40
+- Open mahi kāinga booklet 40
 - 40a is an achieved level question
 - 40b is an excellence level question
     - start by identifying the change in energy

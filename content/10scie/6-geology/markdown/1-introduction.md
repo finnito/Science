@@ -62,7 +62,7 @@ Guess the dates of the following on your line:
 
 ---
 
-## Research / Homework
+## Research / Mahi Kāinga
 
 - Find out how scientists have aged the Earth.
 - What evidence have they used for their estimation.

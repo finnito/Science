@@ -137,9 +137,9 @@ Because Josh is walking __away__, the frequency should be lower, so $90Hz$.
 
 ---
 
-## Homework
+## Mahi Kāinga
 
-- Homework Booklet Question 8, due Monday August 3rd
+- Mahi Kāinga Booklet Question 8, due Monday August 3rd
 - Tutorials Tuesday & Friday lunchtime in A3
 
 ---
@@ -181,11 +181,11 @@ Because Zak is running __away__, the frequency should be decreased: $f' = 119.5H
     - Whakamātau
     - Exercise Q1
     - Exercise Q3
-2. Homework booklet Question 10
+2. Mahi Kāinga booklet Question 10
 
 ---
 
-## Homework
+## Mahi Kāinga
 
-- Homework Booklet Question 8, due Monday August 3rd
+- Mahi Kāinga Booklet Question 8, due Monday August 3rd
 - Tutorials Tuesday & Friday lunchtime in A3

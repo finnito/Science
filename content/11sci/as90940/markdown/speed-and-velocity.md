@@ -135,9 +135,9 @@ A rock climber climbs 15 meters in 5.48 seconds. What velocity was he travelling
 
 ---
 
-## Homework
+## Mahi Kāinga
 
-Due Monday, August 24th: Homework Booklet Q2, Q3, Q1
+Due Monday, August 24th: Mahi Kāinga Booklet Q2, Q3, Q1
 
 ---
 

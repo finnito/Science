@@ -232,7 +232,7 @@ Complete the questions on the last page of the worksheet from last period!
 
 ## Task
 
-Question 18 and then Question 17 from the homework booklet
+Question 18 and then Question 17 from the mahi kāinga booklet
 
 ---
 
@@ -245,7 +245,7 @@ Question 18 and then Question 17 from the homework booklet
 
 ---
 
-## L16: Homework Booklet Q19
+## L16: Mahi Kāinga Booklet Q19
 
 - To answer this question, carefully read the question and the things that you should include in your answer.
 - A good way to structure it would be for each point:
@@ -256,7 +256,7 @@ Question 18 and then Question 17 from the homework booklet
 
 ---
 
-## Homework Booklet Q20
+## Mahi Kāinga Booklet Q20
 
 - Right is constant velocity, left is moving to the left but slowing down.
 - For each bird:

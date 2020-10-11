@@ -33,13 +33,13 @@ menu:
 
 ## Mahere Kōwae
 
-|            | Akoranga 1 (Mon/Tues)                                                  | Akoranga 2 (Wed)                                  | Akoranga 3 (Fri)                             |
-|:-----------|:-----------------------------------------------------------------------|:--------------------------------------------------|:---------------------------------------------|
-| __T3 W9__  | 1. [What is Radiation](#what-is-radiation)                             | 2. [EM Radiation](#em-radiation)                  | 3. [Visible Light](#visible-light)           |
-| __T3 W10__ | 4. [Visible Light 2](#visible-light-2)                                 | 5. [UV and Skin Cancer](#uv-and-skin-cancer)      | 6. [Recap and Catch-Up](#recap-and-catch-up) |
-| __T4 W1__  | 7. [Reflection & Homework Assignment](#reflection-homework-assignment) | 8. [Reflection 2](#reflection-2)                  | 9. [Refraction](#refraction)                 |
-| __T4 W2__  | 10. [Total Internal Reflection](#total-internal-reflection)            | 11. [Structure of the Eye](#structure-of-the-eye) | 12. [Eye Dissection](#eye-dissection)        |
-| __T4 W3__  | 13. [Revision 1](#revision-1)                                          | 14. [Revision 2](#revision-2)                     | 15. __TEST__                                 |
+|            | Akoranga 1 (Mon/Tues)                                                        | Akoranga 2 (Wed)                                  | Akoranga 3 (Fri)                             |
+|:-----------|:-----------------------------------------------------------------------------|:--------------------------------------------------|:---------------------------------------------|
+| __T3 W9__  | 1. [What is Radiation](#what-is-radiation)                                   | 2. [EM Radiation](#em-radiation)                  | 3. [Visible Light](#visible-light)           |
+| __T3 W10__ | 4. [Visible Light 2](#visible-light-2)                                       | 5. [UV and Skin Cancer](#uv-and-skin-cancer)      | 6. [Recap and Catch-Up](#recap-and-catch-up) |
+| __T4 W1__  | 7. [Reflection & Mahi Kāinga Assignment](#reflection-mahi-kāinga-assignment) | 8. [Reflection 2](#reflection-2)                  | 9. [Refraction](#refraction)                 |
+| __T4 W2__  | 10. [Total Internal Reflection](#total-internal-reflection)                  | 11. [Structure of the Eye](#structure-of-the-eye) | 12. [Eye Dissection](#eye-dissection)        |
+| __T4 W3__  | 13. [Revision 1](#revision-1)                                                | 14. [Revision 2](#revision-2)                     | 15. __TEST__                                 |
 
 ### Ngā Mahere Akoranga
 
@@ -75,7 +75,7 @@ menu:
     - Clean the lab
     - __Ngohe__: Read https://www.sciencedaily.com/releases/2020/08/200826083036.htm
 6. #### Recap and Catch-Up
-7. #### Reflection & Homework Assignment
+7. #### Reflection & Mahi Kāinga Assignment
     - __Mahi Tuatahi__: [Quizlet](https://quizlet.com/nz/526266053/electromagnetic-spectrum-flash-cards/)
     - __Ngā Whāinga Ako__: I can describe regular reflection and give some examples of its use
     - Notes on reflection

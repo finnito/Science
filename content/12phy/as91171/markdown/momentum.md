@@ -429,6 +429,6 @@ __Note:__ If total kinetic energy is not conserved, the collision is __inelastic
 
 # Practice Time!
 
-Homework Book: Q22-26
+Mahi Kāinga Book: Q22-26
 
 Textbook: 11A and 11B (skip Q4 in 11B)

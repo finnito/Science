@@ -101,7 +101,7 @@ Jack has gone hiking up Avalanche Peak. He has a mass of $55kg$ and reaches a he
 
 ### Pātai Toru
 
-1. Get your homework booklet and open it to Q31.
+1. Get your mahi kāinga booklet and open it to Q31.
 2. Complete Q31
 3. What do you notice about the _distance_ value used? Is it horizontal or vertical? Why do you think that is?
 
@@ -123,10 +123,10 @@ We use the vertical distance, not the horizontal distance. Energy is not transfe
 
 ---
 
-### Homework / _Mahi Kāinga_
+### Mahi Kāinga / _Mahi Kāinga_
 
 - Due Monday, October 19th
-- Homework Booklet Q30, Q35
+- Mahi Kāinga Booklet Q30, Q35
 
 ---
 
@@ -190,7 +190,7 @@ All energy is transformed from chemical potential __to gravitational potential__
 
 ### Pātai Rua
 
-Open your homework booklet to Q33 about Ian and Chris on a diving platform.
+Open your mahi kāinga booklet to Q33 about Ian and Chris on a diving platform.
 
 - Formula
 - Substitution
@@ -300,7 +300,7 @@ Chris (48 kg) climbs 2m up some stairs to a diving board. He completes the climb
 
 ### Pātai Toru
 
-Homework booklet Q36. _Hint: find work first, and then power._
+Mahi Kāinga booklet Q36. _Hint: find work first, and then power._
 
 - Formula
 - Substitution

@@ -160,6 +160,6 @@ Arterial blood flow in a finger was measured to be $0.19ms^{-1}$ away from the d
 
 ---
 
-## Homework: Question 9 of the Homework Booklet
+## Mahi Kāinga: Question 9 of the Mahi Kāinga Booklet
 
 Due Monday July 27th!

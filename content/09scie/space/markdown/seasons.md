@@ -84,6 +84,6 @@ header-includes:
 
 ---
 
-## Homework
+## Mahi Kāinga
 
 Education Perfect task due Friday!

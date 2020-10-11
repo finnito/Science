@@ -47,7 +47,7 @@ menu:
 3. #### Discovering the Atomic Structure 2
     - __Mahi Tuatahi__: In ngā kirita on gold foil experiment
     - Video on atomic structures in ngā kirita
-    - __Ngohe Tahi__: Homework Booklet: Q2 & Q4
+    - __Ngohe Tahi__: Mahi Kāinga Booklet: Q2 & Q4
 4. #### Radioactive Decays 1
 5. #### Radioactive Decays 2
     - __Mahi Tuatahi__: Recall physical quantities conserved during nuclear decays
