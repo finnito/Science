@@ -74,7 +74,7 @@ __NB:__ Not a real photo
 
 ## Law of Conservation of Energy
 
-If you can remember it, write it down in your book without looking, otherwise go to the next slide!
+If you can remember it, write it down in your book without looking, otherwise go to the next kiriata!
 
 ---
 

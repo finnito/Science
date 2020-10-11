@@ -93,7 +93,7 @@ We applied friction!
 ## What's a Coulomb?
 
 - We know that electrons are negatively charged. In fact, they have a charge of $-0.00000000000000000016 Coulombs$
-- Write this number in scientific form (answer on the next slide)
+- Write this number in scientific form (answer on the next kiriata)
 
 ---
 

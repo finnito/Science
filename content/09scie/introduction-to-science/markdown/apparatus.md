@@ -37,7 +37,7 @@ We will go over the answers soon!
 
 In Pūtaiao we prefer to use _diagrams_ instead of _drawings_ as they are much simpler and easier to understand.
 
-The images on the previous slide are drawings. We will simplify these into 1-dimensional drawings!
+The images on the previous kiriata are drawings. We will simplify these into 1-dimensional drawings!
 
 ---
 

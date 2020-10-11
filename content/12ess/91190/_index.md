@@ -45,7 +45,7 @@ __NZQA Link:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standa
 7. Law of Tolerance
     - Egg denaturing whakamātau https://www.riskassess.co.nz/risk_assessment/8044485
 8. Antarctica
-    - Diving in Antarctica video (slide 24)
+    - Diving in Antarctica video (kiriata 24)
     - Notes on 25-34
     - Clothing task on ngā kirita 35-36
     - Finish mapping task from earlier in the week
