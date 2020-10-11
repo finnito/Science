@@ -75,7 +75,7 @@ menu:
 9. Describe what digestion involves and why it is necessary
     - Introduce the idea of a tube that runs through the body
     - The important bits have to leave this tube and get into the body
-    - Peristalsis demo
+    - __Whakakite__: Peristalsis
     - 1/3 of A4 pamphlet on a digestive disease, how to avoid, how to treat, population at risk etc.
 
 10. Name the parts of the human digestion system and describe what happens to the food in each part

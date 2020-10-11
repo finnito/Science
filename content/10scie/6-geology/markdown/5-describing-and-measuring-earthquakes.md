@@ -58,7 +58,7 @@ header-includes:
 
 ---
 
-## Slinky Demo
+## Whakakite: Slinky
 
 - Use a slink to demonstrate P and S type waves
 

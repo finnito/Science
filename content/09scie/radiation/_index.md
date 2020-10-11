@@ -33,13 +33,13 @@ menu:
 
 ## Mahere Kōwae
 
-|            | Akoranga 1 (Mon/Tues)                                       | Akoranga 2 (Wed)                                  | Akoranga 3 (Fri)                                                           |
-|:-----------|:------------------------------------------------------------|:--------------------------------------------------|:---------------------------------------------------------------------------|
-| __T3 W9__  | 1. [What is Radiation](#what-is-radiation)                  | 2. [EM Radiation](#em-radiation)                  | 3. [Visible Light](#visible-light)                                         |
-| __T3 W10__ | 4. [Visible Light 2](#visible-light-2)                      | 5. [UV and Skin Cancer](#uv-and-skin-cancer)      | 6. [Recap and Catch-Up](#recap-and-catch-up) |
-| __T4 W1__  | 7. [Reflection & Homework Assignment](#reflection-homework-assignment)                | 8. [Reflection 2](#reflection-2)                      | 9. [Refraction](#refraction)                 |
-| __T4 W2__  | 10. [Total Internal Reflection](#total-internal-reflection) | 11. [Structure of the Eye](#structure-of-the-eye) | 12. [Eye Dissection](#eye-dissection)                                      |
-| __T4 W3__  | 13. [Revision 1](#revision-1)                               | 14. [Revision 2](#revision-2)                     | 15. __TEST__                                                               |
+|            | Akoranga 1 (Mon/Tues)                                                  | Akoranga 2 (Wed)                                  | Akoranga 3 (Fri)                             |
+|:-----------|:-----------------------------------------------------------------------|:--------------------------------------------------|:---------------------------------------------|
+| __T3 W9__  | 1. [What is Radiation](#what-is-radiation)                             | 2. [EM Radiation](#em-radiation)                  | 3. [Visible Light](#visible-light)           |
+| __T3 W10__ | 4. [Visible Light 2](#visible-light-2)                                 | 5. [UV and Skin Cancer](#uv-and-skin-cancer)      | 6. [Recap and Catch-Up](#recap-and-catch-up) |
+| __T4 W1__  | 7. [Reflection & Homework Assignment](#reflection-homework-assignment) | 8. [Reflection 2](#reflection-2)                  | 9. [Refraction](#refraction)                 |
+| __T4 W2__  | 10. [Total Internal Reflection](#total-internal-reflection)            | 11. [Structure of the Eye](#structure-of-the-eye) | 12. [Eye Dissection](#eye-dissection)        |
+| __T4 W3__  | 13. [Revision 1](#revision-1)                                          | 14. [Revision 2](#revision-2)                     | 15. __TEST__                                 |
 
 ### Ngā Mahere Akoranga
 
@@ -47,7 +47,7 @@ menu:
     - __Whakamātau__: Magnifying glasses
     - https://www.riskassess.co.nz/risk_assessment/8683757
     - https://docs.google.com/document/d/1eHEYVkrcIuxCJRzjo8bzL7omQNZTgbFdLttHfDRmIdc/edit
-    - __Demo__: Concave mirror, solar panel
+    - __Whakakite__: Concave mirror, solar panel
     - https://www.riskassess.co.nz/risk_assessment/8683841
 2. #### EM Radiation
     - __Mahi Tuatahi__: Conclusions from magnifying glasses experiment
@@ -86,7 +86,7 @@ menu:
     - __Tuhura__: Angle of Reflection
         - https://www.riskassess.co.nz/risk_assessment/8750401
         - https://docs.google.com/document/d/1yzA9oaw8PIf-z0VhB9VATYKh8z104T0dz4x-uGcuMOM/edit
-    - __Demo__: Pig illusion
+    - __Whakakite__: Pig illusion
 9. #### Refraction
     - __Mahi Tuatahi__:
     - __Ngā Whāinga Ako__:
@@ -100,8 +100,8 @@ menu:
 10. #### Total Internal Reflection
     - __Mahi Tuatahi__:
     - __Ngā Whāinga Ako__:
-    - __Demo__: Disappearing test tubes
-    - __Demo__: Water stream, optic fibre, plastic rod, 1000ml beaker, diamond, prisms
+    - __Whakakite__: Disappearing test tubes
+    - __Whakakite__: Water stream, optic fibre, plastic rod, 1000ml beaker, diamond, prisms
 11. #### Structure of the Eye
     - __Mahi Tuatahi__:
     - __Ngā Whāinga Ako__:

@@ -184,7 +184,7 @@ Which direction is the force acting in?
 
 ---
 
-## Demo: Cathode Ray Tube
+## Whakakite: Cathode Ray Tube
 
 ![](../assets/9-cathode-ray-tube.png){width=75%}
 

@@ -16,7 +16,7 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Demo: Concave Mirror & Solar Panel {.c2}
+## Whakakite: Concave Mirror & Solar Panel {.c2}
 
 We can capture radiation from the sun and use it for energy!
 
