@@ -169,7 +169,7 @@ It mirrors its direction.
 
 ---
 
-#### Example
+#### Example / _Tauria_
 
 A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebounds at $4ms^{-1}$ in the opposite direction away from the crossbar. Determine the ball's change in velocity.
 

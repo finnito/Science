@@ -58,7 +58,7 @@ menu:
 6. #### Writing Equations
     - __Mahi Tuatahi__: Cloze in notes
     - __Te Whāinga Ako__: Balance nuclear equations using the knowledge of the conservation of atomic and mass numbers.
-    - Clozes, notes and example decays for all three types of decay
+    - Clozes, notes and tauria decays for all three types of decay
     - Less guided decays at the end including double decays and absorption
 7. #### Half-Life
     - __Mahi Tuatahi__: 3x nuclear equations in slides

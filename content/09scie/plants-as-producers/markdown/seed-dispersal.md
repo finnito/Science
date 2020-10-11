@@ -33,9 +33,9 @@ header-includes:
 
 ---
 
-### Task 1: Seed Dispersal Examples
+### Task 1: Seed Dispersal Tauria
 
-This sheet contains examples of seeds and how they are dispersed.
+This sheet contains tauria of seeds and how they are dispersed.
 
 1. Glue this sheet into your book
 2. Make sure any excess paper goes into the recycling bin!

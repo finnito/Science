@@ -94,7 +94,7 @@ If you can remember it, write it down in your book without looking, otherwise go
 
 ---
 
-Another good example of the conservation of energy is in hydroelectric power generation. Watch this video to find out about one portion of New Zealand's hydroelectric scheme.
+Another good tauria of the conservation of energy is in hydroelectric power generation. Watch this video to find out about one portion of New Zealand's hydroelectric scheme.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ollXO0UDLFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

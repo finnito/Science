@@ -70,7 +70,7 @@ This equation is not given to your in your formula sheet. $f_{2}$ should be the 
 
 ---
 
-#### Example Calculation
+#### Pātai Tahi
 
 Zak is standing still and holding a device emitting a frequency of $100Hz$. Josh stands next to him holding a device emitting a frequency of $107Hz$.
 
@@ -78,7 +78,7 @@ Calculate the frequency of the beats observed them both.
 
 ---
 
-##### Answer
+##### Whakatika Tahi
 
 This equation $f_{b} = f_{2} \pm f_{1}$ mainly tells us that the beat frequency is the difference between the two frequencies.
 
@@ -89,7 +89,7 @@ This equation $f_{b} = f_{2} \pm f_{1}$ mainly tells us that the beat frequency 
 
 ---
 
-### Question: Piano Key
+### Pātai Rua: Piano Key
 
 Jules is tuning the middle C key on a piano. He is using a tuning fork which produces a frequency of $257Hz$ as a reference. The key is slightly out of tune and a beat frequency of $4Hz$ is heard.
 
@@ -97,7 +97,7 @@ Calculate the frequency of the out of tune key.
 
 ---
 
-#### Answer
+#### Whakatika Rua
 
 \begin{align*}
     & f_{b} = f_{2} - f_{1} \newline
@@ -153,7 +153,7 @@ Josh is back holding his device. It is now emitting a frequency of $125Hz$, and 
 
 ---
 
-### Answer
+### Te Whakatika
 
 \begin{align*}
     f_{b} &= f' - f \newline

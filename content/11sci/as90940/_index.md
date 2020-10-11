@@ -183,7 +183,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 		2. Name the unit of work and give its symbol.
 		3. Use $W = Fd$.
 	- Notes on work
-	- Example questions using $W = Fd$
+	- Pātai using $W = Fd$
 25. #### Work 2
 	- __Mahi Tuatahi__: Compare change in energies of two skiers taking different paths down a mountain (in slides)
     - __Ngā Whāinga Ako__: Use $W = Fd$ and $Ep = mgh$ to determine amounts of energy transfer.
@@ -200,7 +200,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 		2. Name the unit of power and give its symbol.
 		3. Calculate the power of a device from given data.
 	- Notes on power
-	- Example calculations
+	- Tauria calculations
 	- Homework booklet Q36 as more practice
 27. #### Revision 1
 	- __Mahi Tuatahi__:

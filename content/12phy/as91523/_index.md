@@ -65,7 +65,7 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
     - Mahi Tuatahi: Quizlet flashcards & Quizlet Live: https://quizlet.com/83814791/waves-flash-cards/
     - Waves Revision Questions #1 Q1
 3. #### Intro Continued 1
-    - Notes with example calculations on using $T = \frac{1}{f}$ and $v=f\lambda$.
+    - Notes with tauria calculations on using $T = \frac{1}{f}$ and $v=f\lambda$.
     - Textbook Activity 5A Q1-5
     - Waves Revision Questions #1 Q2
     - Physics Worksheet 3.3 Waves Q1-5
@@ -78,15 +78,15 @@ __NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNum
 6. #### Intro Doppler Equation
     - Mahi Tuatahi in notes
     - Introduce $f'=f\frac{v_{w}}{v_{w} \pm v_{s}}$
-    - Examples and videos in notes
+    - Tauria and videos in notes
     - Textbook exercise
 7. #### Doppler Continued 1
-    - Textbook exercises & video examples
+    - Textbook exercises & video tauria
 8. #### Doppler Continued 2
     - Homework booklet question 
 9. #### Beats
     - Introduce $f_{b} = | f' - f |$
-    - Notes & example questions
+    - Notes & tauria questions
     - Assign homework
     - Textbook if time
 10. #### Beats Whakamātau

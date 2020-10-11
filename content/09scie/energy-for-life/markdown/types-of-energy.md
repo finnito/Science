@@ -25,7 +25,7 @@ header-includes:
 
 ## Types of Energy
 
-For each of these types of energy, think of and write down one example:
+For each of these types of energy, think of and write down one tauria:
 
 1. Heat
 2. Magnetic
@@ -66,7 +66,7 @@ Energy that is stored some way
 
 ---
 
-### Active Energy Examples
+### Active Energy Tauria
 
 Kinetic, sound, radiant, heat and electrical
 
@@ -74,7 +74,7 @@ Kinetic, sound, radiant, heat and electrical
 
 ---
 
-### Potential Energy Examples
+### Potential Energy Tauria
 
 Gravitational, nuclear, chemical, elastic and magnetic
 
@@ -110,7 +110,7 @@ This means that we can state the law like this:
 
 ---
 
-### Example
+### Tauria
 
 Think of a skydiver falling to Earth.
 
@@ -125,7 +125,7 @@ They have __gravitational potential energy__, and all of it gets transformed to 
 
 ---
 
-### Example
+### Tauria
 
 - Chemical energy in food is transformed to heat energy and kinetic energy by our bodies
 - Gravitational energy in a ball is converted to kinetic energy when it falls to the ground

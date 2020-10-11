@@ -40,7 +40,7 @@ Respiration and photosynthesis can be thought of as opposites to each other.
 ![](../assets/evergreen-trees.jpg "")
 
 - Evergreen trees has leaves throughout the year, and they are always green.
-- Some examples are pine, eucalyptus and rainforest trees.
+- Some tauria are pine, eucalyptus and rainforest trees.
 - Some evergreen tree leaves can live up to 30 years!
 
 ## Deciduous Trees {.col-2}

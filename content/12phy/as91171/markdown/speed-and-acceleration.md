@@ -62,7 +62,7 @@ header-includes:
 
 ---
 
-### Example
+### Example / _Tauria_
 
 Ash runs 315m in 45s. Calculate his average speed in __meters per second__.
 
@@ -162,7 +162,7 @@ This is the difference between the __initial__ and the __final__ value.
 
 ---
 
-### Example
+### Pātai Tahi
 
 A man initially walking at $2.0ms^{-1}$ notices that his house is on fire so he speeds up to $11ms^{-1}$ in $1.3s$.
 
@@ -170,6 +170,8 @@ A man initially walking at $2.0ms^{-1}$ notices that his house is on fire so he 
 2. Calculate the acceleration
 
 ---
+
+### Whakatika Tahi
 
 \begin{align*}
     & \Delta v = v_{f} - v_{i} \newline
@@ -181,11 +183,13 @@ A man initially walking at $2.0ms^{-1}$ notices that his house is on fire so he 
 
 ---
 
-### Example
+### Pātai Rua
 
 A cyclist who has been travelling at a steady speed of $4ms^{-1}$ starts to accelerate. If he accelerates at $2.5ms^{-2}$, how long will he take to reach a speed of $24ms^{-1}$?
 
 ---
+
+#### Whakatika Rua
 
 \begin{align*}
     & a = \frac{\Delta v}{t} \newline
@@ -196,14 +200,14 @@ A cyclist who has been travelling at a steady speed of $4ms^{-1}$ starts to acce
 
 ---
 
-### More Examples
+### More Pātai
 
 1. A car initially moving at $12.7ms^{-1}$ accelerates at $1.3ms^{-2}$ for __one minute__. What is the car's final speed?
 2. A car decelerates at $1.8ms^{-2}$ for $9.4s$ to stop. What was the car's initial speed?
 
 ---
 
-__1.__
+__Whakatika 1__
 
 \begin{align*}
     & a = \frac{v_{f} - v_{i}}{t} \newline
@@ -214,7 +218,7 @@ __1.__
 
 ---
 
-__2.__
+__Whakatika 2__
 
 \begin{align*}
     & a = \frac{v_{f} - v_{i}}{t} \newline

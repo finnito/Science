@@ -51,7 +51,7 @@ A reaction, usually combustion, where two ions are combined to form a compound.
 
 ---
 
-### Example
+### Tauria Tahi
 
 A piece of magnesium is burned over a bunsen burner and a white solid is formed.
 
@@ -67,7 +67,7 @@ A piece of magnesium is burned over a bunsen burner and a white solid is formed.
 
 ---
 
-### Example Two
+### Tauria Rua
 
 Hydrogen is collected and combusted using Bunsen burner (pop test).
 

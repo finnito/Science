@@ -129,13 +129,15 @@ __Induced voltage__ in a wire moving through a magnetic field:
 
 ---
 
-### Example
+### Pātai
 
 A metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8ms^{-1}$ through a magnetic field with strength $0.7T$. __Calculate the induced voltage and induced current__. Use $V=BvL$ first, and then Ohm's Law.
 
 ![](../assets/10-vbil-example.png)
 
 ---
+
+#### Whakatika
 
 \begin{align*}
     & V = BvL \newline
@@ -179,12 +181,12 @@ __Think, pair, share:__ If we drag the coil to the right, what will we observe?
 ## Lenz's Law
 
 - __The induced current (and magnetic force) always opposes the change/action producing it__
-- In our previous example the induced current causes a force which opposes the externally applied force
+- In our previous tauria the induced current causes a force which opposes the externally applied force
 - This law is a result of __the conservation of energy__. Work must be done to generate electrical energy.
 
 ---
 
-Continuing our example from earlier: a metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8ms^{-1}$ through a magnetic field with strength $0.7T$. __Calculate the magnitude and direction of the opposing force acting upon the rod__.
+Continuing our tauria from earlier: a metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8ms^{-1}$ through a magnetic field with strength $0.7T$. __Calculate the magnitude and direction of the opposing force acting upon the rod__.
 
 ![](../assets/10-vbil-example.png)
 

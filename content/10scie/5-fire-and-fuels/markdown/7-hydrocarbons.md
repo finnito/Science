@@ -22,7 +22,7 @@ header-includes:
 
 ---
 
-| Term              | Description                                       | Example                               |
+| Term              | Description                                       | Example/_Tauria_                               |
 |---------------    |-------------------------------------------------  |-----------------------------------    |
 | Atom/Molecule     | The smallest unit of an element                   | One atom of H      |
 | Element           | Many of the same atoms together                   | Hydrogen, Oxygen       |

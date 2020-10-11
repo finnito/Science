@@ -48,7 +48,7 @@ A reaction where an ion (B) is _replaced_ by another ion (A) in a compound.
 
 ---
 
-### Example
+### Tauria Tahi
 
 A piece of __copper__ is placed into a solution of __silver nitrate__. The copper replaces the silver, making __copper nitrate__ and __silver__.
 
@@ -70,7 +70,7 @@ A piece of __copper__ is placed into a solution of __silver nitrate__. The coppe
 
 ---
 
-### Example 2
+### Tauria Rua
 
 A piece of __magnesium__ is dropped into a __copper sulfate__ solution.
 
@@ -102,7 +102,7 @@ Note which end is the most and least reactive on your resource sheet.
 
 ---
 
-### Example 3
+### Tauria Toru
 
 1. Write a word equation
 2. Write a symbol equation (with states and balanced)

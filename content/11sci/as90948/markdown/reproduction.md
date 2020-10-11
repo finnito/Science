@@ -78,7 +78,7 @@ Some plants, bacteria, some insects
 
 #### Does anything do both?
 
-Yes, aphids, slime moulds, sea anemones and some starfish are examples of organisms that can do both sexual and asexual reproduction.
+Yes, aphids, slime moulds, sea anemones and some starfish are tauria of organisms that can do both sexual and asexual reproduction.
 
 ---
 

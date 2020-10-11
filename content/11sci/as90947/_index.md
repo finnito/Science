@@ -60,7 +60,7 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
 6. Precipitation Reactions
     - Mahi Tuatahi: writing word equation
     - Notes on precipitation reactions
-    - Practice example forming lead iodide
+    - Practice tauria forming lead iodide
 7. Ionic Compounds
     - Need to do more practice with ionic compounds.
     - Mahi Tuatahi: write a word and symbol equation for a precipitation reaction
@@ -71,10 +71,10 @@ NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNu
     - Whakamātau: Precipitation Challenge
 9. Displacement Reactions
     - Mahi Tuatahi: Recap precipitation reactions
-    - Notes and examples on displacement reactions
+    - Notes and tauria on displacement reactions
 10. Combination Reactions
     - Mahi Tuatahi: Displacement reactions question
-    - Notes and examples on combination reactions
+    - Notes and tauria on combination reactions
     - Education Perfect task on reactions?
 11. Displacement Whakamātau
 12. Decomposition Reactions

@@ -101,7 +101,7 @@ The higher the resistance, the more heat produced!
 
 ---
 
-### Examples
+### Pātai
 
 1. The resistance of a light bulb is $1.5k\Omega$. Calculate the current through the bulb when it is connected across a $12V$ power supply.
 2. When $9V$ is applied to a resistor, $0.03mA$ of current flows through it. Calculate the resistance of the resistor.
@@ -109,7 +109,7 @@ The higher the resistance, the more heat produced!
 
 ---
 
-### Question 1 Answer
+### Pātai Tahi Answer
 
 \begin{align*}
     & V = IR \newline
@@ -120,7 +120,7 @@ The higher the resistance, the more heat produced!
 
 ---
 
-### Question 2 Answer
+### Pātai Rua Answer
 
 \begin{align*}
     & V = IR \newline
@@ -131,7 +131,7 @@ The higher the resistance, the more heat produced!
 
 ---
 
-#### Question 3 Answer
+#### Pātai Toru Answer
 
 \begin{align*}
     & V = IR \newline

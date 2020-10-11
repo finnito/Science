@@ -63,7 +63,7 @@ __e.g. electrons move through metal__
 
 ---
 
-### Examples
+### Pātai
 
 1. If $10A$ flows through a wire, how much charge passes a point in $5s$?
 2. A total charge of $0.12C$ passes a point in $5s$. What is the current?

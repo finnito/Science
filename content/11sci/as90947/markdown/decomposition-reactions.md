@@ -49,7 +49,7 @@ header-includes:
 
 ---
 
-### Example
+### Tauria
 
 Mercury (II) oxide is heated in a test tube. The solid is seen to change colour and a gas is given off.
 
