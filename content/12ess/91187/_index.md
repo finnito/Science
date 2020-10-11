@@ -1,11 +1,10 @@
 ---
 title: AS91187 - Meteorite Tūhura
+nzqa: 91187
 menu:
     main:
         parent: "12ESS"
 ---
-
-NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91187](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91187)
 
 ## Ngā Whāinga Ako
 

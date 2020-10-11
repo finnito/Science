@@ -1,11 +1,10 @@
 ---
 title: AS90930 - Chemical Tūhura
+nzqa: 90930
 menu:
     main:
         parent: "11SCI"
 ---
-
-NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90930](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90930)
 
 ## Ngā Whāinga Ako
 

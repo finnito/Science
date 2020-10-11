@@ -1,5 +1,6 @@
 ---
 title: AS91191 - Extreme Earth Events
+nzqa: 91191
 menu:
     main:
         parent: "12ESS"

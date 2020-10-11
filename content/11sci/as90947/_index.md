@@ -1,11 +1,10 @@
 ---
 title: AS90947 - Chemical Reactions
+nzqa: 90947
 menu:
     main:
         parent: "11SCI"
 ---
-
-NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90947](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90947)
 
 ## Ngā Whāinga Ako
 

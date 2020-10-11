@@ -1,5 +1,6 @@
 ---
 title: Electricity - AS91173
+nzqa: 91173
 menu:
     main:
         parent: "12PHY"

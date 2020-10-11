@@ -1,13 +1,12 @@
 ---
 title: AS91190 - Extreme Environments
+nzqa: 91190
 menu:
     main:
         parent: "12ESS"
 ---
 
 > Investigate how organisms survive in an extreme environments.
-
-__NZQA Link:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=91190](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=91190)
 
 {{< slides >}}
 

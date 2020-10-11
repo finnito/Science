@@ -1,11 +1,10 @@
 ---
 title: AS90948 - Genetics
+nzqa: 90948
 menu:
     main:
         parent: "11SCI"
 ---
-
-NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90948](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90948)
 
 ## Ngā Whāinga Ako
 

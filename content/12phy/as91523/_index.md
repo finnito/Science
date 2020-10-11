@@ -1,12 +1,11 @@
 ---
 title: Wave Systems - AS91523
+nzqa: 91523
 menu:
     main:
         parent: "12PHY"
 katex: true
 ---
-
-__NZQA:__ [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=91523](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=91523)
 
 {{< slides >}}
 

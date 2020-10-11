@@ -1,11 +1,10 @@
 ---
 title: AS91171 - Mechanics
+nzqa: 91171
 menu:
     main:
         parent: "12PHY"
 ---
-
-NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91171](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91171)
 
 ## Ngā Whāinga Ako
 
