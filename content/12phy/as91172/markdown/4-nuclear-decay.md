@@ -2,6 +2,7 @@
 title: Nuclear Decay
 subtitle: 12PHY - Atomic and Nuclear Physics
 author: Finn LeSueur
+slug: nuclear-decay
 date: 2020
 theme: finn
 weight: 3
@@ -198,4 +199,9 @@ Inside an ionisation chamber, americium-241 decays through alpha decay. The alph
 ---
 
 <iframe width="646" height="363" src="https://www.youtube.com/embed/SHZAaGidUbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Mahia Kāinga Booklet Q9
+
 
