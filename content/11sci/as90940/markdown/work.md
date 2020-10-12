@@ -34,9 +34,9 @@ header-includes:
 
 ## Work
 
-> Work is defined as the amount of energy transferred/transformed.
+> The amount of energy transferred/transformed.
 
-E.g. When you lift your backpack off the ground you are transferring some __chemical potential energy__ in your muscles into __gravitational potential energy__ in the backpack.
+E.g. When you lift your backpack off the ground you are transferring some __chemical potential energy__ in your muscles into __gravitational potential energy__ in the backpack. You are doing __work__ on your backpack.
 
 ---
 
@@ -49,39 +49,19 @@ Work has the formula
 
 ---
 
-### Pātai: What is work measured in?
-
----
-
-#### Whakatika
-
-Work is measured in Joules (J) because it is defined as __the amount of energy transferred/transformed__.
-
----
-
-### Pātai Tahi
-
-Sam has decided to take up weight lifting and starts by dead-lifting a $20kg$ mass from the ground to a height of $1m$. Calculate the work done for Sam to lift the weight.
-
-- Formula
-- Substitution
-- Answer
+### Pātai Tahi: What is work measured in?
 
 ---
 
 #### Whakatika Tahi
 
-\begin{align*}
-    W &= F \times d \newline
-    W &= (m \times g) \times d \newline
-    W &= (20 \times 10) \times 1 = 200J
-\end{align*}
+Work is measured in Joules (J) because it is defined as __the amount of energy transferred/transformed__.
 
 ---
 
 ### Pātai Rua
 
-Jack has gone hiking up Avalanche Peak. He has a mass of $55kg$ and reaches a height of $1833m$, starting from $733m$. How much work has Jack done to reach the top?
+Sam has decided to take up weight lifting and starts by dead-lifting a $20kg$ mass from the ground to a height of $1m$. Calculate the work done for Sam to lift the weight.
 
 - Formula
 - Substitution
@@ -94,16 +74,14 @@ Jack has gone hiking up Avalanche Peak. He has a mass of $55kg$ and reaches a he
 \begin{align*}
     W &= F \times d \newline
     W &= (m \times g) \times d \newline
-    W &= (55 \times 10) \times (1833-733) = 605,000J
+    W &= (20 \times 10) \times 1 = 200J
 \end{align*}
 
 ---
 
 ### Pātai Toru
 
-1. Get your mahi kāinga booklet and open it to Q31.
-2. Complete Q31
-3. What do you notice about the _distance_ value used? Is it horizontal or vertical? Why do you think that is?
+Jack has gone hiking up Avalanche Peak. He has a mass of $55kg$ and reaches a height of $1833m$, starting from $733m$. How much work has Jack done to reach the top?
 
 - Formula
 - Substitution
@@ -116,6 +94,28 @@ Jack has gone hiking up Avalanche Peak. He has a mass of $55kg$ and reaches a he
 \begin{align*}
     W &= F \times d \newline
     W &= (m \times g) \times d \newline
+    W &= (55 \times 10) \times (1833-733) = 605,000J
+\end{align*}
+
+---
+
+### Pātai Whā
+
+1. Get your mahi kāinga booklet and open it to Q31.
+2. Complete Q31
+3. What do you notice about the _distance_ value used? Is it horizontal or vertical? Why do you think that is?
+
+- Formula
+- Substitution
+- Answer
+
+---
+
+#### Whakatika Whā
+
+\begin{align*}
+    W &= F \times d \newline
+    W &= (m \times g) \times d \newline
     W &= (62 \times 10) \times 46.2 = 28,644J
 \end{align*}
 
@@ -123,7 +123,7 @@ We use the vertical distance, not the horizontal distance. Energy is not transfe
 
 ---
 
-### Mahi Kāinga / _Mahi Kāinga_
+### Homework / _Mahi Kāinga_
 
 - Due Monday, October 19th
 - Mahi Kāinga Booklet Q30, Q35
