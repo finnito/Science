@@ -138,11 +138,11 @@ Recall that __work is the amount of energy transferred/transformed__. Two skiers
 
 ---
 
-## Ngā Whāinga Ako
+## Te Whāinga Ako
 
 1. Use $W = Fd$ and $Ep = mgh$ to determine amounts of energy transfer.
 
-<p class="instruction">Write ngā whāinga ako in your book</p>
+<p class="instruction">Write te whāinga ako in your book</p>
 
 ---
 

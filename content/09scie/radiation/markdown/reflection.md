@@ -22,7 +22,7 @@ header-includes:
 
 ---
 
-## Ngā Whāinga Ako
+## Te Whāinga Ako
 
 1. I can describe regular reflection and give some examples of its use.
 
@@ -103,10 +103,12 @@ Because they do not absorb much light, instead they reflect almost all of it awa
 
 ---
 
+#### Surgery {.c2}
+
 - Endoscopes use optical fibres. 
 - A doctor can insert a bundle of optical fibres into the body to see the inside of the body clearly – and help them diagnose diseases or see what they are doing during keyhole surgery.
 
-![[Source](https://en.wikipedia.org/wiki/Functional_endoscopic_sinus_surgery)](https://en.wikipedia.org/wiki/File:Mani_Zadeh_MD_Endoscopic_Sinus_Surgery.jpg)
+![[Source](https://en.wikipedia.org/wiki/Functional_endoscopic_sinus_surgery)](https://upload.wikimedia.org/wikipedia/commons/4/48/Mani_Zadeh_MD_Endoscopic_Sinus_Surgery.jpg)
 
 ---
 
