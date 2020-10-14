@@ -81,8 +81,8 @@ menu:
     - Notes on reflection
     - __Homework Assignment Given__
 8. #### Reflection 2
-    - __Mahi Tuatahi__:
-    - __Ngā Whāinga Ako__:
+    - __Mahi Tuatahi__: The tūhura
+    - __Ngā Whāinga Ako__: I can describe a regular reflection and give some examples of its use
     - __Tuhura__: Angle of Reflection
         - https://www.riskassess.co.nz/risk_assessment/8750401
         - https://docs.google.com/document/d/1yzA9oaw8PIf-z0VhB9VATYKh8z104T0dz4x-uGcuMOM/edit
