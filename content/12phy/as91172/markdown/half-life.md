@@ -16,7 +16,23 @@ header-includes:
 
 # Akoranga 7 Mahi Tuatahi
 
-1. A Carbon-14 nucleus emits a beta particle, then the daughter nucleus also emits a beta particle immediately after. Write a single equation showing this.
+1. Date your book and collect a container of dice from the front
+2. Count the total number of dice
+3. Roll all the dice in one go. Set aside the dice with dots facing up, count the dice without dots and record that value.
+4. Roll all the dice in one go that did did not land with dots facing up. Discard those with dots facing up, count, record and repeat until no dice remain.
+5. Create a line graph showing the number of dice rolled (y-axis) vs the trial number (x-axis)
+
+---
+
+What you have graphed is an exponential decay curve! This is what nature does - we can observe it all over the place, even in electrical circuits.
+
+It is not important to understand _why_ at the moment, just to know that it __does__ occur.
+
+---
+
+## Mahi Tuatahi 2
+
+1. A Carbon-14 nucleus emits a beta particle, then the daughter nucleus also emits a beta particle immediately after. Write two equations to show this.
 2. An Uranium-241 nucleus emits an alpha particle AND a beta particle. Write down the equation.
 3. An atom of Carbon-11 absorbs a neutron. Write down the nuclear equation.
 
@@ -32,7 +48,7 @@ header-includes:
 \end{align*}
 
 \begin{align*}
-	{}^{11}_{6}C + {}^{0}_{1}n \rightarrow {}^{12}_{6}
+	{}^{11}_{6}C + {}^{0}_{1}n \rightarrow {}^{12}_{6}C
 \end{align*}
 
 ---
@@ -69,13 +85,13 @@ A small sample of a radioactive material iodine-131 has been observed for severa
 
 ---
 
-### Pātai Tahi: What shape is this graph? Sketch it in your books.
+### Iodide-131 Half-Life Graph
 
 ![](../assets/5-half-life-graph.png)
 
 ---
 
-### Pātai Rua
+### Pātai Tahi
 
 The half-life of Hydrogen-3 is approximately 12.25 years. If you found a small sample of Tritium containing 5,000,000 undecayed nuclei.
 
@@ -87,7 +103,7 @@ The half-life of Hydrogen-3 is approximately 12.25 years. If you found a small s
 
 ---
 
-#### Whakatika Rua
+#### Whakatika Tahi
 
 1. 2,500,000
 2. 1,250,000
@@ -97,7 +113,7 @@ The half-life of Hydrogen-3 is approximately 12.25 years. If you found a small s
 
 ---
 
-### Pātai Toru
+### Pātai Rua
 
 You found a $50 g$ sample of Cobalt-60. The half-life of Cobalt-60 is 5 years.
 What would be the mass of the Cobalt-60 sample after 20 years?
@@ -108,8 +124,7 @@ What would be the mass of the Cobalt-60 sample after 20 years?
 
 ---
 
-## Mahi Kāinga (Due Friday, marked and corrected)
+## Homework / _Mahi Kāinga_
 
-- Worksheets 1, 2 and left half of 3
-- Mahi Kāinga Booklet: Atom Models 2004 Q1, 2005 Q2
-- Mahi Kāinga Booklet: Radioactivity Q1, 3, 4, 5, 6
+-  __Due Monday, marked and corrected__
+- Half-Life 2006 Q4, Atom Models Q4, Radioactivity Q8
