@@ -28,23 +28,23 @@ menu:
 
 ## Mahere Kōwae
 
-|        | Akoranga 1 (Mon)         | Akoranga 2 (Tues)                 | Akoranga 3 (Wed)                  | Akoranga 4 (Thurs)      |
-|:-------|:-------------------------|:----------------------------------|:----------------------------------|:------------------------|
-| T3 W10 | 1. Structure of the Atom | 2. Discovering Atomic Structure 1 | 3. Discovering Atomic Structure 2 | 4. Radioactive Decays 1 |
-| T4 W1  | 5. Radioactive Decays 2  | 6. Writing Equations              | 7. Half-Life                      | 8. Catch-Up             |
-| T4 W2  | 9. Fission & Fusion 1    | 10. Fission & Fusion 2            | 11. __Revision__                  | 12. __Test__            |
+|        | Akoranga 1 (Mon)                                   | Akoranga 2 (Tues)                                                    | Akoranga 3 (Wed)                                                     | Akoranga 4 (Thurs)                               |
+|:-------|:---------------------------------------------------|:---------------------------------------------------------------------|:---------------------------------------------------------------------|:-------------------------------------------------|
+| T3 W10 | 1. [Structure of the Atom](#structure-of-the-atom) | 2. [Discovering Atomic Structure 1](#discovering-atomic-structure-1) | 3. [Discovering Atomic Structure 2](#discovering-atomic-structure-2) | 4. [Radioactive Decays 1](#radioactive-decays-1) |
+| T4 W1  | 5. [Radioactive Decays 2](#radioactive-decays-2)   | 6. [Writing Equations](#writing-equations)                           | 7. [Half-Life](#half-life)                                           | 8. [Half-Life 2](#half-life-2)                   |
+| T4 W2  | 9. [Fission & Fusion 1](#fission--fusion-1)        | 10. [Fission & Fusion 2](#fission--fusion-2)                         | 11. [__Revision__](#__revision__)                                    | 12. __Test__                                     |
 
 ### Ngā Mahere Akoranga
 
 1. #### Structure of the Atom
     - Follow ngā kirita #1
     - Kahoot if needed: https://create.kahoot.it/v2/details/ca4b9437-4d48-4ba3-a526-97b558ee04a3
-2. #### Discovering the Atomic Structure 1
+2. #### Discovering Atomic Structure 1
     - __Mahi Tuatahi__: In ngā kirita
     - Notes on atomic models and their history
     - Notes on _Gold Foil_ whakamātau
     - __Whakakite__: Show Gieger counter & radiation sources. Discuss types of radiation.
-3. #### Discovering the Atomic Structure 2
+3. #### Discovering Atomic Structure 2
     - __Mahi Tuatahi__: In ngā kirita on gold foil experiment
     - Video on atomic structures in ngā kirita
     - __Ngohe Tahi__: Mahi Kāinga Booklet: Q2 & Q4
@@ -61,14 +61,16 @@ menu:
     - Clozes, notes and tauria decays for all three types of decay
     - Less guided decays at the end including double decays and absorption
 7. #### Half-Life
-    - __Mahi Tuatahi__: 3x nuclear equations in slides
+    - __Mahi Tuatahi__
+        - Dice experiment
+        - 3x nuclear equations in slides
     - __Te Whāinga Ako__:
         - Be able to make half-life graphs
         - Be able to interpret half-life graphs
     - Video and notes about half-life
     - 1x brute force calculation question
     - 1x more refined graphical calculation
-8. #### Catch-Up
+8. #### Half-Life 2
 9. #### Fission & Fusion 1
 10. #### Fission & Fusion 2
 11. #### __Revision__
