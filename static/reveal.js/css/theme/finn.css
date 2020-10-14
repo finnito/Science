@@ -141,6 +141,18 @@ body {
   margin: 0;
 }
 
+.c2 ~ ul,
+.c2 ~ ol,
+.c2 ~ p,
+.c2 ~ div,
+.c2 ~ figure,
+.c2 ~ iframe {
+  width: calc(50% - 1em);
+  display: inline-block;
+  margin: 0;
+  vertical-align: top;
+}
+
 /*********************************************
  * HEADERS
  *********************************************/
