@@ -113,7 +113,7 @@ The half-life of Hydrogen-3 is approximately 12.25 years. If you found a small s
 
 ---
 
-### Pātai Rua
+### Akoranga 8 Mahi Tuatahi
 
 You found a $50 g$ sample of Cobalt-60. The half-life of Cobalt-60 is 5 years.
 What would be the mass of the Cobalt-60 sample after 20 years?
@@ -121,6 +121,31 @@ What would be the mass of the Cobalt-60 sample after 20 years?
 1. Estimate how long it would take for the mass of the 50 g sample to fall just below $1.17 g$.
 2. Sketch a mass vs. time graph of the Cobalt-60 sample over a 30-year period.
 3. Use the graph to estimate the mass of the sample after 12.5 years.
+
+---
+
+### Exponential Decay Curves {.c2}
+
+- An exponential decay curve flattens out over time
+- For any section, the graph is steeper on the left than the right
+- This means, the mass/activity/number of atoms is changing __more rapidly__ on left than the right
+
+![[Source](https://mathbitsnotebook.com/Algebra1/FunctionGraphs/FNGTypeExponential.html)](https://mathbitsnotebook.com/Algebra1/FunctionGraphs/expdecay2.jpg)
+
+---
+
+#### Predictions {.c2}
+
+- If the dots were joined with __straight lines__, the mid-point should be half way
+- But, because it is an exponential curve, the midpoint of nuclei remaining/mass/activity is actually slightly less than half way
+
+![[Source](https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Book%3A_The_Basics_of_GOB_Chemistry_(Ball_et_al.)/11%3A_Nuclear_Chemistry/11.02%3A_Half-Life)](https://chem.libretexts.org/@api/deki/files/125346/Figure_2.png?revision=1)
+
+---
+
+#### Pātai: Predict time until 37.5% left
+
+![[Source](https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Book%3A_The_Basics_of_GOB_Chemistry_(Ball_et_al.)/11%3A_Nuclear_Chemistry/11.02%3A_Half-Life)](https://chem.libretexts.org/@api/deki/files/125346/Figure_2.png?revision=1)
 
 ---
 

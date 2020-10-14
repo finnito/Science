@@ -14,7 +14,11 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Ngā Whāinga Ako
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/rcOFV4y5z8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Akoranga 9 Ngā Whāinga Ako
 
 - Understand the difference between nuclear fission and fusion
 - Use $E=mc^{2}$
@@ -34,7 +38,7 @@ There are three types of nuclear reactions
 
 ## Fission
 
-![](../assets/6-nuclear-fission.jpg){width=80%}
+![](../assets/6-nuclear-fission.jpg)
 
 ---
 
@@ -42,7 +46,7 @@ There are three types of nuclear reactions
 
 If the protons are positively charged, why don't they repel each other and the nucleus break apart?
 
-![](../assets/6-atom-diagram.png){width=80%}
+![](../assets/6-atom-diagram.png)
 
 ---
 
@@ -63,23 +67,49 @@ If the protons are positively charged, why don't they repel each other and the n
 ### Absorption of a Nucleon
 
 - If a fast moving nucleon can get extremely close to a nucleus of an atom, then the nuclear force will come into effect and it will be incorporated into the nucleus.
-- This is however, much easier to do with a neutron because neutrons have no charge so they do not experience any electrostatic repulsion (i.e. will not be repelled by protons).
+- This is easier to do with a neutron because neutrons have no charge so they do not experience any electrostatic repulsion (i.e. will not be repelled by protons).
 
 ---
 
-![](../assets/6-nuclear-fission.jpg){width=80%}
+### Pātai: Write 2x nuclear equations to express this reaction
+
+![](../assets/6-nuclear-fission.jpg)
 
 ---
 
-## Nuclear Fusion
+#### Whakatika
 
-![](../assets/6-nuclear-fusion.jpg){width=70%}
+\begin{align*}
+    & {}^{1}_{0}n + {}^{235}_{92}U \rightarrow {}^{236}_{92}U \newline
+    & {}^{236}_{92}U \rightarrow {}^{92}_{36}Kr + {}^{141}_{56}Ba + 3{}^{0}_{1}n
+\end{align*}
+
+__Extra pātai__: What do you think the three neutrons produced do?
+
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/HEYbgyL5n1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Nuclear Fusion {.c2}
+
+- Unlike fission, in fusion we combine two whole nuclei together, instead of just adding a neutron
+- __Pātai__: Write a nuclear equation to express this reaction!
+
+![](../assets/6-nuclear-fusion.jpg)
+
+---
+
+#### Whakatika
 
 \begin{align*}
     & {}^{3}_{1}H + {}^{2}_{1}H \rightarrow {}^{4}_{2}He + {}^{1}_{0}n
 \end{align*}
 
 ---
+
+### Producing Energy: Mass Balance
 
 \begin{align*}
     & {}^{3}_{1}H + {}^{2}_{1}H \rightarrow {}^{4}_{2}He + {}^{1}_{0}n
@@ -114,21 +144,26 @@ During the fusion process, the total mass is not conserved because some of the m
 
 ---
 
-A type of smoke detector uses a radioactive material called Americium-241. When a nucleus of this material decays it emits an alpha particle.
+### Pātai: Smoke Detector {.c2}
 
-1. Write down the nuclear equation for the alpha decay of a nucleus of Americium-241.
-2. Calculate the quantity of energy released when a nucleus of Americium-241 decays.
+- Americium-241 undergoes $\alpha$ decay.
+- __1.__ Write down the nuclear equation for the alpha decay of a nucleus of Americium-241.
+- __2.__ Calculate the quantity of energy released when a nucleus of Americium-241 decays.
 
-![](../assets/6-smoke-detector-table.png){width=50%}
+![](../assets/6-smoke-detector-table.png)
 
 ---
 
-In a fission reaction, an U-235 nucleus combines with a neutron, then splits into a Ba-141 nucleus, a Kr-92 nucleus and three neutrons. It also emits gamma radiation.
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/pVbLlnmxIbY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Write down the nuclear equation
-2. Calculate the amount of energy released
+---
 
-![](../assets/6-fission-table.png){width=60%}
+### Pātai: Nuclear Fission {.c2}
+
+- In a fission reaction, an U-235 nucleus combines with a neutron, then splits into a Ba-141 nucleus, a Kr-92 nucleus and three neutrons. It also emits gamma radiation.
+- Calculate the amount of energy released
+
+![](../assets/6-fission-table.png)
 
 ---
 
@@ -137,7 +172,10 @@ In a fission reaction, an U-235 nucleus combines with a neutron, then splits int
 1. EXPLAIN your answers.
 2. Watch out for the numbers NOT in standard forms (e.g. $\times 10^{-27}$)
 3. Half-life – Draw a graph!!!
+    - Don't forget about the shape of the exponential curve
 4. Nuclear Equations – double check the atomic numbers and the mass numbers
 5. $E = mc^{2}$ – SHOW CLEAR WORKING
 
+---
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/mZsaaturR6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
