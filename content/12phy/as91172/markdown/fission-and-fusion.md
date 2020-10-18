@@ -81,7 +81,7 @@ If the protons are positively charged, why don't they repel each other and the n
 
 \begin{align*}
     & {}^{1}_{0}n + {}^{235}_{92}U \rightarrow {}^{236}_{92}U \newline
-    & {}^{236}_{92}U \rightarrow {}^{92}_{36}Kr + {}^{141}_{56}Ba + 3{}^{0}_{1}n
+    & {}^{236}_{92}U \rightarrow {}^{92}_{36}Kr + {}^{141}_{56}Ba + 3{}^{1}_{0}n
 \end{align*}
 
 __Extra pātai__: What do you think the three neutrons produced do?
@@ -167,6 +167,15 @@ During the fusion process, the total mass is not conserved because some of the m
 
 ---
 
+### Pātai: Nuclear Reactor {.c2}
+
+- A nuclear power plant in the US can produce one __gigawatt__ of power using U-235.
+- Calculate the mass of U-235 required each year to run the plant.
+
+![](../assets/6-fission-table.png)
+
+---
+
 ## Tips for the Assessment
 
 1. EXPLAIN your answers.
@@ -179,3 +188,15 @@ During the fusion process, the total mass is not conserved because some of the m
 ---
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/mZsaaturR6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/TRL7o2kPqw0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/knDIENvBTgw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/_AdA5d_8Hm0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
