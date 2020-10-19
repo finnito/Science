@@ -1,8 +1,8 @@
 ---
 title: Nuclear Decay
+slug: nuclear-decay
 subtitle: 12PHY - Atomic and Nuclear Physics
 author: Finn LeSueur
-slug: nuclear-decay
 date: 2020
 theme: finn
 weight: 3

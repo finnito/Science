@@ -1,5 +1,6 @@
 ---
 title: Half Life
+slug: half-life
 subtitle: 12PHY - Atomic and Nuclear Physics
 author: Finn LeSueur
 date: 2020

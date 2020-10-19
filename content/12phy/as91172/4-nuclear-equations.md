@@ -1,5 +1,6 @@
 ---
 title: Nuclear Equations
+slug: nuclear-equations
 subtitle: 12PHY - Atomic and Nuclear Physics
 author: Finn LeSueur
 date: 2020

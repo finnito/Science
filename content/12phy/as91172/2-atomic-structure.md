@@ -1,5 +1,6 @@
 ---
 title: Atomic Structure
+slug: atomic-structure
 subtitle: 12PHY - Atomic and Nuclear Physics
 author: Finn LeSueur
 date: 2020

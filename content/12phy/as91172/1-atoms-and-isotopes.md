@@ -1,5 +1,6 @@
 ---
 title: Atoms and Isotopes
+slug: atoms-and-isotopes
 subtitle: 12PHY - Atomic and Nuclear Physics
 author: Finn LeSueur
 date: 2020

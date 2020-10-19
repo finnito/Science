@@ -1,5 +1,6 @@
 ---
 title: Nuclear Fission and Fusion
+slug: fission-and-fusion
 subtitle: 12PHY - Atomic and Nuclear Physics
 author: Finn LeSueur
 date: 2020
