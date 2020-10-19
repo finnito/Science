@@ -92,7 +92,10 @@ createSlides() {
         [[ -e "$filename" ]] || continue    
         file="${filename##*/}"
         name="${file%%.*}"
-        numberlessName="${name:2}"
+        OLDIFS=$IFS
+        IFS='-'; read -a array <<< "$name"
+        numberlessName=$(printf '%s\n' "$(IFS=-; printf '%s' "${array[*]:1}")")
+        IFS=$OLDIFS
         pandoc "${name}.md" \
             --output="slides/${numberlessName}.html" \
             --standalone \
