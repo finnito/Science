@@ -6,9 +6,4 @@ linkTitle: "10SCIE"
 weight: 3
 ---
 
-1. Ecology
-2. Electricity
-3. pHun Reactions
-4. Pūtaiao Fair
-5. [Fire & Fuels](5-fire-and-fuels/)
-6. [Geology](6-geology/)
+{{< units >}}

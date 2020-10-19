@@ -5,14 +5,7 @@ linkTitle: "12PHY"
 weight: 6
 ---
 
-1. [AS91171 - Mechanics](as91171/ "AS91171 - Mechanics")
-    - External, 6 Level 2 Credits
-2. [AS91173 - Electricity](as91173/ "AS91173 - Electricity")
-    - External, 6 Level 2 Credits
-3. [AS91523 - Wave Systems](as91523/ "AS91523 - Wave Systems")
-    - External, 4 Level 3 Credits
-4. [AS91172 - Atomic and Nuclear Physics](as91172/ "AS91172 - Atomic and Nuclear Physics")
-    - Internal, 3 Level 2 Credits
+{{< units >}}
 
 ## 2020 Year Planner
 
