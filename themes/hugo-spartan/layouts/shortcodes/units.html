@@ -1,4 +1,4 @@
-<h2 id="units">Units<sup><a class="heading-anchor" href="#units">🔗</a></sup></h2>
+<h2 id="units">Units<sup> <a class="heading-anchor" href="#units">🔗</a></sup></h2>
 
 {{ $page := .Page }}
 
@@ -10,7 +10,11 @@
                 href="/{{ .Dir }}"
                 title="Open {{ .Title | markdownify }}">
                 {{ .Title | markdownify }}
-            </a> 
+            </a>{{ if isset .Params "nzqa" }} (AS{{ .Params.nzqa }}){{ end }}
+            <br/>
+            {{ if isset .Params "nzqa" }}
+                <ul><li>{{ .Params.assessment | title }}: {{ .Params.credits }} Level {{ .Params.level }} Credits</li></ul>
+            {{ end }}
         </li>
         {{ end }}
     </ol>
