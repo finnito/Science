@@ -16,6 +16,9 @@ pygmentCodeFences       = true
 [markup.goldmark.renderer]
   unsafe  = true
 
+[permalinks]
+  post = "/:slug/"
+
 [Params]
   subtitle    = "Pūtaiao Courses taught by Finn LeSueur"
   logo        = "logo.png"
