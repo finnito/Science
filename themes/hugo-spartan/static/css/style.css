@@ -213,7 +213,22 @@ a:visited {
   text-decoration: none;
   padding: 0 0.5rem;
   display: block;
+}
 
+.unit-tree {
+  list-style: none;
+  padding: 0;
+}
+
+.unit-tree > li {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 0 0 1rem 0;
+}
+
+.unit-tree > li ol {
+  font-size: 1rem;
+  font-weight: normal;
 }
 
 .article-meta {
