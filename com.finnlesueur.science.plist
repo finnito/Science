@@ -21,6 +21,8 @@
     <string>/Users/finnlesueur/Git/science.lesueur.nz</string>
     <key>StandardErrorPath</key>
     <string>/Users/finnlesueur/Git/science.lesueur.nz/error_log</string>
+    <key>StandardOutPath</key>
+    <string>/Users/finnlesueur/Git/science.lesueur.nz/out.txt</string>
     <key>EnvironmentVariables</key>
     <dict>
         <key>PATH</key>
