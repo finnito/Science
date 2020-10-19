@@ -2,18 +2,10 @@
 title: Year 11 Pūtaiao
 menu: "main"
 linkTitle: "11SCI"
+weight: 4
 ---
 
-1. [AS90948 - Genetics](as90948/)
-    - External, 4 Level 1 Credits 
-2. [AS90950 - Microbes & Food](as90950/)
-    - Internal, 4 Level 1 Credits
-3. [AS90930 - Chemical Tūhura](as90930/)
-    - Internal, 4 Level 1 Credits
-4. [AS90947 - Chemical Reactions](as90947/)
-    - Internal, 4 Level 1 Credits
-5. [AS90940 - Mechanics](as90940/)
-    - External, 4 Level 1 Credits
+{{< units >}}
 
 ## 2020 Year Planner
 

@@ -1,5 +1,6 @@
 ---
 title: Te Reo Cheatsheet
+weight: 6
 ---
 
 A simple cheatsheet of teaching-related language to use in the classroom or on ngā kirita. Use [Paekupu](https://paekupu.co.nz/words/wordlist/te-reo-pūtaiao/english-to-maori) for pūtaiao specific language.

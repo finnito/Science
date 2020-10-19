@@ -2,20 +2,10 @@
 title: Year 12 Earth and Space Pūtaiao
 menu: "main"
 linkTitle: "12ESS"
+weight: 5
 ---
 
-## Units
-
-1. [AS91187 - Meteorite Tūhura](91187/)
-    - Internal, 4 Level 2 Credits
-2. [AS91191 - Extreme Earth Events](as91191/)
-    - External, 4 Level 2 Credits
-3. [AS91190 - Extreme Environments](91190/)
-    - Internal, 4 Level 2 Credits
-4. AS91192 - Life of Stars and Planetary Systems
-    - External, 4 Level 2 Credits
-5. AS91189 - Investigate Local Geological Processes
-    - Internal, 4 Level 2 Credits
+{{< units >}}
 
 ## 2020 Year Planner
 

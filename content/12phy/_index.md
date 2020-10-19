@@ -2,6 +2,7 @@
 title: Year 12 Physics
 menu: "main"
 linkTitle: "12PHY"
+weight: 6
 ---
 
 1. [AS91171 - Mechanics](as91171/ "AS91171 - Mechanics")
