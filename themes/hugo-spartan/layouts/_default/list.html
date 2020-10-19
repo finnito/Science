@@ -1,13 +1,32 @@
 {{ partial "header.html" . }}
     <div class="article-meta">
         <h2><span class="title">{{ .Title | markdownify }}</span></h2>
-        {{ with .Params.nzqa }}
-        <small>
-            <a href="https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber={{ . }}"
-                title="AS{{ . }} on NZQA">
-                NZQA Link
-            </a>
-        </small>
+        {{ if isset .Params "nzqa" }}
+        <ul>
+            {{ with .Params.nzqa }}
+            <li>
+                <a href="https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber={{ . }}"
+                    title="AS{{ . }} on NZQA">
+                    NZQA Link
+                </a>
+            </li>
+            {{ end }}
+            {{ with .Params.level }}
+            <li>
+                Level {{ . }}
+            </li>
+            {{ end }}
+            {{ with .Params.assessment }}
+            <li>
+                {{ . | title }}
+            </li>
+            {{ end }}
+            {{ with .Params.credits }}
+            <li>
+                {{ . }} Credits
+            </li>
+            {{ end }}
+        </ul>
         {{ end }}
     </div>
     {{ .Content }}

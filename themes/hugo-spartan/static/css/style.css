@@ -220,6 +220,16 @@ a:visited {
   text-align: center;
 }
 
+.article-meta ul {
+  padding: 0;
+}
+
+.article-meta ul li {
+  display: inline-block;
+  font-size: small;
+  margin: 0 0.5rem;
+}
+
 .title {
   font-size: 1.1em;
 }
