@@ -66,6 +66,10 @@ h1 > a {
   color: rgb(51, 51, 51);
 }
 
+p a {
+  font-weight: 500;
+}
+
 :target {
   background-color: #fffa65;
 }
