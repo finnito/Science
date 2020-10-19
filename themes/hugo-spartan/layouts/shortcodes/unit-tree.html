@@ -19,7 +19,7 @@
                     {{ range .ByWeight }}
                     <li>
                         <a
-                            href="/{{ .Dir }}"
+                            href="/{{ .File.Dir }}"
                             title="Open {{ .Title | markdownify }}">
                             {{ .Title | markdownify }}
                             {{ with .Params.nzqa }}
