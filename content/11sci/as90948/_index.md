@@ -1,6 +1,10 @@
 ---
-title: AS90948 - Genetics
+title: Genetics
 nzqa: 90948
+level: 1
+credits: 4
+assessment: external
+weight: 1
 menu:
     main:
         parent: "11SCI"

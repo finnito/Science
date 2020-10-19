@@ -1,6 +1,10 @@
 ---
 title: Microbes and Food
 nzqa: 90950
+level: 1
+credits: 4
+assessment: internal
+weight: 3
 menu:
     main:
         parent: "11SCI"

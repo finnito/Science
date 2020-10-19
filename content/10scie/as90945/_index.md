@@ -1,5 +1,9 @@
 ---
 title: Fire & Fuels
+nzqa: 90945
+level: 1
+credits: 4
+assessment: internal
 menu:
     main:
         parent: "10SCIE"

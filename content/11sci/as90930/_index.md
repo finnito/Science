@@ -1,6 +1,10 @@
 ---
-title: AS90930 - Chemical Tūhura
+title: Chemical Tūhura
 nzqa: 90930
+level: 1
+credits: 4
+assessment: internal
+weight: 2
 menu:
     main:
         parent: "11SCI"

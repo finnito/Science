@@ -1,7 +1,11 @@
 ---
 title: Atomic and Nuclear Physics
 nzqa: 91172
+level: 2
+credits: 3
+assessment: internal
 katex: true
+weight: 4
 menu:
     main:
         parent: "12PHY"

@@ -1,6 +1,10 @@
 ---
-title: AS91190 - Extreme Environments
+title: Extreme Environments
 nzqa: 91190
+level: 2
+credits: 4
+assessment: internal
+weight: 4
 menu:
     main:
         parent: "12ESS"

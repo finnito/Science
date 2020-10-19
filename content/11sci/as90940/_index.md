@@ -1,10 +1,13 @@
 ---
 title: Mechanics
 nzqa: 90940
-favicon: ⚖️
+level: 1
+credits: 4
+assessment: external
+weight: 5
 menu:
     main:
-        parent: 11SCI
+        parent: "11SCI"
 katex: true
 ---
 

@@ -1,6 +1,10 @@
 ---
-title: AS91187 - Meteorite Tūhura
+title: Meteorite Tūhura
 nzqa: 91187
+level: 2
+credits: 4
+assessment: internal
+weight: 1
 menu:
     main:
         parent: "12ESS"

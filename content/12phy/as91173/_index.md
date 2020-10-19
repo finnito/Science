@@ -1,6 +1,10 @@
 ---
-title: Electricity - AS91173
+title: Electricity
 nzqa: 91173
+level: 2
+credits: 6
+assessment: external
+weight: 2
 menu:
     main:
         parent: "12PHY"

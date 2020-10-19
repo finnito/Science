@@ -1,12 +1,14 @@
 ---
-title: AS91191 - Extreme Earth Events
+title: Extreme Earth Events
 nzqa: 91191
+level: 2
+credits: 4
+assessment: external
+weight: 2
 menu:
     main:
         parent: "12ESS"
 ---
-
-NZQA Link: [https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91191](https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=AS91191)
 
 {{< slides >}}
 

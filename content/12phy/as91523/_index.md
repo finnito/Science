@@ -1,6 +1,10 @@
 ---
-title: Wave Systems - AS91523
+title: Wave Systems
 nzqa: 91523
+level: 3
+credits: 4
+assessment: external
+weight: 3
 menu:
     main:
         parent: "12PHY"

@@ -1,6 +1,10 @@
 ---
-title: AS90947 - Chemical Reactions
+title: Chemical Reactions
 nzqa: 90947
+level: 1
+credits: 4
+assessment: internal
+weight: 4
 menu:
     main:
         parent: "11SCI"
