@@ -2,201 +2,121 @@
 
 shopt -s nullglob extglob
 
+while getopts :d opt; do
+    case $opt in
+        d) d=1;;
+    esac
+done
+
 MODULES=(
     '09scie/introduction-to-science'
+    '09scie/reactions-matter'
     '09scie/energy-for-life'
     '09scie/plants-as-producers'
     '09scie/space'
     '09scie/radiation'
-    '10scie/5-fire-and-fuels'
-    '10scie/6-geology'
-    '11sci/as90940'
+    '10scie/as90945'
+    '10scie/geology'
     '11sci/as90930'
-    '11sci/as90948'
+    '11sci/as90940'
     '11sci/as90947'
+    '11sci/as90948'
+    '11sci/as90950'
     '12phy/as91171'
     '12phy/as91172'
     '12phy/as91173'
     '12phy/as91523'
-    '12ess/2-extreme-earth-events'
+    '12ess/as91187'
+    '12ess/as91189'
+    '12ess/as91190'
+    '12ess/as91191'
+    '12ess/as91192'
 )
 
 main() {
-    cd /srv/science.lesueur.nz/
-    fixMisplacedMD
-    git stash
-    git pull origin master
-    git submodule sync
-    git submodule update
-    git clean -fd
-    git checkout master
-    cd content || exit
-    echo "Entered 'content'"
+    rm error_log
+    touch error_log
+    rm out.txt
+    touch out.txt
+    if [ $d ] ; then
+        osascript -e 'display notification "Starting build.." with title "🧬 Science" sound name "Morse"'
+    fi
+    if cd content; then
+        echo "Entered 'content'"
+    fi    
     for i in "${MODULES[@]}"; do
         if cd $i; then 
             echo "Entered $i"
-            createFolders
+            tidyFolders
             createSlides
-            #createPDFs
-            #createZIPs
-            putMDInRoot
             cd ../../
         else
             echo "Couldn't enter $i"
         fi
-        echo ""
     done
-
     runHugo
-    echo ""
+    if [ $d ] ; then
+        osascript -e 'display notification "Build complete!" with title "🧬 Science" sound name "Morse"'
+        osascript -e 'tell application "Safari"
+            tell window 1
+                --options
+                set myTab to tab 1
+                set myTab to first tab whose URL starts with "http://putaiao.test"
 
-    for i in "${MODULES[@]}"; do
-        if cd $i; then
-            echo "Entered $i"
-            putMDBack
-            cd ../../
-        fi
-        echo ""
-    done
-
-    echo "DONE!"
-
+                if current tab is not myTab then set current tab to myTab
+                tell myTab to do JavaScript "location.reload();"
+            end tell
+        end tell'
+    fi
 }
 
-fixMisplacedMD() {
-    cd content || exit
-    mdfiles=( !(_index).md )
-    for i in "${MODULES[@]}"; do
-        if cd $i; then
-            if (( ${#mdfiles[@]} > 0 )); then
-                if mv -t markdown/ -- "${mdfiles[@]}"; then
-                    echo "    Put Markdown files back in 'markdown'"
-                fi
-            fi
-            cd ../../
-        fi
+tidyFolders() {
+    for filename in *.zip; do
+        rm -f filename
     done
-    cd ../
-}
-
-createFolders() {
-    if [[ ! -d 'pdfs' ]]; then
-        mkdir pdfs
-        echo "    Made 'pdfs' directory"
-    else
-        echo "    Did not make 'pdfs' directory"
+    if [[ -d pdfs ]]; then
+        rm -fr pdfs
+        echo "    Removed the 'pdfs' directory"
+    fi
+    if rm -fr slides/*; then
+        echo "    Emptied the 'slides' directory"
     fi
     if [[ ! -d 'slides' ]]; then
         mkdir slides
         echo "    Made 'slides' directory"
-    else
-        echo "    Did not make 'slides' directory"
-    fi
-}
-
-copyAssets() {
-    if [[ -d 'assets' ]]; then
-        rsync -qr assets "../../../static/${1}/"
-        echo "    Copying assets into static directory"
     fi
 }
 
 createSlides() {
-    if [[ -d 'markdown' ]]; then
-        if cd markdown; then
-            echo "    Entered markdown"
-            for filename in *.md; do 
-                [[ -e "$filename" ]] || continue    
-                file="${filename##*/}"
-                name="${file%%.*}"
-                pandoc -s --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js -i -t revealjs "${name}.md" -o "${name}.html" -V revealjs-url=/reveal.js
-                if [ $? == 0 ]; then
-                    echo "    Built ${name}.md --> ${name}.html"
-                fi
-            done
-            if mv *.html ../slides/; then
-                echo "    Moved slides into 'slides'"
-            fi
-            cd ../
-        fi
-    fi
-}
-
-createPDFs() {
-    if [[ -d 'markdown' ]]; then
-        if cd markdown; then
-            echo "    Entered markdown"
-            for filename in *.md; do 
-                [[ -e "$filename" ]] || continue    
-                file="${filename##*/}"
-                name="${file%%.*}"
-                pandoc "${name}.md" -o "${name}.pdf" --pdf-engine=pdflatex
-                if [ $? == 0 ]; then
-                    echo "    Built ${name}.md --> ${name}.pdf"
-                fi
-            done
-            if mv *.pdf ../pdfs/; then
-                echo "    Moved PDFs into 'pdfs'"
-            fi
-            cd ../
-        fi
-    fi
-}
-
-createZIPs() {
-    count="$( find pdfs -mindepth 1 -maxdepth 1 | wc -l )"
-    if [[ ! $count -eq 0 ]]; then
-        topic=${PWD##*/}
-        zip -uq "$topic".zip pdfs/*
+    for filename in !(_index).md; do
+        [[ -e "$filename" ]] || continue    
+        file="${filename##*/}"
+        name="${file%%.*}"
+        numberlessName="${name:2}"
+        pandoc "${name}.md" \
+            --output="slides/${numberlessName}.html" \
+            --standalone \
+            --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js \
+            --incremental \
+            --to=revealjs \
+            --variable=revealjs-url:/reveal.js
         if [ $? == 0 ]; then
-            echo "    Compressed PDFs into ${topic}.zip"
-        else
-            echo "    Could not compress the PDFs into ${topic}.zip"
+            echo "    Built ${name}.md --> slides/${numberlessName}.html"
         fi
-    fi
-}
-
-putMDInRoot() {
-    if mv markdown/*.md ./; then
-        echo "    Moved markdown up a level"
-    else
-        echo "    Could not move the markdown up a level"
-    fi
+    done
 }
 
 runHugo() {
     if cd ../; then
         echo "Moved to the root directory"
-    else
-        echo "Could not move to the root directory"
     fi
     if rm -rf public; then
         echo "Emptied the 'public' directory"
-    else
-        echo "Could not empty the 'public' directory"
     fi
-    if hugo --gc --minify; then
-        echo "Ran Hugo"
-    else
-        echo "Could not run Hugo"
-    fi
-    if cd content; then
-        echo "Entered 'content'"
-    else
-        echo "Could not enter the 'content' directory"
-    fi
+    hugo \
+        --cleanDestinationDir \
+        --gc \
+        --minify
 }
 
-putMDBack() {
-    mdfiles=( !(_index).md )
-    # if mv -t markdown/ !(_index).md; then
-    #     echo "    Put Markdown files back in 'markdown'"
-    # fi
-    if (( ${#mdfiles[@]} > 0 )); then
-        if mv -t markdown/ -- "${mdfiles[@]}"; then
-            echo "    Put Markdown files back in 'markdown'"
-        fi
-    fi
-}
-
-main
+time main

@@ -6,4 +6,4 @@ fswatch --print0 \
         --exclude=".*" \
         --include="\\.md$" \
         ./content \
-        | xargs -0 -n 1 bash build.sh --dev
+        | xargs -0 -n 1 bash build.sh -d
