@@ -7,11 +7,11 @@
         {{ range . }}
         <li>
             <a
-                href="{{ .File.BaseFileName }}/"
+                href="{{ .Permalink }}"
                 title="Read {{ .Title }} notes for {{ $page.Title }}">
                 {{ .Title }}
             </a> 
-            (<a href="slides/{{ .File.BaseFileName }}.html" title="View slides for {{ .Title }}">Slides</a>)
+            (<a href="slides/{{ .Slug }}.html" title="View slides for {{ .Title }}">Slides</a>)
         </li>
         {{ end }}
     </ol>
