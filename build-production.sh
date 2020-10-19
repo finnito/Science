@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-shopt -s
-
 cd /srv/science.lesueur.nz/
 git stash
 git pull origin master
