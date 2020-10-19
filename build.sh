@@ -4,7 +4,7 @@ shopt -s nullglob extglob
 
 while getopts :d opt; do
     case $opt in
-        d) d=1;;
+        d) dev=1;;
     esac
 done
 
@@ -38,7 +38,7 @@ main() {
     touch error_log
     rm out.txt
     touch out.txt
-    if [ $d ] ; then
+    if [ $dev ] ; then
         osascript -e 'display notification "Starting build.." with title "🧬 Science" sound name "Morse"'
     fi
     if cd content; then
@@ -55,7 +55,7 @@ main() {
         fi
     done
     runHugo
-    if [ $d ] ; then
+    if [ $dev ] ; then
         osascript -e 'display notification "Build complete!" with title "🧬 Science" sound name "Morse"'
         osascript -e 'tell application "Safari"
             tell window 1
