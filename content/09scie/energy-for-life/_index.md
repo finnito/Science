@@ -1,5 +1,6 @@
 ---
 title: Energy For Life
+te_reo: Pūngao mā Mataora
 weight: 3
 menu:
     main:

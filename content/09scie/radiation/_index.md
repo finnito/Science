@@ -1,5 +1,6 @@
 ---
 title: Radiation & The Human Body
+te_reo: Hihinga me te Tinana Tangata
 weight: 6
 menu:
     main:

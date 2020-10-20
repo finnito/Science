@@ -1,5 +1,6 @@
 ---
 title: Space
+te_reo: Tuarangi
 weight: 5
 menu:
     main:

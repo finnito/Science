@@ -1,5 +1,6 @@
 ---
 title: Introduction to Pūtaiao
+te_reo: Whakataki ki te Pūtaiao
 date: 2020-01-20
 weight: 1
 menu:
