@@ -7,7 +7,7 @@ menu:
         parent: "9SCIE"
 ---
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. Identify different forms of energy,
 2. Distinguish between active and potential forms of energy,
@@ -34,7 +34,7 @@ menu:
 | Week 4 | _Queen's B-Day_             | __Prac:__ Nutrient Tests | Digestion System     |
 | Week 5 | Absorption of Nutrients     | Glucose & Respiration    | __TEST__             |
 
-## Ngā Mahere Akoranga
+## Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. Identify and describe different forms of energy
     - Go through slides on energy, make notes & answer questions

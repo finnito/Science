@@ -13,7 +13,7 @@ katex: true
 
 {{< slides >}}
 
-## Ngā Mahere Akoranga
+## Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 
 |        | Akoranga 1      | Akoranga 2             | Akoranga 3                 | Akoranga 4              |

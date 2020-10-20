@@ -5,7 +5,7 @@ menu:
         parent: "10SCIE"
 ---
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. Explain how the Earth has changed over 4.6 billion years and account for its current structure.
 2. Explain the theory of plate tectonics using many sources of evidence.

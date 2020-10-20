@@ -10,7 +10,7 @@ menu:
         parent: "12PHY"
 ---
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. __Motion__
     1. Constant acceleration in a straight line

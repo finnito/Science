@@ -8,7 +8,7 @@ menu:
         parent: "9SCIE"
 ---
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. Explain what Pūtaiao is and why it is useful.
 2. To recall my responsibilities in keeping myself and others safe in Pūtaiao lessons.

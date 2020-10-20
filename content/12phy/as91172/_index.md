@@ -13,7 +13,7 @@ menu:
 
 {{< slides >}}
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. Describe the key components of the history of the atom, including Dalton, Thompson and Rutherford models.
 2. Describe Rutherford’s gold leaf experiment.
@@ -38,7 +38,7 @@ menu:
 | T4 W1  | 5. [Radioactive Decays 2](#radioactive-decays-2)   | 6. [Writing Equations](#writing-equations)                           | 7. [Half-Life](#half-life)                                           | 8. [Half-Life 2](#half-life-2)                   |
 | T4 W2  | 9. [Fission & Fusion 1](#fission--fusion-1)        | 10. [Fission & Fusion 2](#fission--fusion-2)                         | 11. [__Revision__](#__revision__)                                    | 12. __Test__                                     |
 
-### Ngā Mahere Akoranga
+### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. #### Structure of the Atom
     - Follow ngā kirita #1

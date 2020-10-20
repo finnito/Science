@@ -11,7 +11,7 @@ menu:
 
 {{< slides >}}
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. Describe the fire triangle
 2. List the three things needed for a fire to occur

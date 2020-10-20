@@ -9,7 +9,7 @@ menu:
 
 {{< slides >}}
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. __What is Radiation?__
     - I can name the main source of radiation and describe how it transfers energy
@@ -42,7 +42,7 @@ menu:
 | __T4 W2__  | 10. [Total Internal Reflection](#total-internal-reflection)                  | 11. [Structure of the Eye](#structure-of-the-eye) | 12. [Eye Dissection](#eye-dissection)        |
 | __T4 W3__  | 13. [Revision 1](#revision-1)                                                | 14. [Revision 2](#revision-2)                     | 15. __TEST__                                 |
 
-### Ngā Mahere Akoranga
+### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. #### What is Radiation
     - __Whakamātau__: Magnifying glasses

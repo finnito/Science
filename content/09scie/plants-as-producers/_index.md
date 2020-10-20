@@ -9,7 +9,7 @@ menu:
 
 {{< slides >}}
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. __Living Organisms__
     1. Identify and describe the difference between living and non-living
@@ -34,7 +34,7 @@ menu:
 | __T3 W2__  | 10. Photosynthesis          | 11. Evergreen vs Deciduous  | 12. __TOD__                  |
 | __T3 W3__  | 13. [Revision](#revision-1) | 14. [Revision](#revision-2) | 15. __TEST__                 |
 
-### Ngā Mahere Akoranga
+### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. #### Video/Finish Energy for Life Test
     - Glue in Ngā Whāinga Ako

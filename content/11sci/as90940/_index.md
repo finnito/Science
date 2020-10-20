@@ -27,7 +27,7 @@ katex: true
 
 Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go on exam leave! Bring something you are unsure about and get help!
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. __Motion__
     1. Name the metric units of __distance__, __time__ and __speed__ and give their symbols.
@@ -82,7 +82,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 | __T4 W1__  | 23. [Energy Transformations 3](#energy-transformations-3) | 24. [Work 1](#work-1)                       | 25. [Work 2](#work-2)                                     | 26. [Power](#power)                                       |
 | __T4 W2__  | 27. [Revision 1](#revision-1)                             | 28. [Revision 2](#revision-2)               | 29. [Revision 3](#revision-3)                             | __End of Topic Test__                                     |
 
-### Ngā Mahere Akoranga
+### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. #### Velocity
     - Intro to distance, speed and velocity with notes

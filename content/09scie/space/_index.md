@@ -9,7 +9,7 @@ menu:
 
 {{< slides >}}
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. __Earth & Moon__
     1. Describe how day and night are caused by rotation
@@ -38,7 +38,7 @@ menu:
 | __T3 W7__ | 10. [Solar System Project P1](#solar-system-project-p1) | 11. [Solar System Project P2](#solar-system-project-p2)         | 12. [Revision P1](#revision-p1)              |
 | __T3 W8__ | 13. [All in a Year](#all-in-a-year)                     | 14. [Phases of the Moon Revision](#phases-of-the-moon-revision) | 15. __TEST__                                 |
 
-### Ngā Mahere Akoranga
+### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. #### Origin of the Universe
     - __LO__: Describe theories on the origin of the Universe … including the Big Bang

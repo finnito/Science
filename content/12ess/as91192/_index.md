@@ -16,5 +16,5 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-## Ngā Mahere Akoranga
+## Lesson Plans _/ Ngā Mahere Akoranga_ 
 

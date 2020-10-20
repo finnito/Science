@@ -10,7 +10,7 @@ menu:
         parent: "11SCI"
 ---
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. To recall the symbols of the common elements in the periodic table
 2. To recall what happens in a chemical reaction and evidence for it happening
@@ -39,7 +39,7 @@ menu:
 | T3 W2  | 16. __Practice Assessment__      | 17.  _Revision & Feedback_   | __Assessment__             | __TOD__                     |
 | T3 W3  | 18. __Assessment__               | 19. __Assessment__           | _Genetics Revision_        | _Genetics Revision_         |
 
-### Ngā Mahere Akoranga
+### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. Review of the Atom
      - Intro to the unit

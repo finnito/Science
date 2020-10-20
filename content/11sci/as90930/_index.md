@@ -10,7 +10,7 @@ menu:
         parent: "11SCI"
 ---
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 {{< slides >}}
 

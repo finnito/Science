@@ -13,7 +13,7 @@ katex: true
 
 {{< slides >}}
 
-## Ngā Whāinga Ako
+## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. Demonstrate the appropriate use of significant figures
 2. Use $v=f \lambda$ and $f = \frac{1}{T}$ to calculate the wavelength, time period, frequency and velocity of a wave
@@ -54,7 +54,7 @@ katex: true
 | __T3 W8__  | 22. [Multi-Point Interference](#diffraction-whakamātau) | 23. Multi-Point Interference                 | 24. Diffraction Gratings                  | _Revision/Catch-Up_                         |
 | __T3 W9__  | _Revision/Catch-Up_                                     | _Revision_                                   | _Revision_                                | __TEST__                                    |
 
-### Ngā Mahere Akoranga
+### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. #### Intro to Waves
     - Transverse waves & longitudinal waves

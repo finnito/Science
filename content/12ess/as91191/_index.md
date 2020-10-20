@@ -24,7 +24,7 @@ menu:
 | T1 Week 11 | Underwater Avalanches \n & Landslides | Answering Exam Questions | Answering Exam Questions | Answering Exam Questions         |
 | T2 Week 1  | Revision                              | Revision                 | Revision                 | __End of Topic Test__            |
 
-## Ngā Mahere Akoranga
+## Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 ## Term 2, Week 2
 

@@ -24,7 +24,7 @@ menu:
 | Week 3 | Humans in Antartctica |                          |                           |                   |
 | Week 4 | Case Study            | Case Study               | Start Assessment Research |                   |
 
-## Ngā Mahere Akoranga
+## Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. Introduction
     - Read through ngā kirita attached
