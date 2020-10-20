@@ -10,6 +10,9 @@
                 href="/{{ .File.Dir }}"
                 title="Open {{ .Title | markdownify }}">
                 {{ .Title | markdownify }}
+                {{ with .Params.te_reo }}
+                    <em> / {{ . }}</em>
+                {{ end }}
             </a>{{ if isset .Params "nzqa" }} (AS{{ .Params.nzqa }}){{ end }}
             <br/>
             {{ if isset .Params "nzqa" }}

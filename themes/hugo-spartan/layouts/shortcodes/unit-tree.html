@@ -25,6 +25,9 @@
                             {{ with .Params.nzqa }}
                              (AS{{ . }})
                             {{ end }}
+                            {{ with.Params.te_reo }}
+                                <em> / {{ . }}</em>
+                            {{ end }}
                         </a> 
                     </li>
                     {{ end }}
