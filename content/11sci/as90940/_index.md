@@ -69,7 +69,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
     7. Name the unit of power and give its symbol.
     8. Calculate the power of a device from given data.
 
-## Mahere Kōwae
+## Unit Plan _/ Mahere Kōwae_ 
 
 |            | Akoranga 1 (Mon)                                          | Akoranga 2 (Wed)                            | Akoranga 3 (Thurs)                                        | Akoranga 4 (Fri)                                          |
 |:-----------|:----------------------------------------------------------|:--------------------------------------------|:----------------------------------------------------------|:----------------------------------------------------------|

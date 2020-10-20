@@ -30,7 +30,7 @@ menu:
 13. Complete energy and power calculations for a nuclear power plant.
 
 
-## Mahere Kōwae
+## Unit Plan _/ Mahere Kōwae_ 
 
 |        | Akoranga 1 (Mon)                                   | Akoranga 2 (Tues)                                                    | Akoranga 3 (Wed)                                                     | Akoranga 4 (Thurs)                               |
 |:-------|:---------------------------------------------------|:---------------------------------------------------------------------|:---------------------------------------------------------------------|:-------------------------------------------------|

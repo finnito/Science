@@ -24,7 +24,7 @@ menu:
     2. Describe their functions
     3. Use a microscope to view cells of plants and animals
 
-## Mahere Kōwae
+## Unit Plan _/ Mahere Kōwae_ 
 
 |            | Akoranga 1 (Mon/Tues)       | Akoranga 2 (Wed)            | Akoranga 3 (Fri)             |
 |:-----------|:----------------------------|:----------------------------|:-----------------------------|

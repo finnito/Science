@@ -39,7 +39,7 @@ katex: true
 6. Term 3, Week 8 (Mon Sept 7th): 
 7. Term 3, Week 9 (Mon Sept 14th): Interference Q18, Q19  
 
-## Mahere Kōwae
+## Unit Plan _/ Mahere Kōwae_ 
 
 |            | Akoranga 1 (Mon)                                        | Akoranga 2 (Tues)                            | Akoranga 3 (Wed)                          | Akoranga 4 (Thurs)                          |
 |:-----------|:--------------------------------------------------------|:---------------------------------------------|:------------------------------------------|:--------------------------------------------|
