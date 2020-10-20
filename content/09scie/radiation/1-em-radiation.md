@@ -117,7 +117,7 @@ __Task__: Write the order of the visible spectrum colours
 
 ---
 
-- Radio waves can have a wavelength of up to $10,000km!
+- Radio waves can have a wavelength of up to $10,000km$!
 - Gamma waves can have a wavelength of $0.00000000001m$!
 
 ![Source: [Khan Academy](https://www.khanacademy.org/science/high-school-physics/waves-and-sound/wave-characteristics/a/wave-characteristics-review-ap-physics-1)](https://cdn.kastatic.org/ka-perseus-images/bdee68f794185f6348574d22bc68fc0fcfa6bb7c.png)
