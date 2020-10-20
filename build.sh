@@ -99,7 +99,7 @@ createSlides() {
         pandoc "${name}.md" \
             --output="slides/${numberlessName}.html" \
             --standalone \
-            --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js \
+            --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
             --incremental \
             --to=revealjs \
             --variable=revealjs-url:/reveal.js
