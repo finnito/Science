@@ -2,9 +2,12 @@
 
 shopt -s nullglob extglob
 
-while getopts :d opt; do
-    case $opt in
+while getopts hdf:p: opt; do
+    case "${opt}" in
+        f) file=${OPTARG};;
+        p) folder=${OPTARG};;
         d) dev=1;;
+        h) doHugo=1;;
     esac
 done
 
@@ -34,29 +37,40 @@ MODULES=(
 )
 
 main() {
-    rm error_log
-    touch error_log
-    rm out.txt
-    touch out.txt
+    : > error_log
+    : > stdout_log
+
+    # This script may be called in a dev (-d flag) environment
+    # in which it should only do a partial build.
     if [ $dev ] ; then
-        osascript -e 'display notification "Starting build.." with title "🧬 Science" sound name "Morse"'
-    fi
-    if cd content; then
-        echo "Entered 'content'"
-    fi    
-    for i in "${MODULES[@]}"; do
-        if cd $i; then 
-            echo "Entered $i"
-            tidyFolders
-            createSlides
-            cd ../../
+        terminal-notifier \
+            -group "com.finnlesueur.science" \
+            -title "Pūtaiao" \
+            -subtitle "Building Hugo" \
+            -message "Changed: $file" \
+            -appIcon http://putaiao.test/favicon.png
+
+        if [ $doHugo ]; then
+            # If -h flag then only do a Hugo
+            # build because only an _index.md
+            # file was changed.
+            cd content
+            runHugo
         else
-            echo "Couldn't enter $i"
+            # A slide file was changed, so we
+            # need to build it.
+            cd $folder
+            buildSingleSlide $file
+            cd ../../
+            runHugo
         fi
-    done
-    runHugo
-    if [ $dev ] ; then
-        osascript -e 'display notification "Build complete!" with title "🧬 Science" sound name "Morse"'
+
+        terminal-notifier \
+            -group "com.finnlesueur.science" \
+            -title "Pūtaiao" \
+            -message "Build complete!" \
+            -appIcon http://putaiao.test/favicon.png
+
         osascript -e 'tell application "Safari"
             tell window 1
                 --options
@@ -67,6 +81,24 @@ main() {
                 tell myTab to do JavaScript "location.reload();"
             end tell
         end tell'
+    
+    # Here we do a full build because the -d flag
+    # was not passed.
+    else
+        if cd content; then
+            echo "Entered 'content'"
+        fi    
+        for i in "${MODULES[@]}"; do
+            if cd $i; then 
+                echo "Entered $i"
+                tidyFolders
+                createSlides
+                cd ../../
+            else
+                echo "Couldn't enter $i"
+            fi
+        done
+        runHugo
     fi
 }
 
@@ -84,6 +116,26 @@ tidyFolders() {
     if [[ ! -d 'slides' ]]; then
         mkdir slides
         echo "    Made 'slides' directory"
+    fi
+}
+
+buildSingleSlide() {
+    filename=$1
+    file="${filename##*/}"
+    name="${file%%.*}"
+    OLDIFS=$IFS
+    IFS='-'; read -a array <<< "$name"
+    numberlessName=$(printf '%s\n' "$(IFS=-; printf '%s' "${array[*]:1}")")
+    IFS=$OLDIFS
+    pandoc "${name}.md" \
+        --output="slides/${numberlessName}.html" \
+        --standalone \
+        --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
+        --incremental \
+        --to=revealjs \
+        --variable=revealjs-url:/reveal.js
+    if [ $? == 0 ]; then
+        echo "Built ${name}.md --> slides/${numberlessName}.html"
     fi
 }
 
@@ -122,4 +174,4 @@ runHugo() {
         --minify
 }
 
-time main
+(time main) &> stdout_log

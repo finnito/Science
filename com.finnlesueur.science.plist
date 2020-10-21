@@ -11,7 +11,7 @@
     <key>ProgramArguments</key>
     <array>
       <string>bash</string>
-      <string>/Users/finnlesueur/Git/science.lesueur.nz/sparse.sh</string>
+      <string>/Users/finnlesueur/Git/science.lesueur.nz/watch.sh</string>
     </array>
     <key>RunAtLoad</key>
     <true/>
@@ -22,7 +22,7 @@
     <key>StandardErrorPath</key>
     <string>/Users/finnlesueur/Git/science.lesueur.nz/error_log</string>
     <key>StandardOutPath</key>
-    <string>/Users/finnlesueur/Git/science.lesueur.nz/out.txt</string>
+    <string>/Users/finnlesueur/Git/science.lesueur.nz/stdout_log</string>
     <key>EnvironmentVariables</key>
     <dict>
         <key>PATH</key>
