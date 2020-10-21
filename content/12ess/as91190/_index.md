@@ -1,5 +1,6 @@
 ---
 title: Extreme Environments
+te_reo: Ngā Taiao Taikaha
 nzqa: 91190
 level: 2
 credits: 4

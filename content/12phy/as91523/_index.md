@@ -1,5 +1,6 @@
 ---
 title: Wave Systems
+te_reo: Ngā Pūnaha Ngaru
 nzqa: 91523
 level: 3
 credits: 4

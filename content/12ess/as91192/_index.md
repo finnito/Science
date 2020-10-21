@@ -1,5 +1,6 @@
 ---
 title: Life of Stars and Planetary Systems
+te_reo: Ngā Whetū me Aorangi
 nzqa: 91192
 level: 2
 credits: 4

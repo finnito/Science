@@ -1,5 +1,6 @@
 ---
-title: Meteorite Tūhura
+title: Meteorite Investigation
+te_reo: Matakōkiri Tūhura
 nzqa: 91187
 level: 2
 credits: 4

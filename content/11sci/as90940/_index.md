@@ -1,5 +1,6 @@
 ---
 title: 11 Mechanics
+te_reo: Mātai Pūhanga
 nzqa: 90940
 level: 1
 credits: 4

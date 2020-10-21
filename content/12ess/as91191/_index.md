@@ -1,5 +1,6 @@
 ---
 title: Extreme Earth Events
+te_reo: Ngā Rū, Puia ma Parawhenua
 nzqa: 91191
 level: 2
 credits: 4

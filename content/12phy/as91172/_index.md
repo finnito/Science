@@ -1,5 +1,6 @@
 ---
 title: Atomic and Nuclear Physics
+te_reo: Mātai Ahupūngao Karihi
 nzqa: 91172
 level: 2
 credits: 3

@@ -1,5 +1,6 @@
 ---
 title: Fire & Fuels
+te_reo: Ahi me Ngā Kora Mātātoka
 nzqa: 90945
 level: 1
 credits: 4

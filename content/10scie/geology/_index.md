@@ -1,5 +1,6 @@
 ---
 title: Geology
+te_reo: Mātai Aronuku
 menu:
     main:
         parent: "10SCIE"

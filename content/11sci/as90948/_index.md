@@ -1,5 +1,6 @@
 ---
 title: Genetics
+te_reo: Mātai Iranga
 nzqa: 90948
 level: 1
 credits: 4

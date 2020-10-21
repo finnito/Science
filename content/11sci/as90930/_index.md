@@ -1,5 +1,6 @@
 ---
-title: Chemical Tūhura
+title: Chemistry Investigation
+te_reo: Mātai Matū Tūhura 
 nzqa: 90930
 level: 1
 credits: 4

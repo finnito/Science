@@ -1,5 +1,6 @@
 ---
-title: Electricity
+title: Electricity and Magnetism
+te_reo: Hiko ma Autō
 nzqa: 91173
 level: 2
 credits: 6
