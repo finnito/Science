@@ -34,13 +34,13 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|            | Akoranga 1 (Mon/Tues)                                                        | Akoranga 2 (Wed)                                  | Akoranga 3 (Fri)                             |
-|:-----------|:-----------------------------------------------------------------------------|:--------------------------------------------------|:---------------------------------------------|
-| __T3 W9__  | 1. [What is Radiation](#what-is-radiation)                                   | 2. [EM Radiation](#em-radiation)                  | 3. [Visible Light](#visible-light)           |
-| __T3 W10__ | 4. [Visible Light 2](#visible-light-2)                                       | 5. [UV and Skin Cancer](#uv-and-skin-cancer)      | 6. [Recap and Catch-Up](#recap-and-catch-up) |
-| __T4 W1__  | 7. [Reflection & Mahi Kāinga Assignment](#reflection-mahi-kāinga-assignment) | 8. [Reflection 2](#reflection-2)                  | 9. [Refraction](#refraction)                 |
-| __T4 W2__  | 10. [Total Internal Reflection](#total-internal-reflection)                  | 11. [Structure of the Eye](#structure-of-the-eye) | 12. [Eye Dissection](#eye-dissection)        |
-| __T4 W3__  | 13. [Revision 1](#revision-1)                                                | 14. [Revision 2](#revision-2)                     | 15. __TEST__                                 |
+|            | Akoranga 1 (Mon/Tues)                                                        | Akoranga 2 (Wed)                                            | Akoranga 3 (Fri)                                  |
+|:-----------|:-----------------------------------------------------------------------------|:------------------------------------------------------------|:--------------------------------------------------|
+| __T3 W9__  | 1. [What is Radiation](#what-is-radiation)                                   | 2. [EM Radiation](#em-radiation)                            | 3. [Visible Light](#visible-light)                |
+| __T3 W10__ | 4. [Visible Light 2](#visible-light-2)                                       | 5. [UV and Skin Cancer](#uv-and-skin-cancer)                | 6. [Recap and Catch-Up](#recap-and-catch-up)      |
+| __T4 W1__  | 7. [Reflection & Mahi Kāinga Assignment](#reflection-mahi-kāinga-assignment) | 8. [Reflection 2](#reflection-2)                            | 9. [Refraction](#refraction)                      |
+| __T4 W2__  | 10. [Revision 1](#revision-1)                                                | 11. [Total Internal Reflection](#total-internal-reflection) | 12. [Structure of the Eye](#structure-of-the-eye) |
+| __T4 W3__  | 13. [Eye Dissection](#eye-dissection)                                        | 14. [Revision 2](#revision-2)                               | 15. __TEST__                                      |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
@@ -98,20 +98,21 @@ menu:
         - https://www.riskassess.co.nz/risk_assessment/8750723
     - __Tūhura__: Refraction diagrams
         - https://docs.google.com/document/d/1-38FzUJ9VoINRJY3Ux6uRn_BZDsXxdaitRzqopg23Bw/edit
-10. #### Total Internal Reflection
+10. #### Revision 1
+    - Task: Create a 4-part mind map reviewing all of your notes are learning so far.
+        1. EM Radiation
+        2. Reflection
+        3. Refraction
+        4. Human Eye (TBC)
+11. #### Total Internal Reflection
     - __Mahi Tuatahi__:
     - __Ngā Whāinga Ako__:
-    - __Whakakite__: Disappearing test tubes
-    - __Whakakite__: Water stream, optic fibre, plastic rod, 1000ml beaker, diamond, prisms
-11. #### Structure of the Eye
-    - __Mahi Tuatahi__:
-    - __Ngā Whāinga Ako__:
-    - How we see things
     __Homework Assignment Due__
-12. #### Eye Dissection
+12. #### Structure of the Eye
+    - How we see things
     - __Mahi Tuatahi__:
     - __Ngā Whāinga Ako__:
-13. #### Revision 1
+13. #### Eye Dissection
     - __Mahi Tuatahi__:
     - __Ngā Whāinga Ako__:
 14. #### Revision 2
