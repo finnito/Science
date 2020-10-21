@@ -1,6 +1,7 @@
 ---
 title: Chemical Reactions
 te_reo: Tauhohe Matū
+emoji: 🥼
 nzqa: 90947
 level: 1
 credits: 4

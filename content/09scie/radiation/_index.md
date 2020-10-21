@@ -1,6 +1,7 @@
 ---
 title: Radiation & The Human Body
 te_reo: Hihinga me te Tinana Tangata
+emoji: 👁
 weight: 6
 menu:
     main:

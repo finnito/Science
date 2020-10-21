@@ -224,6 +224,10 @@ a:visited {
   display: block;
 }
 
+.units {
+  list-style: none;
+}
+
 .unit-tree {
   list-style: none;
   padding: 0;
@@ -238,6 +242,8 @@ a:visited {
 .unit-tree > li ol {
   font-size: 1rem;
   font-weight: normal;
+  list-style: none;
+  padding-left: 1rem;
 }
 
 .article-meta {

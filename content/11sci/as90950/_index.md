@@ -1,6 +1,7 @@
 ---
 title: Microbes and Food
 te_reo: Moroiti me Kai
+emoji: 🦠
 nzqa: 90950
 level: 1
 credits: 4

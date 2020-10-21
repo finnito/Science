@@ -1,6 +1,7 @@
 ---
 title: Space
 te_reo: Tuarangi
+emoji: 🚀
 weight: 5
 menu:
     main:

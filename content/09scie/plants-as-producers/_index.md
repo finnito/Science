@@ -1,6 +1,7 @@
 ---
 title: Plants as Producers
 te_reo: Ngā Tipu
+emoji: 🌲
 weight: 4
 menu:
     main:

@@ -1,6 +1,7 @@
 ---
 title: Local Geological Processes
 te_reo: Mātai Aronuku Ā-rohe 
+emoji: ⛰
 nzqa: 91187
 level: 2
 credits: 4

@@ -1,6 +1,7 @@
 ---
 title: Reactions Matter
 te_reo: Mātai Matū
+emoji: 🧪
 weight: 2
 menu:
     main:

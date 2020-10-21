@@ -1,6 +1,7 @@
 ---
 title: Wave Systems
 te_reo: Ngā Pūnaha Ngaru
+emoji: 💡
 nzqa: 91523
 level: 3
 credits: 4

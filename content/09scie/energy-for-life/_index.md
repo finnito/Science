@@ -1,6 +1,7 @@
 ---
 title: Energy For Life
-te_reo: Pūngao mā Mataora
+te_reo: Pūngao me Mataora
+emoji: ☀️
 weight: 3
 menu:
     main:

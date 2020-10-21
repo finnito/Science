@@ -1,6 +1,7 @@
 ---
 title: Extreme Earth Events
-te_reo: Ngā Rū, Puia ma Parawhenua
+te_reo: Ngā Puia, Rū me Parawhenua
+emoji: 🌋
 nzqa: 91191
 level: 2
 credits: 4

@@ -1,6 +1,7 @@
 ---
 title: Chemistry Investigation
 te_reo: Mātai Matū Tūhura 
+emoji: 👨‍🔬
 nzqa: 90930
 level: 1
 credits: 4

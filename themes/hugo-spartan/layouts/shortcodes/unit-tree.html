@@ -18,11 +18,14 @@
                 <ol>
                     {{ range .ByWeight }}
                     <li>
+                        {{ with .Params.emoji }}
+                        <span>{{ . }} </span>
+                        {{ end }}
                         <a
                             href="/{{ .File.Dir }}"
                             title="Open {{ .Title | markdownify }}">
                             {{ .Title | markdownify }}
-                            {{ with.Params.te_reo }}
+                            {{ with .Params.te_reo }}
                                 <em> / {{ . }}</em>
                             {{ end }}
                             {{ with .Params.nzqa }}

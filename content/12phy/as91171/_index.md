@@ -1,6 +1,7 @@
 ---
 title: 12 Mechanics
 te_reo: Mātai Pūhanga
+emoji: ⚖️
 nzqa: 91171
 level: 2
 credits: 6

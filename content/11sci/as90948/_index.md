@@ -1,6 +1,7 @@
 ---
 title: Genetics
 te_reo: Mātai Iranga
+emoji: 🧬
 nzqa: 90948
 level: 1
 credits: 4

@@ -3,9 +3,12 @@
 {{ $page := .Page }}
 
 {{ with $page.Pages }}
-    <ol>
+    <ol class="units">
         {{ range . }}
         <li>
+            {{ with .Params.emoji }}
+            <span>{{ . }} </span>
+            {{ end }}
             <a
                 href="/{{ .File.Dir }}"
                 title="Open {{ .Title | markdownify }}">

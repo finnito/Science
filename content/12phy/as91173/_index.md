@@ -1,6 +1,7 @@
 ---
 title: Electricity and Magnetism
-te_reo: Hiko ma Autō
+te_reo: Hiko me Autō
+emoji: 🧲
 nzqa: 91173
 level: 2
 credits: 6
