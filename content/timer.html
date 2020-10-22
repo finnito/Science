@@ -52,6 +52,8 @@
     <div>
         <label>Exam Finishing Time (format: 14:10)</label>
         <input type="time"/>
+        <button class="fullscreen">Open Fullscreen</button>
+        <button class="close-fullscreen">Close Fullscreen</button>
     </div>
     <div>
         <h2 contenteditable>Exam Title (Edit Me)</h2>
@@ -79,13 +81,8 @@
           // Get today's date and time
           var now = new Date().getTime();
 
-          console.log(countDownDate);
-          console.log(now);
-
           // Find the distance between now and the count down date
           var distance = Math.round((countDownDate - now)/1000);
-
-          console.log(distance);
 
           // Time calculations for days, hours, minutes and seconds
           var hours = Math.floor((distance % (60 * 60 * 24)) / (60 * 60)) || 0;
@@ -100,6 +97,36 @@
             document.getElementById("countdown").innerHTML = "Finished!";
           }
         }, 1000);
+
+        var elem = document.documentElement;
+
+        document.querySelector(".close-fullscreen").addEventListener("click", closeFullscreen);
+
+        document.querySelector(".fullscreen").addEventListener("click", function() {
+          if (elem.requestFullscreen) {
+            elem.requestFullscreen();
+          } else if (elem.mozRequestFullScreen) { /* Firefox */
+            elem.mozRequestFullScreen();
+          } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari and Opera */
+            elem.webkitRequestFullscreen();
+          } else if (elem.msRequestFullscreen) { /* IE/Edge */
+            elem.msRequestFullscreen();
+          }
+        });
+
+        function closeFullscreen() {
+          if (document.exitFullscreen) {
+            document.exitFullscreen();
+          } else if (document.mozCancelFullScreen) { /* Firefox */
+            document.mozCancelFullScreen();
+          } else if (document.webkitExitFullscreen) { /* Chrome, Safari and Opera */
+            document.webkitExitFullscreen();
+          } else if (document.msExitFullscreen) { /* IE/Edge */
+            document.msExitFullscreen();
+          }
+        }
+
+        
     </script>
   </body>
 </html>
