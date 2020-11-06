@@ -110,9 +110,11 @@ menu:
     - __Ngā Whāinga Ako__:
     __Homework Assignment Due__
 12. #### Structure of the Eye
-    - How we see things
-    - __Mahi Tuatahi__:
+    - __Mahi Tuatahi__: Video on the eye
     - __Ngā Whāinga Ako__:
+        - I can annotate a diagram to show how rays of light enter our eyes
+        - I can label the main structures of the eye and explain how the structure enables us to see
+    - Notes on the human eye
 13. #### Eye Dissection
     - __Mahi Tuatahi__:
     - __Ngā Whāinga Ako__:
