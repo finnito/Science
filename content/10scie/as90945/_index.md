@@ -33,7 +33,35 @@ menu:
 15. Explain how burning fuels is contributing to the greenhouse effect
 16. List air pollutants which are produced from fossil fuels and describe their effects on human health
 
-## Akoranga Sequence
+## Unit Plan _/ Mahere Kōwae_ 
+
+|           | Akoranga 1 ()        | Akoranga 2 ()        | Akoranga 3 ()        |
+|:----------|:---------------------|:---------------------|:---------------------|
+| __T2 W6__ | 1.                   | 2.                   | 3.                   |
+| __T2 W7__ | 4.                   | 5.                   | 6.                   |
+| __T2 W8__ | 7.                   | 8.                   | 9.                   |
+| __T3 W2__ | 10.                  | 11.                  | 12.                  |
+| __T2 W3__ | 13. __Assessment 1__ | 14. __Assessment 2__ | 15. __Assessment 3__ |
+
+### Lesson Plans _/ Ngā Mahere Akoranga_
+
+1. #### 
+2. #### 
+3. ####
+4. #### 
+5. #### 
+6. #### 
+7. #### 
+8. #### 
+9. #### 
+10. #### 
+11. #### 
+12. #### 
+13. #### Assessment 1
+14. #### Assessment 2
+15. #### Assessment 3
+
+===
 
 ### 1. Unit Introduction
 

@@ -8,6 +8,8 @@ menu:
         parent: "10SCIE"
 ---
 
+{{< slides >}}
+
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. Explain how the Earth has changed over 4.6 billion years and account for its current structure.
@@ -19,4 +21,30 @@ menu:
 7. Describe how sedimentary (including fossils), metamorphic, and igneous rocks are created and destroyed.
 8. Explain how land features (mountains, rivers, plains) are linked to tectonic plate movement errosion and weathering.
 
-{{< slides >}}
+## Unit Plan _/ Mahere Kōwae_ 
+
+|           | Akoranga 1 () | Akoranga 2 () | Akoranga 3 () |
+|:----------|:--------------|:--------------|:--------------|
+| __T3 W4__ | 1.            | 2.            | 3.            |
+| __T3 W5__ | 4.            | 5.            | 6.            |
+| __T3 W6__ | 7.            | 8.            | 9.            |
+| __T3 W7__ | 10.           | 11.           | 12.           |
+| __T3 W8__ | 13.           | 14.           | 15. __TEST__  |
+
+### Lesson Plans _/ Ngā Mahere Akoranga_
+
+1. #### 
+2. #### 
+3. ####
+4. #### 
+5. #### 
+6. #### 
+7. #### 
+8. #### 
+9. #### 
+10. #### 
+11. #### 
+12. #### 
+13. #### 
+14. #### 
+15. #### TEST
