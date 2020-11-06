@@ -1,12 +1,11 @@
 ---
 title: Electricity
-te_reo: 
-emoji: 
-weight: 
 te_reo: Hiko
+emoji: 🔋
+weight: 3
 menu:
     main:
-        parent: "9SCIE"
+        parent: "10SCIE"
 ---
 
 {{< slides >}}

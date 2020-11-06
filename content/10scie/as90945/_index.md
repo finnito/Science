@@ -6,6 +6,7 @@ nzqa: 90945
 level: 1
 credits: 4
 assessment: internal
+weight: 4
 menu:
     main:
         parent: "10SCIE"

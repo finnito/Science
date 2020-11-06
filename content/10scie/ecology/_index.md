@@ -1,12 +1,11 @@
 ---
 title: Ecology
-te_reo: 
-emoji: 
-weight: 
 te_reo: Mātai Hauropi
+emoji: 🍁
+weight: 2
 menu:
     main:
-        parent: "9SCIE"
+        parent: "10SCIE"
 ---
 
 {{< slides >}}

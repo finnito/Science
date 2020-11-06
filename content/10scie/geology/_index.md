@@ -2,6 +2,7 @@
 title: Geology
 te_reo: Mātai Aronuku
 emoji: 🌋
+weight: 6
 menu:
     main:
         parent: "10SCIE"

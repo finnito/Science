@@ -1,12 +1,11 @@
 ---
 title: Human Diseases
-te_reo: 
-emoji: 
-weight: 
 te_reo: Ngā Mate
+emoji: 🧠
+weight: 7
 menu:
     main:
-        parent: "9SCIE"
+        parent: "10SCIE"
 ---
 
 {{< slides >}}
