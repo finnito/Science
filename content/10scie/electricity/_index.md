@@ -3,6 +3,7 @@ title: Electricity
 te_reo: 
 emoji: 
 weight: 
+te_reo: Hiko
 menu:
     main:
         parent: "9SCIE"

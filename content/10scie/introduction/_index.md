@@ -3,6 +3,7 @@ title: Intro to Year 10
 te_reo: 
 emoji: 
 weight: 
+te_reo: Kupu Whakataki
 menu:
     main:
         parent: "9SCIE"

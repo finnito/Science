@@ -3,6 +3,7 @@ title: Science Fair
 te_reo: 
 emoji: 
 weight: 
+te_reo: Tūhuratanga Ā-Ringa
 menu:
     main:
         parent: "9SCIE"

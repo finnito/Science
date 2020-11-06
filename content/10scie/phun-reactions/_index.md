@@ -1,11 +1,11 @@
 ---
 title: pHun Reactions
-te_reo: 
-emoji: 
-weight: 
+te_reo: Ngā Tauhohe Matū
+emoji: 🥼
+weight: 4
 menu:
     main:
-        parent: "9SCIE"
+        parent: "10SCIE"
 ---
 
 {{< slides >}}

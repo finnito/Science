@@ -3,6 +3,7 @@ title: Human Diseases
 te_reo: 
 emoji: 
 weight: 
+te_reo: Ngā Mate
 menu:
     main:
         parent: "9SCIE"

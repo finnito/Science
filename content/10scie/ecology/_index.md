@@ -3,6 +3,7 @@ title: Ecology
 te_reo: 
 emoji: 
 weight: 
+te_reo: Mātai Hauropi
 menu:
     main:
         parent: "9SCIE"
