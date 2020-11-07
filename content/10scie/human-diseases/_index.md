@@ -12,7 +12,20 @@ menu:
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
-1. __Earth & Moon__
+1. __Circulatory System__
+    1. Explain how the circulatory system works
+    2. Describe and explain the function of the heart, arteries, veins, capillaries, ventricle, atrium         
+    3. Describe the components of blood and their roles
+    4. Explain what happens in a heart attack and how heart diseases can be treated and prevented.
+2. __Respiratory system__
+    1. Describe the composition of air and how this changes during breathing
+    2. Explain how the respiration system works
+    3. Describe and explain the function of the lungs, bronchioles, alveoli, red blood cells, haemoglobin
+    4. Explain the effects of exercise, diet, altitude, smoking and disease on the respiratory and circulatory systems
+3. __Genetics__
+    1. Explain how humans inherit their features
+    2. Explain the difference between an inherited disease and one caused by microbes
+    3. Use genetic diagrams to explain how some genetic diseases are inherited
 
 ## Unit Plan _/ Mahere Kōwae_ 
 

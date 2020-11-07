@@ -12,7 +12,27 @@ menu:
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
-1. __Earth & Moon__
+1. __Atoms and Ions__
+    1. Use diagrams to represent the arrangement of protons, neutrons and electrons in atoms
+    2. Write electron configurations for the first 20 elements and their ions
+    3. Locate groups 1, 2, 16, 17, 18 elements on the periodic table and identify their number of valence electrons
+    4. Describe how ions and ionic bonds are formed from the transfer of electron
+    5. Identify a covalent compound and explain covalent bond as the sharing of electrons
+    6. Use an ion table to write and name simple ionic formulae
+2. __Acids and Bases__
+    1. Describe the general properties of acids, bases and neutral solutions
+    2. Explain the pH scale and use it to determine if a substances is an acid, base, or neutral
+    3. Recall that indicators can be used to identify acids & bases
+    4. Recall the names and formula for some common acids: $HCl$, $H_{2}SO_{4}$, $HNO_{3}$
+    5. Identify the acids and bases from a list of common consumer products
+3. __Acid Reactions__
+    1. Name the products and write word equations and balanced symbol equations for reactions of acids with bases, carbonate compounds and metals
+    2. Give examples of everyday or useful acid reactions
+4. __Metals__
+    1. Explain the difference between physical and chemical properties of metals
+    2. Describe the structure of a metals
+    3. Explain how the physical properties of a metal (ie malleability, ductility, lustrous, sonorous) are related to the structure of a metal and its use
+    4. Describe where metals and non-metals are found on the periodic table
 
 ## Unit Plan _/ Mahere Kōwae_ 
 

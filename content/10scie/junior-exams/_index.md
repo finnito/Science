@@ -10,9 +10,8 @@ menu:
 
 {{< slides >}}
 
-## Learning Outcomes _/ Ngā Whāinga Ako_ 
+## Unit Plan _/ Mahere Kōwae_
 
-1. __Earth & Moon__
 
 ## Unit Plan _/ Mahere Kōwae_ 
 

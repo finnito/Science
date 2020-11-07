@@ -12,7 +12,21 @@ menu:
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
-1. __Earth & Moon__
+1. __Characteristics of Living Things__
+    1. Recall MRS GREN.
+    2. Define the terms and give examples of abiotic and biotic factors that affect organisms
+    3. Define the terms habitat and niche
+2. __Communities__
+    1. Put a series of organisms into a food chain and explain the flow of energy
+    2. Classify living things as producers, herbivores, carnivores, omnivores or decomposers
+    3. Define a community and how it relates to both living things and the area that they live in
+3. __Adaptations__
+    1. Define and list some structural, behavioural and physiological adaptation for different plants and animals
+    2. Relate an organisms adaptations back to its niche
+4. __Micro-organisms__
+    1. Describe the structure of bacteria and Fungi, labelling the important structures
+    2. Describe how bacterial feed by extra-cellular digestion
+    3. Describe the role and importance of decomposers in an ecosystem
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
