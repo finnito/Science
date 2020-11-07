@@ -181,6 +181,23 @@ main > blockquote {
   font-size: 1.5rem;
 }
 
+h3[id*='lesson-plans'] ~ ol {
+  padding: 0;
+  list-style-position: inside;
+}
+
+h3[id*='lesson-plans'] ~ ol > li {
+  background-color: rgba(241, 196, 15, 0.2);
+  border: 1px solid rgba(241, 196, 15, 0.3);
+  border-radius: 0.1rem;
+  padding: 0.5rem;
+}
+
+h3[id*='lesson-plans'] ~ ol > li:nth-child(odd) {
+  border: 1px solid rgba(155, 89, 182, 0.3);
+  background-color: rgba(155, 89, 182, 0.2);
+}
+
 footer { padding-bottom: 1rem; }
 
 footer blockquote a { color: #2ecc71; }
