@@ -38,62 +38,130 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|           | Akoranga 1 ()        | Akoranga 2 ()        | Akoranga 3 ()        |
-|:----------|:---------------------|:---------------------|:---------------------|
-| __T2 W6__ | 1.                   | 2.                   | 3.                   |
-| __T2 W7__ | 4.                   | 5.                   | 6.                   |
-| __T2 W8__ | 7.                   | 8.                   | 9.                   |
-| __T3 W2__ | 10.                  | 11.                  | 12.                  |
-| __T2 W3__ | 13. __Assessment 1__ | 14. __Assessment 2__ | 15. __Assessment 3__ |
+|             | Akoranga 1 ()               | Akoranga 2 ()               | Akoranga 3 ()               | Akoranga 4 ()               |
+| :---------- | :--------------             | :--------------             | :--------------             | :--------------             |
+| __T2 W6__   | 1. Fire Triangle 1          | 2. Fire Triangle 2          | 3. Wicks 1                  | 4. Wicks 2                  |
+| __T2 W7__   | 5. Hydrocarbons 1           | 6. Hydrocarbons 2           | 7. Complete vs Incomplete 1 | 8. Complete vs Incomplete 2 |
+| __T2 W8__   | 9. Review/Catch-Up          | 10. Energy from Fuels       | 11. Fire Mysteries          | 12. Fire Extinguishers      |
+| __T3 W2__   | 13. Environmental Impacts 1 | 14. Environmental Impacts 2 | 15. Health Implications 1   | 16. Health Implications 2   |
+| __T3 W3__   | 17. Revision                | 18. __Assessment 1__        | 19. __Assessment 2__        | 20. __Assessment 3__        |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_
 
-1. #### 
-2. #### 
-3. ####
-4. #### 
-5. #### 
-6. #### 
-7. #### 
-8. #### 
-9. #### 
-10. #### 
-11. #### 
-12. #### 
-13. #### Assessment 1
-14. #### Assessment 2
-15. #### Assessment 3
+1. #### Fire Triangle 1
+    - Burning experiment
+    - Mythbusters clip
+    - Braniac clip “burning a candle”
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-===
+2. #### Fire Triangle 2
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-### 1. Unit Introduction
+3. #### Wicks 1
+    - How do fuels burn?
+    - Kerosene vs others
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-__Kaupapa:__ _Perform some basic combustion whakamātaus and get introduced to Fire & Fuels._
+4. #### Wicks 2
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-__Mahi Tuatahi:__
+5. #### Hydrocarbons 1
+    - Issue research project
+    - Cut/paste model, molymods
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-Video: [Firefighters put jet fuel on a fire](https://www.youtube.com/watch?v=UxC2OOSEPyQ)
+6. #### Hydrocarbons 2
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-What temperature does these fuels start burning? Put them in order from coolest to hottest
+7. #### Complete & Incomplete Combustion 1
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-- Petrol
-- LPG
-- Wood
-- Coal
-- Candle
+8. #### Complete & Incomplete Combustion 2
+    - Boil water on blue/orange flame & make graph
+    - Limewater test
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-__Notes:__ [Introduction](slides/1-introduction/) [(PDF)](pdfs/1-introduction.pdf)
+9. #### Review/Catch-Up
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-__Whakamātau:__ Workbook: Burning Things (pg. 2)
+10. #### Energy from Fuels
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
----
+11. #### Fire Mysteries
+    - Spontaneous human combustion, Penn & Teller, St Elmos, fire in space, Hindenburg
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-### 2. Why Have A Wick?
+12. #### Fire Extinguishers
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-__Kaupapa:__ _What is the purpose of a wick?_
+13. #### Environmental Impacts 1
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-__Mahi Tuatahi:__ Walking water demonstration
+14. #### Environmental Impacts 2
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-__Notes:__ [Why Have a Wick](slides/2-why-have-a-wick/) [(PDF)](pdfs/2-why-have-a-wick.pdf)
+15. #### Health Implications 1
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
 
-__Whakamātau:__ Workbook: Why Have a Wick (pg. 4)
+16. #### Health Implications 2
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+17. #### Revision
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+18. #### Assessment 1
+
+19. #### Assessment 2
+
+20. #### Assessment 3

@@ -36,28 +36,132 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|           | Akoranga 1 () | Akoranga 2 () | Akoranga 3 () |
-|:----------|:--------------|:--------------|:--------------|
-| __T2 W1__ | 1.            | 2.            | 3.            |
-| __T2 W2__ | 4.            | 5.            | 6.            |
-| __T2 W3__ | 7.            | 8.            | 9.            |
-| __T2 W4__ | 10.           | 11.           | 12.           |
-| __T2 W5__ | 13.           | 14.           | 15. __TEST__  |
+|             | Akoranga 1 ()                | Akoranga 2 ()           | Akoranga 3 ()        | Akoranga 4 ()             |
+| :---------- | :--------------              | :--------------         | :--------------      | :--------------           |
+| __T2 W1__   | 1. Elements & Periodic Table | 2. Atomic Structure     | 3. Atomic Properties | 4. Electron Configuration |
+| __T2 W2__   | 5. Flame Test                | 6. Formation of Ions    | 7. Ionic Compounds 1 | 8. Ionic Compounds 2      |
+| __T2 W3__   | 9. Writing Equations 1       | 10. Writing Equations 2 | 11. Acids & Base     | 12. Neutralisation        |
+| __T2 W4__   | 13. Metal Properties         | 14. Acid + Carbonate    | 15. Acid + Metal     | 16. Metal + Water         |
+| __T2 W5__   | 17. Revision 1               | 18. Revision 2          | 19. Revison 3        | 20. __TEST__              |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
-1. #### 
-2. #### 
-3. ####
-4. #### 
-5. #### 
-6. #### 
-7. #### 
-8. #### 
-9. #### 
-10. #### 
-11. #### 
-12. #### 
-13. #### 
-14. #### 
-15. #### TEST
+1. #### Elements & Periodic Table
+    - Atom battleships
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+2. #### Atomic Structure
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+3. #### Atomic Properties
+    - Atomic number,
+    - Mass number,
+    - Isotopes
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+4. #### Electron Configuration
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+5. #### Flame Test
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+6. #### Formation of Ions
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+7. #### Ionic Compounds 1
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+8. #### Ionic Compounds 2
+    - Ion battleships
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+9. #### Writing Chemical Equations 1
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+10. #### Writing Chemical Equations 2
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+11. #### Acids & Bases 1
+    - Whakamātau: indicators (UI, litmus, red, cabbage)
+    - pH scale
+    - Common acids and bases
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+12. #### Neutralisation
+    - Whakamātau: sulfuric acid & ammonia
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+13. #### Metal Properties
+    - Physical and chemical properties
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+14. #### Acid + Carbonate Reaction
+    - Whakamātau: $Na_{2}CO_{3} + HCl$ (limewater)
+    - Demo: Egg in acid (raw vs boiled)
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+15. #### Acid + Metal Reaction
+    - Whakamātau: $Mg+ HCl$ (Pop Test)
+    - Whakakite: $Ca + HCl$
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+16. #### Metal + Water Reaction
+    - Whakamātau: $Ca + H_{2}O$
+    - Demo: Reactive elements (sodium + water)
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+17. #### Revision 1
+
+18. #### Revision 2
+
+19. #### Revision 3
+
+20. #### TEST

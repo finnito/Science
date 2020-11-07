@@ -30,32 +30,149 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|            | Akoranga 1 () | Akoranga 2 () | Akoranga 3 () |
-|:-----------|:--------------|:--------------|:--------------|
-| __T1 W6__  | 1.            | 2.            | 3.            |
-| __T1 W7__  | 4.            | 5.            | 6.            |
-| __T1 W8__  | 7.            | 8.            | 9.            |
-| __T1 W9__  | 10.           | 11.           | 12.           |
-| __T1 W10__ | 13.           | 14.           | 15.           |
-| __T1 W11__ | 16.           | 17.           | 18. __TEST__  |
+|              | Akoranga 1 ()                  | Akoranga 2 ()                    | Akoranga 3 ()                    | Akoranga 4 ()                      |
+| :----------- | :---------------               | :---------------                 | :---------------                 | :--------------                    |
+| __T1 W6__    | 1. Static Electricity 1        | 2. Static Electricity 2          | 3. Demos & Kite Experiment       | 4. Demos & Burning Paper           |
+| __T1 W7__    | 5. Symbols & Diagrams          | 6. Conductors & Insulators 1     | 7. Conductors & Insulators 2     | 8. Charge, Current & Voltage 1     |
+| __T1 W8__    | 9. Charge, Current & Voltage 2 | 10. Resistance 1                 | 11. Resistance 2                 | 12. Review/Catch-Up                |
+| __T1 W9__    | 13. Non-Ohmic Resistance       | 14. Series & Parallel Circuits 1 | 15. Series & Parallel Circuits 2 | 16. Series & Parallel Circuits 3   |
+| __T1 W10__   | 17. How Fuses Work             | 18. Power 1                      | 19. Power 2                      | 20. Dangers of Current Electricity |
+| __T1 W11__   | 21. Revision 1                 | 22. Revision 2                   | 23. Revision 3                   | 24. __TEST__                       |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
-1. #### 
-2. #### 
-3. #### 
-4. #### 
-5. #### 
-6. #### 
-7. #### 
-8. #### 
-9. #### 
-10. #### 
-11. #### 
-12. #### 
-13. #### 
-14. #### 
-15. #### 
-16. #### 
-17. #### 
-18. #### Test
+1. #### Static Electricity 1
+    - Whakakite: Van der Graaf, balloons and static rods
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+2. #### Static Electricity 2
+    - Van der Graaf, electroscopes
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+3. #### Demos & Kite Experiment
+    - Dangers of static electricity
+    - Spark generator
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+4. #### Demos & Burning Paper
+    - Whakakite: voltage burning paper
+    - Jacob's Ladder
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+5. #### Symbols & Diagrams
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+6. #### Conductors & Insulators 1
+    - Whakamātau: conductors and insulators
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+7. #### Conductors & Insulators 2
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+8. #### Charge, Current & Voltage 1
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+9. #### Charge, Current & Voltage 2
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+10. #### Resistance 1
+    - Whakamātau: Burning graphite and 10$\Omega$ resistors
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+11. #### Resistance 2
+    - Whakamātau: Finding unknown resistors (electricity trolley)
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+12. #### Review/Catch-Up
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+13. #### Non-Ohmic Resistance
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+14. #### Series & Parallel Circuits 1
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+15. #### Series & Parallel Circuits 2
+    - PhET simulation
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+16. #### Series & Parallel Circuits 3
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+17. #### How Fuses Work
+    - Whakakite: burning steel wool
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+18. #### Power 1
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+19. #### Power 2
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+20. #### Dangers of Current Electricity
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+21. #### Revision 1
+22. #### Revision 2
+23. #### Revision 3
+24. #### Test

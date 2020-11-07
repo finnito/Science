@@ -30,28 +30,123 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|           | Akoranga 1 ()          | Akoranga 2 ()          | Akoranga 3 () |
-|:----------|:-----------------------|:-----------------------|:--------------|
-| __T1 W1__ | 1. [Intro 1](#intro-1) | 2. [Intro 2](#intro-2) | 3.            |
-| __T1 W2__ | 4.                     | 5.                     | 6.            |
-| __T1 W3__ | 7.                     | 8.                     | 9.            |
-| __T1 W4__ | 10.                    | 11.                    | 12.           |
-| __T1 W5__ | 13.                    | 14.                    | 15. __TEST__  |
+|           | Akoranga 1 ()          | Akoranga 2 ()                | Akoranga 3 ()              | Akoranga 4 ()          |
+|:----------|:-----------------------|:-----------------------------|:---------------------------|:-----------------------|
+| __T1 W1__ | 1. [Intro 1](#intro-1) | 2. [Intro 2](#intro-2)       | 3. Symbiotic Relationships | 4. Food Chains         |
+| __T1 W2__ | 5. Food Chains & Webs  | 6. Pond Tūhura               | 7. Decomposers 1           | 8. Decomposers 2       |
+| __T1 W3__ | 9. Review/Catch-up     | 10. Biotic & Abiotic Factors | 11. Adaptations 1          | 12. Adaptations 2      |
+| __T1 W4__ | 13. Carbon Cycle 1     | 14. Carbon Cycle 2           | 15. Impact of Humans 1     | 16. Impact of Humans 2 |
+| __T1 W5__ | 17. Revision 1         | 18. Revision 2               | 19. Revision 3             | 20. __TEST__           |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. #### Intro 1
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
 2. #### Intro 2
-3. #### 
-4. #### 
-5. #### 
-6. #### 
-7. #### 
-8. #### 
-9. #### 
-10. #### 
-11. #### 
-12. #### 
-13. #### 
-14. #### 
-15. #### Test
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+3. #### Symbiotic Relationships
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+4. #### Food Chains
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+5. #### Food Chains and Webs
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+6. #### Pond Tūhura
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+7. #### Decomposers 1
+    - Structure of bacteria
+    - Structure of fungi
+    - Whakamātau: growing microbes
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+8. #### Decomposers 2
+    - Extracellular digestion
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+9. #### Review/Catch-Up
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+10. #### Biotic & Abiotic Factors
+    - Niche, habitat
+    - Tūhura: Observing microbes
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+11. #### Adaptations 1
+    - Three types
+    - Tūhura: human hand
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+12. #### Adaptations 2
+    - Animal examples
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+13. #### Carbon Cycle 1
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+14. #### Carbon Cycle 2
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+15. #### Impact of Humans 1
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+16. #### Impact of Humans 2
+    - Endangered species
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
+17. #### Revision 1
+18. #### Revision 2
+19. #### Revision 3
+20. #### Test

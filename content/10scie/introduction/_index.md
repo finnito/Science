@@ -16,12 +16,20 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|           | Akoranga 1 (Mon/Tues) | Akoranga 2 (Wed) | Akoranga 3 (Fri) |
-|:----------|:----------------------|:-----------------|:-----------------|
-| __T1 W1__ | 1.                    | 2.               | 3. Ecology       |
+|           | Akoranga 1 () | Akoranga 2 () | Akoranga 3 () | Akoranga 4 () |
+|:----------|:--------------|:--------------|:--------------|:--------------|
+| __T1 W1__ | 1.            | 2.            | 3. Ecology    | 4. Ecology    |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. #### 
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
+
 2. ####
-3. ####
+    - __Ngā Whāinga Ako__: 
+    - __Notes__: 
+    - __Task/Ngohe__: 
+    - __Whakamātau/Whakakite__: 
