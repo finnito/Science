@@ -483,24 +483,6 @@ nav.mobile ul li {
   margin: 0.75rem 1rem;
 }
 
-.bmc-button img {
-  width: 35px !important;
-}
-
-.bmc-button {
-  line-height: 35px !important;
-  height: 51px !important;
-  max-width: 217px !important;
-  display: flex !important;
-  color: #FFFFFF !important;
-  background-color: #FF813F !important;
-  border-radius: 5px !important;
-  padding: 7px 10px 7px 10px !important;
-  box-sizing: border-box !important;
-  margin-auto;
-}
-.bmc-button span { margin-left: 1rem; }
-
 .breadcrumb { 
   display: flex;
   list-style: none;
