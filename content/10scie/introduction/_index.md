@@ -22,14 +22,11 @@ menu:
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
-1. #### 
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
-
 2. ####
     - __Ngā Whāinga Ako__: 
     - __Notes__: 
     - __Task/Ngohe__: 
+1. #### Intro to Year 10
+    - __Ngā Whāinga Ako__: Introduce myself and Year 10 Science
+    - __Notes__: Mihi, seating plan, clear-files, grade tracking sheets, student profiles, Education Perfect, email filter
     - __Whakamātau/Whakakite__: 
