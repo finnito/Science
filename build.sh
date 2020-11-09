@@ -110,8 +110,10 @@ tidyFolders() {
         rm -fr pdfs
         echo "    Removed the 'pdfs' directory"
     fi
-    if rm -fr slides/*; then
-        echo "    Emptied the 'slides' directory"
+    if [ ! $dev ] ; then
+        if rm -fr slides/*; then
+            echo "    Emptied the 'slides' directory"
+        fi
     fi
     if [[ ! -d 'slides' ]]; then
         mkdir slides
