@@ -10,15 +10,11 @@ menu:
 
 {{< slides >}}
 
-## Learning Outcomes _/ Ngā Whāinga Ako_ 
-
-1. __Earth & Moon__
-
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|           | Akoranga 1 () | Akoranga 2 () | Akoranga 3 () | Akoranga 4 () |
-|:----------|:--------------|:--------------|:--------------|:--------------|
-| __T1 W1__ | 1.            | 2.            | 3. Ecology    | 4. Ecology    |
+|           | Akoranga 1 ()       | Akoranga 2 ()              | Akoranga 3 () | Akoranga 4 () |
+|:----------|:--------------------|:---------------------------|:--------------|:--------------|
+| __T1 W1__ | 1. Intro to Year 10 | 2. Laboratory Expectations | 3. Ecology    | 4. Ecology    |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
