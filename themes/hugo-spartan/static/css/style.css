@@ -398,6 +398,14 @@ table tr:nth-child(2n-1) td {
 
 a[href*="coffee"] { color: #FF813F; }
 
+.button.orange {
+  background-color: #FF813F;
+}
+
+.button.blue {
+  background-color: #3498db;
+}
+
 input[type=checkbox].toggle {
   width: 75px;
   height: 34px;
