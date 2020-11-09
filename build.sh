@@ -68,6 +68,7 @@ main() {
             # A slide file was changed, so we
             # need to build it.
             cd $folder
+            tidyFolders
             buildSingleSlide $file
             cd ../../
             runHugo
