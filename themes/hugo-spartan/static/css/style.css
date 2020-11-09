@@ -132,10 +132,12 @@ h4 em {
 
 h3 {
   font-weight: 500;
+  margin-bottom: 0;
 }
 
 li h4,
 h4 {
+  display: inline;
   font-weight: 500;
 }
 
@@ -186,6 +188,18 @@ h3[id*='lesson-plans'] ~ ol {
   list-style-position: inside;
 }
 
+h3[id*='lesson-plans'] ~ ol h4 {
+  font-weight: 700;
+  border-bottom: 1px solid darkgrey;
+}
+
+h3[id*='lesson-plans'] ~ ol strong {
+  background-color: #1abc9c;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  font-weight: 450;
+}
+
 h3[id*='lesson-plans'] ~ ol > li {
   background-color: rgba(241, 196, 15, 0.2);
   border: 1px solid rgba(241, 196, 15, 0.3);
@@ -194,8 +208,8 @@ h3[id*='lesson-plans'] ~ ol > li {
 }
 
 h3[id*='lesson-plans'] ~ ol > li:nth-child(odd) {
-  border: 1px solid rgba(155, 89, 182, 0.3);
-  background-color: rgba(155, 89, 182, 0.2);
+  border: 1px solid rgba(52, 152, 219, 0.3);
+  background-color: rgba(52, 152, 219, 0.2);
 }
 
 footer { padding-bottom: 1rem; }
@@ -289,6 +303,7 @@ hr {
 
 ol, ul {
   margin-top: 0;
+  padding-left: 1.5rem;
 }
 
 li p { margin-bottom: 0; }
