@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <style>{{ readFile "/themes/hugo-spartan/static/css/style.css" | safeCSS }}</style>
-    <link rel="icon" href="favicon.png">
+    <link rel="icon" href="/favicon.png">
   </head>
 
   <body class="{{ if .IsPage }}single{{ else }}list{{ end }}">
