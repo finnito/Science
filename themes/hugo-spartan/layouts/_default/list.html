@@ -1,6 +1,17 @@
 {{ partial "header.html" . }}
     <div class="article-meta">
-        <h2><span class="title">{{ .Title | markdownify }}</span>{{ with .Params.te_reo }}<em> / {{ . }}</em>{{ end }}</h2>
+        <h2>
+            {{ with .Params.emoji }}{{ . }}{{ end }} 
+            <span class="title"> 
+                {{ .Title | markdownify }}
+            </span>
+            {{ with .Params.te_reo }}
+                <em> / {{ . }}</em>
+            {{ end }} 
+            {{ with .Params.emoji }}
+                {{ . }}
+            {{ end }}
+        </h2>
         {{ if isset .Params "nzqa" }}
         <ul>
             {{ with .Params.nzqa }}
