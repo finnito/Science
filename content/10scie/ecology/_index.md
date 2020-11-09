@@ -30,33 +30,28 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|           | Akoranga 1 ()          | Akoranga 2 ()                | Akoranga 3 ()              | Akoranga 4 ()          |
-|:----------|:-----------------------|:-----------------------------|:---------------------------|:-----------------------|
-| __T1 W1__ | 1. [Intro 1](#intro-1) | 2. [Intro 2](#intro-2)       | 3. Symbiotic Relationships | 4. Food Chains         |
-| __T1 W2__ | 5. Food Chains & Webs  | 6. Pond Tūhura               | 7. Decomposers 1           | 8. Decomposers 2       |
-| __T1 W3__ | 9. Review/Catch-up     | 10. Biotic & Abiotic Factors | 11. Adaptations 1          | 12. Adaptations 2      |
-| __T1 W4__ | 13. Carbon Cycle 1     | 14. Carbon Cycle 2           | 15. Impact of Humans 1     | 16. Impact of Humans 2 |
-| __T1 W5__ | 17. Revision 1         | 18. Revision 2               | 19. Revision 3             | 20. __TEST__           |
+|             | Akoranga 1 ()            | Akoranga 2 ()                  | Akoranga 3 ()                                          | Akoranga 4 ()            |
+| :---------- | :----------------------- | :----------------------------- | :---------------------------                           | :----------------------- |
+| __T1 W1__   | 1. Intro 1               | 2. Intro 2                     | 3. [Symbiotic Relationships](#symbiotic-relationships) | 4. Food Chains           |
+| __T1 W2__   | 5. Food Chains & Webs    | 6. Pond Tūhura                 | 7. Decomposers 1                                       | 8. Decomposers 2         |
+| __T1 W3__   | 9. Review/Catch-up       | 10. Biotic & Abiotic Factors   | 11. Adaptations 1                                      | 12. Adaptations 2        |
+| __T1 W4__   | 13. Carbon Cycle 1       | 14. Carbon Cycle 2             | 15. Impact of Humans 1                                 | 16. Impact of Humans 2   |
+| __T1 W5__   | 17. Revision 1           | 18. Revision 2                 | 19. Revision 3                                         | 20. __TEST__             |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. #### Intro 1
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
 
 2. #### Intro 2
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
 
 3. #### Symbiotic Relationships
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+    - __Ngā Whāinga Ako__
+        1. Recall MRS GREN
+        2. Classify living things as herbivores, carnivores, omnivores
+    - __Notes__
+        - Slides: Relationships & Energy
+    - __Task/Ngohe__
+        - Education Perfect task + making notes
 
 4. #### Food Chains
     - __Ngā Whāinga Ako__: 
