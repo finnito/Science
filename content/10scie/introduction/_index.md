@@ -22,11 +22,9 @@ menu:
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
-2. ####
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
 1. #### Intro to Year 10
     - __Ngā Whāinga Ako__: Introduce myself and Year 10 Science
     - __Notes__: Mihi, seating plan, clear-files, grade tracking sheets, student profiles, Education Perfect, email filter
+2. #### Laboratory Expectations
+    - __Ngā Whāinga Ako__: To become aware of the expectations of the laboratory
     - __Whakamātau/Whakakite__: 
