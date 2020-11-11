@@ -131,7 +131,7 @@ The plank weighs 22kg and is in equilibrium.
 1. Draw labelled arrows showing the forces acting upon the plank.
 2. Calculate the support force of __Support A__. Use $g=10ms^{-2}$.
 
-__Note:__ The plank's weight force acts through its center of mass, therefore the overhanging plank does not matter, other than to reduce the length of certain measurements.
+__Note__ - The plank's weight force acts through its center of mass, therefore the overhanging plank does not matter, other than to reduce the length of certain measurements.
 
 ---
 

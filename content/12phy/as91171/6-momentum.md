@@ -425,7 +425,7 @@ However, in __elastic collisions__ total kinetic energy is conserved.
     & \sum E_{ki} = \sum E_{kf}
 \end{align*}
 
-__Note:__ If total kinetic energy is not conserved, the collision is __inelastic.__ Most collisions are inelastic.
+__Note__ - If total kinetic energy is not conserved, the collision is __inelastic.__ Most collisions are inelastic.
 
 ---
 
