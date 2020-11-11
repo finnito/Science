@@ -8,6 +8,28 @@ menu:
         parent: "10SCIE"
 ---
 
+<!-- 
+TODO: Make biotic vs abiotic factors @slides 
+TODO: Make adaptations @slides
+TODO: Make decomposers @slides
+TODO: Make impact of humans @slides
+TODO: Make carbon cycle @slides
+- Biotic vs Abiotic Factors
+    - Definitions and examples of each
+- Adaptations
+    - Behavioural
+    - Physiological
+    - Structural
+    - Definition
+        - Mention survival and production of offspring
+    - Explain them
+    - Why do adaptations exist?
+- Niche, habitat, community
+- Interpreting graphs/tables
+- Reproduction rates
+- Extinction
+ -->
+
 {{< slides >}}
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
@@ -45,6 +67,8 @@ menu:
 2. #### Intro 2
 
 3. #### Symbiotic Relationships
+    - __Whakaritenga__
+        - Assign EP task on The Five Kingdoms
     - __Ngā Whāinga Ako__
         1. Recall MRS GREN
         2. Classify living things as herbivores, carnivores, omnivores
@@ -54,27 +78,37 @@ menu:
         - Education Perfect task + making notes
 
 4. #### Food Chains
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+    - __Whakaritenga__
+        - Print cluster activity
+    - __Ngā Whāinga Ako__
+        1. Put a series of organisms into a food chain and explain the flow of energy
+        2. Classify living things as producers, herbivores, carnivores, omnivores or decomposers
+    - __Notes__
+    - __Task/Ngohe__
+    - __Whakamātau/Whakakite__
 
 5. #### Food Chains and Webs
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+    - __Whakaritenga__:
+        - Print mix-and-match activity
+        - Schedule the [food web activity](https://docs.google.com/document/d/1wSJJEyUSxeWna2OEgGrATCUXchV5iN4CtlZNA6c2mwY/edit) on Google Classroom
+        - Assign EP task on Producers and Impact of Humans on NZ wildlife as homework/_mahi kāinga_.
+    - __Te Whāinga Ako__: Define a community and how it relates to both living things and the area that they live in.
+    - __Notes__: From akoranga 3 in the Food Chains & Webs slides.
+    - __Task/Ngohe__: Mix and match activity (mahi tuatahi)
 
 6. #### Pond Tūhura
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+    - __Whakaritenga__
+        - Book experiment on Riskassess
+        - Schedule [pond tūhura](https://docs.google.com/document/d/14CstMPyllRtjZN7aiDv-xwec3E8isDo2ds_AHkHiP50/edit#) on Classroom.
+    - __Whakamātau/Whakakite__: Pond Tūhura
 
 7. #### Decomposers 1
     - Structure of bacteria
     - Structure of fungi
     - Whakamātau: growing microbes
+    - __Wakaritenga__
+        - Print [bacteria diagrams](https://docs.google.com/document/d/10Cp7YlAZh6VqtHsZhmekcB6Q1bh4aas0CAeAWvZjYh0/edit)
+        - Print [fungi diagrams](https://docs.google.com/document/d/1Ir_-ohrYsWO8NFetddZnF6oViemniX0NOR9iFUyuW_k/edit)
     - __Ngā Whāinga Ako__: 
     - __Notes__: 
     - __Task/Ngohe__: 

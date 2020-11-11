@@ -121,7 +121,7 @@ The velocity of the cannon ball is split into two components:
 1. __Vertical motion__, and
 2. __horizontal motion__.
 
-__Note:__ These motions are __independent of each other__. That is, they do not affect each other.
+__Note__ - These motions are __independent of each other__. That is, they do not affect each other.
 
 ---
 
