@@ -8,6 +8,28 @@ menu:
         parent: "10SCIE"
 ---
 
+<!-- 
+TODO: Make biotic vs abiotic factors @slides 
+TODO: Make adaptations @slides
+TODO: Make decomposers @slides
+TODO: Make impact of humans @slides
+TODO: Make carbon cycle @slides
+- Biotic vs Abiotic Factors
+    - Definitions and examples of each
+- Adaptations
+    - Behavioural
+    - Physiological
+    - Structural
+    - Definition
+        - Mention survival and production of offspring
+    - Explain them
+    - Why do adaptations exist?
+- Niche, habitat, community
+- Interpreting graphs/tables
+- Reproduction rates
+- Extinction
+ -->
+
 {{< slides >}}
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
