@@ -8,6 +8,8 @@ menu:
         parent: "9SCIE"
 ---
 
+<!-- NOTE: This unit needs severe re-working before teaching again. -->
+
 {{< slides >}}
 
 ## Term 2, Week 2
