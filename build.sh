@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# TODO: Migrate build.sh to a python script
+
 shopt -s nullglob extglob
 
 while getopts hdf:p: opt; do
@@ -131,6 +133,10 @@ tidyFolders() {
 }
 
 buildSingleSlide() {
+    # TODO: Standardise the pandoc call into a function
+    # TODO: Standardise the name parsing into a function
+    # TODO: Consider reworking to take an array of filenames as input so that only one function is needed
+    # TODO: Only parse files starting with a number as slides. https://stackoverflow.com/a/36474627
     filename=$1
     file="${filename##*/}"
     name="${file%%.*}"

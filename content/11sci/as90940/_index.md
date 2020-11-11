@@ -13,6 +13,15 @@ menu:
 katex: true
 ---
 
+<!--
+TODO: Check entire homework booklet
+TODO: Make homework booklet answer booklet
+TODO: Make worked solution videos for entire booklet
+TODO: Compile questions, mark schedule, worked video and hints into a big web page. Use HTML hidden elements, TOC, etc.
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
+https://gohugo.io/templates/data-templates/
+-->
+
 {{< slides >}}
 
 ## Mahi Kāinga Due Dates
