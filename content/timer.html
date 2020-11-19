@@ -101,8 +101,50 @@
         }, 1000);
 
         var elem = document.documentElement;
-        // TODO: Implement URL query parameters for the timer title, end date and instructions.
-        // Will need to use history.updateState I think.
+        
+        /* =============================================
+         * Begin URL parameter storage/loading section.
+         * =============================================
+         */
+         /* Add event listeners. */
+        document.querySelector("input[type='time']").addEventListener('input', updateURL);
+        document.querySelector("h2").addEventListener('input', updateURL);
+        document.querySelector("p").addEventListener('input', updateURL);
+        document.addEventListener("DOMContentLoaded", loadURLParameters);
+
+        /*
+         * Updates the URL parameters
+         * when elements are changed.
+         */
+        function updateURL(event) {
+          var time = "?t=" + document.querySelector("input[type='time']").value;
+          var title = "&h=" + document.querySelector("h2").innerText;
+          var paragraph = "&p=" + document.querySelector("p").innerHTML;
+          var queryString = time + title + paragraph;
+          history.replaceState(null, "", window.location.pathname + queryString);
+        }
+
+        /*
+         * Loads the URL parameters
+         * into the document.
+         */
+        function loadURLParameters() {
+          var params = new URLSearchParams(window.location.search);
+          if (params.has("t")) {
+            document.querySelector("input[type='time']").value = decodeURIComponent(params.get("t"));
+          }
+          if (params.has("h")) {
+            document.querySelector("h2").innerText = decodeURIComponent(params.get("h"));
+          }
+          if (params.has("p")) {
+            document.querySelector("p").innerHTML = decodeURIComponent(params.get("p"));
+          }
+        }
+        /* =============================================
+         * END URL parameter storage/loading section.
+         * =============================================
+         */
+
         document.querySelector(".close-fullscreen").addEventListener("click", closeFullscreen);
 
         document.querySelector(".fullscreen").addEventListener("click", function() {
