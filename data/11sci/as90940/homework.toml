@@ -1,0 +1,66 @@
+topics = [
+    "Speed and Acceleration",
+    "Distance-Time Graphs"
+]
+
+# ============
+# QUESTION 1
+# ============
+[[questions]]
+label = "Question 1"
+topic = "Speed and Acceleration"
+source = "2019 1b"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/90940-exm-2019.pdf"
+
+text = '''
+A boat travels across a lake to the start of a walking track. The graph below shows the boat’s journey. __Calculate the acceleration of the boat in the first 400 seconds__.'''
+image_path = "../assets/homework-q1.png"
+hint = """\
+    A test hint.
+    """
+answer = """\
+Knowns: $v_{i} = 0, v_{f} = 3ms^{-1}, t = 400s$
+
+Unknowns: we are being asked to find acceleration $a$
+
+Formula: $a = \\frac{\\Delta v}{t} = \\frac{v_{f} - v_{i}}{\\Delta t}$
+
+Solve: $a = \\frac{3 - 0}{400} = 0.0075ms^{-2}$"""
+marking_schedule_path = ""
+youtube_id = "E1KkQrFEl2I"
+
+# ============
+# QUESTION 2
+# ============
+[[questions]]
+label = "Question 2"
+topic = "Speed and Acceleration"
+text = '''
+A parachutist with total mass of 63 kg jumps from a plane. The parachutist falls a distance of 450 m during the first 9.49 seconds. Calculate the average speed of the parachutist during this time.'''
+answer = """\
+\\begin{align*}
+    d &= 450m, t = 9.49s \\newline
+    v &= \\frac{d}{t} \\newline
+    v &= \\frac{450}{9.49} = 47.42ms^{-1}
+\\end{align*}
+"""
+
+# ============
+# QUESTION 5
+# ============
+[[questions]]
+label = "Question 5"
+topic = "Distance-Time Graphs"
+text = '''
+The graph shows the motion of a horse and rider as they travel along a beach.
+
+1. Describe the motion of the horse and rider in each section of the graph. No calculations are required.
+2. Calculate the speed of the horse and rider in Section B of the graph.'''
+image_path = "../assets/homework-q5.png"
+answer = """\
+    \\begin{align*}
+        v_{i} &= 0, v_{f} = 3ms^{-1}, t = 400s$ \\newline
+        a &= \\frac{v_{f} - v_{i}}{\\Delta t} \\newline
+        a &= \\frac{3 - 0}{400} = 0.0075ms^{-2}
+    \\end{align*}
+    """
