@@ -1,0 +1,86 @@
+{{ $year := .Get "year" }}
+{{ $unit := .Get "unit" }}
+
+{{ $homework := (index (index .Site.Data $year) $unit).homework }}
+
+<div class="toc">
+   <h2>Topics</h2>
+   <ol>
+   {{ range $homework.topics }}
+      <li><a href="#{{ . | urlize }}" title="Jump to {{ . }}">{{ . }}</a></li>
+   {{ end }}
+   </ol>
+</div>
+
+<div class="questions">
+   {{ range $homework.topics }}
+      <h2 id="{{ . | urlize }}">{{ . }}</h2>
+      {{ range where $homework.questions ".topic" . }}
+         <div class="question">
+            <div class="question-header">
+               <h3 id="{{ .label | urlize }}">
+                  {{ .label }}
+                  {{ with .source }}
+                     ({{ . }})
+                  {{ end }}
+               </h3>
+               <div>
+                  <sup>
+                     <a class="heading-anchor" href="#{{ .label | urlize }}">[Link to this Question]</a>
+                  </sup>
+                  <br/>
+                  {{ with .source_link }}<span>Source: <a href="{{ . }}">NZQA</a></span>{{ end }}
+               </div>
+            </div>
+            <div>{{ .text | markdownify }}</div>
+
+            {{ with .image_path }}
+               <img src="{{ . }}"/>
+            {{ end }}
+
+            {{ with .hint }}
+               <details>
+                  <summary>🤔 Hints</summary>
+                  {{ . | markdownify }}
+               </details>
+            {{ end }}
+            
+            {{ with .answer }}
+               <details class="confirm">
+                  <summary>💡 Text Answer</summary>
+                  {{ . | markdownify }}
+               </details>
+            {{ end }}
+
+            {{ with .youtube_id }}
+            <details class="confirm">
+               <summary>✍️ Video Answer</summary>
+               <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+                  <iframe src="https://www.youtube.com/embed/{{ . }}?autoplay=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
+               </div>
+            </details>
+            {{ end }}
+
+            {{ with .marking_schedule_path }}
+            <details>
+               <summary>✅ Marking Schedule</summary>
+               <img src="{{ . }}"/>
+            </details>
+            {{ end }}
+         </div>
+      {{ end }}
+   {{ end }}
+</div>
+
+<script>
+   document.querySelectorAll("details.confirm > summary").forEach(function(element) {
+      element.addEventListener("click", function(event) {
+         if (!event.target.parentNode.open) {
+            var res = window.confirm("If you have tried this question to the best of your ability, click 'Okay' to view the answers.\nOtherwise, try the question and get some hints.\n\nClick 'Cancel' to not view answers.");
+            if (res != true) {
+               event.preventDefault();
+            }
+         }
+      });
+   });
+</script>
