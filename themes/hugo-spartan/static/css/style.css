@@ -46,6 +46,50 @@ img, iframe {
   max-height: 75vh;
 }
 
+details > summary {
+  cursor: pointer;
+  font-weight: 450;
+  margin-bottom: 0.5rem;
+}
+
+details > summary:focus {
+  outline: none;
+}
+
+details {
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  margin: 1rem 0 0.25rem 0;
+}
+
+details[open] {
+  background-color: rgba(46, 204, 113, 0.2);
+  border: 1px solid rgba(46, 204, 113, 0.4);
+}
+
+.toc {
+  position: fixed;
+  left: 1rem;
+  background-color: #ecf0f1;
+  border-radius: 0.25rem;
+  padding: 0 1rem;
+}
+
+.question-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.question:not(:first-child) {
+  border-top: 1px solid lightgrey;
+  margin-bottom: 1rem;
+}
+
+.question img {
+  box-shadow: none;
+}
+
 /*main > hr {
   display: none;
 }*/
@@ -132,6 +176,10 @@ h4 em {
 h3 {
   font-weight: 500;
   margin-bottom: 0;
+}
+
+h3 + p {
+  margin-top: 0;
 }
 
 li h4,
