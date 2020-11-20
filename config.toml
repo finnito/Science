@@ -12,6 +12,7 @@ theme                   = "hugo-spartan"
 metaDataFormat          = "yaml"
 pygmentsUseClasses      = true
 pygmentCodeFences       = true
+enableGitInfo           = true
 
 [markup.goldmark.renderer]
   unsafe  = true

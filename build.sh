@@ -102,6 +102,7 @@ main() {
         for i in "${MODULES[@]}"; do
             if cd $i; then 
                 echo "Entered $i"
+                compileGitLog $i
                 tidyFolders
                 createSlides
                 cd ../../
@@ -176,6 +177,21 @@ createSlides() {
             echo "    Built ${name}.md --> slides/${numberlessName}.html"
         fi
     done
+}
+
+compileGitLog() {
+    OLDIFS=$IFS
+    IFS='/'; read -a array <<< "$1"
+    yr=$(printf '%s' "$(IFS=/; printf '%s' "${array[*]::1}")")
+    IFS=$OLDIFS
+    outputFile="../../../static/$1/changelog.txt"
+    mkdir "../../../static/$yr"
+    mkdir "../../../static/$1"
+    echo "" > $outputFile
+    echo "<details><summary>Full History</summary>" >> $outputFile
+    git log --name-status --pretty=format:"</pre></li><li><a href='https://github.com/finnito/Science/commit/%H'>%cn %ar</a> %s %d<pre>" ./ >> $outputFile
+    echo "</pre></li>" >> $outputFile
+    echo "</details>" >> $outputFile
 }
 
 runHugo() {
