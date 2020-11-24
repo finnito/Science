@@ -9,6 +9,10 @@ menu:
 ---
 
 <!-- NOTE: This unit needs severe re-working before teaching again. -->
+<!-- TODO: Emphasise differences between atoms/elements/mixtures/compounds with regards to bonds existing or not -->
+<!-- TODO: Add tasks categorising atoms, compounds, molecules, elements -->
+<!-- TODO: Extra note writing chemical formulae -->
+<!-- TODO: Notes on physical/chemical rxns - new things produced, state changes, fizzing etc. -->
 
 {{< slides >}}
 

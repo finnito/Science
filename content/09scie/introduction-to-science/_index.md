@@ -9,6 +9,8 @@ menu:
         parent: "9SCIE"
 ---
 
+<!-- NOTE: Improve fair testing -->
+
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
 1. Explain what Pūtaiao is and why it is useful.

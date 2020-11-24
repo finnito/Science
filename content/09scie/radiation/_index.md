@@ -8,6 +8,9 @@ menu:
         parent: "9SCIE"
 ---
 
+<!-- NOTE: Improve discussion how eye works -->
+<!--  -->
+
 {{< slides >}}
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 

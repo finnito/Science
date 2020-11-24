@@ -8,6 +8,11 @@ menu:
         parent: "9SCIE"
 ---
 
+<!-- TODO: Emphasise health conditions microgravity -->
+<!-- TODO: Graph reading/be precise -->
+<!-- TODO: Seasons are tilt + sunlight hours NOT distance to sun -->
+<!-- TODO: Impact of eclipses (temperature) via YouTube -->
+
 {{< slides >}}
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 

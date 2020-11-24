@@ -8,6 +8,12 @@ menu:
         parent: "9SCIE"
 ---
 
+<!-- 
+TODO: Improve notes/teaching emphasis on EOY Feedback
+- Reading graphs
+- Curve of best fit
+ -->
+
 {{< slides >}}
 
 ## Unit Plan _/ Mahere Kōwae_ 
