@@ -3,6 +3,7 @@ title: Year 12 Earth and Space Pūtaiao
 menu: "main"
 linkTitle: "12ESS"
 weight: 5
+emoji: ☄️
 ---
 
 {{< units >}}

@@ -5,6 +5,7 @@ date: 2020-01-07
 menu: "main"
 linkTitle: "9SCIE"
 slug: "9scie"
+emoji: 🚀
 weight: 2
 ---
 

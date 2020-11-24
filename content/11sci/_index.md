@@ -3,6 +3,7 @@ title: Year 11 Pūtaiao
 menu: "main"
 linkTitle: "11SCI"
 weight: 4
+emoji: 🧬
 ---
 
 {{< units >}}

@@ -3,6 +3,7 @@ title: Year 12 Physics
 menu: "main"
 linkTitle: "12PHY"
 weight: 6
+emoji: 🧲
 ---
 
 {{< units >}}
