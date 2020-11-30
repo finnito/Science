@@ -30,6 +30,6 @@ enableGitInfo           = true
   comments    = false
 
 [Author]
-  name    = "Finn LeSueur"
+  name    = "Finn Le Sueur"
   email   = "lsf@cashmere.school.nz"
   gitlab  = "Finnito"
