@@ -75,4 +75,9 @@ header-includes:
 - Reproductive Structure
 - Hyphae
 
+---
 
+## Function of Fungi
+
+-  Fungi exist in ecosystems to break down dead organic matter into small molecules that are able to be be used by other living things
+-  This is so that 
