@@ -10,19 +10,19 @@ emoji: ☄️
 
 ## 2021 Year Planner
 
-|         | Term 1         |    | Term 2        |    | Term 3        |    | Term 4       |    |
-|:--------|:---------------|:---|:--------------|:---|:--------------|:---|:-------------|:---|
-| Week 1  | __Feb 1st__    |    | __May 3rd__   |    | __July 26th__ |    | __Oct 18th__ |    |
-| Week 2  | __Feb 8th__    |    | __May 10th__  |    | __Aug 2nd__   |    | __Oct 25th__ |    |
-| Week 3  | __Feb 15th__   |    | __May 17th__  |    | __Aug 9th__   |    | __Nov 1st__  |    |
-| Week 4  | __Feb 22nd__   |    | __May 24th__  |    | __Aug 16th__  |    | __Nov 8th__  |    |
-| Week 5  | __March 1st__  |    | __May 31st__  |    | __Aug 23rd__  |    | __Nov 15th__ |    |
-| Week 6  | __March 8th__  |    | __June 7th__  |    | __Aug 30th__  |    | __Nov 22nd__ |    |
-| Week 7  | __March 15th__ |    | __June 14th__ |    | __Sep 6th__   |    | __Nov 29th__ |    |
-| Week 8  | __March 22nd__ |    | __June 21st__ |    | __Sep 13th__  |    | __Dec 6th__  |    |
-| Week 9  | __March 29th__ |    | __June 28th__ |    | __Sep 20th__  |    | __Dec 13th__ |    |
-| Week 10 | __April 5th__  |    | __July 5th__  |    | __Sep 27th__  |    |              |    |
-| Week 11 | __April 12th__ |    |               |    |               |    |              |    |
+|             | Term 1           |                      | Term 2          |                      | Term 3          |                      | Term 4         |                |
+| :--------   | :--------------- | :---                 | :-------------- | :---                 | :-------------- | :---                 | :------------- | :---           |
+| __Week 1__  | __Feb 1st__      | Meteorite Tūhura     | __May 3rd__     | Extreme Earth Events | __July 26th__   | Life of Stars        | __Oct 18th__   | Revision       |
+| __Week 2__  | __Feb 8th__      | Meteorite Tūhura     | __May 10th__    | Geology              | __Aug 2nd__     | Life of Stars        | __Oct 25th__   | Revision       |
+| __Week 3__  | __Feb 15th__     | Meteorite Tūhura     | __May 17th__    | Geology              | __Aug 9th__     | Life of Stars        | __Nov 1st__    | Revision       |
+| __Week 4__  | __Feb 22nd__     | Meteorite Tūhura     | __May 24th__    | Geology              | __Aug 16th__    | __Senior Exams__     | __Nov 8th__    | __Exam Leave__ |
+| __Week 5__  | __March 1st__    | Meteorite Tūhura     | __May 31st__    | Geology              | __Aug 23rd__    | __Senior Exams__     | __Nov 15th__   | __Exam Leave__ |
+| __Week 6__  | __March 8th__    | Extreme Earth Events | __June 7th__    | Geology              | __Aug 30th__    | Extreme Environments | __Nov 22nd__   | __Exam Leave__ |
+| __Week 7__  | __March 15th__   | Extreme Earth Events | __June 14th__   | Life of Stars        | __Sep 6th__     | Extreme Environments | __Nov 29th__   | __Exam Leave__ |
+| __Week 8__  | __March 22nd__   | Extreme Earth Events | __June 21st__   | Life of Stars        | __Sep 13th__    | Extreme Environments | __Dec 6th__    | __Exam Leave__ |
+| __Week 9__  | __March 29th__   | Extreme Earth Events | __June 28th__   | Life of Stars        | __Sep 20th__    | Extreme Environments | __Dec 13th__   | __Exam Leave__ |
+| __Week 10__ | __April 5th__    | Extreme Earth Events | __July 5th__    | Life of Stars        | __Sep 27th__    | Extreme Environments |                |                |
+| __Week 11__ | __April 12th__   | Extreme Earth Events |                 |                      |                 |                      |                |                |
 
 ### 2020 Year Planner
 
