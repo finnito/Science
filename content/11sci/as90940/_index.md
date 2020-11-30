@@ -20,6 +20,9 @@ TODO: Make worked solution videos for entire booklet
 TODO: Compile questions, mark schedule, worked video and hints into a big web page. Use HTML hidden elements, TOC, etc.
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 https://gohugo.io/templates/data-templates/
+TODO: Force arrows should start at the centre of mass and go outwards
+TODO: Label the centre of mass as a dot
+TODO: Arrow length should represent magnitude
 -->
 
 {{< slides >}}
