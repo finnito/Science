@@ -136,13 +136,16 @@ header-includes:
 
 ## Whakatika Tahi
 
-- If the alpha particles had not been travelling through vacuum, they would have been affected by the molecules in the air. Then the results (the deviation in the particles’ paths) would not be dependent only on the atoms of the gold foil.
+- If the alpha particles had not been travelling through vacuum, they could have been affected by the molecules in the air.
+- Any changes of direction could attributed to the air molecules.
+- The results (the deviation in the particles’ paths) would not be dependent only on the atoms of the gold foil.
 
 ---
 
 ## Whakatika Rua
 
 - Rutherford was aiming to see how alpha particles would behave as they went through the foil. Alpha particles are stopped very easily. If the gold foil was thicker it would have stopped the particles completely and not let any to go through.
+- In this case we would not be able to conclude anything about the nuelcar structure.
 
 ---
 

@@ -13,10 +13,6 @@ menu:
         parent: "12PHY"
 ---
 
-<!-- TODO: Relate the motion of alpha particles to interactions with the air -->
-<!-- TODO: Ensure deflections are due to hold gold foil, not due to bumping into air molecules -->
-<!-- TODO: Specify gold thickness must be small so that particles are able to pass through -->
-
 {{< slides >}}
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
