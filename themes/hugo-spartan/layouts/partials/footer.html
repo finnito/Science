@@ -5,11 +5,11 @@
       <p>Please consider <a href="https://github.com/sponsors/finnito">sponsoring me on Github</a> for as little as $5/month if you are an educator and find my materials of use. I would greatly appreciate it! 🧡</p>
     {{ end }}
     <p>
-      <a title="Email Me" href="mailto:finn@lesueur.nz">Email Me</a>
+      <a title="Email Me" href="mailto:{{ $.Site.Author.email }}">Email Me</a>
       |
     	<a title="View on Github" href="https://github.com/Finnito/Science">Github Repository</a>
       |
-      <a title="Finn LeSueur" href="https://finn.lesueur.nz">Site by Finn LeSueur</a>
+      <a title="Site by {{ $.Site.Author.name }}" href="https://finn.lesueur.nz">Site by {{ $.Site.Author.name }}</a>
     </p>
   </footer>
   {{ partial "katex.html" }}
