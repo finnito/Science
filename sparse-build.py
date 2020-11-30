@@ -32,6 +32,9 @@ def main():
         "folder": "/".join(event_args[0].split("/")[:-1])
     }
 
+    if "public" in event["path"]:
+        return
+
     # Only watch for specific event types.
     if event["type"] in ["Updated", "Created"]:
 
@@ -39,7 +42,7 @@ def main():
         # and therefore we don't need to build any slides.
         # We can simply pass the -h flag to a Hugo-only
         # build.
-        if event["path"].endswith("_index.md"):
+        if event["path"].endswith(("_index.md", ".css", ".html", ".toml", ".txt")):
             subprocess.run(
                 [
                     f"cd ~/Git/science.lesueur.nz && \

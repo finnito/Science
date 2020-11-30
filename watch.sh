@@ -5,5 +5,7 @@ fswatch --print0 \
         --recursive \
         --exclude=".*" \
         --include="\\.md$" \
-        ./content \
+        --include="\\.html$" \
+        --include="\\.css$" \
+        ./ \
         | xargs -0 -n 1 python3 sparse-build.py -d
