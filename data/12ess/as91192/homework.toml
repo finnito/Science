@@ -139,8 +139,15 @@ In your answer, you should consider:
 
 _A diagram may assist your explanation._
 '''
+hint = """
+- The question specifically mentions colour, temperature and luminosity. Turn the table into a paragraph, describing it in words.
+- Their location on the HR diagram indicates they are main sequence. This tells you a lot about their fuel source.
+- Their luminosity/colour also indicates how fast they are using up their fuel source.
+- The rate of fuel source usage, in turn indicates the lifespan of the star.
+"""
 image_path = "https://cdn.eso.org/images/newsfeature/eso1821a.jpg"
-marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2019/91192-ass-2019.pdf"
+marking_schedule_path = "../assets/marking-schedule-2019-q2.png"
+youtube_id = "I6E0jNYEe9Q"
 
 # ============
 # QUESTION 13

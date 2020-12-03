@@ -59,7 +59,7 @@ details {
   border-radius: 0.25rem;
   padding: 0.5rem;
   margin: 0.25rem 0;
-  background-color: lightgrey;
+  background-color: var(--neutral-main);
 }
 
 details.confirm[open] {
@@ -80,10 +80,9 @@ details ul:last-child {
 }
 
 .toc {
-  
   left: 1rem;
   top: 1rem;
-  background-color: #ecf0f1;
+  background-color: var(--neutral-light);
   border-radius: 0.25rem;
   padding: 0 1rem;
 }
@@ -95,7 +94,7 @@ details ul:last-child {
 }
 
 .question:not(:first-child) {
-  border-top: 1px solid lightgrey;
+  border-top: 1px solid var(--neutral-light);
   margin-bottom: 1rem;
 }
 
@@ -404,10 +403,10 @@ main hr {
   display: none;
 }
 
-h2 + ol,
+/*h2 + ol,
 h2 + ul {
   padding-left: 0;
-}
+}*/
 
 ol, ul {
   margin-top: 0;

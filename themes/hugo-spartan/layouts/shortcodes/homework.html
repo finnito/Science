@@ -29,7 +29,7 @@
                <div>
                   {{ .text | markdownify }}
                   {{ with .hint }}
-                     <details>
+                     <details class="confirm">
                         <summary>🤔 Hints</summary>
                         {{ . | markdownify }}
                      </details>
