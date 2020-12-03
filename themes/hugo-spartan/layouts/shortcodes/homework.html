@@ -14,12 +14,16 @@
 
 <div class="questions">
    {{ range $homework.topics }}
-      <h2 id="{{ . | urlize }}">{{ . }}</h2>
+      <h3 id="{{ . | urlize }}">{{ . }}</h3>
       {{ range where $homework.questions ".topic" . }}
+         {{ $question := . }}
          <details id="{{ .label | urlize }}">
             <summary>
-               {{ .label }}{{ with .source }} ({{ . }}){{ end }}
-               <a class="heading-anchor permalink" href="#{{ .label | urlize }}">[Link]</a>
+               {{ .label }}
+               <span>
+                  {{ with .source }} (<a href="{{ $question.source_link }}" title="NZQA source exam paper">{{ . }}</a>){{ end }}
+                  <a class="heading-anchor permalink" title="Link to this question" href="#{{ .label | urlize }}">[Permalink]</a>
+               </span>
             </summary>
             <div class="question">
                {{ with .image_path }}
@@ -58,9 +62,6 @@
                   </details>
                   {{ end }}
                </div>
-
-               <hr/>
-               {{ with .source_link }}<span>Source: <a href="{{ . }}">NZQA</a></span>{{ end }}
             </div>
          </details>
       {{ end }}
@@ -71,7 +72,7 @@
    document.querySelectorAll("details.confirm > summary").forEach(function(element) {
       element.addEventListener("click", function(event) {
          if (!event.target.parentNode.open) {
-            var res = window.confirm("If you have tried this question to the best of your ability, click 'Okay' to view the answers.\nOtherwise, try the question and get some hints.\n\nClick 'Cancel' to not view answers.");
+            var res = window.confirm("Before viewing the answers, hints or video you must try the question to the best of your ability using your notes, and asking your friends.\n\n- Click 'Cancel' to try the question.\n- Click 'Okay' to continue.");
             if (res != true) {
                event.preventDefault();
             }

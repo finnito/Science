@@ -145,7 +145,7 @@ hint = """
 - Their luminosity/colour also indicates how fast they are using up their fuel source.
 - The rate of fuel source usage, in turn indicates the lifespan of the star.
 """
-image_path = "https://cdn.eso.org/images/newsfeature/eso1821a.jpg"
+image_path = "../assets/homework-2019-2b.png"
 marking_schedule_path = "../assets/marking-schedule-2019-q2.png"
 youtube_id = "I6E0jNYEe9Q"
 

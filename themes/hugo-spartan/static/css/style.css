@@ -59,7 +59,8 @@ details {
   border-radius: 0.25rem;
   padding: 0.5rem;
   margin: 0.25rem 0;
-  background-color: var(--neutral-main);
+  background-color: var(--neutral-light);
+  border: 1px solid var(--neutral-main);
 }
 
 details.confirm[open] {
@@ -75,8 +76,8 @@ details ul:last-child {
   margin-bottom: 0;
 }
 
-.permalink {
-  float: right;
+details > img {
+  max-height: 100%;
 }
 
 .toc {
@@ -84,7 +85,7 @@ details ul:last-child {
   top: 1rem;
   background-color: var(--neutral-light);
   border-radius: 0.25rem;
-  padding: 0 1rem;
+  padding: 0.01rem 1rem;
 }
 
 .question-header {
@@ -120,7 +121,7 @@ p a {
 }
 
 :target {
-  background-color: var(--yellow-main);
+  background-color: var(--yellow-light);
 }
 
 :target::before {
@@ -645,6 +646,10 @@ nav.mobile ul li {
 
   .top-buttons {
     display: none;
+  }
+
+  details > summary span {
+    float: right;
   }
   
 }

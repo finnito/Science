@@ -6,12 +6,6 @@ te_reo: Mahi Kāinga
 
 ## Homework/Revision Cycle
 
-The questions have been grouped together for easier revision. Each question will come with the following information:
-
-1. The full question content
-2. Hints for how to start the question if you are stuck
-3. The marking schedule
-
 The homework cycle comes in three steps, and after completing the 3rd, you simply go back to step one and repeat.
 
 1. __Attempt the Question__
