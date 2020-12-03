@@ -1,0 +1,615 @@
+# [[questions]]
+# label = ""
+# topic = ""
+# source = ""
+# source_link = ""
+# text = '''
+#
+# '''
+# image_path = ""
+# hint = """
+
+# """
+# answer = """
+
+# """
+# marking_schedule_path = ""
+# youtube_id = ""
+
+
+topics = [
+    "HR Diagrams",
+    "Stellar Evolution",
+    "Moon Formation",
+    "Planet Formation",
+]
+
+# ============
+# QUESTION 2020 1ai
+# ============
+[[questions]]
+label = "Types of Dwarf Stars"
+topic = "HR Diagrams"
+source = "2020, Q1ai"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2020/91192-exm-2020.pdf"
+text = '''
+Gliese 229b (brown dwarf), Kapteyn’s Star (red dwarf) and Van Maanen’s Star (white dwarf) are all types of dwarf. However, the processes taking place within each are thought to be very different.
+
+a) Use the HR diagram to complete the table below.
+
+![](../assets/homework-2020-1ai.png)
+
+b) State a reason why it is not possible to place Gliese 229b on the HR diagram provided.
+
+c) Compare the initial mass of each type of dwarf from part (a). Explain in detail the reasons for your comparison.
+
+d) Use your previous answers to discuss the energy source for each type of dwarf.
+_A diagram may assist your answer._
+'''
+image_path = "https://astronomy.swin.edu.au/cms/cpg15x/albums/userpics/hrdiagram1.jpg"
+
+# ============
+# QUESTION 5
+# ============
+[[questions]]
+label = "Forming a Black Hole"
+topic = "Stellar Evolution"
+source = "2020, Q2"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2020/91192-exm-2020.pdf"
+text = '''
+In 2019, the first confirmed view of a supermassive black hole in a neighbouring galaxy was made by the Event Horizon Telescope. Supermassive black holes are thought to form in the same way as other black holes, but then grow by pulling in surrounding stellar material.
+
+a) Describe the type of main sequence stars that are likely to go on to form black holes. Refer to their position on the HR diagram.
+
+b) Explain in detail how the type of fuel changes over this type of star’s lifecycle.
+
+c) Explain comprehensively the role of gravity in the transition of a main sequence star to a black hole. _A diagram may assist your answer_
+'''
+
+# ============
+# QUESTION 8
+# ============
+[[questions]]
+label = "Formation of Earth's Moon"
+topic = "Moon Formation"
+source = "2020, Q3"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2020/91192-exm-2020.pdf"
+text = '''
+For many years, scientists have speculated about the formation of our moon. Exploration of the
+Earth’s moon by NASA in the 1970s helped to gather evidence about how our moon was formed.
+
+a) Describe the difference between a moon and a planet.
+
+b) Explain in detail how a moon may form from the surrounding material left over when a planet forms. _A diagram may assist your answer._
+
+c) A more-accepted theory of our moon’s formation is the “giant-impact” theory.
+Outline the main stages of the giant-impact theory, and compare this with your answer to part (b). _A diagram may assist your answer._
+'''
+
+# ============
+# QUESTION 11
+# ============
+[[questions]]
+label = "First Confirmed View of a Newborn Planet"
+topic = "Planet Formation"
+source = "2019, Q1"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2019.pdf"
+text = '''
+An observatory in Chile recently confirmed an image of a forming planet around a star known as PDS 70. The star is blacked out to show the bright spot just to the right of the centre of the image.
+
+The forming planet is a few times larger than Jupiter and has similar properties to the outer planets of our solar system. However, the surface of the planet has a temperature of around 700 K, making it much hotter than any planet in our solar system.
+
+Explain, in detail, each stage in the formation of this planet. In your answer, you should consider:
+
+- the main stages in the formation of this planet
+- why the material in this planet is likely to be different to any inner planets
+- possible reasons why this planet is so much hotter than Jupiter.
+
+_A diagram may assist your explanation._
+
+<hr/>
+
+Use the HR diagram to describe the characteristics of each star in terms of colour, temperature, and luminosity.
+'''
+image_path = "https://cdn.eso.org/images/newsfeature/eso1821a.jpg"
+marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2019/91192-ass-2019.pdf"
+
+# ============
+# QUESTION 12
+# ============
+[[questions]]
+label = "Achernar A and DX Cancri"
+topic = "Stellar Evolution"
+source = "2019, Q2"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2019.pdf"
+text = '''
+Achernar A and DX Cancri are both main sequence stars.
+
+a) Use the HR diagram on page 2 to describe the characteristics of each star in terms of colour, temperature, and luminosity.
+
+![](../assets/homework-2019-2a.png)
+
+b) Use the table above to help explain in detail the similarities and differences between Achernar A and DX Cancri.
+
+In your answer, you should consider:
+
+- the effects of the difference in the mass of each star
+- the energy source and output of each star
+- which star will have a longer life cycle.
+
+_A diagram may assist your explanation._
+'''
+image_path = "https://cdn.eso.org/images/newsfeature/eso1821a.jpg"
+marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2019/91192-ass-2019.pdf"
+
+# ============
+# QUESTION 13
+# ============
+[[questions]]
+label = "Neutron Star or White Dwarf"
+topic = "Stellar Evolution"
+source = "2019, Q3"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2019.pdf"
+text = '''
+The largest possible white dwarf is thought to be 1.4 solar masses. A white dwarf of this size would result from a main sequence star of about 8 solar masses. A star of more than 8 solar masses may end up as a neutron star.
+
+![](https://i.imgur.com/XY3nJ9D.jpg)
+
+Explain, in detail, the reasons a star may end up as either a white dwarf or a neutron star. In your answer you should consider:
+
+- how the mass and volume of a star may change during its life cycle
+- the role that gravity plays in the birth, life, and eventual death of stars.
+
+_A diagram may assist your answer._
+'''
+image_path = ""
+marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2019/91192-ass-2019.pdf"
+
+# ============
+# QUESTION 14
+# ============
+[[questions]]
+label = "Canopus"
+topic = "Stellar Evolution"
+source = "2018, Q1"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2018.pdf"
+text = '''
+Canopus is a blue-white supergiant star, approximately 71 times the size of the Sun. It can be considered to be a high-mass star.
+
+Explain in detail the THREE life stages of Canopus in terms of:
+
+- gravity
+- mass
+- fuel source and usage
+- energy changes.
+
+You should refer to the HR diagram on page 2 to assist your answer, and you may draw an annotated diagram(s) in the box below.
+'''
+image_path = ""
+marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2018/91192-ass-2018.pdf"
+
+# ============
+# QUESTION 15
+# ============
+[[questions]]
+label = "Orion"
+topic = "Stellar Evolution"
+source = "2018, Q2"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2018.pdf"
+text = '''
+The Orion Nebula is a bright area of the night sky found just below Orion’s belt (the pot). It contains many stars that have dust particles around them. These dust particles are thought to be the beginning of a solar system that could orbit the star.
+
+Explain in detail how a solar system could form over time around a star in the Orion Nebula. In your answer, you should refer to:
+
+- the factors that affect planet formation
+- the stages in the formation of planets
+- the relative sizes and composition of the inner and outer planets AND how this relates to the material from which they have formed.
+
+_You may draw an annotated diagram in the box below to assist your answer._
+'''
+image_path = "https://imgsrc.hubblesite.org/hvi/uploads/image/display_image/1826/STScI-H-p0601a-d2560x1440.png"
+marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2018/91192-ass-2018.pdf"
+
+# ============
+# 2018 Q3
+# ============
+[[questions]]
+label = "Sirius (The Dog Star)"
+topic = "Stellar Evolution"
+source = "2018, Q3"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2018.pdf"
+text = '''
+Sirius, the Dog Star, is seen as one extremely bright star in our night sky, but it is actually two stars called Sirius and Sirius B. It is thought they formed at the same time, as they are so close together. At the time of formation, one of the stars was smaller, and this smaller star is now not as far through its life cycle.
+
+Which star in the Sirius system (Sirius or Sirius B) was initially smaller? Explain your answer in detail, referring to the life cycles of BOTH stars. In your answer, you should consider:
+
+- the type of star
+- its formation
+- its size
+- its fuel source and usage.
+
+You should refer to the HR diagram on page 2 to assist your answer, and you may draw an annotated diagram in the box below.
+'''
+image_path = "https://cdn.spacetelescope.org/archives/images/screen/heic0516a.jpg"
+marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2018/91192-ass-2018.pdf#page=3"
+
+# ============
+# 2017 Q1
+# ============
+[[questions]]
+label = "Alpha Centauri A"
+topic = "Stellar Evolution"
+source = "2017, Q1"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2017.pdf"
+text = '''
+Alpha Centauri A is one of our closest stars and like our Sun it is a main sequence star. Alpha Centauri A is approximately 1.1 times the size of our Sun.
+
+Explain in detail the stages in the birth, life, and eventual death of Alpha Centauri A in terms of mass, gravity, fuel source and use, and energy changes.
+
+You should refer to the HR diagram on page 2 in your answer, and you may draw an annotated diagram(s) in the box below in support of your answer.
+'''
+image_path = "https://astronomy.swin.edu.au/cms/cpg15x/albums/userpics/hrdiagram1.jpg"
+
+# ============
+# 2017 Q3
+# ============
+[[questions]]
+label = "KOI-351"
+topic = "Planet Formation"
+source = "2017, Q3"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2017.pdf"
+text = '''
+A solar system like our own has been discovered by a team of astrophysicists at the German Aerospace Centre. Seven planets (labelled b – h above) orbit the star KOI-351 (yellow circle above). They are arranged in a similar fashion (shown above) to the eight planets in our Solar System with small rocky planets close to their ‘Sun’ and larger gas giant planets further out from their ‘Sun’.
+
+How did this solar system of small rocky inner planets and larger gas giant planets form around this star?
+
+In your answer you should include:
+
+- stages in the formation of planets
+- composition of inner and outer planets
+- factors that affect planet formation.
+
+_You may draw an annotated diagram in the box on the opposite page to support your answer._
+'''
+image_path = "https://astronomy.swin.edu.au/cms/cpg15x/albums/userpics/hrdiagram1.jpg"
+
+
+# ============
+# 2016 Q1a
+# ============
+[[questions]]
+label = "Barnard’s Star and Procyon B"
+topic = "HR Diagrams"
+source = "2016, Q1a"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2016.pdf"
+text = '''
+Barnard’s star and Procyon B are different classes of stars that have a similar luminosity in the night sky.
+
+Use the HR diagram on page 2 to describe THREE characteristics of Barnard’s star and Procyon B, and then use these characteristics to compare and contrast the luminosity of Barnard’s star and Procyon B.
+
+![](../assets/homework-2016-1a.png)
+'''
+image_path = "https://astronomy.swin.edu.au/cms/cpg15x/albums/userpics/hrdiagram1.jpg"
+
+# ============
+# 2016 Q1b
+# ============
+[[questions]]
+label = "Barnard’s Star and Procyon B Sizes"
+topic = "Stellar Evolution"
+source = "2016, Q1b"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2016.pdf"
+text = '''
+Barnard’s star and Procyon B are different classes of stars that have a similar luminosity in the night sky.
+
+Use your evidence from part a (HR diagram) to determine which of Barnard's star or Procyon B was initially smaller, and justify your choice.
+'''
+image_path = "https://astronomy.swin.edu.au/cms/cpg15x/albums/userpics/hrdiagram1.jpg"
+
+# ============
+# 2016 Q2
+# ============
+[[questions]]
+label = "Formation of Pluto"
+topic = "Planet Formation"
+source = "2016, Q1b"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2016.pdf"
+text = '''
+In 2006 Pluto, previously regarded as the smallest, lowest mass, planet, was reclassified as a dwarf planet, causing a huge amount of media attention.
+
+![](../assets/homework-2016-2.png)
+
+Use your knowledge of planets in our solar system, and the overview of the planet’s orbital paths above, to explain why Pluto was reclassified from a planet to a dwarf planet.
+'''
+image_path = "../assets/homework-2016-resource.png"
+
+# ============
+# 2016 Q3
+# ============
+[[questions]]
+label = "Rigel"
+topic = "Stellar Evolution"
+source = "2016, Q3"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2016.pdf"
+text = '''
+Rigel is a blue-white supergiant star, approximately 75 times the size of the Sun.
+Explain in detail the three life stages of Rigel in terms of gravity, mass, fuel source and use, and energy changes.
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/79/Rigel%2C_Rutherfurd_Observatory%2C_09_September_2014.jpeg)
+
+You may refer to the HR diagram to assist your answer, and you may draw an annotated diagram(s) in the box below.
+'''
+image_path = "../assets/homework-2016-resource.png"
+
+# ============
+# 2015 Q1
+# ============
+[[questions]]
+label = "Same Temperature, Different Type"
+topic = "HR Diagrams"
+source = "2015, Q1"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2015.pdf"
+text = '''
+The stars Deneb and Sirius B have similar surface temperatures, despite the fact that they differ in their luminosity (the total amount of energy the star emits) and their brightness.
+
+Complete the table below using the Hertzsprung-Russell (HR) diagram on page 2, and then use this information to explain in detail why one star is of the white dwarf type and the other is of the supergiant type, despite having similar surface temperatures.
+
+![](../assets/homework-2015-1.png)
+
+In your answer, you should:
+
+- describe the characteristics of each type of star
+- explain how the stars differ in luminosity
+- explain how the stars differ in brightness
+- explain how the size of the star affects luminosity
+- compare the two stars to relate energy output to star type.
+
+_An annotated diagram may assist your answer._
+'''
+image_path = "../assets/homework-2015-resource.png"
+
+
+# ============
+# 2015 Q2
+# ============
+[[questions]]
+label = "Pleiades/Matariki"
+topic = "Planet Formation"
+source = "2015, Q2"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2015.pdf"
+text = '''
+Pleiades is known to us as Matariki, and is an open star cluster of over 1400 stars. Its appearance in the early morning sky marks the dawn of the Māori New Year.
+
+In this cluster there is a star named HD 23514, which has been observed with dust particles around it that are thought to be the beginning of a solar system that will eventually orbit this star.
+
+Explain in detail how a solar system could form over time around the star HD 23514. You should refer in your answer to:
+
+- the factors that affect planet formation
+- the stages, including the protoplanetary disk stage, in the formation of planets
+- the relative sizes and composition of inner and outer planets and how this relates to the material from which they formed.
+
+_An annotated diagram will assist your answer._
+'''
+image_path = "https://earthsky.org/upl/2018/11/pleiades-seven-sisters-nov2019-e1572962425736.jpg"
+
+# ============
+# 2015 Q3
+# ============
+[[questions]]
+label = "Origin of a Black Hole"
+topic = "Stellar Evolution"
+source = "2015, Q3"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2015.pdf"
+text = '''
+Black holes are the final stage in the life cycle of some stars. They are zones of extreme gravity which by capturing light become an area in the night sky where light is absent.
+
+Explain in detail the life cycle (birth, life, and death) of a huge (massive) star that becomes a black hole.
+
+In your answer, you should include:
+
+- the mass of the original material in the giant molecular cloud (GMC)
+- fuel type and use
+- gravity
+- energy changes.
+
+_An annotated diagram will assist your answer._
+'''
+image_path = "https://www.wired.com/images_blogs/wiredscience/2010/08/mayer_fig1-660x440.jpg"
+
+# ============
+# 2014 Q1
+# ============
+[[questions]]
+label = "The Little Dog Star"
+topic = "HR Diagrams"
+source = "2014, Q1"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2014.pdf"
+text = '''
+Procyon is called the Little Dog Star as it rises before Sirius, which is known as the Dog Star. The Little Dog Star is seen as one star in the night sky, but it is actually two stars that rotate around each other (binary star system). The two stars are called Procyon A and Procyon B.
+
+It is thought that Procyon A and B were formed at the same time as they are so close together. At the time of formation, one of the stars was larger than the other, and so is further through its life cycle.
+
+Complete this table using the Hertzsprung-Russell (HR) diagram on page 2, and then use this information to help you explain which star was initially larger.
+
+![](../assets/homework-2014-1.png)
+
+In your answer you should refer to:
+
+- star type
+- star formation
+- size
+- mass
+- fuel usage.
+'''
+image_path = "../assets/homework-2014-resource.png"
+
+# ============
+# 2014 Q2
+# ============
+[[questions]]
+label = "Inner and Outer Moons of Saturn"
+topic = "HR Diagrams"
+source = "2014, Q2"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2014.pdf"
+text = '''
+Saturn is one of the gas giant planets in our solar system and it has over 50 identified satellites or moons. Of these moons, the 21 that are closest to Saturn are circular in shape and have regular orbits. The remainder are irregular in shape and have irregular orbits much further away from Saturn.
+
+Explain in detail the origins of the inner and outer moons of Saturn. In your answer you should:
+
+- identify possible origins of the inner and outer moons
+- compare and contrast the origins of the inner and outer moons.
+
+_An annotated diagram or sketch may assist your answer._
+'''
+image_path = "https://1.bp.blogspot.com/-OSyCUJp6mlc/XaQdEDO27lI/AAAAAAAAKkU/g2iEIEvmjOIYBA_WB8BZ7UmLaXfFLOGWwCLcBGAsYHQ/s1600/moons%2Bof%2Bsaturn.jpg"
+
+# ============
+# 2014 Q3
+# ============
+[[questions]]
+label = "Another Earth?"
+topic = "Planet Formation"
+source = "2014, Q3"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2014.pdf"
+text = '''
+Kepler-62f is a remarkably Earth-like planet about 1200 light-years from our planet in the constellation of Lyra. The planet is only 1.4 times bigger than Earth and is in orbit around a star that is slightly dimmer and smaller than our Sun. There are five planets orbiting this star, and Kepler-62f is believed to be in the habitable region of its star.
+
+Explain in detail how planets form in a solar system, and how Kepler-62f came to be an Earth-like rocky terrestrial planet.
+
+In your explanation you should:
+
+- describe a protoplanetary disk and how it forms
+- explain in detail the effect of gravity on the formation of planets
+- explain in detail the stages in the formation of rocky terrestrial planets
+- explain the likely materials that make up a rocky terrestrial planet, based on mass and boiling point
+- explain in detail how Kepler-62f could be Earth-like and in the habitable zone for life.
+
+_An annotated diagram or sketch may assist your answer._
+'''
+image_path = "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/images/742666main_Kepler-62-Diagram_lg_full.jpg"
+
+# ============
+# 2013 Q1
+# ============
+[[questions]]
+label = "Aldebaran: A Red Giant Star"
+topic = "Stellar Evolution"
+source = "2013, Q1"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2013.pdf"
+text = '''
+Aldebaran is a large red giant star approximately 40 times the size of the Sun.
+Use the HR diagram to help explain in detail each of the life stages (birth, life, and death) in the life cycle of Aldebaran.
+
+![](http://www.janis.or.jp/users/kitahara/sww/arude-z.jpg)
+
+In your answer, you should refer to:
+
+- gravity
+- mass
+- fuel source and use
+- energy changes.
+'''
+image_path = "../assets/homework-2013-resource.png"
+
+# ============
+# 2013 Q2
+# ============
+[[questions]]
+label = "Formation of Rocky and Gas Giant Planets"
+topic = "Planet Formation"
+source = "2013, Q2"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2013.pdf"
+text = '''
+Discuss why Mercury is a rocky, terrestrial planet, whereas Jupiter is a gas giant planet, by comparing the formation of these two planets.
+
+In your comparison, you should:
+
+- explain in detail the stages in the formation of planets including protoplanetary disks
+- explain the effect of solar winds on planet formation
+- explain the effect of temperature on the presence and / or absence of volatile gases.
+'''
+
+# ============
+# 2013 Q3
+# ============
+[[questions]]
+label = "Betelgeuse and Teide 1"
+topic = "HR Diagrams"
+source = "2013, Q3"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2013.pdf"
+text = '''
+Betelgeuse is a red supergiant star, whereas Teide 1 is a brown dwarf star.
+
+Use the HR diagram on page 2 to compare and contrast each of the life stages of the birth, life, and death of Betelgeuse and Teide 1.
+
+In your answer you should compare the two stars, beginning with their positions on the HR diagram, and considering relevant features of both stars including:
+
+- mass
+- gravity
+- fuel source and use
+- energy changes.
+'''
+image_path = "../assets/homework-2013-resource.png"
+
+# ============
+# 2012 Q1
+# ============
+[[questions]]
+label = "Alpha Mensae"
+topic = "Stellar Evolution"
+source = "2012, Q1"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2012.pdf"
+text = '''
+Alpha Mensae is the brightest star in the constellation Mensa. It is a yellow-orange main sequence star like our Sun.
+
+Explain in detail each of the stages (birth, life and death) in the life cycle of Alpha Mensae. In your answer you should refer to:
+
+- fuel type and use
+- mass
+- gravity
+- energy changes.
+
+_You may wish to include a labelled diagram in your answer._
+'''
+
+# ============
+# 2012 Q2
+# ============
+[[questions]]
+label = "Canis Major"
+topic = "HR Diagrams"
+source = "2012, Q2"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2012.pdf"
+text = '''
+The constellation Canis Major, contains Sirius A, the brightest star in the night sky, and Adhara which is also a very bright star in our night sky.
+
+Compare and contrast the characteristics of Sirius A and Adhara, using their relative positions on the Hertzsprung-Russell diagram above as a starting point in your answer.
+
+In your answer you should refer to:
+
+- star type
+- star formation
+- size
+- mass
+- luminosity
+- fuel usage.
+'''
+image_path = "../assets/homework-2012-resource.png"
+
+# ============
+# 2012 Q3
+# ============
+[[questions]]
+label = "The Moons of Mars and Moon of Earth"
+topic = "Moon Formation"
+source = "2012, Q3"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2012.pdf"
+text = '''
+Earth has one large moon orbiting it, whereas Mars has two very small moons, Phobos and Deimos, orbiting it. Earth and Mars are similar in size, and in their positions in the solar system, but their moons were formed in very different ways.
+
+Discuss, with reasons, the stages in the formation of the moons of Earth and Mars. In your answer you should refer to:
+
+- origin of moons
+- differences in the planetary orbits of Earth and Mars
+- differences in gravitational pull.
+'''
