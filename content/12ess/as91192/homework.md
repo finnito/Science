@@ -2,6 +2,7 @@
 title: Homework Booklet
 slug: homework-booklet
 te_reo: Mahi Kāinga
+file: "as91192/homework.toml"
 ---
 
 ## Homework/Revision Cycle
@@ -29,9 +30,16 @@ This page compiles __all__ past exam questions from 2012-2020. The exam comes in
 2. Stellar life cycles
 3. Planet/moon formation
 
+The usual cut scores for an entire exam are:
+
+1. 0-6: Not Achieved
+2. 7-12: Achieved
+3. 13-18: Merit
+4. 19-24: Excellence
+
 ### Diagrams
 
-Most questions also indicate "_[a] diagram may assist your answer_", and this is backed up by moderator comments.
+Most questions also indicate "_[a] diagram may assist your answer_", and this is backed up by moderator comments. __Diagrams help you get better marks!__
 
 >  "Candidates who created and annotated diagrams to support their answers showed a deeper understanding of the questions that those who did not" - [2015 Assessment Report](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/reports/2015/level2/science.pdf)
 
