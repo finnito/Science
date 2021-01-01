@@ -112,14 +112,14 @@ _A diagram may assist your explanation._
 Use the HR diagram to describe the characteristics of each star in terms of colour, temperature, and luminosity.
 '''
 image_path = "https://cdn.eso.org/images/newsfeature/eso1821a.jpg"
-marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2019/91192-ass-2019.pdf"
+marking_schedule_path = "../assets/marking-schedule-2019-q1.png"
 
 # ============
 # QUESTION 12
 # ============
 [[questions]]
 label = "Achernar A and DX Cancri"
-topic = "Stellar Evolution"
+topic = "HR Diagrams"
 source = "2019, Q2"
 source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2019.pdf"
 text = '''
@@ -170,7 +170,7 @@ Explain, in detail, the reasons a star may end up as either a white dwarf or a n
 _A diagram may assist your answer._
 '''
 image_path = ""
-marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2019/91192-ass-2019.pdf"
+marking_schedule_path = "../assets/marking-schedule-2019-q3.png"
 
 # ============
 # QUESTION 14
@@ -193,14 +193,14 @@ Explain in detail the THREE life stages of Canopus in terms of:
 You should refer to the HR diagram on page 2 to assist your answer, and you may draw an annotated diagram(s) in the box below.
 '''
 image_path = ""
-marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2018/91192-ass-2018.pdf"
+marking_schedule_path = "../assets/marking-schedule-2018-q1.png"
 
 # ============
 # QUESTION 15
 # ============
 [[questions]]
 label = "Orion"
-topic = "Stellar Evolution"
+topic = "Planet Formation"
 source = "2018, Q2"
 source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91192-exm-2018.pdf"
 text = '''
@@ -215,7 +215,7 @@ Explain in detail how a solar system could form over time around a star in the O
 _You may draw an annotated diagram in the box below to assist your answer._
 '''
 image_path = "https://imgsrc.hubblesite.org/hvi/uploads/image/display_image/1826/STScI-H-p0601a-d2560x1440.png"
-marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2018/91192-ass-2018.pdf"
+marking_schedule_path = "../assets/marking-schedule-2018-q2.png"
 
 # ============
 # 2018 Q3
@@ -238,7 +238,7 @@ Which star in the Sirius system (Sirius or Sirius B) was initially smaller? Expl
 You should refer to the HR diagram on page 2 to assist your answer, and you may draw an annotated diagram in the box below.
 '''
 image_path = "https://cdn.spacetelescope.org/archives/images/screen/heic0516a.jpg"
-marking_schedule_path = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/schedules/2018/91192-ass-2018.pdf#page=3"
+marking_schedule_path = "../assets/marking-schedule-2018-q3.png"
 
 # ============
 # 2017 Q1
@@ -256,6 +256,7 @@ Explain in detail the stages in the birth, life, and eventual death of Alpha Cen
 You should refer to the HR diagram on page 2 in your answer, and you may draw an annotated diagram(s) in the box below in support of your answer.
 '''
 image_path = "https://astronomy.swin.edu.au/cms/cpg15x/albums/userpics/hrdiagram1.jpg"
+marking_schedule_path = "../assets/marking-schedule-2017-q1.png"
 
 # ============
 # 2017 Q3
@@ -279,7 +280,7 @@ In your answer you should include:
 _You may draw an annotated diagram in the box on the opposite page to support your answer._
 '''
 image_path = "https://astronomy.swin.edu.au/cms/cpg15x/albums/userpics/hrdiagram1.jpg"
-
+marking_schedule_path = "../assets/marking-schedule-2017-q3.png"
 
 # ============
 # 2016 Q1a
@@ -297,6 +298,7 @@ Use the HR diagram on page 2 to describe THREE characteristics of Barnard’s st
 ![](../assets/homework-2016-1a.png)
 '''
 image_path = "https://astronomy.swin.edu.au/cms/cpg15x/albums/userpics/hrdiagram1.jpg"
+marking_schedule_path = "../assets/marking-schedule-2016-q1.png"
 
 # ============
 # 2016 Q1b
@@ -312,6 +314,7 @@ Barnard’s star and Procyon B are different classes of stars that have a simila
 Use your evidence from part a (HR diagram) to determine which of Barnard's star or Procyon B was initially smaller, and justify your choice.
 '''
 image_path = "https://astronomy.swin.edu.au/cms/cpg15x/albums/userpics/hrdiagram1.jpg"
+marking_schedule_path = "../assets/marking-schedule-2016-q1.png"
 
 # ============
 # 2016 Q2
@@ -329,6 +332,7 @@ In 2006 Pluto, previously regarded as the smallest, lowest mass, planet, was rec
 Use your knowledge of planets in our solar system, and the overview of the planet’s orbital paths above, to explain why Pluto was reclassified from a planet to a dwarf planet.
 '''
 image_path = "../assets/homework-2016-resource.png"
+marking_schedule_path = "../assets/marking-schedule-2016-q2.png"
 
 # ============
 # 2016 Q3
@@ -347,6 +351,7 @@ Explain in detail the three life stages of Rigel in terms of gravity, mass, fuel
 You may refer to the HR diagram to assist your answer, and you may draw an annotated diagram(s) in the box below.
 '''
 image_path = "../assets/homework-2016-resource.png"
+marking_schedule_path = "../assets/marking-schedule-2016-q3.png"
 
 # ============
 # 2015 Q1
@@ -374,6 +379,7 @@ In your answer, you should:
 _An annotated diagram may assist your answer._
 '''
 image_path = "../assets/homework-2015-resource.png"
+marking_schedule_path = "../assets/marking-schedule-2015-q1.png"
 
 
 # ============
@@ -398,6 +404,7 @@ Explain in detail how a solar system could form over time around the star HD 235
 _An annotated diagram will assist your answer._
 '''
 image_path = "https://earthsky.org/upl/2018/11/pleiades-seven-sisters-nov2019-e1572962425736.jpg"
+marking_schedule_path = "../assets/marking-schedule-2015-q2.png"
 
 # ============
 # 2015 Q3
@@ -422,6 +429,7 @@ In your answer, you should include:
 _An annotated diagram will assist your answer._
 '''
 image_path = "https://www.wired.com/images_blogs/wiredscience/2010/08/mayer_fig1-660x440.jpg"
+marking_schedule_path = "../assets/marking-schedule-2015-q3.png"
 
 # ============
 # 2014 Q1
@@ -449,6 +457,7 @@ In your answer you should refer to:
 - fuel usage.
 '''
 image_path = "../assets/homework-2014-resource.png"
+marking_schedule_path = "../assets/marking-schedule-2014-q1.png"
 
 # ============
 # 2014 Q2
@@ -469,6 +478,7 @@ Explain in detail the origins of the inner and outer moons of Saturn. In your an
 _An annotated diagram or sketch may assist your answer._
 '''
 image_path = "https://1.bp.blogspot.com/-OSyCUJp6mlc/XaQdEDO27lI/AAAAAAAAKkU/g2iEIEvmjOIYBA_WB8BZ7UmLaXfFLOGWwCLcBGAsYHQ/s1600/moons%2Bof%2Bsaturn.jpg"
+marking_schedule_path = "../assets/marking-schedule-2014-q2.png"
 
 # ============
 # 2014 Q3
@@ -494,6 +504,7 @@ In your explanation you should:
 _An annotated diagram or sketch may assist your answer._
 '''
 image_path = "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/images/742666main_Kepler-62-Diagram_lg_full.jpg"
+marking_schedule_path = "../assets/marking-schedule-2014-q3.png"
 
 # ============
 # 2013 Q1
@@ -517,6 +528,7 @@ In your answer, you should refer to:
 - energy changes.
 '''
 image_path = "../assets/homework-2013-resource.png"
+marking_schedule_path = "../assets/marking-schedule-2013-q1.png"
 
 # ============
 # 2013 Q2
@@ -535,6 +547,7 @@ In your comparison, you should:
 - explain the effect of solar winds on planet formation
 - explain the effect of temperature on the presence and / or absence of volatile gases.
 '''
+marking_schedule_path = "../assets/marking-schedule-2013-q2.png"
 
 # ============
 # 2013 Q3
@@ -557,6 +570,7 @@ In your answer you should compare the two stars, beginning with their positions 
 - energy changes.
 '''
 image_path = "../assets/homework-2013-resource.png"
+marking_schedule_path = "../assets/marking-schedule-2013-q3.png"
 
 # ============
 # 2012 Q1
@@ -578,6 +592,7 @@ Explain in detail each of the stages (birth, life and death) in the life cycle o
 
 _You may wish to include a labelled diagram in your answer._
 '''
+marking_schedule_path = "../assets/marking-schedule-2012-q1.png"
 
 # ============
 # 2012 Q2
@@ -602,6 +617,7 @@ In your answer you should refer to:
 - fuel usage.
 '''
 image_path = "../assets/homework-2012-resource.png"
+marking_schedule_path = "../assets/marking-schedule-2012-q2.png"
 
 # ============
 # 2012 Q3
@@ -620,3 +636,4 @@ Discuss, with reasons, the stages in the formation of the moons of Earth and Mar
 - differences in the planetary orbits of Earth and Mars
 - differences in gravitational pull.
 '''
+marking_schedule_path = "../assets/marking-schedule-2012-q3.png"
