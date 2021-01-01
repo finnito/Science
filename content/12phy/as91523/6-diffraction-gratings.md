@@ -53,7 +53,7 @@ header-includes:
 
 ## Diffraction Gratings {.c2}
 
-- The slits are extremely thin, so the light is diffracted over almost 180 degrees
+- The slits are extremely thin, so the light is diffract over almost 180 degrees
 - There are a large number of slits, so the fringes are bright
 - Within each fringe (n), the wavelengths are all split up
 
