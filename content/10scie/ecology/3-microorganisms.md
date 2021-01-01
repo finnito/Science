@@ -23,6 +23,14 @@ header-includes:
 
 ---
 
+## Te Whāinga Ako
+
+1. Describe the structure of bacteria and Fungi, labelling the important structures
+
+<p class="instruction">Write the date and te whāinga ako in your book</p>
+
+---
+
 ## Micro-Organisms {.c2}
 
 - Micro-organisms/microbes are too small to see with the naked eye
@@ -47,12 +55,17 @@ header-includes:
 
 - Stick in your unlabelled bacteria diagram
 
-![[Source]()](../assets/bacteria-labelled.png)
+![[Source]()](../assets/bacteria-lettered.png)
+
+---
+
+Label these structures!
 
 - Vacuole
 - Nucleus
 - Cell membrane
 - Cytoplasm
+- Mitochondria
 
 ---
 
@@ -80,4 +93,71 @@ header-includes:
 ## Function of Fungi
 
 -  Fungi exist in ecosystems to break down dead organic matter into small molecules that are able to be be used by other living things
--  This is so that 
+-  This is so that energy and nutrients can be reused!
+
+---
+
+## Akoranga 8 Mahi Tuatahi
+
+1. Collect a whiteboard from the front of the room
+2. In pairs, try your best to draw and label a diagram of a fungi __from memory__
+3. __Extra__: Explain the function/role of fungi in ecosystems
+
+---
+
+## Ngā Whāinga Ako
+
+1. Describe how bacterial feed by extra-cellular digestion
+2. Describe the role and importance of decomposers in an ecosystem
+
+<p class="instruction">Write the date and ngā whāinga ako in your book</p>
+
+---
+
+### Why are Decomposers Important? {.c2}
+
+- They allow energy and nutrients to be recycled through an ecosystem
+- Without them, the energy and nutrients would be lost, and we would have to have more _producers_ to get more energy into the system
+
+![[Source](https://en.wikipedia.org/wiki/Ecological_pyramid)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ecological_Pyramid.png/720px-Ecological_Pyramid.png)
+
+---
+
+### Extracellular Digestion {.c2}
+
+![[Source](https://commons.wikimedia.org/wiki/File:Simple_diagram_of_bacterium_(en).svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Simple_diagram_of_bacterium_%28en%29.svg/1354px-Simple_diagram_of_bacterium_%28en%29.svg.png)
+
+- __Cell membrane__: a semi-permeable membrane
+- What does _semi-permeable_ mean?
+- Only some things (semi) can go through it (permeable)! Typically very small molecules
+
+---
+
+### {.c2}
+
+- Biology often uses carbohydrates (long chains of sugar molecules bound together)
+- It is hard to absorb such large molecules through a membrane, so extracellular digestion is needed to break the carbohydrates into smaller sugars
+
+![[Source](https://www.sciencelearn.org.nz/resources/1840-digestive-enzymes)](https://static.sciencelearn.org.nz/images/images/000/001/726/embed/COD_SCI_ART_03_DigestionEnzymes_StarchToGlucosePathway.jpg)
+
+---
+
+### {.c2}
+
+![[Source](https://www.sciencelearn.org.nz/resources/1840-digestive-enzymes)](https://static.sciencelearn.org.nz/images/images/000/002/260/embed/COD_LKC_ART_04_DigestiveEnzymes_cropped.jpg)
+
+- Humans, bacteria, fungi and other organisms all use __enzymes__ to break down molecules in extracellular digestion.
+- Enzymes are molecules that can perform specific functions in biology e.g break some molecules down!
+
+---
+
+### Bread Tūhura/Investigation
+
+- In humans we do extracellular digestion in our mouths, with the enzymes in our saliva!
+- Take a piece of bread here, mush it up in your mouth but don't swallow it! Over time your should notice the flavour start to change. What do you observe?
+
+---
+
+### Ngohe/Activity
+
+Open the TedED link on Google Classroom, watch the video and then answer the questions associated with it.

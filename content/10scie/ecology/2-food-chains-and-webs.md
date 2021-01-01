@@ -156,7 +156,8 @@ header-includes:
 
 ### Pātai {.c2}
 
-Discuss and explain in your exercise book, the flow on effects that were to happen if a disease were to kill a large percentage of the _zooplankton_ in the estuary.
+- Discuss and explain in your exercise book, the flow on effects that were to happen if a disease were to kill a large percentage of the _zooplankton_ in the estuary.
+- What would happen if both the zooplankton and flounder died off due to a disease?
 
 ![[Source](http://pbstiavaj.blogspot.com/2017/02/estuary-food-web.html)](https://1.bp.blogspot.com/-dm7f-g7CKBo/WKZUcb-7ZbI/AAAAAAAAAk4/1L_IJtqMNc0Yf9sGJqroXFGQ5q-IU6k5wCLcB/s1600/Screenshot%2B2017-02-17%2Bat%2B2.17.32%2BPM.png)
 
