@@ -1,19 +1,21 @@
-
 {{ $page := .Page }}
 
 {{ with $page.Pages }}
     <h2 id="nga-kirita">Slides / <em>Ngā Kirita</em><sup><a class="heading-anchor" href="#nga-kirita">🔗</a></sup></h2>
     <ol>
         {{ range . }}
-        <li>
-            <a
-                href="{{ .Permalink }}"
-                title="Read {{ .Title }} notes for {{ $page.Title }}">
-                {{ .Title }}
-            </a> 
-            (<a href="slides/{{ .Slug }}.html" title="View slides for {{ .Title }}">Slides</a>)
-        </li>
+            {{ if in "1234567890" (substr .File.File.LogicalName 0 1) }}
+                <li>
+                    <a
+                        href="{{ .Permalink }}"
+                        title="Read {{ .Title }} notes for {{ $page.Title }}">
+                        {{ .Title }}
+                    </a> 
+                    (<a href="slides/{{ .Slug }}.html" title="View slides for {{ .Title }}">Slides</a>, <a href="slides/{{ .Slug }}.html?print-pdf" title="Print PDF for {{ .Title }}">PDF</a>)
+                </li>
+            {{ end }}
         {{ end }}
     </ol>
+    <p class="instruction"><strong>Exporting PDFs:</strong> Open the PDF link. On laptops File > Print (enable headers and footers) and save as a PDF, on iOS follow <a href="https://osxdaily.com/2017/04/17/save-as-pdf-iphone-ipad-gesture/">this guide</a>.</p>
 {{ end }}
 
