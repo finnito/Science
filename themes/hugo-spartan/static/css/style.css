@@ -4,7 +4,7 @@
   --blue-light: #5cbbff;
   --neutral-dark: #ceb6b6;
   --neutral-main: #decece;
-  --neutral-light: #f7f3f3ff;
+  --neutral-light: #f7f3f3;
   --green-dark: #4b6c37;
   --green-main: #6A994E;
   --green-light: #90ba78;
@@ -14,7 +14,7 @@
   --red-dark: #963638;
   --red-main: #BC4749;
   --red-light: #d48788;
-  --black-main: #02040fff;
+  --black-main: #02040f;
 }
 
 html,body {
@@ -615,6 +615,36 @@ nav.mobile ul li {
 
 .breadcrumb li:not(:first-of-type) {
   margin: 0;
+}
+
+.tooltip {
+  position:relative;
+  border-bottom:1px dashed var(--red-dark);
+}
+
+.tooltip:hover {
+  cursor: pointer;
+}
+
+.tooltip:before {
+  content: attr(data-text);
+  position:absolute;
+  transform:translateY(100%);
+  padding: 0.1rem 0.25rem;
+  border-radius: 0.25rem;
+  background: var(--yellow-light);
+  color: var(--black-main);
+  text-align: center;
+  display:none;
+  white-space: nowrap;
+  z-index: 999999999999;
+  box-shadow: 0 0 10px rgba(0,0,0,0.16), 0 0 10px rgba(0,0,0,0.23);
+}
+
+.tooltip:hover:before,
+.tooltip:focus:before,
+.tooltip:active:before {
+  display:block;
 }
 
 .desktop { display: none; }
