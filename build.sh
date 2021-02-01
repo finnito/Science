@@ -145,13 +145,14 @@ buildSingleSlide() {
     IFS='-'; read -a array <<< "$name"
     numberlessName=$(printf '%s\n' "$(IFS=-; printf '%s' "${array[*]:1}")")
     IFS=$OLDIFS
-    pandoc "${name}.md" \
-        --output="slides/${numberlessName}.html" \
-        --standalone \
-        --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
-        --incremental \
-        --to=revealjs \
-        --variable=revealjs-url:/reveal.js
+    callPandoc $name $numberlessName
+    # pandoc "${name}.md" \
+    #     --output="slides/${numberlessName}.html" \
+    #     --standalone \
+    #     --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
+    #     --incremental \
+    #     --to=revealjs \
+    #     --variable=revealjs-url:/reveal.js-4.1.0
     if [ $? == 0 ]; then
         echo "Built ${name}.md --> slides/${numberlessName}.html"
     fi
@@ -166,17 +167,37 @@ createSlides() {
         IFS='-'; read -a array <<< "$name"
         numberlessName=$(printf '%s\n' "$(IFS=-; printf '%s' "${array[*]:1}")")
         IFS=$OLDIFS
-        pandoc "${name}.md" \
-            --output="slides/${numberlessName}.html" \
-            --standalone \
-            --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
-            --incremental \
-            --to=revealjs \
-            --variable=revealjs-url:/reveal.js
+        callPandoc $name $numberlessName
+        # pandoc "${name}.md" \
+        #     --output="slides/${numberlessName}.html" \
+        #     --standalone \
+        #     --controls=false \
+        #     --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
+        #     --incremental \
+        #     --to=revealjs \
+        #     --variable=revealjs-url:/reveal.js-4.1.0
         if [ $? == 0 ]; then
             echo "    Built ${name}.md --> slides/${numberlessName}.html"
         fi
     done
+}
+
+callPandoc() {
+    # $name=$1
+    # $numberlessName=$2
+    pandoc "${name}.md" \
+        --to=revealjs \
+        --template=default.revealjs \
+        --output="slides/${numberlessName}.html" \
+        --standalone \
+        --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
+        --incremental \
+        --variable=controls:false \
+        --variable=progress:false \
+        --variable=showSlideNumber:print \
+        --variable=transition:fade \
+        --variable=plugins:GoBack,Clock \
+        --variable=revealjs-url:/reveal.js-4.1.0
 }
 
 compileGitLog() {
