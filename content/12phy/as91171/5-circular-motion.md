@@ -7,7 +7,7 @@ theme: finn
 colortheme: dolphin
 font-size: 35px
 text-align: center
-weight: 4
+weight: 5
 slug: circular-motion
 header-includes:
 - \usepackage{graphicx}

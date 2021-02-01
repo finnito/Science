@@ -6,9 +6,6 @@ date: 2020
 theme: finn
 weight: 3
 slug: scalars-vs-vectors
-colortheme: dolphin
-font-size: 35px
-text-align: center
 header-includes:
 - \usepackage{graphicx}
 - \usepackage[T1]{fontenc}
@@ -16,7 +13,15 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-## Mahi Tuatahi
+## Te Whāinga Ako
+
+1. Review basic speed and acceleration calculations.
+
+<p class="instruction">Write the date and te whāinga ako in your book</p>
+
+---
+
+## Akoranga 2 Mahi Tuatahi
 
 Mr LeSueur is cycling at a speed of $4ms^{-1}$ and starts to accelerate. If he accelerates at $3ms^{-2}$, how long will it take for him to reach a speed of $12ms^{-1}$?
 
@@ -138,9 +143,9 @@ Alternatively we can call this, negative and positive acceleration. All the __ne
 
 This works because of algebra:
 
-\begin{align*}
-    & a - b = a + -b \newline
-\end{align*}
+\begin{aligned}
+    & a - b = a + -b \\
+\end{aligned}
 
 ---
 
@@ -148,9 +153,9 @@ This works because of algebra:
 
 Velocity is a vector and a change ($\Delta$) is calculated like this: 
 
-\begin{align*}
-    & \Delta v = v_{f} - v_{i} \newline
-\end{align*}
+\begin{aligned}
+    & \Delta v = v_{f} - v_{i} \\
+\end{aligned}
 
 Can we turn this into __vector addition__?
 
@@ -158,10 +163,10 @@ Can we turn this into __vector addition__?
 
 ### $\Delta$ v
 
-\begin{align*}
-    & \Delta v = v_{f} - v_{i} \newline
-    & \Delta v = v_{f} + (-v_{i}) \newline
-\end{align*}
+\begin{aligned}
+    & \Delta v = v_{f} - v_{i} \\
+    & \Delta v = v_{f} + (-v_{i}) \\
+\end{aligned}
 
 What does making negative $v_{i}$ do to the vector?
 
@@ -195,9 +200,9 @@ Take two minutes and find an equation for the horizontal component of the triang
 
 To find the horizontal component:
 
-\begin{align*}
-    & a = \frac{o}{tan(\theta)} \newline
-\end{align*}
+\begin{aligned}
+    & a = \frac{o}{tan(\theta)} \\
+\end{aligned}
 
 ---
 
@@ -211,6 +216,6 @@ Take two minutes and find an equation for the vertical component of the triangle
 
 To find the horizontal component:
 
-\begin{align*}
-    & o = a \times tan(\theta) \newline
-\end{align*}
+\begin{aligned}
+    & o = a \times tan(\theta) \\
+\end{aligned}

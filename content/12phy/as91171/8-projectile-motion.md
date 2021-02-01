@@ -5,7 +5,7 @@ author: Finn LeSueur
 date: 2019
 theme: finn
 colortheme: dolphin
-weight: 7
+weight: 8
 slug: projectile-motion
 font-size: 35px
 text-align: center

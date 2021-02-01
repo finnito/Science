@@ -5,7 +5,7 @@ author: Finn LeSueur
 date: 2020
 theme: finn
 colortheme: dolphin
-weight: 1
+weight: 4
 font-size: 35px
 slug: kinematic-equations
 text-align: center

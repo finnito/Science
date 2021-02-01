@@ -195,9 +195,10 @@ callPandoc() {
         --variable=controls:false \
         --variable=progress:false \
         --variable=showSlideNumber:print \
-        --variable=transition:fade \
+        --variable=transition:slide \
         --variable=plugins:GoBack,Clock \
-        --variable=revealjs-url:/reveal.js-4.1.0
+        --variable=revealjs-url:/reveal.js-4.1.0 \
+        --variable=embedded:false
 }
 
 compileGitLog() {
