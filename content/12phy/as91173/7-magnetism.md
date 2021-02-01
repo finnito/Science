@@ -24,10 +24,10 @@ __Hint:__ Charge of one electron $=-1.6\times10^{-19}C$
 
 ## Mahi Tuatahi 1 Answer
 
-\begin{align*}
-    & n = \frac{0.03}{1.6\times10^{-19}} \newline\newline
+\begin{aligned}
+    & n = \frac{0.03}{1.6\times10^{-19}} \\\\
     & n = 1.875\times10^{17}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -42,20 +42,20 @@ There is $80mA$ of current flowing through a $2k\Omega$ resistor.
 
 ## Mahi Tuatahi 2 Answer
 
-\begin{align*}
-    & I = \frac{q}{t} \newline
-    & It = q \newline
-    & q = 0.08 \times 1 = 0.08C \newline
+\begin{aligned}
+    & I = \frac{q}{t} \\
+    & It = q \\
+    & q = 0.08 \times 1 = 0.08C \\
     & n = \frac{0.08}{1.6\times^{-19}} = 5\times10^{17}
-\end{align*}
+\end{aligned}
 
 ---
 
-\begin{align*}
-    & P = IV, V = IR\newline
-    & P = I^{2}R \newline
+\begin{aligned}
+    & P = IV, V = IR\\
+    & P = I^{2}R \\
     & P = 0.08^{2} \times 2000 = 12.8W (Js^{-1})
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -109,9 +109,9 @@ The force (F) that the charge experiences as it moves through the field depends 
 - Charge of the object (q, measured in Coulombs (C))
 - Velocity of the object (v, measured in $ms^{-1}$)
 
-\begin{align*}
+\begin{aligned}
     F = Bqv
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -133,11 +133,11 @@ Calculate the magnetic force applied on each proton.
 
 #### Answer
 
-\begin{align*}
-    & F = Bqv \newline
-    & F = 0.2 \times 1.6\times10^{-19} \times 2.0\times10^{-6} \newline
+\begin{aligned}
+    & F = Bqv \\
+    & F = 0.2 \times 1.6\times10^{-19} \times 2.0\times10^{-6} \\
     & F = 6.4 \times 10^{-26}N
-\end{align*}
+\end{aligned}
 
 ---
 

@@ -31,15 +31,15 @@ header-includes:
 1. What is an alkane?
 2. What process is occuring here?
 
-\begin{align*}
+\begin{aligned}
     & alkane \quad + \quad O_{2} \quad \rightarrow \quad CO_{2} \quad + \quad H_{2}O
-\end{align*}
+\end{aligned}
 
 3. What process is occuring here?
 
-\begin{align*}
+\begin{aligned}
     & alkane \quad + \quad \frac{1}{2}O_{2} \quad \rightarrow \quad CO \quad + \quad H_{2}O \quad + \quad C
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -47,9 +47,9 @@ header-includes:
 
 __Hint:__ Balance C, then H then O.
 
-\begin{align*}
+\begin{aligned}
     & C_{3}H_{8} \quad + \quad O_{2} \quad \rightarrow \quad H_{2}O \quad + \quad CO_{2}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -59,9 +59,9 @@ __Hint:__ Balance C, then H then O.
 2. Complete combustion
 3. Incomplete combustion
 
-\begin{align*}
+\begin{aligned}
     & C_{3}H_{8} \quad + \quad 5O_{2} \quad \rightarrow \quad 4H_{2}O \quad + \quad 3CO_{2}
-\end{align*}
+\end{aligned}
 
 ---
 

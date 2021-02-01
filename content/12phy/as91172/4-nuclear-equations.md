@@ -45,10 +45,10 @@ This means that the atomic number of the decaying atom is ________ by ________ a
 
 ---
 
-\begin{align*}
-    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}He \newline
-    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}\alpha \newline
-\end{align*}
+\begin{aligned}
+    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}He \\
+    & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}\alpha \\
+\end{aligned}
 
 - The __mass number__ goes top left
 - The __atomic number__ goes bottom left
@@ -87,10 +87,10 @@ This means that the atomic number of the decay atom is ________ by ________ and 
 
 #### Whakatika Toru
 
-\begin{align*}
-    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}e \newline
-    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}\beta \newline
-\end{align*}
+\begin{aligned}
+    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}e \\
+    & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}\beta \\
+\end{aligned}
 
 ---
 
@@ -122,9 +122,9 @@ In a gamma ($\gamma$) emission, the decaying atom only loses ________, which mea
 
 #### Whakatika Rimu
 
-\begin{align*}
-    & {}^{201}_{79}Au \rightarrow {}^{201}_{79}Au + \gamma \newline
-\end{align*}
+\begin{aligned}
+    & {}^{201}_{79}Au \rightarrow {}^{201}_{79}Au + \gamma \\
+\end{aligned}
 
 ---
 
@@ -139,12 +139,12 @@ In a gamma ($\gamma$) emission, the decaying atom only loses ________, which mea
 
 ### Ngā Whakatika 1-4
 
-\begin{align*}
-    & {}^{218}_{84}Po \rightarrow {}^{214}_{82}Pb + {}^{4}_{2}He \newline
-    & {}^{3}_{1}H \rightarrow {}^{3}_{2}He + {}^{0}_{-1}\beta \newline
-    & {}^{14}_{6}C \rightarrow {}^{4}_{6}C + \gamma \newline
+\begin{aligned}
+    & {}^{218}_{84}Po \rightarrow {}^{214}_{82}Pb + {}^{4}_{2}He \\
+    & {}^{3}_{1}H \rightarrow {}^{3}_{2}He + {}^{0}_{-1}\beta \\
+    & {}^{14}_{6}C \rightarrow {}^{4}_{6}C + \gamma \\
     & {}^{13}_{6}C + {}^{1}_{0}n \rightarrow {}^{14}_{6}C
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -157,9 +157,9 @@ In a gamma ($\gamma$) emission, the decaying atom only loses ________, which mea
 
 ### Ngā Whakatika 5-8
 
-\begin{align*}
-    & {}^{234}_{92}U \rightarrow {}^{226}_{88}Ra + 2{}^{4}_{2}He \newline
-    & {}^{222}_{88}Ra \rightarrow {}^{216}_{84}Po + 2{}^{4}_{2}He \newline
-    & {}^{234}_{90}Th \rightarrow {}^{234}_{92}U + 2{}^{0}_{-1}\beta \newline
+\begin{aligned}
+    & {}^{234}_{92}U \rightarrow {}^{226}_{88}Ra + 2{}^{4}_{2}He \\
+    & {}^{222}_{88}Ra \rightarrow {}^{216}_{84}Po + 2{}^{4}_{2}He \\
+    & {}^{234}_{90}Th \rightarrow {}^{234}_{92}U + 2{}^{0}_{-1}\beta \\
     & {}^{210}_{83}Bi \rightarrow {}^{210}_{85}At + 2{}^{0}_{-1}\beta
-\end{align*}
+\end{aligned}

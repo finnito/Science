@@ -71,22 +71,22 @@ https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate
 
 ## Kinetic Energy
 
-\begin{align*}
-    & E_{k} = \frac{1}{2}mv^{2} \newline
-    & \text{m = mass of the moving object} \newline
+\begin{aligned}
+    & E_{k} = \frac{1}{2}mv^{2} \\
+    & \text{m = mass of the moving object} \\
     & \text{v = speed of the moving object}
-\end{align*}
+\end{aligned}
 
 ---
 
 ## Gravitational Potential Energy
 
-\begin{align*}
-    & E_{p} = mg \Delta h \newline
-    & \text{m = mass of the object} \newline
-    & \text{g = acceleration due to gravity } 9.8ms^{-2} \downarrow \newline
+\begin{aligned}
+    & E_{p} = mg \Delta h \\
+    & \text{m = mass of the object} \\
+    & \text{g = acceleration due to gravity } 9.8ms^{-2} \downarrow \\
     & \text{h = height of the object}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -98,10 +98,10 @@ In the real world some energy is lost due to friction as heat, light or sound. I
 
 Therefore when comparing an object at the top of its fall, to the bottom of its fall we can say:
 
-\begin{align*}
-    & E_{k} = E_{p} && \text{they are equal} \newline
-    & \frac{1}{2}mv^{2} = m g \Delta h && \text{substitute in the equations} \newline
-\end{align*}
+\begin{aligned}
+    & E_{k} = E_{p} && \text{they are equal} \\
+    & \frac{1}{2}mv^{2} = m g \Delta h && \text{substitute in the equations} \\
+\end{aligned}
 
 ---
 
@@ -117,24 +117,24 @@ Calculate the maximum height that the sandbag rises as it recoils with the bulle
 
 __Step 1.__ Find kinetic energy of the bullet
 
-\begin{align*}
-    & E_{k} = \frac{1}{2}mv^{2} \newline
-    & E_{k} = \frac{1}{2} \times 0.03 \times 400^{2} && \text{substitute values} \newline
+\begin{aligned}
+    & E_{k} = \frac{1}{2}mv^{2} \\
+    & E_{k} = \frac{1}{2} \times 0.03 \times 400^{2} && \text{substitute values} \\
     & E_{k} = 2,400J
-\end{align*}
+\end{aligned}
 
 ---
 
 __Step 2.__ equate this with potential energy of sandbag & bullet
 
-\begin{align*}
-    & E_{k} = E_{p} && \text{they are equal} \newline
-    & E_{k} = m g \Delta h \newline
-    & 2400 = 10.03 \times 9.8 \times h && \text{substitute values} \newline
-    & 2400 = 98.294h \newline
-    & \Delta h = \frac{2400}{98.294} \newline
+\begin{aligned}
+    & E_{k} = E_{p} && \text{they are equal} \\
+    & E_{k} = m g \Delta h \\
+    & 2400 = 10.03 \times 9.8 \times h && \text{substitute values} \\
+    & 2400 = 98.294h \\
+    & \Delta h = \frac{2400}{98.294} \\
     & \Delta h = 24.41m
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -142,11 +142,11 @@ __Step 2.__ equate this with potential energy of sandbag & bullet
 
 When a spring is compressed or stretched it gains some amount of potential energy. We can quantify the energy using this equation:
 
-\begin{align*}
-    & E_{p} = \frac{1}{2}kx^{2} \newline
-    & \text{k = spring constant} \newline
+\begin{aligned}
+    & E_{p} = \frac{1}{2}kx^{2} \\
+    & \text{k = spring constant} \\
     & \text{x = spring compression/stretch (displacement)}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -154,13 +154,13 @@ When a spring is compressed or stretched it gains some amount of potential energ
 
 We can relate the displacement of a spring to its spring constant and the force required to create the displacement using __Hooke's Law__.
 
-\begin{align*}
+\begin{aligned}
     & k = \frac{F}{x}
-\end{align*}
+\end{aligned}
 
-\begin{align*}
+\begin{aligned}
     & F = kx
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -178,12 +178,12 @@ Paris has a mass of 55kg and she is a spectator at a sports game. She steps onto
 
 1. Calculate the elastic potential energy in the trampoline at this position.
 
-\begin{align*}
-    & k = \frac{F}{x} \newline
-    & k = \frac{55 \times 9.8}{0.003} \newline
-    & k = 179667Nm^{-1} \newline
+\begin{aligned}
+    & k = \frac{F}{x} \\
+    & k = \frac{55 \times 9.8}{0.003} \\
+    & k = 179667Nm^{-1} \\
     & k = 1.8\times10^{5}Nm^{-1}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -191,11 +191,11 @@ Paris has a mass of 55kg and she is a spectator at a sports game. She steps onto
 
 3. Calculate the elastic potential energy stored in the bench. __(A)__
 
-\begin{align*}
-    & E_{p} = \frac{1}{2} k x^{2} \newline
-    & E_{p} = \frac{1}{2} \times 1.8\times10^{5} \times 0.003^{2} \newline
+\begin{aligned}
+    & E_{p} = \frac{1}{2} k x^{2} \\
+    & E_{p} = \frac{1}{2} \times 1.8\times10^{5} \times 0.003^{2} \\
     & E_{p} = 0.81J
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -214,11 +214,11 @@ A toy airplane ($500g$) is hanging at the end of a spring. The spring is $48.0cm
 
 1. Calculate the spring constant. __(M)__
 
-\begin{align*}
-    & k = \frac{F}{x} \newline
-    & k = \frac{0.5 * 9.8}{0.32} \newline
+\begin{aligned}
+    & k = \frac{F}{x} \\
+    & k = \frac{0.5 * 9.8}{0.32} \\
     & k = 15.31Nm^{-1}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -226,17 +226,17 @@ A toy airplane ($500g$) is hanging at the end of a spring. The spring is $48.0cm
 
 3. Calculate the energy stored in the spring when a second toy of mass $400g$ is also hung along with the airplane. __(M)__
 
-\begin{align*}
-    & x = \frac{F}{k} \newline
-    & x = \frac{0.9 * 9.8}{15.31} \newline
+\begin{aligned}
+    & x = \frac{F}{k} \\
+    & x = \frac{0.9 * 9.8}{15.31} \\
     & x = 0.576m
-\end{align*}
+\end{aligned}
 
-\begin{align*}
-    & E_{p} = \frac{1}{2}kx^{2} \newline
-    & E_{p} = \frac{1}{2} \times 15.31 \times 0.576^{2} \newline
+\begin{aligned}
+    & E_{p} = \frac{1}{2}kx^{2} \\
+    & E_{p} = \frac{1}{2} \times 15.31 \times 0.576^{2} \\
     & E_{p} = 2.54J
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -244,19 +244,19 @@ A toy airplane ($500g$) is hanging at the end of a spring. The spring is $48.0cm
 
 4. The $500g$ airplane is now hung on a stiffer spring, which has double the spring constant. Discuss how this affects the extension and the elastic potential energy in the spring. __(E)__
 
-\begin{align*}
-    & x = \frac{F}{k} \newline
-    & x = \frac{0.5 * 9.8}{30.62} \newline
+\begin{aligned}
+    & x = \frac{F}{k} \\
+    & x = \frac{0.5 * 9.8}{30.62} \\
     & x = 0.16m
-\end{align*}
+\end{aligned}
 
 It halves the amount that the spring extends.
 
-\begin{align*}
-    & E_{p} = \frac{1}{2}kx^{2} \newline
-    & E_{p} = \frac{1}{2} \times 30.62 \times 0.16^{2} \newline
+\begin{aligned}
+    & E_{p} = \frac{1}{2}kx^{2} \\
+    & E_{p} = \frac{1}{2} \times 30.62 \times 0.16^{2} \\
     & E_{p} = 0.39J
-\end{align*}
+\end{aligned}
 
 and reduces the amount of energy stored by a lot.
 
@@ -275,45 +275,45 @@ and reduces the amount of energy stored by a lot.
 
 1. Give the equations for kinetic, gravitational potential and elastic potential energy.
 
-\begin{align*}
-    & E_{k} = \frac{1}{2}mv^{2} && \text{kinetic energy} \newline
-    & E_{p} = m g \Delta h && \text{gravitational potential energy} \newline
+\begin{aligned}
+    & E_{k} = \frac{1}{2}mv^{2} && \text{kinetic energy} \\
+    & E_{p} = m g \Delta h && \text{gravitational potential energy} \\
     & E_{p} = \frac{1}{2} k x^{2} && \text{elastic potential energy}
-\end{align*}
+\end{aligned}
 
 2. Give the name and formula for the law that you can use to relate __force, spring constant and displacement__.
 
-\begin{align*}
+\begin{aligned}
     & F = kx && \text{Hooke's Law}
-\end{align*}
+\end{aligned}
 
 ---
 
 ## Mahi Tuatahi: Answers (3)
 
 Step 1: Weight per Spring
-\begin{align*}
-    & F = \frac{357 \times 9.8}{4} \newline
+\begin{aligned}
+    & F = \frac{357 \times 9.8}{4} \\
     & F = 874.65N
-\end{align*}
+\end{aligned}
 
 Step 2: Displacement
-\begin{align*}
-    & F = kx && \text{Hooke's Law} \newline
-    & x = \frac{F}{k} \newline
-    & x = \frac{874.65}{2.26 \times 10^{4}} \newline
-    & x = 0.0387m \newline
-\end{align*}
+\begin{aligned}
+    & F = kx && \text{Hooke's Law} \\
+    & x = \frac{F}{k} \\
+    & x = \frac{874.65}{2.26 \times 10^{4}} \\
+    & x = 0.0387m \\
+\end{aligned}
 
 ---
 
 # Mahi Tuatahi: Answers (4)
 
-\begin{align*}
-    & E_{p} = \frac{1}{2}kx^{2} \newline
-    & E_{p} = \frac{1}{2} 2.26 \times 10^{4} \times 0.12^{2} \newline
+\begin{aligned}
+    & E_{p} = \frac{1}{2}kx^{2} \\
+    & E_{p} = \frac{1}{2} 2.26 \times 10^{4} \times 0.12^{2} \\
     & E_{p} = 160J
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -323,10 +323,10 @@ Work is defined as __the transfer of energy from one form to another__, and it i
 
 One joule of work is done when a force of one newton moves an object one meter.
 
-\begin{align*}
-    & W = Fd \newline
+\begin{aligned}
+    & W = Fd \\
     & work = force \times distance
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -340,11 +340,11 @@ In 2016 weightlifter Eddie Hall set a new world record for heaviest deadlift of 
 
 ## Question 4: Answer
 
-\begin{align*}
-    & W = Fd \newline
-    & W = (500 \times 9.8) \times 1.25 \newline
+\begin{aligned}
+    & W = Fd \\
+    & W = (500 \times 9.8) \times 1.25 \\
     & W = 6125J
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -362,12 +362,12 @@ A counter example, picking up an object off a desk and placing it back down on t
 
 Power is a measure of how quickly energy is transferred. Or, _the rate at which work is done_.
 
-\begin{align*}
-    & P = \frac{W}{t} \newline
-    & power = \frac{work}{time} \newline
-    & power = \frac{Joules}{seconds} \newline
+\begin{aligned}
+    & P = \frac{W}{t} \\
+    & power = \frac{work}{time} \\
+    & power = \frac{Joules}{seconds} \\
     & power = Js^{-1} && \text{also known as a Watt (W)}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -379,8 +379,8 @@ If it took Eddie $7s$ to do $6125J$ of work on the weights, what power was he ex
 
 ## Question 5: Answer
 
-\begin{align*}
-    & P = \frac{W}{t} \newline
-    & P = \frac{6125}{7} \newline
+\begin{aligned}
+    & P = \frac{W}{t} \\
+    & P = \frac{6125}{7} \\
     & P = 875Js^{-1} && \text{or 875W}
-\end{align*}
+\end{aligned}

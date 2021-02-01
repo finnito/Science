@@ -63,9 +63,9 @@ For beats to occur we need:
 1. The amplitude to be the same
 2. The difference in frequency to be small
 
-\begin{align*}
+\begin{aligned}
     & f_{b} = f_{2} - f_{1}
-\end{align*}
+\end{aligned}
 
 This equation is not given to your in your formula sheet. $f_{2}$ should be the larger of the two.
 
@@ -83,10 +83,10 @@ Calculate the frequency of the beats observed them both.
 
 This equation $f_{b} = f_{2} \pm f_{1}$ mainly tells us that the beat frequency is the difference between the two frequencies.
 
-\begin{align*}
-    & f_{b} = f_{2} \pm f_{1} \newline
+\begin{aligned}
+    & f_{b} = f_{2} \pm f_{1} \\
     & f_{b} = 107 - 100 = 7Hz
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -100,11 +100,11 @@ Calculate the frequency of the out of tune key.
 
 #### Whakatika Rua
 
-\begin{align*}
-    & f_{b} = f_{2} - f_{1} \newline
-    & 4 = 256 - f_{k} = 252Hz \newline
+\begin{aligned}
+    & f_{b} = f_{2} - f_{1} \\
+    & 4 = 256 - f_{k} = 252Hz \\
     & 4 = 256 + f_{k} = 260Hz
-\end{align*}
+\end{aligned}
 
 On paper we cannot tell which of the frequencies the key should have. In person, with a good musical ear, a person could tell.
 
@@ -118,23 +118,23 @@ Josh changes his device to be $100Hz$, the same as Zak. He walks away him again 
 
 ---
 
-\begin{align*}
-    f_{b} &= f_{2} - f_{1} \newline
+\begin{aligned}
+    f_{b} &= f_{2} - f_{1} \\
     f &= 110 \text{ or } 90
-\end{align*}
+\end{aligned}
 
 Because Josh is walking __away__, the frequency should be lower, so $90Hz$.
 
 ---
 
-\begin{align*}
-    f' &= f \frac{v_{w}}{v_{w} \pm v_{s}} \text{ add because away} \newline
-    90 &= 100 \frac{343}{343 + v_{s}} \newline
-    \frac{90}{100} &= \frac{343}{343 + v_{s}} \newline
-    (343 + v_{s}) \times 0.9 &= 343 \newline
-    343 + v_{s} &= \frac{343}{0.9} \newline
+\begin{aligned}
+    f' &= f \frac{v_{w}}{v_{w} \pm v_{s}} \text{ add because away} \\
+    90 &= 100 \frac{343}{343 + v_{s}} \\
+    \frac{90}{100} &= \frac{343}{343 + v_{s}} \\
+    (343 + v_{s}) \times 0.9 &= 343 \\
+    343 + v_{s} &= \frac{343}{0.9} \\
     v_{s} &= \frac{343}{0.9} - 343 = 38.11ms^{-1}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -156,23 +156,23 @@ Josh is back holding his device. It is now emitting a frequency of $125Hz$, and 
 
 ### Te Whakatika
 
-\begin{align*}
-    f_{b} &= f' - f \newline
+\begin{aligned}
+    f_{b} &= f' - f \\
     f_{b} - f &= f' = 130.5Hz \text{ OR } 119.5Hz
-\end{align*}
+\end{aligned}
 
 Because Zak is running __away__, the frequency should be decreased: $f' = 119.5Hz$
 
 ---
 
-\begin{align*}
-    f' &= f\frac{v_{w}}{v_{w} \pm v_{s}}\newline
-    119.5 &= 125 \frac{343}{343 + v_{s}} \newline
-    \frac{119.5}{125} &= \frac{343}{343 + v_{s}} \newline
-    343 + v_{s} &= \frac{343}{0.956} \newline
-    v_{s} &= \frac{343}{0.956} - 343 \newline
+\begin{aligned}
+    f' &= f\frac{v_{w}}{v_{w} \pm v_{s}}\\
+    119.5 &= 125 \frac{343}{343 + v_{s}} \\
+    \frac{119.5}{125} &= \frac{343}{343 + v_{s}} \\
+    343 + v_{s} &= \frac{343}{0.956} \\
+    v_{s} &= \frac{343}{0.956} - 343 \\
     &= 15.7ms^{-1}
-\end{align*}
+\end{aligned}
 
 ---
 

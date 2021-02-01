@@ -27,11 +27,11 @@ header-includes:
 
 A horse has four hooves, so the total surface area that the horse is exerting pressure through is $A = 0.0044 \times 4 = 0.0176m^{2}$
 
-\begin{align*}
-    P &= \frac{F}{A} \newline
-    200155 &= \frac{F}{0.0176} \newline
+\begin{aligned}
+    P &= \frac{F}{A} \\
+    200155 &= \frac{F}{0.0176} \\
     200155 \times 0.0176 &= F = 3522.728N
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -61,10 +61,10 @@ Write the date, the learning outcomes and title "Kinetic Energy" in your books.
 
 Kinetic energy depends on the __mass__ and __velocity__ of an object.
 
-\begin{align*}
-    E_{k} &= \frac{1}{2} \times mass \times \text{velocity squared} \newline
+\begin{aligned}
+    E_{k} &= \frac{1}{2} \times mass \times \text{velocity squared} \\
     E_{k} &= \frac{1}{2} \times m \times v^{2}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -73,9 +73,9 @@ Kinetic energy depends on the __mass__ and __velocity__ of an object.
 - It means $v \times v$
 - This means we can also write the equation like this, if you find it easier:
 
-\begin{align*}
+\begin{aligned}
     & E_{k} = \frac{1}{2} \times m \times v \times v
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -89,10 +89,10 @@ Mr LeSueur rides his bike to work at $32km/h$ ($8.89ms^{-1}$). Both he and his b
 
 We know $m=80kg$ and $v=8.89ms^{-1}$, and we are looking for $E_{k}$.
 
-\begin{align*}
-    E_{k} = \frac{1}{2} \times 80 \times 8.89^{2} \newline
+\begin{aligned}
+    E_{k} = \frac{1}{2} \times 80 \times 8.89^{2} \\
     E_{k} = 3161.284J
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -106,10 +106,10 @@ Sophie is skiing down Upper Fascination at Mt Hutt, and is trying to go really f
 
 We know $m=60kg$ and $v=16.67ms^{-1}$, and we are looking for $E_{k}$.
 
-\begin{align*}
-    E_{k} = \frac{1}{2} \times 60 \times 16.67^{2} \newline
+\begin{aligned}
+    E_{k} = \frac{1}{2} \times 60 \times 16.67^{2} \\
     E_{k} = 8336.667J
-\end{align*}
+\end{aligned}
 
 ---
 

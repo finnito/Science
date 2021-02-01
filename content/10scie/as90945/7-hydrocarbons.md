@@ -76,17 +76,17 @@ Crude oil is what we get directly out of the ground and is made of a mixture of 
 
 ### Answer
 
-\begin{align*}
+\begin{aligned}
     C_{n}H_{2n+2}
-\end{align*}
+\end{aligned}
 
 ---
 
 ### Calculating Hydrocarbons
 
-\begin{align*}
+\begin{aligned}
     C_{n}H_{2n+2}
-\end{align*}
+\end{aligned}
 
 Using this formula you can calculate the formula for any hydrocarbon!
 
@@ -154,16 +154,16 @@ Try and conmplete these word and symbol equations (refer to your notes):
 
 __Complete Combustion__
 
-\begin{align*}
-    methane + oxygen \rightarrow  \hspace{1cm} +  \hspace{1cm}\newline
+\begin{aligned}
+    methane + oxygen \rightarrow  \hspace{1cm} +  \hspace{1cm}\\
     CH_{4} + \frac{1}{2}O_{2} \rightarrow \hspace{2cm} + \hspace{2cm}
-\end{align*}
+\end{aligned}
 
 ---
 
 __Incomplete Combustion__
 
-\begin{align*}
+\begin{aligned}
     CH_{4} + \frac{1}{2}O_{2} \rightarrow  \hspace{2cm} + \hspace{2cm}
-\end{align*}
+\end{aligned}
 

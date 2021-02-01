@@ -58,10 +58,10 @@ header-includes:
 
 Written as an equation, this can mean:
 
-\begin{align*}
-    E_{k} &= E_{p} \newline
+\begin{aligned}
+    E_{k} &= E_{p} \\
     \frac{1}{2}mv^{2} &= mgh
-\end{align*}
+\end{aligned}
 
 In fact, we can make any two energy equations equal to each other! E.g. Spring potential energy and kinetic.
 
@@ -83,14 +83,14 @@ Mr Le Sueur has mass 71kg and has climbed a tree 4.5m tall to jump into a lake. 
 
 #### Whakatika
 
-\begin{align*}
-    E_{p} &= mgh = 71 \times 10 \times 4.5 = 3195J \newline
-    E_{k} &= E_{p} \newline
-    E_{k} &= \frac{1}{2}mv^{2} \newline
-    3195 &= \frac{1}{2} \times 71 \times v^{2} \newline
-    \frac{3195 \times 2}{71} = 90 &= v^{2} \newline
+\begin{aligned}
+    E_{p} &= mgh = 71 \times 10 \times 4.5 = 3195J \\
+    E_{k} &= E_{p} \\
+    E_{k} &= \frac{1}{2}mv^{2} \\
+    3195 &= \frac{1}{2} \times 71 \times v^{2} \\
+    \frac{3195 \times 2}{71} = 90 &= v^{2} \\
     \sqrt{90} = 9.49ms^{-1} &= v
-\end{align*}
+\end{aligned}
 
 ---
 

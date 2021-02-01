@@ -43,9 +43,9 @@ header-includes:
 ## Combination (Synthesis) Reactions
 
 \[
-\begin{align*}
+\begin{aligned}
     A + B \longrightarrow AB
-\end{align*}
+\end{aligned}
 \]
 
 A reaction, usually combustion, where two ions are combined to form a compound.

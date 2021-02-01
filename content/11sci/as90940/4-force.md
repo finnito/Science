@@ -109,10 +109,10 @@ Sitting on your chair, are the forces acting on you balanced or unbalanced? How 
 
 ## Force & Weight {.c2}
 
-\begin{align*}
-    Force = mass \times acceleration \newline
+\begin{aligned}
+    Force = mass \times acceleration \\
     F = ma
-\end{align*}
+\end{aligned}
 
 - Force acting upon a mass will create an acceleration
 - An acceleration acting upon a mass is felt as a force

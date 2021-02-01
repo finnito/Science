@@ -48,10 +48,10 @@ __AKA__: The potential a mass has to fall due to being lifted up!
 - Energy is __always__ measured in Joules
 - Joules are given the shorthand unit: __J__
 
-\begin{align*}
-    E_{p} &= mass \times gravity \times height \newline
+\begin{aligned}
+    E_{p} &= mass \times gravity \times height \\
     E_{p} &= m \times g \times h
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -67,11 +67,11 @@ __Calculate the gravitational potential energy__ of a ball with mass, $0.5kg$ ki
 
 ## Whakatika Tahi
 
-\begin{align*}
-    E_{p} &= m \times g \times h \newline
-    &= 0.5 \times 10 \times 3 \newline
+\begin{aligned}
+    E_{p} &= m \times g \times h \\
+    &= 0.5 \times 10 \times 3 \\
     &= 15J
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -87,11 +87,11 @@ __Calculate the gravitational potential energy__ of a weightlifter who lifts a $
 
 ## Whakatika Rua
 
-\begin{align*}
-    E_{p} &= m \times g \times h \newline
-    &= 100 \times 10 \times 2 \newline
+\begin{aligned}
+    E_{p} &= m \times g \times h \\
+    &= 100 \times 10 \times 2 \\
     &= 2000J
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -107,11 +107,11 @@ __Calculate the gravitational potential energy__ of a cat with mass $4kg$ who ha
 
 ## Whakatika Toru
 
-\begin{align*}
-    E_{p} &= m \times g \times h \newline
-    &= 4 \times 10 \times 5 \newline
+\begin{aligned}
+    E_{p} &= m \times g \times h \\
+    &= 4 \times 10 \times 5 \\
     &= 200J
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -127,11 +127,11 @@ __Calculate the gravitational potential energy__ of a bird with mass $300g$ that
 
 ## Whakatika Wha
 
-\begin{align*}
-    E_{p} &= m \times g \times h \newline
-    &= 0.3 \times 10 \times 4 \newline
+\begin{aligned}
+    E_{p} &= m \times g \times h \\
+    &= 0.3 \times 10 \times 4 \\
     &= 12J
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -147,13 +147,13 @@ __Calculate the height__ of Mr Le Sueur, mass $71kg$, who ran up a hill and gain
 
 ## Whakatika Rimu
 
-\begin{align*}
-    E_{p} &= m \times g \times h \newline
-    142,000 &= 71 \times 10 \times h \newline
-    142,000 &= 710 \times h \newline
-    \frac{142,000}{710} &= h \newline
+\begin{aligned}
+    E_{p} &= m \times g \times h \\
+    142,000 &= 71 \times 10 \times h \\
+    142,000 &= 710 \times h \\
+    \frac{142,000}{710} &= h \\
     200m = h
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -169,10 +169,10 @@ __Calculate the mass__ a dog who climbed a $2.5m$ obstacle at the dog park and g
 
 ## Whakatika Ono
 
-\begin{align*}
-    E_{p} &= m \times g \times h \newline
-    625 &= m \times 10 \times 2.5 \newline
-    625 &= m \times 25 \newline
-    \frac{625}{25} &= m \newline
+\begin{aligned}
+    E_{p} &= m \times g \times h \\
+    625 &= m \times 10 \times 2.5 \\
+    625 &= m \times 25 \\
+    \frac{625}{25} &= m \\
     25kg = m
-\end{align*}
+\end{aligned}

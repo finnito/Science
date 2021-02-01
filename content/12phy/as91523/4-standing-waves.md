@@ -92,10 +92,10 @@ Most musical instruments produce sound through vibration of __standing waves__ i
 
 - We can calculate the harmonic wavelength & frequency using these relationships:
 
-\begin{align*}
-    \lambda &= \frac{\lambda_{fundamental}}{\text{harmonic number}} \newline
+\begin{aligned}
+    \lambda &= \frac{\lambda_{fundamental}}{\text{harmonic number}} \\
     f &= f_{fundamental} \times \text{harmonic number}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -105,11 +105,11 @@ Calculate the fundamental frequency of a string with length 25cm, where the spee
 
 ---
 
-\begin{align*}
-    \lambda &= \frac{1}{2} \times 0.25m = 0.125m\newline
-    f &= v \times \lambda \newline
+\begin{aligned}
+    \lambda &= \frac{1}{2} \times 0.25m = 0.125m\\
+    f &= v \times \lambda \\
     f &= 330 \times 0.125 = 41.25Hz
-\end{align*}
+\end{aligned}
 
 ---
 

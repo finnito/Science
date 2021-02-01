@@ -17,8 +17,8 @@ header-includes:
 
 In pairs, rearrange this equation 4 times to make each variable the subject. Make sure your partner knows how it works!
 
-\begin{align*}
-	& v_{f}^{2} = v_{i}^{2} + 2ad \newline
-\end{align*}
+\begin{aligned}
+	& v_{f}^{2} = v_{i}^{2} + 2ad \\
+\end{aligned}
 
 ---

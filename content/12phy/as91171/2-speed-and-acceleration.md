@@ -42,12 +42,12 @@ header-includes:
 
 ## Average Speed
 
-\begin{align*}
-    & v = \frac{d}{t} \newline
-    & d = \text{total distance travelled} \newline
-    & t = \text{time} \newline
+\begin{aligned}
+    & v = \frac{d}{t} \\
+    & d = \text{total distance travelled} \\
+    & t = \text{time} \\
     & v = \text{speed}
-\end{align*}
+\end{aligned}
 
 <aside class="notes">
     Ask class for units for each variable in the equation.
@@ -72,12 +72,12 @@ Ash runs 315m in 45s. Calculate his average speed in __meters per second__.
 
 Ash runs 315m in 45s. Calculate his average speed in __meters per second__.
 
-\begin{align*}
-    & d = 315m, t = 45s \newline
-    & v = \frac{d}{t} \newline
-    & v = \frac{315}{45} \newline
+\begin{aligned}
+    & d = 315m, t = 45s \\
+    & v = \frac{d}{t} \\
+    & v = \frac{315}{45} \\
     & v = 7ms^{-1}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -97,11 +97,11 @@ A car is moving at a speed of $10ms^{-1}$. How far does the car travel in $12s$?
 
 ---
 
-\begin{align*}
-    & d = v \times t \newline
-    & d = 10 \times 12 \newline
+\begin{aligned}
+    & d = v \times t \\
+    & d = 10 \times 12 \\
     & d = 120m
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -111,11 +111,11 @@ A man is running at a speed of $4ms^{-1}$. How long does he take to run $100m$?
 
 ---
 
-\begin{align*}
-    & t = \frac{d}{v} \newline
-    & t = \frac{100}{4} \newline
+\begin{aligned}
+    & t = \frac{d}{v} \\
+    & t = \frac{100}{4} \\
     & t = 25s
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -131,12 +131,12 @@ The formula $v = \frac{d}{t}$ can only be used to calculate __average velocity__
 
 _The rate of change in speed_
 
-\begin{align*}
-    & a = \frac{\Delta v}{t} \newline
-    & \Delta v = \text{ change in speed} \newline
-    & t = \text{ time} \newline
+\begin{aligned}
+    & a = \frac{\Delta v}{t} \\
+    & \Delta v = \text{ change in speed} \\
+    & t = \text{ time} \\
     & a = \text{ acceleration}
-\end{align*}
+\end{aligned}
 
 <aside class="notes">
     Ask class for units for each variable in the equation.
@@ -157,10 +157,10 @@ For example, $a=12ms^{-2}$ means that the velocity is increased by $12ms^{-1}$ e
 
 This is the difference between the __initial__ and the __final__ value.
 
-\begin{align*}
-    & \Delta = final - initial \newline
+\begin{aligned}
+    & \Delta = final - initial \\
     & \text{e.g. }\Delta v = v_{f} - v_{i}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -175,13 +175,13 @@ A man initially walking at $2.0ms^{-1}$ notices that his house is on fire so he 
 
 ### Whakatika Tahi
 
-\begin{align*}
-    & \Delta v = v_{f} - v_{i} \newline
-    & \Delta v = 11 - 2 = 9ms^{-1} \newline
-    & \newline
-    & a = \frac{\Delta v }{t} \newline
+\begin{aligned}
+    & \Delta v = v_{f} - v_{i} \\
+    & \Delta v = 11 - 2 = 9ms^{-1} \\
+    & \\
+    & a = \frac{\Delta v }{t} \\
     & a = \frac{9}{1.3} = 6.9ms^{-2}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -193,12 +193,12 @@ A cyclist who has been travelling at a steady speed of $4ms^{-1}$ starts to acce
 
 #### Whakatika Rua
 
-\begin{align*}
-    & a = \frac{\Delta v}{t} \newline
-    & t = \frac{\Delta v}{a} \newline
-    & t = \frac{24 - 4}{2.5} \newline
+\begin{aligned}
+    & a = \frac{\Delta v}{t} \\
+    & t = \frac{\Delta v}{a} \\
+    & t = \frac{24 - 4}{2.5} \\
     & t = 8s
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -211,20 +211,20 @@ A cyclist who has been travelling at a steady speed of $4ms^{-1}$ starts to acce
 
 __Whakatika 1__
 
-\begin{align*}
-    & a = \frac{v_{f} - v_{i}}{t} \newline
-    & a \times t = v_{f} - v_{i} \newline
-    & v_{f} = (a \times t) + v_{i} \newline
+\begin{aligned}
+    & a = \frac{v_{f} - v_{i}}{t} \\
+    & a \times t = v_{f} - v_{i} \\
+    & v_{f} = (a \times t) + v_{i} \\
     & v_{f} = (1.3 \times 60) + 12.7 = 90.7ms^{-1}
-\end{align*}
+\end{aligned}
 
 ---
 
 __Whakatika 2__
 
-\begin{align*}
-    & a = \frac{v_{f} - v_{i}}{t} \newline
-    & a \times t = v_{f} - v_{i} \newline
-    & v_{i} = v_{f} - (a \times t) \newline
+\begin{aligned}
+    & a = \frac{v_{f} - v_{i}}{t} \\
+    & a \times t = v_{f} - v_{i} \\
+    & v_{i} = v_{f} - (a \times t) \\
     & v_{i} = 0 - (-1.8 \times 9.4) = -16.92ms^{-1}
-\end{align*}
+\end{aligned}

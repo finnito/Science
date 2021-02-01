@@ -23,9 +23,9 @@ header-includes:
 
 ---
 
-\begin{align*}
+\begin{aligned}
     & F = BIL
-\end{align*}
+\end{aligned}
 
 Force on a current carrying wire in a magnetic field is given by this equation.
 
@@ -46,9 +46,9 @@ What do you think happens to the force if the wire is on an angle?
 
 ---
 
-\begin{align*}
+\begin{aligned}
     & F = BILsin(\theta)
-\end{align*}
+\end{aligned}
 
 - $\theta$ is the angle between the current and the magnetic field
 - Force is maximum when perpendicular
@@ -120,9 +120,9 @@ And if the circuit is complete, we induce a current!
 
 __Induced voltage__ in a wire moving through a magnetic field:
 
-\begin{align*}
+\begin{aligned}
     & V=BvL
-\end{align*}
+\end{aligned}
 
 - $B$ is the magnetic field strength (T, Tesla)
 - $v$ is the velocity of the wire ($ms^{-1}$)
@@ -140,17 +140,17 @@ A metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8
 
 #### Whakatika
 
-\begin{align*}
-    & V = BvL \newline
-    & V = 0.7 \times 8 \times 0.24 \newline
+\begin{aligned}
+    & V = BvL \\
+    & V = 0.7 \times 8 \times 0.24 \\
     & V = 1.344V
-\end{align*}
+\end{aligned}
 
-\begin{align*}
-    & V = IR \newline
-    & I = \frac{V}{R} \newline
+\begin{aligned}
+    & V = IR \\
+    & I = \frac{V}{R} \\
     & I = \frac{1.344}{10} = 0.1344A
-\end{align*}
+\end{aligned}
 ---
 
 ### Thought Whakamātau

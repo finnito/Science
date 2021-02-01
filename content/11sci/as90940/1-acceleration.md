@@ -35,10 +35,10 @@ __e.g.__ A supercar will accelerate to 50km/hr faster than a cyclist. That is to
 
 ## Calculating Acceleration
 
-\begin{align*}
-    acceleration &= \frac{\text{change in speed}}{\text{change in time}} \newline
-    a &= \frac{\Delta v}{\Delta t} \newline
-\end{align*}
+\begin{aligned}
+    acceleration &= \frac{\text{change in speed}}{\text{change in time}} \\
+    a &= \frac{\Delta v}{\Delta t} \\
+\end{aligned}
 
 - __Velocity__ ($v$) has units meters per second ($ms^{-1}$)
 - __Time__ ($t$) has units seconds ($s$)
@@ -48,18 +48,18 @@ __e.g.__ A supercar will accelerate to 50km/hr faster than a cyclist. That is to
 
 ## Rearranging Equations
 
-\begin{align*}
-    a &= \frac{\Delta v}{\Delta t} && \text{v is divided by t} \newline
-    a \times \Delta t &= \Delta v && \text{Undo the divide by multiplying} \newline
+\begin{aligned}
+    a &= \frac{\Delta v}{\Delta t} && \text{v is divided by t} \\
+    a \times \Delta t &= \Delta v && \text{Undo the divide by multiplying} \\
     \Delta t &= \frac{\Delta v}{a} && \text{Undo the multiplication by dividing}
-\end{align*}
+\end{aligned}
 
 
-\begin{align*}
-    v &= \frac{\Delta d}{\Delta t} && \text{d is divided by t} \newline
-    v \times \Delta t &= \Delta d && \text{Undo the divide by multiplying} \newline
+\begin{aligned}
+    v &= \frac{\Delta d}{\Delta t} && \text{d is divided by t} \\
+    v \times \Delta t &= \Delta d && \text{Undo the divide by multiplying} \\
     \Delta t &= \frac{\Delta d}{v} && \text{Undo the multiplication by dividing}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -113,11 +113,11 @@ A skydiver at rest jumps out of a plane. They accelerate at $9.8ms^{-2}$ until t
 2. __Unknowns:__ $\text{time (t)}$
 3. __Formula:__ $a = \frac{\Delta v}{\Delta t} = \frac{v_{f} - v_{i}}{\Delta t}$
 
-\begin{align*}
-    9.8 &= \frac{54 - 0}{t} \newline
-    9.8 \times t &=  54 \newline
+\begin{aligned}
+    9.8 &= \frac{54 - 0}{t} \\
+    9.8 \times t &=  54 \\
     t &= \frac{54}{9.8} = 5.51s
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -135,10 +135,10 @@ A runner is approaching the finish line, moving at $5.55ms^{-1}$ but needs to sp
 2. __Unknowns:__ $\text{acceleration (a)}$
 3. __Formula:__ $a = \frac{\Delta v}{\Delta t} = \frac{v_{f} - v_{i}}{\Delta t}$
 
-\begin{align*}
-    a &= \frac{6.3 - 5.55}{3} \newline
+\begin{aligned}
+    a &= \frac{6.3 - 5.55}{3} \\
     a &= \frac{0.75}{3} =  0.25ms^{-2}
-\end{align*}
+\end{aligned}
 
 ---
 

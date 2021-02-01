@@ -43,10 +43,10 @@ It causes the object to accelerate (or de-accelerate).
 
 We know this because of the equation
 
-\begin{align*}
-    force &= mass\times acceleration \newline
+\begin{aligned}
+    force &= mass\times acceleration \\
     F &= m \times a
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -54,9 +54,9 @@ We know this because of the equation
 
 For the followig equation give the __name__ and __unit__ for each variable in the equation.
 
-\begin{align*}
+\begin{aligned}
     & F = m \times a
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -85,19 +85,19 @@ The most classic case of pressure is sharpening a knife. Why do we sharpen knive
 
 Pressure is defined as: _the amount of force per square meter_.
 
-\begin{align*}
-    pressure &= \frac{force}{area} \newline
+\begin{aligned}
+    pressure &= \frac{force}{area} \\
     P &= \frac{F}{A}
-\end{align*}
+\end{aligned}
 
 - Force is measured in __Newtons (N)__
 - Area is measured in __meters squared ($m^{2}$)__
 
 ---
 
-\begin{align*}
+\begin{aligned}
     & P = \frac{F}{A}
-\end{align*}
+\end{aligned}
 
 - Therefore, pressure is measured in Newtons per meters squared ($\frac{N}{m^{2}}$ OR $Nm^{-2}$)
 - This is also known as a Pascal (Pa): $Pa = \frac{N}{m^{2}} = Nm^{-2}$
@@ -106,9 +106,9 @@ Pressure is defined as: _the amount of force per square meter_.
 
 ## Calculating Pressure
 
-\begin{align*}
+\begin{aligned}
     & P = \frac{F}{A}
-\end{align*}
+\end{aligned}
 
 1. Calculate the __pressure__ created by a force of $3N$ with an area of $0.5m^{2}$
 2. Calculate the __pressure__ created by a force of $3N$ with an area of $0.25m^{2}$
@@ -118,20 +118,20 @@ Pressure is defined as: _the amount of force per square meter_.
 
 ### Ngā Whakatika
 
-\begin{align*}
-    P &= \frac{F}{A} \newline
-    \text{1. } &P = \frac{3}{0.5} = 6Pa \newline
-    \text{2. } &P = \frac{3}{0.25} = 12Pa \newline
+\begin{aligned}
+    P &= \frac{F}{A} \\
+    \text{1. } &P = \frac{3}{0.5} = 6Pa \\
+    \text{2. } &P = \frac{3}{0.25} = 12Pa \\
     \text{3. } &P = \frac{3}{0.125} = 24Pa
-\end{align*}
+\end{aligned}
 
 ---
 
 ## Calculating Area
 
-\begin{align*}
+\begin{aligned}
     & P = \frac{F}{A}
-\end{align*}
+\end{aligned}
 
 4. Calculate the __area__ that a force ($5N$) is acting through if it has a pressure of $7Pa$
 5. Calculate the __area__ that a force ($7N$) is acting through if it has a pressure of $3Pa$
@@ -141,20 +141,20 @@ Pressure is defined as: _the amount of force per square meter_.
 
 ### Ngā Whakatika
 
-\begin{align*}
-    A &= \frac{F}{P} \newline
-    \text{4. } &A = \frac{5}{7} = 0.71m^{2} \newline
-    \text{5. } &A = \frac{7}{3} =  2.33m^{2} \newline
+\begin{aligned}
+    A &= \frac{F}{P} \\
+    \text{4. } &A = \frac{5}{7} = 0.71m^{2} \\
+    \text{5. } &A = \frac{7}{3} =  2.33m^{2} \\
     \text{6. } &A = \frac{10}{3} = 3.33m^{2}
-\end{align*}
+\end{aligned}
 
 ---
 
 ## Calculating Force
 
-\begin{align*}
+\begin{aligned}
     & P = \frac{F}{A}
-\end{align*}
+\end{aligned}
 
 7. Calculate the __force__ of an object with area $0.25m^{2}$ and pressure $5Pa$
 8. Calculate the __force__ of an object with area $0.5m^{2}$ and pressure $7Pa$
@@ -164,12 +164,12 @@ Pressure is defined as: _the amount of force per square meter_.
 
 ### Ngā Whakatika
 
-\begin{align*}
-    F &= P \times A \newline
-    & \text{7. } F &= 0.25 \times 5 = 1.25N \newline
-    & \text{8. } F &= 0.5 \times 7 = 3.5N \newline
+\begin{aligned}
+    F &= P \times A \\
+    & \text{7. } F &= 0.25 \times 5 = 1.25N \\
+    & \text{8. } F &= 0.5 \times 7 = 3.5N \\
     & \text{9. } F &= 0.75 \times 10 = 7.5N
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -203,13 +203,13 @@ Giovanni is running a 100m sprint. Each of his feet have a surface area of $200c
 
 Because __weight__ is a force, we know that we are looking for $F$.
 
-\begin{align*}
+\begin{aligned}
     P &= 13000Pa
-    A &= 0.02m^{2} \times 2 = 0.04m^{2} \newline
-    F &= P \times A \newline
-    F &= 13000 \times 0.04 \newline
+    A &= 0.02m^{2} \times 2 = 0.04m^{2} \\
+    F &= P \times A \\
+    F &= 13000 \times 0.04 \\
     F &= 520N
-\end{align*}
+\end{aligned}
 
 ---
 

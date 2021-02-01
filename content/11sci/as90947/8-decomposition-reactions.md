@@ -40,9 +40,9 @@ header-includes:
 
 ## Decomposition Reactions
 
-\begin{align*}
+\begin{aligned}
     AB \xrightarrow{heat} A + B
-\end{align*}
+\end{aligned}
 
 
 - A reaction where one compound is split apart to form two products. It is the reverse of __combination__ and a lot of energy is required for the reaction to occur.

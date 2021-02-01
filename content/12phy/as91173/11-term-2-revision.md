@@ -29,42 +29,42 @@ For both __cations__ and __anions__:
 
 ---
 
-\begin{align*}
+\begin{aligned}
     & E = \frac{V}{d}
-\end{align*}
+\end{aligned}
 
-\begin{align*}
-    & \vec{F} = \vec{E}q \newline
-\end{align*}
+\begin{aligned}
+    & \vec{F} = \vec{E}q \\
+\end{aligned}
 
 6. Draw a uniform electric field between two plates with a potential difference of $2,000V$ and distance of $25cm$.
 7. An object with charge $-0.75C$ is placed in the field. Calculate the force that will be exerted on it by the electric field.
 
 ---
 
-\begin{align*}
+\begin{aligned}
     & I = \frac{q}{t}
-\end{align*}
+\end{aligned}
 
 8. A current of $7A$ is flowing around a circuit. How many electrons are passing a point each second?
 9. How many electrons pass the same point in one hour?
 
 ---
 
-\begin{align*}
-    & P = IV \newline
+\begin{aligned}
+    & P = IV \\
     & V = IR
-\end{align*}
+\end{aligned}
 
 10. What is the resistance of a $6V$ bulb with $3A$ passing through it?
 11. What is the power of a $12V$ bulb with a resistance of $0.2\Omega$?
 
 ---
 
-\begin{align*}
+\begin{aligned}
     & R_{T} = R_{1} + R_{2} + R_{3} + ...
     & \frac{1}{R_{t}} = \frac{1}{R_{1}} + \frac{1}{R_{2}} + ...
-\end{align*}
+\end{aligned}
 
 ![](../assets/99-resistance-parallel.png){ width=75% }
 

@@ -59,9 +59,9 @@ What else do plants do?
 
 ### The Equation
 
-\begin{align*}
+\begin{aligned}
     \text{carbon dioxide} + \text{water} \xrightarrow{\text{light}} \text{sugar} + \text{oxygen} + \text{energy}
-\end{align*}
+\end{aligned}
 
 ---
 

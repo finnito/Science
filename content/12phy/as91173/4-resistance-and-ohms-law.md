@@ -28,27 +28,27 @@ Give the definition, symbol, unit and formula for the following:
 Recall that a circuit is an energy delivery system!
 
 ## Curent
-\begin{align*}
-    & current = \frac{charge}{time} \newline
+\begin{aligned}
+    & current = \frac{charge}{time} \\
     & I = \frac{q}{t}
-\end{align*}
+\end{aligned}
 
 ---
 
 ## Voltage
-\begin{align*}
-    & voltage = \frac{\text{Electric field strength}}{charge} \newline
+\begin{aligned}
+    & voltage = \frac{\text{Electric field strength}}{charge} \\
     & V = \frac{E}{q}
-\end{align*}
+\end{aligned}
 
 ---
 
 ## Power
 
-\begin{align*}
-    & power = current \times voltage \newline
+\begin{aligned}
+    & power = current \times voltage \\
     & P = IV
-\end{align*}
+\end{aligned}
 
 What are we missing?
 
@@ -91,10 +91,10 @@ The higher the resistance, the more heat produced!
 
 ## Ohm's Law
 
-\begin{align*}
-    & V = IR \newline
-    & voltage = current \times resistance \newline
-\end{align*}
+\begin{aligned}
+    & V = IR \\
+    & voltage = current \times resistance \\
+\end{aligned}
 
 - Voltage is measured in..
 - Current is measured in..
@@ -112,30 +112,30 @@ The higher the resistance, the more heat produced!
 
 ### Pātai Tahi Answer
 
-\begin{align*}
-    & V = IR \newline
-    & I = \frac{V}{R} \newline
-    & I = \frac{12}{1500} \newline
-    & I = 0.008A \newline
-\end{align*}
+\begin{aligned}
+    & V = IR \\
+    & I = \frac{V}{R} \\
+    & I = \frac{12}{1500} \\
+    & I = 0.008A \\
+\end{aligned}
 
 ---
 
 ### Pātai Rua Answer
 
-\begin{align*}
-    & V = IR \newline
-    & R = \frac{V}{I} \newline
-    & R = \frac{9}{0.00003} \newline
-    & R = 300000\Omega \newline
-\end{align*}
+\begin{aligned}
+    & V = IR \\
+    & R = \frac{V}{I} \\
+    & R = \frac{9}{0.00003} \\
+    & R = 300000\Omega \\
+\end{aligned}
 
 ---
 
 #### Pātai Toru Answer
 
-\begin{align*}
-    & V = IR \newline
-    & V = (180 \times 10^{-6}) \times (0.6 \times 10^{6}) \newline
-    & V = 108V \newline
-\end{align*}
+\begin{aligned}
+    & V = IR \\
+    & V = (180 \times 10^{-6}) \times (0.6 \times 10^{6}) \\
+    & V = 108V \\
+\end{aligned}

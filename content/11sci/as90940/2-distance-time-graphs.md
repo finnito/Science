@@ -44,11 +44,11 @@ In pairs, __describe__ the velocity of the object at A, B, C, D and E?
 
 ![](../assets/1-distance-time-graph.png "Distance-Time Graph")
 
-\begin{align*}
-    & v = \text{ gradient} \newline
-    & v = \frac{rise}{run} \newline
+\begin{aligned}
+    & v = \text{ gradient} \\
+    & v = \frac{rise}{run} \\
     & v = \frac{\Delta d}{\Delta t} = \frac{d_{f} - d_{i}}{t_{f} - t_{i}}
-\end{align*}
+\end{aligned}
 
 
 ---

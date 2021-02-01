@@ -31,21 +31,21 @@ header-includes:
 
 1. If a balloon has charge of $-3C$: did the balloon lose or gain electrons, and how many?
 
-\begin{align*}
-    & \text{Negative C means electrons are gained (negative charge)} \newline
-    & num_{e} = 3 \times (6.25 \times 10^{18}) \newline
+\begin{aligned}
+    & \text{Negative C means electrons are gained (negative charge)} \\
+    & num_{e} = 3 \times (6.25 \times 10^{18}) \\
     & num_{e} = 1.875 \times 10^{19} && \text{ electrons gained}
-\end{align*}
+\end{aligned}
 
 ---
 
 2. If Charlotte has charge of $0.2C$ did she lose or gain electrons and how many?
 
-\begin{align*}
-    & \text{Positive C means electrons are lost (positive charge)} \newline
-    & num_{e} = 0.2 \times (6.25 \times 10^{18}) \newline
+\begin{aligned}
+    & \text{Positive C means electrons are lost (positive charge)} \\
+    & num_{e} = 0.2 \times (6.25 \times 10^{18}) \\
     & num_{e} = 1.25 \times 10^{18} && \text{ electrons lost}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -61,10 +61,10 @@ header-includes:
 
 Electric fields exert a force on charged objects & particles.
 
-\begin{align*}
-    & \vec{E} = \frac{\vec{F}}{q} \newline
-    & \vec{Electric Field Strength} = \frac{Force}{Charge} \newline
-\end{align*}
+\begin{aligned}
+    & \vec{E} = \frac{\vec{F}}{q} \\
+    & \vec{Electric Field Strength} = \frac{Force}{Charge} \\
+\end{aligned}
 
 Therefore $\vec{E}$ has units of $\frac{N}{C}$ or $NC^{-1}$
 
@@ -100,11 +100,11 @@ A small charge of $2 \times 10^{-4}C$ experiences a force of $1.5\times10^{-4}N$
 
 A small charge of $2\times10^{-4}C$ experiences a force of $1.5\times10^{-4}N$. Calculate the electric field strength.
 
-\begin{align*}
-    & \vec{E} = \frac{\vec{F}}{q} \newline
-    & \vec{E} = \frac{1.5\times10^{-4}}{2\times10^{-4}} \newline
+\begin{aligned}
+    & \vec{E} = \frac{\vec{F}}{q} \\
+    & \vec{E} = \frac{1.5\times10^{-4}}{2\times10^{-4}} \\
     & \vec{E} = 0.75NC^{-1}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -114,21 +114,21 @@ Electric potential energy is akin to gravitational potential energy. Moving a ch
 
 Gravity Field:
 
-\begin{align*}
-    & W = F \times d \newline
-    & W = mg \times h \newline
+\begin{aligned}
+    & W = F \times d \\
+    & W = mg \times h \\
     & W = mgh = E_{p-grav}
-\end{align*}
+\end{aligned}
 
 ---
 
 Electric Field:
 
-\begin{align*}
-    & W = F \times d \newline
-    & W = Eq \times d \newline
+\begin{aligned}
+    & W = F \times d \\
+    & W = Eq \times d \\
     & W = Eqd = E_{p-elec}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -152,22 +152,22 @@ An object with charge $25 \times 10^{-6}C$ is placed in an electric field with s
 
 ---
 
-\begin{align*}
-    & \vec{E} = \frac{\vec{F}}{q} \newline
-    & 3000 = \frac{\vec{F}}{25 \times 10^{-6}} \newline
-    & \vec{F} = 3000 \times 25 \times 10^{-6} \newline
+\begin{aligned}
+    & \vec{E} = \frac{\vec{F}}{q} \\
+    & 3000 = \frac{\vec{F}}{25 \times 10^{-6}} \\
+    & \vec{F} = 3000 \times 25 \times 10^{-6} \\
     & \vec{F} = 0.075N
-\end{align*}
+\end{aligned}
 
 ---
 
 Because it moves against the field, it gains electric potential energy.
 
-\begin{align*}
-    & E_{p} = Eqd \newline
-    & E_{p} = 3000 \times 25 \times 10^{-6} \times 2 \newline
+\begin{aligned}
+    & E_{p} = Eqd \\
+    & E_{p} = 3000 \times 25 \times 10^{-6} \times 2 \\
     & E_{p} = 0.15J
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -175,9 +175,9 @@ Because it moves against the field, it gains electric potential energy.
 
 The electric potential energy stored __per unit of charge__. The amount of energy in one coulomb of charge.
 
-\begin{align*}
+\begin{aligned}
     & V = \frac{E_{p}}{q}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -185,12 +185,12 @@ The electric potential energy stored __per unit of charge__. The amount of energ
 
 We can also calculate the electric field strength between two plates.
 
-\begin{align*}
-    & \vec{E} = \frac{V}{d} \newline
-    & \vec{E} = \text{ electric field strength} \newline
-    & V = \text{ voltage applied on the two plates} \newline
+\begin{aligned}
+    & \vec{E} = \frac{V}{d} \\
+    & \vec{E} = \text{ electric field strength} \\
+    & V = \text{ voltage applied on the two plates} \\
     & d = \text{ distance between the two plates}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -211,21 +211,21 @@ An object with charge $-4 \mu C$ is placed between two charged plates $2cm$ apar
 
 1. Calculate the __electric field strength__ between the two charged plates
 
-\begin{align*}
-    & \vec{E} = \frac{\vec{V}}{d} \newline
-    & \vec{E} = \frac{500}{0.02} \newline
+\begin{aligned}
+    & \vec{E} = \frac{\vec{V}}{d} \\
+    & \vec{E} = \frac{500}{0.02} \\
     & \vec{E} = 25000NC^{-1}
-\end{align*}
+\end{aligned}
 
 ---
 
 2. Calculate the size of the force experienced by the charged object
 
-\begin{align*}
-    & \vec{F} = \vec{E}q \newline
-    & \vec{F} = 25000 \times -4 \times 10^{-6} \newline
+\begin{aligned}
+    & \vec{F} = \vec{E}q \\
+    & \vec{F} = 25000 \times -4 \times 10^{-6} \\
     & \vec{F} = -0.1N
-\end{align*}
+\end{aligned}
 
 ---
 

@@ -100,9 +100,9 @@ Match these types of energy and their definitions up in your book:
 
 The __Law of Energy Conservation__ is true throughout the universe, from the biggest to the smallest, and we have not yet found an exception.
 
-\begin{align*}
+\begin{aligned}
     & \text{Energy in} = \text{Energy out}
-\end{align*}
+\end{aligned}
 
 ---
 

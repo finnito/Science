@@ -61,15 +61,15 @@ Use the [PhET simulation](https://phet.colorado.edu/sims/html/circuit-constructi
 
 In series we can use this equation:
 
-\begin{align*}
+\begin{aligned}
     & R_{T} = R_{1} + R_{2} + R_{3} + ...
-\end{align*}
+\end{aligned}
 
 In parallel we can use this equation:
 
-\begin{align*}
+\begin{aligned}
     & \frac{1}{R_{t}} = \frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}} + ...
-\end{align*}
+\end{aligned}
 
 ---
 

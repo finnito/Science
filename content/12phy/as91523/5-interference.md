@@ -158,13 +158,13 @@ header-includes:
 
 ## Interference Formula {.c2}
 
-\begin{align*}
-    \theta &= \frac{x}{L} \newline
-    L \theta &= x \newline
-    L \frac{pd}{d} &= x \newline
-    L pd &= dx \newline
+\begin{aligned}
+    \theta &= \frac{x}{L} \\
+    L \theta &= x \\
+    L \frac{pd}{d} &= x \\
+    L pd &= dx \\
     pd &= \frac{dx}{L}
-\end{align*}
+\end{aligned}
 
 ![](../assets/interference-formulation.png)
 
@@ -176,9 +176,9 @@ $pd = n\lambda$ OR $pd = (n - \frac{1}{2})\lambda$
 
 ## Interference Formula {.c2}
 
-\begin{align*}
+\begin{aligned}
     pd &= \frac{dx}{L}
-\end{align*}
+\end{aligned}
 
 - $pd$ is path difference (m)
 - $d$ is source separation (m)
@@ -189,9 +189,9 @@ $pd = n\lambda$ OR $pd = (n - \frac{1}{2})\lambda$
 
 ## Interference Formula {.c2}
 
-\begin{align*}
+\begin{aligned}
     x = \frac{pdL}{d}
-\end{align*}
+\end{aligned}
 
 - as wavelength increases, so does the spacing (x)
 - as L increases, so does the spacing (x)

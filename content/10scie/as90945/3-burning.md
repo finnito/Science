@@ -45,10 +45,10 @@ How would you put this fire out?
 
 When something is burned, a chemical reaction occurs between the fuel and oxygen.
 
-\begin{align*}
-    & magnesium + oxygen \rightarrow \text{magnesium oxide} \newline
+\begin{aligned}
+    & magnesium + oxygen \rightarrow \text{magnesium oxide} \\
     & carbon + oxygen \rightarrow \text{carbon dioxide}
-\end{align*}
+\end{aligned}
 
 ---
 

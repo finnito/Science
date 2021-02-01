@@ -89,9 +89,9 @@ Copy this table into your own book and work in pairs to complete it.
 - The charge goes in a superscript <sup>like this</sup>.
 - The number goes before the charge.
 
-\begin{align*}
+\begin{aligned}
     O^{2-}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -100,10 +100,10 @@ Copy this table into your own book and work in pairs to complete it.
 - To make ionic compounds we need the numbers in the superscript to balance to zero.
 - To use more than one of an ion you use a subscript <sub>like this</sub>
 
-\begin{align*}
-    Na^{+} + Cl^{-} \rightarrow NaCl \newline
+\begin{aligned}
+    Na^{+} + Cl^{-} \rightarrow NaCl \\
     Cu^{2+} + 2OH^{-} \rightarrow Cu(OH)_{2}
-\end{align*}
+\end{aligned}
 
 ---
 
@@ -113,9 +113,9 @@ Copy this table into your own book and work in pairs to complete it.
 
 Your answer is simply to give the compound like this:
 
-\begin{align*}
+\begin{aligned}
     NaOH
-\end{align*}
+\end{aligned}
 
 ---
 
