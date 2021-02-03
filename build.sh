@@ -192,7 +192,6 @@ callPandoc() {
         --standalone \
         --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
         --incremental \
-        --data-dir=~/.pandoc \
         --variable=controls:false \
         --variable=progress:false \
         --variable=showSlideNumber:print \
