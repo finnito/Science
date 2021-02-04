@@ -31,6 +31,10 @@ header-includes:
 
 ---
 
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/MuKs9o1s8h8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ## Food Chains {.c2}
 
 - We can give the _energy_ relationship between many organisms as a __food chain__
@@ -77,6 +81,16 @@ header-includes:
 - Energy is lost through decomposition via decomposers, to be used by producers!
 
 ![[Source](https://en.wikipedia.org/wiki/Ecological_pyramid)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ecological_Pyramid.png/720px-Ecological_Pyramid.png)
+
+---
+
+### Ngohe: Ted-Ed
+
+1. Open Google Classroom and find the task on Feedback Loops
+2. Watch the video attached
+3. Answer the questions in the __Think__, __Dig Deeper__ and __Discuss__ sections
+
+[https://ed.ted.com/on/2h7WUzCk](https://ed.ted.com/on/2h7WUzCk)
 
 ---
 

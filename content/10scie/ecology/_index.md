@@ -40,10 +40,6 @@ menu:
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
-1. #### Intro 1
-
-2. #### Intro 2
-
 3. #### Symbiotic Relationships
     - __Whakaritenga__
         - Assign EP task on The Five Kingdoms
@@ -62,8 +58,11 @@ menu:
         1. Put a series of organisms into a food chain and explain the flow of energy
         2. Classify living things as producers, herbivores, carnivores, omnivores or decomposers
     - __Notes__
+        + First part of slides on Food Chains and Webs
     - __Task/Ngohe__
-    - __Whakamātau/Whakakite__
+        + TED-Ed task on Feedback Loops
+            * https://ed.ted.com/on/2h7WUzCk
+        + Clustering activity
 
 5. #### Food Chains and Webs
     - __Whakaritenga__
