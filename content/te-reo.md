@@ -28,10 +28,10 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Mahi Kāinga__: Homework
 - __Mahi Tuatahi__: Do Now/Starter
 - __Matapaki__: Discussion
+- __Ngohe__: Task/Activity
 - __Ngā Kirita__: Slides
 - __Ngā Mahere Akoranga__: Lesson Plans
 - __Ngā Whāinga Ako__: Learning Outcomes
-- __Ngohe__: Task/Activity
 - __Pātai__: Question
 - __Rangahau__: Research
 - __Tauira__: Example/Model
@@ -40,4 +40,5 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Tūhura__: Investigation
 - __Whakakite__: Demonstration
 - __Whakamātau__: Experiment
+- __Whakaritenga__: Preparation
 - __Whakatika__: Answer
