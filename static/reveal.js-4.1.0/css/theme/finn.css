@@ -137,7 +137,8 @@ body {
 .reveal .slides section.c2 p,
 .reveal .slides section.c2 div,
 .reveal .slides section.c2 figure,
-.reveal .slides section.c2 iframe {
+.reveal .slides section.c2 iframe,
+.reveal .slides section.c2 > span.math.display {
   flex-basis: calc(50% - 1em);
   /*margin: 0;*/
 }
@@ -147,7 +148,8 @@ body {
 .c2 ~ p,
 .c2 ~ div,
 .c2 ~ figure,
-.c2 ~ iframe {
+.c2 ~ iframe,
+.c2 ~ span.math {
   width: calc(50% - 1em);
   display: inline-block;
   margin: 0;
