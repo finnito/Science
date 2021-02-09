@@ -100,14 +100,14 @@ The kinetic energy is transferred into the ground, creating an impact crater and
 
 ## Gravitational Potential Energy / _Pūngao tō ā-papa_
 
-> The energy a potential an object has to fall in a gravitational field.
+> The potential an object has to fall in a gravitational field.
 
 \begin{aligned}
     E_{p} &= mass \times gravity \times height \\
     E_{p} &= m \times g \times h
 \end{aligned}
 
-<p class="instruction">Pātai: What can we change about a meteorite to give it more gravitational potential energy?</p>
+<p class="instruction">Pātai: What can we change about a meteoroid to give it more gravitational potential energy?</p>
 
 ---
 
