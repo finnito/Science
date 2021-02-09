@@ -77,6 +77,7 @@ menu:
     - __Whakaritenga__
         - Book experiment on Riskassess
         - Schedule [pond tūhura](https://docs.google.com/document/d/14CstMPyllRtjZN7aiDv-xwec3E8isDo2ds_AHkHiP50/edit#) on Classroom.
+            + https://www.riskassess.co.nz/risk_assessment/9185063
     - __Whakamātau/Whakakite__: Pond Tūhura
 
 7. #### Decomposers 1
@@ -87,12 +88,10 @@ menu:
     - __Te Whāinga Ako__:
         - Describe the structure of bacteria and Fungi, labelling the important structures
     - __Notes__:
-        - Structure 
-    - __Task/Ngohe__:
-        - TedEd: https://ed.ted.com/best_of_web/u5TXiYXi
+        - Structure of microbes
     - __Whakamātau/Whakakite__:
         - Growing microbes
-        - https://www.riskassess.co.nz/risk_assessment/7504169
+        - https://www.riskassess.co.nz/risk_assessment/9185719
 
 8. #### Decomposers 2
     - __Whakaritenga__

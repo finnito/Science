@@ -39,7 +39,7 @@ header-includes:
 
 - We can give the _energy_ relationship between many organisms as a __food chain__
 - Each step in the chain is called a __trophic level__
-- Energy flows from the bottom of the top
+- Energy flows from the bottom to the top
 
 ![[Source](https://commons.wikimedia.org/wiki/File:Simplified_food_chain.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Simplified_food_chain.svg/790px-Simplified_food_chain.svg.png)
 
@@ -50,7 +50,7 @@ header-includes:
 ![[Source](https://en.wikipedia.org/wiki/Ecological_pyramid)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ecological_Pyramid.png/720px-Ecological_Pyramid.png)
 
 - The first organism on a chain is a __producer__ who creates their own energy (usually through photosynthesis)
-- __Recall__: photosynthesis is then process of creating sugar and energy from sunlight!
+- __Recall__: photosynthesis is the process of creating sugar and energy from sunlight!
 
 ---
 
@@ -162,7 +162,7 @@ header-includes:
 
 - Changing the population of one trophic level can have a more complex impact on the food chain
 - E.g. An increase in heron could lead to a decrease in eel.
-- __Pātai:__ Discuss and explain why this is true in your book.
+- __Pātai:__ In pairs, discuss and explain why this is true in your book.
 
 ![[Source](https://teara.govt.nz/en/diagram/11628/freshwater-food-web)](https://teara.govt.nz/files/large_images/di-11628-enz.gif)
 
@@ -184,10 +184,10 @@ header-includes:
 
 ---
 
-## Mahi Kāinga: EP {.c2}
+## Mahi Kāinga: EP
 
 - Education Perfect Task on:
-    3. Producers
+    1. Producers
     2. Impact of Humans on New Zealand Wildlife
 
 <p class="instruction">When doing Education Perfect tasks, always take your time and makes notes on any new information in your exercise book! </p>
