@@ -254,40 +254,71 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 
 ---
 
+## Akoranga 6 Mahi Tuatahi {.c2}
+
+![](../assets/a6-mt.png)
+
+1. Sarah passes the soccer ball to Kya at a speed of $15ms^{-1}$. Kya then passes it off to Atua at a speed of $5ms^{-1}$. __Draw a vector diagram for this change in velocity__.
+2. Calculate the change in velocity
+3. Calculate the angle of the change
+
+---
+
+## Te Whāinga Ako
+
+1. Decompose vectors into horizontal and vertical components
+
+<p class="instruction">Write the date and te whāinga ako in your book</p>
+
+---
+
 ## Vector Components
 
-Similarly to how we create a _resultant vector_ from two vectors, we can decompose a vector into its horizontal and vertical components. We use SOH CAH TOA to do this!
+Similarly to how we create a _resultant vector_ by adding two vectors, we can decompose a vector on an angle into its horizontal and vertical components.
+
+- __Pātai__: Draw two vectors which _result_ in $\vec{C}$ and form a __right-angled triangle__.
+
+![](../assets/vector-components-1.png)
+
+---
+
+### Whakatika {.c2}
+
+![](../assets/vector-components-2.png)
+
+![](../assets/vector-components-3.png)
+
+---
+
+- This is an important skill because the __x__ and __y__ components of a vector are __independent__.
+- This means they do not influence each other, and often experience different accelerations
 
 ![Vector Decomposition](../assets/1-vector-decomposition.png)
 
 ---
 
-![Vector Decomposition](../assets/1-vector-decomposition.png)
+## Pātai {.c2}
 
-Take two minutes and find an equation for the horizontal component of the triangle using the hypotenuse and the angle.
+1. Mr Le Sueur tosses a ball across the classroom with an initial velocity of $4ms^{-1}$ (hypotenuse), on an angle of $40\degree$. __Draw a labelled vector diagram__
+2. Write an equation to find the horizontal component of the velocity
+3. Write an equation to find the vertical component of the velocity
+
+![Vector Decomposition](../assets/1-vector-decomposition.png)
 
 ---
 
-![Vector Decomposition](../assets/1-vector-decomposition.png)
+### Whakatika {.c2}
 
-To find the horizontal component:
+![Vector Decomposition](../assets/1-vector-decomposition.png)
 
 \begin{aligned}
-    & a = \frac{o}{tan(\theta)} \\
+    v_{x} &= v \times cos(\theta) && \text{Horizontal} \\
+    v_{y} &= v \times sin(\theta) && \text{Vertical}
 \end{aligned}
 
 ---
 
-![Vector Decomposition](../assets/1-vector-decomposition.png)
+## Textbook Pātai
 
-Take two minutes and find an equation for the vertical component of the triangle using the hypotenuse and the angle.
-
----
-
-![Vector Decomposition](../assets/1-vector-decomposition.png)
-
-To find the horizontal component:
-
-\begin{aligned}
-    & o = a \times tan(\theta) \\
-\end{aligned}
+- ESA Study Guide (2011): Page 108-109, Q8-12.
+- ESA Study Guide (2008): Page 98-99, Q8-12.

@@ -123,15 +123,14 @@ Homework is issued on a weekly basis. It should be completed in the back of your
         - ESA Study Guide (2008): Page 98-99, Q3, Q4, Q5, Q7, Q13.
         - Homework Q8
 
-6. ####
-    - __Whakaritenga__
-        -
+6. #### Vector Decomposition
     - __Te Whāinga Ako__
-        1.
+        1. Decompose vectors into horizontal and vertical components
     - __Notes__
-        - Slides:
+        - Slides: Last part of Vectors and Scalars notes
     - __Task/Ngohe__
-        -
+        - ESA Study Guide (2011): Page 108-109, Q8-12.
+        - ESA Study Guide (2008): Page 98-99, Q8-12.
 
 7. ####
     - __Whakaritenga__
