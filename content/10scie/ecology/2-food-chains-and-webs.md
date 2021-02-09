@@ -35,7 +35,7 @@ header-includes:
 
 ---
 
-## Food Chains {.c2}
+## Food Chains / _Raupapa Kame_ {.c2}
 
 - We can give the _energy_ relationship between many organisms as a __food chain__
 - Each step in the chain is called a __trophic level__
@@ -54,7 +54,7 @@ header-includes:
 
 ---
 
-#### Primary Consumers {.c2}
+#### Primary Consumers / _Kaikame_ {.c2}
 
 - Primary consumers gain their energy by eating _producers_
 - They are typically __herbivores__
@@ -135,7 +135,7 @@ header-includes:
 
 ---
 
-## Competition {.c2}
+## Competition / _Whakataetae_ {.c2}
 
 - At each trophic level, organisms compete with other (same and different species) for various resources.
     - Food
@@ -148,7 +148,7 @@ header-includes:
 
 ---
 
-## Food Webs {.c2}
+## Food Webs / _Māwhaiwhai Kame_ {.c2}
 
 - A food web is multiple interlinking food chains
 - It displays the energy flow between multiple different food chains

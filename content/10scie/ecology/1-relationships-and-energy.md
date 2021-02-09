@@ -30,7 +30,7 @@ header-includes:
 
 ---
 
-## Ecology {.c2}
+## Ecology / _Mātai Hauropi_ {.c2}
 
 - __Ecology__: It's all about transfer of energy
 - __Symbiotic__: A relationship which benefits both organisms
