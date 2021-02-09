@@ -132,25 +132,17 @@ Homework is issued on a weekly basis. It should be completed in the back of your
         - ESA Study Guide (2011): Page 108-109, Q8-12.
         - ESA Study Guide (2008): Page 98-99, Q8-12.
 
-7. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
+7. #### Vectors Practice
     - __Task/Ngohe__
-        -
+        - Complete any missed questions in textbook
+        - Homework booklet Q8, Q10, Q11
+        - Vectors & Relative Velocity Worksheet
 
-8. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
+8. #### Vectors Practice
     - __Task/Ngohe__
-        -
+        - Complete any missed questions in textbook
+        - Homework booklet Q8, Q10, Q11
+        - Vectors & Relative Velocity Worksheet
 
 9. ####
     - __Whakaritenga__
