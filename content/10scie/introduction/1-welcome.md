@@ -14,17 +14,6 @@ header-includes:
 - \usepackage{textcomp}
 ---
 
-## Who Am I?
-
-- Ko Te Poho-o-Tamatea te maunga
-- Ko Ōpāwaho te awa
-- Nō Te Tihi o kahukura ahau
-- Kei Ōtautahi te kāinga
-- Ko Finn LeSueur tōku ingoa
-- Nō reira, tēnā koe, tēnā koe, tēnā koe
-
----
-
 ## What am I about?
 
 ---
@@ -72,13 +61,11 @@ I have done my best to generate you all into a seating plan. This is to help me 
 |             | Science Fair   | Geology        | End of Year    |
 |             |                | Human Diseases |                |
 
-<p class="instruction">Glue your year planner into your book.</p>
-
 ---
 
-## Clear-files
+## Student Folders
 
-<p class="instruction">Name your clear-file with your form class code and my teacher code (LSF)</p>
+<p class="instruction">Name your folder with your form class code and my teacher code (LSF)</p>
 
 E.g. __Doctor Who (10ABC) with LSF.__
 
@@ -127,3 +114,7 @@ We will store all of your assessments in these folders so you can use them later
 - I write all my teaching notes on a website which is _always_ available to you. I will link the notes from Google Classroom
 
 <p class="instruction">Open and bookmark this URL: https://putaiao.lesueur.nz</p>
+
+---
+
+[Kahoot!](https://create.kahoot.it/details/96821dcd-b542-491c-9a61-c3630969e990)
