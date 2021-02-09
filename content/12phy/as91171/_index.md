@@ -83,45 +83,45 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     - __Task/Ngohe__
         - Student profile form
 
-2. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
+2. #### Speed, Acceleration & Vectors
+    - __Ngā Whāinga Ako__
+        1. Review speed and acceleration calculations
+        2. Introduce vectors and scalars
     - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+        - Slides: Second half of speed and acceleration slides
+        - First part of vectors slides
 
-3. ####
+3. #### Vector Addition
     - __Whakaritenga__
-        -
+        - Photocopy vectors worksheet
     - __Te Whāinga Ako__
-        1.
+        1. Introduce vector addition
     - __Notes__
-        - Slides:
+        - Continue vector slides
     - __Task/Ngohe__
-        -
+        - Vectors worksheet
 
-4. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
+4. #### Vector Addition and Subtraction
+    - __Ngā Whāinga Ako__
+        1. Complete practical vector addition examples
+        2. Introduce vector subtraction
+        3. Calculate vector $\Delta$
     - __Notes__
-        - Slides:
+        - Slides: Middle 3rd of the Scalars and Vectors notes. Stopping at vector components.
     - __Task/Ngohe__
-        -
+        - ESA Study Guide (2011): Page 108-109, Q3, Q4, Q5, Q7, Q13.
+        - ESA Study Guide (2008): Page 98-99, Q3, Q4, Q5, Q7, Q13.
 
-5. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
+5. #### Vector Addition, Subtraction, and Bearings
+    - __Ngā Whāinga Ako__
+        1. Practice Vector Addition and Subtraction
+        2. Use trigonometry to give vector bearings in degrees
     - __Notes__
-        - Slides:
+        - Slides: Short section on using SOH CAH TOA
     - __Task/Ngohe__
-        -
+        - ESA Study Guide (2011): Page 108-109, Q3, Q4, Q5, Q7, Q13.
+        - ESA Study Guide (2008): Page 98-99, Q3, Q4, Q5, Q7, Q13.
+        - Homework Q8
 
 6. ####
     - __Whakaritenga__

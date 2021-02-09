@@ -2,34 +2,15 @@
 title: Vectors
 subtitle: 12PHYS - Mechanics
 author: Finn LeSueur
-date: 2020
+date: 2021
 theme: finn
 weight: 3
 slug: scalars-vs-vectors
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
-## Te Whāinga Ako
+## Pātai: Scalars vs Vectors
 
-1. Review basic speed and acceleration calculations.
-
-<p class="instruction">Write the date and te whāinga ako in your book</p>
-
----
-
-## Akoranga 2 Mahi Tuatahi
-
-Mr LeSueur is cycling at a speed of $4ms^{-1}$ and starts to accelerate. If he accelerates at $3ms^{-2}$, how long will it take for him to reach a speed of $12ms^{-1}$?
-
----
-
-## Scalar Quantities vs Vector Quantities
-
-Think about and discuss the similarities and differences between these two situations:
+In pairs, think about and discuss the similarities and differences between these two questions:
 
 - Mr Chu puts 40 apples inside a box, except Miss Nam eats two of them. What is the total number of apples inside the box?
 - Mrs Carpenter lifts a plant off her desk with a force of $15N$ in the upwards direction, while the plant has a weight force of $5N$ acting down. What is the total force applied on the plant?
@@ -40,12 +21,27 @@ Think about and discuss the similarities and differences between these two situa
 
 ---
 
-- __Scalar__ = size only
-- __Vector__ = size + direction
+## What is a Vector?
+
+- __Scalar__ = size only (e.g. mass)
+- __Vector__ = size + direction (e.g. velocity)
+
+<p class="instruction">Discuss with your partner the difference between velocity and speed.</p>
 
 ---
 
 ## Distance vs Displacement
+
+- __Distance__ is the amount an object has moved
+    + It is a scalar
+    + E.g. 3km
+- __Displacement__ is the distance from start to finish in a straight line
+    + It is a vector, because direction is also important
+    + E.g. 3km south west
+
+---
+
+### Pātai
 
 Ella drives to Sumner beach in the weekend because it is far too hot. She drives $5km$ south and $10km$ west to get there.
 
@@ -54,8 +50,20 @@ Ella drives to Sumner beach in the weekend because it is far too hot. She drives
 
 ---
 
-- __Distance__ is scalar because it only involves the __size__ and not the direction.
-- __Displacement__ is a __vector__ quantity because it involves both __size and direction__.
+#### Whakatika
+
+- Distance: $d = 5km + 10km = 15km$
+- Displacement: ?
+
+![[Source]()](../assets/displacement-diagram.png)
+
+---
+
+## Akoranga 3 Te Whāinga Ako
+
+1. Introduce vector addition
+
+<p class="instruction">Write the date and te whāinga ako in your book</p>
 
 ---
 
@@ -66,6 +74,7 @@ Ella drives to Sumner beach in the weekend because it is far too hot. She drives
 - Speed
 - Velocity
 - Acceleration
+- Momentum
 
 ---
 
@@ -74,37 +83,13 @@ Ella drives to Sumner beach in the weekend because it is far too hot. She drives
 - Temperature
 - Mass
 - Work
-
----
-
 - Power
-- Momentum
 
 ---
 
 When dealing with problems which involve vector quantities (e.g. calculating velocity, force, etc.), you must consider the size and direction.
 
-Which means: __YOU MUST USE VECTOR CALCULATIONS  and/or VECTOR DIAGRAMS.__
-
----
-
-A car is driven 3 km east for 200 seconds,  then 4 km south for 250 seconds, then 3 km west for 150 seconds.
-
-1. What is the total distance the car has travelled?
-2. What is the total displacement of the car?
-3. What is the average speed of the car?
-4. What is the average velocity of the car?
-
----
-
-### Textbook Activity 8A
-
----
-
-## Mahi Tuatahi
-
-1. A bird flies $3km$ to the est and then $4km$ to the south. Find the resultant __displacement__ of the bird.
-2. The bird takes $35min$ to complete the flight. Calculate its average __speed__ and __velocity__ in meters per second.
+Which means: __YOU MUST USE VECTOR CALCULATIONS and/or VECTOR DIAGRAMS.__
 
 ---
 
@@ -119,23 +104,74 @@ A car is driven 3 km east for 200 seconds,  then 4 km south for 250 seconds, the
 
 - Drawn head-to-tail
 - Can be added an subtracted
-- Use pythagoras and SOH CAH TOA to find values
+- Use Pythagoras and SOH CAH TOA to find values
 
 ---
 
 ### Vector Addition
 
-To add vectors, we simply draw a the next vector from the _arrowhead_ of the previous one.
+- To add vectors, we simply draw a the next vector from the _arrowhead_ of the previous one.
+- Draw the resultant vector from start to finish in a separate colour.
+- Important: The resultant vector should be pointing from start position to finish position
 
 ![Vector Addition](../assets/1-vector-addition.gif)
 
 ---
 
+### Vectors Worksheet
+
+![[Source](http://reepingdavid.weebly.com/2-adding-vectors.html)](http://reepingdavid.weebly.com/uploads/2/7/2/3/27230509/243940_orig.gif)
+
+---
+
+## Vector Addition Pātai Tahi
+
+A car is driven 3 km east for 200 seconds,  then 4 km south for 250 seconds, then 3 km west for 150 seconds.
+
+1. What is the total distance the car has travelled?
+2. What is the total displacement of the car?
+3. What is the average speed of the car?
+4. What is the average velocity of the car?
+
+\begin{aligned}
+    speed = \frac{distance}{time} \newline
+    velocity = \frac{displacement}{time}
+\end{aligned}
+
+---
+
+## Akoranga 4 Mahi Tuatahi
+
+1. [https://quizlet.com/au/566254686/vectors-and-scalars-flash-cards/](https://quizlet.com/au/566254686/vectors-and-scalars-flash-cards/)
+
+---
+
+## Ngā Whāinga Ako
+
+1. Complete practical vector addition examples
+2. Introduce vector subtraction
+3. Calculate vector $\Delta$
+
+<p class="instruction">Write the date and ngā whāinga ako in your book</p>
+
+
+---
+
+## Vector Addition Pātai Rua
+
+1. A bird flies $3km$ to the east and then $4km$ to the south. Find the resultant __displacement__ of the bird.
+2. The bird takes $35min$ to complete the flight. Calculate its average __speed__ and __velocity__ in meters per second.
+
+---
+
 ### Vector Subtraction
 
-Think about acceleration: acceleration is in the position direction while deceleration is in the negative direction.
+Consider acceleration:
 
-Alternatively we can call this, negative and positive acceleration. All the __negative__ sign does is change the direction. This is the same with vectors.
+- Positive acceleration will increase speed
+- Negative acceleration will decrease speed
+- Pātai: What is different?
+- Whakatika: The direction!
 
 ---
 
@@ -144,8 +180,11 @@ Alternatively we can call this, negative and positive acceleration. All the __ne
 This works because of algebra:
 
 \begin{aligned}
-    & a - b = a + -b \\
+    & a - b = a + (-b) \\
+    & 1 - 4 = 1 + (-4) = -3
 \end{aligned}
+
+> Vector subtraction is simply vector addition, where the subtracted vectors have their directions flipped.
 
 ---
 
@@ -157,28 +196,61 @@ Velocity is a vector and a change ($\Delta$) is calculated like this:
     & \Delta v = v_{f} - v_{i} \\
 \end{aligned}
 
-Can we turn this into __vector addition__?
-
----
-
-### $\Delta$ v
+Pātai: Can we turn this into __vector addition__?
 
 \begin{aligned}
     & \Delta v = v_{f} - v_{i} \\
     & \Delta v = v_{f} + (-v_{i}) \\
 \end{aligned}
 
-What does making negative $v_{i}$ do to the vector?
+---
 
-:::notes
-It mirrors its direction.
-:::
+#### Example / _Tauria Tahi_
+
+A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebounds at $4ms^{-1}$ in the opposite direction away from the crossbar. 
+
+1. Draw a vector diagram illustrating this
+2. Determine the ball's change in velocity using the $\Delta v$ equation
+    - Remember to use __K,U,F,S,S__
 
 ---
 
-#### Example / _Tauria_
+## Ngā Whāinga Ako
 
-A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebounds at $4ms^{-1}$ in the opposite direction away from the crossbar. Determine the ball's change in velocity.
+1. Practice Vector Addition and Subtraction
+2. Use trigonometry to give vector bearings in degrees
+
+<p class="instruction">Write the date and ngā whāinga ako in your book</p>
+
+---
+
+## Mahi Tuatahi {.c2}
+
+1. Mr Le Sueur walked his dog up Mt Barossa on Sunday. He first walked 1.5km East (30min) and then 2.5km North (1hr 15min). __Draw a vector diagram__
+2. Calculate his __average speed__
+3. Calculate his __average velocity__
+4. Give the __direction__ he travelled using an angle and a cardinal direction (e.g. 10 deg north of west).
+
+![](../assets/IMG_1836.jpeg)
+
+---
+
+## Finding Directions {.c2}
+
+![](../assets/trigonometry.png)
+
+- __SOH__: $sin(\theta) \times hyp = opp$
+- __CAH__: $cos(\theta) \times hyp = adj$
+- __TOA__: $tan(\theta) \times adj = opp$
+
+<p class="instruction">Make sure your calculator is in degrees NOT radians!</p>
+
+---
+
+#### Textbook Questions
+
+- ESA Study Guide: Page 108-109, Q3, Q4, Q5, Q7, Q13.
+- __Extra__: Homework booklet Q8
 
 ---
 

@@ -58,6 +58,8 @@ slug: speed-and-acceleration
 - Bailey can run $420m$ in $1 minute$
 - Caleb can run $510m$ in $1.5 minutes$
 
+<!-- FIX: Add whakatika -->
+
 ---
 
 ## Average Speed
@@ -191,6 +193,15 @@ The formula $v = \frac{d}{t}$ can only be used to calculate __average velocity__
 
 ---
 
+## Ngā Whāinga Ako
+
+1. Review basic acceleration calculations.
+2. Cover a basic introduction vectors.
+
+<p class="instruction">Write the date and ngā whāinga ako in your book</p>
+
+---
+
 ## Acceleration
 
 > The rate of change in speed
@@ -233,35 +244,50 @@ This is the difference between the __initial__ and the __final__ value.
 A man initially walking at $2.0ms^{-1}$ notices that his house is on fire so he speeds up to $11ms^{-1}$ in $1.3s$.
 
 1. Calculate the change in speed
-2. Calculate the acceleration
+2. Calculate his acceleration
 
 ---
 
-### Whakatika
+### Whakatika 1
 
 \begin{aligned}
-    & \Delta v = v_{f} - v_{i} \\
-    & \Delta v = 11 - 2 = 9ms^{-1} \\
-    & \\
-    & a = \frac{\Delta v }{t} \\
-    & a = \frac{9}{1.3} = 6.9ms^{-2}
+    & v_{f} = 11ms^{-1}, v_{i} = 2ms^{-1} && \text{Knowns}\\
+    & \Delta v = ? && \text{Unknowns}\\
+    & \Delta v = v_{f} - v_{i} && \text{Formula}\\
+    & \Delta v = 11 - 2 = 9ms^{-1} && \text{Sub and Solve}
 \end{aligned}
 
 ---
 
-### Pātai
+### Whakatika 2
+
+\begin{aligned}
+    & \Delta v = 9ms^{-1}, t = 1.3s && \text{Knowns}  \\
+    & a = ? && \text{Unknowns} \\
+    & a = \frac{\Delta v }{t} && \text{Formula} \\
+    & a = \frac{9}{1.3} = 6.9ms^{-2} && \text{Sub and Solve} 
+\end{aligned}
+
+---
+
+### Akoranga 2 Mahi Tuatahi
 
 A cyclist who has been travelling at a steady speed of $4ms^{-1}$ starts to accelerate. If he accelerates at $2.5ms^{-2}$, how long will he take to reach a speed of $24ms^{-1}$?
+
+__K,U,F,S,S__
 
 ---
 
 #### Whakatika
 
 \begin{aligned}
-    & a = \frac{\Delta v}{t} \\
-    & t = \frac{\Delta v}{a} \\
-    & t = \frac{24 - 4}{2.5} \\
-    & t = 8s
+    & v_{i} = 4ms^{-1}, v_{f} = 24ms^{-1}, a = 2.5ms^{-2} && \text{Knowns} \\
+    & t = ? && \text{Unknowns} \\
+    & a = \frac{\Delta v}{t} && \text{Formula} \\
+    & t = \frac{\Delta v}{a} && \text{Rearrange by swapping a and t} \\
+    & t = \frac{v_{f}-v_{i}}{a} && \text{Expand Δv} \\
+    & t = \frac{24 - 4}{2.5} && \text{Substitute} \\
+    & t = 8s && \text{Solve}
 \end{aligned}
 
 ---
@@ -276,10 +302,12 @@ A cyclist who has been travelling at a steady speed of $4ms^{-1}$ starts to acce
 __Whakatika 1__
 
 \begin{aligned}
-    & a = \frac{v_{f} - v_{i}}{t} \\
-    & a \times t = v_{f} - v_{i} \\
+    & v_{i} = 12.7ms^{-1}, a = 1.3ms^{-2}, t = 60s && \text{Knowns} \\
+    & v_{f} = ? && \text{Unknowns} \\
+    & a = \frac{v_{f} - v_{i}}{t} && \text{Formula} \\
+    & a \times t = v_{f} - v_{i} && \text{Rearrange for final v} \\
     & v_{f} = (a \times t) + v_{i} \\
-    & v_{f} = (1.3 \times 60) + 12.7 = 90.7ms^{-1}
+    & v_{f} = (1.3 \times 60) + 12.7 = 90.7ms^{-1} && \text{Sub and solve}
 \end{aligned}
 
 ---
@@ -287,8 +315,12 @@ __Whakatika 1__
 __Whakatika 2__
 
 \begin{aligned}
-    & a = \frac{v_{f} - v_{i}}{t} \\
-    & a \times t = v_{f} - v_{i} \\
+    & a = -1.8ms^{-2}, t = 9.4s, v_{f} = 0ms^{-1} && \text{Knowns} \\
+    & v_{i} = ? && \text{Unknowns} \\
+    & a = \frac{v_{f} - v_{i}}{t} && \text{Formula} \\
+    & a \times t = v_{f} - v_{i} && \text{Rearrange for initial v} \\
     & v_{i} = v_{f} - (a \times t) \\
-    & v_{i} = 0 - (-1.8 \times 9.4) = -16.92ms^{-1}
+    & v_{i} = 0 - (-1.8 \times 9.4) = 16.92ms^{-1} && \text{Sub and solve}
 \end{aligned}
+
+<p class="instruction">Discuss with the person next to you, the relevance of the positive and negative signs.</p>
