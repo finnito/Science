@@ -34,6 +34,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Ngā Whāinga Ako__: Learning Outcomes
 - __Pātai__: Question
 - __Rangahau__: Research
+- __Tākaro__: Game
 - __Tauira__: Example/Model
 - __Te Reo__: Maori
 - __Te/Ngā__: The (singular)/the (plural)
