@@ -81,7 +81,6 @@ menu:
     - __Whakamātau/Whakakite__: Pond Tūhura
 
 7. #### Decomposers 1
-    - Whakamātau: 
     - __Wakaritenga__
         - Print [bacteria diagrams](https://docs.google.com/document/d/10Cp7YlAZh6VqtHsZhmekcB6Q1bh4aas0CAeAWvZjYh0/edit)
         - Print [fungi diagrams](https://docs.google.com/document/d/1Ir_-ohrYsWO8NFetddZnF6oViemniX0NOR9iFUyuW_k/edit)
@@ -92,6 +91,8 @@ menu:
     - __Whakamātau/Whakakite__:
         - Growing microbes
         - https://www.riskassess.co.nz/risk_assessment/9185719
+    - __Tākaro__
+        + [Quizizz](https://quizizz.com/admin/quiz/5da70b66a3aff9001ae28612/producer-consumer-decomposers)
 
 8. #### Decomposers 2
     - __Whakaritenga__

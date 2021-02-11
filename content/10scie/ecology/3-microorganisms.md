@@ -33,49 +33,52 @@ header-includes:
 
 ## Micro-Organisms {.c2}
 
+![[Source](https://en.wikipedia.org/wiki/Microorganism)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/E_coli_at_10000x%2C_original.jpg/500px-E_coli_at_10000x%2C_original.jpg)
+
 - Micro-organisms/microbes are too small to see with the naked eye
 - They are either unicellular (made of one cell), or a small group of cells
 - Two main categories: bacteria and fungi
-
-![[Source](https://en.wikipedia.org/wiki/Microorganism)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/E_coli_at_10000x%2C_original.jpg/500px-E_coli_at_10000x%2C_original.jpg)
 
 ---
 
 ### Bacteria {.c2}
 
+![[Source](https://en.wikipedia.org/wiki/Bacteria)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/EscherichiaColi_NIAID.jpg/440px-EscherichiaColi_NIAID.jpg)
+
 - Single celled organism (unicellular)
 - Typically a few micrometers in size ($0.000001m$)
 - Come in many different shapes (e.g. spirals, rods, spheres)
-
-![[Source](https://en.wikipedia.org/wiki/Bacteria)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/EscherichiaColi_NIAID.jpg/440px-EscherichiaColi_NIAID.jpg)
 
 ---
 
 #### Structure of Bacteria {.c2}
 
-- Stick in your unlabelled bacteria diagram
-
 ![[Source]()](../assets/bacteria-lettered.png)
 
----
-
-Label these structures!
-
-- Vacuole
-- Nucleus
-- Cell membrane
-- Cytoplasm
-- Mitochondria
+- Stick in your unlabelled bacteria diagram
+- Label these structures!
+    + Vacuole
+    + Nucleus
+    + Cell membrane
+    + Cytoplasm
+    + Mitochondria
 
 ---
 
 ### Fungi (Decomposers) {.c2}
 
+![[Source](https://en.wikipedia.org/wiki/Fungus)](https://upload.wikimedia.org/wikipedia/commons/f/fc/Fungi_collage.jpg)
+
 - Made of clusters of cells
 - Fungi are sometimes too small to see, but once the group of cells gets too large it becomes visible to the naked eye
 - Get their food by absorbing dissolved organic molecules
 
-![[Source](https://en.wikipedia.org/wiki/Fungus)](https://upload.wikimedia.org/wikipedia/commons/f/fc/Fungi_collage.jpg)
+---
+
+## Function of Fungi
+
+-  Fungi exist in ecosystems to break down dead organic matter into small molecules that are able to be be used by other living things
+-  This is so that energy and nutrients can be reused!
 
 ---
 
@@ -90,10 +93,22 @@ Label these structures!
 
 ---
 
-## Function of Fungi
+## Tūhura: Fungi {.c2}
 
--  Fungi exist in ecosystems to break down dead organic matter into small molecules that are able to be be used by other living things
--  This is so that energy and nutrients can be reused!
+1. In desk pairs, collect a bag, slice of bread and permanent marker
+2. Write your names on the bag
+3. Write the date (12/02/2021)
+4. Choose a place/thing to wipe the bread on - put this label on your bread
+    - __Everyone should do somewhere different__
+5. Expose the bread to your surface, seal the bag and pin it to the board!
+
+![[Source](https://interestingengineering.com/white-bread-mold-experiment-teaches-the-importance-of-washing-hands)](https://inteng-storage.s3.amazonaws.com/img/iea/94w5MN8Dwo/sizes/bread-mold_resize_md.jpg)
+
+---
+
+## Tākaro/Game
+
+Open [https://joinmyquiz.com](https://quizizz.com/admin/quiz/5da70b66a3aff9001ae28612/producer-consumer-decomposers) and get ready to play!
 
 ---
 

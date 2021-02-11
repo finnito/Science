@@ -191,3 +191,11 @@ header-includes:
     2. Impact of Humans on New Zealand Wildlife
 
 <p class="instruction">When doing Education Perfect tasks, always take your time and makes notes on any new information in your exercise book! </p>
+
+---
+
+## Akoranga 4 Mahi Tuatahi
+
+1. Open the __Food Web Activity__ on Google Classroom
+2. Complete the activity in the next 10 minutes and __Hand In__
+3. Open the Pond Organisms Tūhura/Investigation document
