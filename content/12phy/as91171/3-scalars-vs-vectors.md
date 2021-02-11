@@ -239,9 +239,9 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 
 ![](../assets/trigonometry.png)
 
-- __SOH__: $sin(\theta) \times hyp = opp$
-- __CAH__: $cos(\theta) \times hyp = adj$
-- __TOA__: $tan(\theta) \times adj = opp$
+- __SOH__: $sin(\theta) = \frac{opp}{hyp}$
+- __CAH__: $cos(\theta) = \frac{adj}{hyp}$
+- __TOA__: $tan(\theta) = \frac{opp}{adj}$
 
 <p class="instruction">Make sure your calculator is in degrees NOT radians!</p>
 
@@ -261,6 +261,15 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 1. Sarah passes the soccer ball to Kya at a speed of $15ms^{-1}$. Kya then passes it off to Atua at a speed of $5ms^{-1}$. __Draw a vector diagram for this change in velocity__.
 2. Calculate the change in velocity
 3. Calculate the angle of the change
+
+---
+
+## Akoranga 6 Mahi Tuatahi Rua {.c2}
+
+![](../assets/6-mt2.png)
+
+1. A cyclist is heading down a hill at $14ms^{-1}$ S, before going around a sharp $90\degree$ bend, after which they are going $29ms^{-1}$ W. __Draw the vectors $v_{f}$, $v_{i}$, $-v_{f}$ and $-v_{i}$__
+2. Calculate their change in velocity (including direction) using a vector diagram, Pythagoreas theorem and trigonometry. 
 
 ---
 
