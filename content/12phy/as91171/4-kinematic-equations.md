@@ -24,6 +24,14 @@ A car initially travelling at $13ms^{-1}$ rolls down a straight slope, accelerat
 
 ---
 
+## Te Whāinga Ako
+
+1. Be able to use 5 kinematic equations to solve problems.
+
+<p class="instruction">Write the date and te whāinga ako in your book</p>
+
+---
+
 ## Kinematic Equations
 
 Five variables - five equations!
@@ -36,21 +44,20 @@ Five variables - five equations!
     & d = v_{f}t - \frac{1}{2}at^{2}
 \end{aligned}
 
----
-
-### How to Solve Equations
-
-1. Knowns
-2. Unknown
-3. Formula
-4. Substitute
-5. Solve!
+<p class="instruction">In your book, using a page in landscape, re-arrange each equation for each different variable!</p>
 
 ---
 
-Try again:
+## Pātai Tahi:
 
 A car initially travelling at $13ms^{-1}$ rolls down a straight slope, accelerating at $0.6 ms^{-2}$ for $10 s$. How far does the car travel in this time?
+
+\begin{aligned}
+    &  && \text{Knowns}  \\
+    &  && \text{Unknowns} \\
+    &  && \text{Formula} \\
+    &  && \text{Sub and Solve} 
+\end{aligned}
 
 ---
 
@@ -76,7 +83,7 @@ Which formula does not include $v_{f}$?
 
 ---
 
-__Step Four - "subtitute"__
+__Step Four - "substitute"__
 
 \begin{aligned}
     & d = v_{f}t + \frac{1}{2}at^{2} \\
@@ -95,18 +102,40 @@ __Step Five - "solve"__
 
 ---
 
-Here is another question…
+## Pātai Rua
 
 A windsurfer initially travelling at $3 ms^{-1}$ is accelerated by a strong wind gust, at $0.08 ms^{-2}$. What would be the windsurfer’s speed when he has travelled $100 m$ since the wind gust started?
 
-KUFSS – SHOW ALL WORKING
+\begin{aligned}
+    &  && \text{Knowns}  \\
+    &  && \text{Unknowns} \\
+    &  && \text{Formula} \\
+    &  && \text{Sub and Solve} 
+\end{aligned}
 
 ---
 
-Try this now:
+## Pātai Toru
 
 What time does it take for an airplane to decelerate uniformly from $120 ms^{-1}$ to a stop if the distance covered along the runway is $1500 m$?
 
+\begin{aligned}
+    &  && \text{Knowns}  \\
+    &  && \text{Unknowns} \\
+    &  && \text{Formula} \\
+    &  && \text{Sub and Solve} 
+\end{aligned}
+
 ---
 
-Worksheet #5 (Q1, 2 and 3 only)
+## Mahi Kāinga
+
+Kinematics Question 1, due Monday 22nd/Tuesday 23rd
+
+---
+
+## Whakawai/Practice
+
+- Worksheet #5 (Q1, 2 and 3 only)
+- Homework booklet Q2, Q3, Q4, Q5a, Q6a-6b, Q7
+

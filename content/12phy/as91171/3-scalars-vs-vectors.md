@@ -281,10 +281,9 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 
 ---
 
-## Vector Components
+## Vector Components {.c2}
 
-Similarly to how we create a _resultant vector_ by adding two vectors, we can decompose a vector on an angle into its horizontal and vertical components.
-
+- Similarly to how we create a _resultant vector_ by adding two vectors, we can decompose a vector on an angle into its horizontal and vertical components.
 - __Pātai__: Draw two vectors which _result_ in $\vec{C}$ and form a __right-angled triangle__.
 
 ![](../assets/vector-components-1.png)
@@ -308,15 +307,15 @@ Similarly to how we create a _resultant vector_ by adding two vectors, we can de
 
 ## Pātai {.c2}
 
+![Vector Decomposition](../assets/1-vector-decomposition.png)
+
 1. Mr Le Sueur tosses a ball across the classroom with an initial velocity of $4ms^{-1}$ (hypotenuse), on an angle of $40\degree$. __Draw a labelled vector diagram__
 2. Write an equation to find the horizontal component of the velocity
 3. Write an equation to find the vertical component of the velocity
 
-![Vector Decomposition](../assets/1-vector-decomposition.png)
-
 ---
 
-### Whakatika {.c2}
+### Whakatika
 
 ![Vector Decomposition](../assets/1-vector-decomposition.png)
 

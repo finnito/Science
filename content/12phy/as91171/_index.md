@@ -19,7 +19,7 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 <mark>Tutorials are weekly in A3 on Tuesday and Thursday. Bring your lunch and your questions if you get stuck with the homework!</mark>
 
 1. __Monday, February 15th__: Vectors Question 9
-2. __Monday, February 22nd__: 
+2. __Monday, February 22nd__: Kinematics Question 1
 3. __Monday, March 1st__: 
 4. __Monday, March 8th__: 
 5. __Monday, March 15th__: 
@@ -144,15 +144,19 @@ Homework is issued on a weekly basis. It should be completed in the back of your
         - Homework booklet Q8, Q10, Q11
         - Vectors & Relative Velocity Worksheet
 
-9. ####
+9. #### Kinematics 1
     - __Whakaritenga__
-        -
+        - Print kinematic worksheet 5
     - __Te Whāinga Ako__
-        1.
+        1. Be able to use 5 kinematic equations to solve problems.
     - __Notes__
-        - Slides:
+        - Slides: Kinematics slides
     - __Task/Ngohe__
-        -
+        - 3x practice questions in slides
+        - Rearranging practice in slides
+        - Worksheet 5
+        - Homework book questions
+        - Mahi kāinga issued
 
 10. ####
     - __Whakaritenga__
