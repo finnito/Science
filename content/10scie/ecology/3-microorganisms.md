@@ -62,6 +62,7 @@ header-includes:
     + Cell membrane
     + Cytoplasm
     + Mitochondria
+    + Lipid globules
 
 ---
 
@@ -122,7 +123,7 @@ Open [https://joinmyquiz.com](https://quizizz.com/admin/quiz/5da70b66a3aff9001ae
 
 ## Ngā Whāinga Ako
 
-1. Describe how bacterial feed by extra-cellular digestion
+1. Describe how fungi feed by extra-cellular digestion
 2. Describe the role and importance of decomposers in an ecosystem
 
 <p class="instruction">Write the date and ngā whāinga ako in your book</p>
@@ -131,8 +132,7 @@ Open [https://joinmyquiz.com](https://quizizz.com/admin/quiz/5da70b66a3aff9001ae
 
 ### Why are Decomposers Important? {.c2}
 
-- They allow energy and nutrients to be recycled through an ecosystem
-- Without them, the energy and nutrients would be lost, and we would have to have more _producers_ to get more energy into the system
+They allow energy and nutrients to be recycled through an ecosystem.
 
 ![[Source](https://en.wikipedia.org/wiki/Ecological_pyramid)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ecological_Pyramid.png/720px-Ecological_Pyramid.png)
 
@@ -144,16 +144,17 @@ Open [https://joinmyquiz.com](https://quizizz.com/admin/quiz/5da70b66a3aff9001ae
 
 - __Cell membrane__: a semi-permeable membrane
 - What does _semi-permeable_ mean?
-- Only some things (semi) can go through it (permeable)! Typically very small molecules
+- Only some things (semi) can go through it (permeable)!
+- Extra (_outside_), cellular (_cell_), digestion (_break down_)
 
 ---
 
 ### {.c2}
 
-- Biology often uses carbohydrates (long chains of sugar molecules bound together)
-- It is hard to absorb such large molecules through a membrane, so extracellular digestion is needed to break the carbohydrates into smaller sugars
+![[Source](https://www.youtube.com/watch?v=Sg1eFxZjTTQ)](https://i.ytimg.com/vi/Sg1eFxZjTTQ/maxresdefault.jpg)
 
-![[Source](https://www.sciencelearn.org.nz/resources/1840-digestive-enzymes)](https://static.sciencelearn.org.nz/images/images/000/001/726/embed/COD_SCI_ART_03_DigestionEnzymes_StarchToGlucosePathway.jpg)
+- Most food is made of large carbohydrate molecules
+- It is hard to absorb such large molecules through the membrane, so extracellular digestion is needed to break the carbohydrates into smaller sugars
 
 ---
 
@@ -161,8 +162,8 @@ Open [https://joinmyquiz.com](https://quizizz.com/admin/quiz/5da70b66a3aff9001ae
 
 ![[Source](https://www.sciencelearn.org.nz/resources/1840-digestive-enzymes)](https://static.sciencelearn.org.nz/images/images/000/002/260/embed/COD_LKC_ART_04_DigestiveEnzymes_cropped.jpg)
 
-- Humans, bacteria, fungi and other organisms all use __enzymes__ to break down molecules in extracellular digestion.
-- Enzymes are molecules that can perform specific functions in biology e.g break some molecules down!
+- Humans, bacteria, fungi and other organisms all use/creat __enzymes__ to break down molecules in extracellular digestion.
+- Enzymes are molecular machines that can perform specific functions in biology e.g break some molecules down (or join them together)!
 
 ---
 
