@@ -43,3 +43,4 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Whakamātau__: Experiment
 - __Whakaritenga__: Preparation
 - __Whakatika__: Answer
+- __Whakawai__: Practise
