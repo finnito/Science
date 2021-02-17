@@ -138,7 +138,8 @@ body {
 .reveal .slides section.c2 div,
 .reveal .slides section.c2 figure,
 .reveal .slides section.c2 iframe,
-.reveal .slides section.c2 > span.math.display {
+.reveal .slides section.c2 > span.math.display,
+.reveal .slides section.c2 blockquote {
   flex-basis: calc(50% - 1em);
   /*margin: 0;*/
 }
@@ -148,8 +149,9 @@ body {
 .c2 ~ p,
 .c2 ~ div,
 .c2 ~ figure,
-.c2 ~ iframe,
-.c2 ~ span.math {
+.reveal .c2 ~ iframe,
+.c2 ~ span.math,
+.c2 ~ blockquote {
   width: calc(50% - 1em);
   display: inline-block;
   margin: 0;
@@ -205,8 +207,7 @@ body {
 
 /* Ensure certain elements are never larger than the slide itself */
 .reveal img,
-.reveal video,
-.reveal iframe {
+.reveal video {
   max-width: 100%;
   max-height: 55vh;
   margin: auto;
