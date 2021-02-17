@@ -5,7 +5,7 @@ author: Finn LeSueur
 date: 2019
 theme: finn
 colortheme: dolphin
-weight: 8
+weight: 5
 slug: projectile-motion
 font-size: 35px
 text-align: center
@@ -16,26 +16,44 @@ header-includes:
 - \usepackage{amsmath}
 ---
 
-# Do Now: Vector Recap
-1. Yssy travels 30km south and then 20km west. Draw a vector diagram to show her total displacement.
-2. Max and Lena are pushing a box. Max is pushing it with force 500N to the right, and Lena is pushing it with force 400N up. Draw a vector diagram to show the net force.
-3. Phoebe is flying at $7ms^{-1}$ east. Phoebe changes direction so she flying at $7ms^{-1}$ south. Draw a vectoer diagram to show the change in velocity of Phoebe.
+## Akoranga 10 Mahi Tuatahi
+
+1. Yssy travels 30km south and then 20km west. Draw a vector diagram to show her total __displacement (resultant)__.
+2. Max and Lena are pushing a box. Max is pushing it with force 500N to the right, and Lena is pushing it with force 400N up. Draw a vector diagram to show the __net (resultant) force__.
+3. Phoebe is flying at $7ms^{-1}$ east. Phoebe changes direction so she flying at $7ms^{-1}$ south. Draw a vector diagram to show the __change in velocity__ of Phoebe.
 
 ---
 
-# Projectile Motion
-Projectile motion can be thought of as _motion under gravity_.
+## Te Whāinga Ako
+
+1. Be able to describe the motion of an object undergoing projectile motion.
+
+<p class="instruction">Write the date and te whāinga ako in your book</p>
 
 ---
+
+### Whakamātau/Experiment {.c2}
+
+- First, watch this clip and count how many seconds the student was in the air for
+- Second, open Google Classroom and find the Projectile Motion whakamātau/experiment.
+
+<iframe width="791" height="445" src="https://www.youtube.com/embed/dgM9V3lEZvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Projectile Motion
+
+> Motion under gravity.
 
 ![](../assets/ideal-world-meme.jpg){ width=75% }
 
 ---
 
-# Step 1: Describing Velocity
-To get into projectile motion we first need to correctly describe the velocity and acceleration of an object in motion.
+### Pātai: Describing Velocity
 
-A ball is thrown vertically upwards. __Describe the direction of the ball's velocity when:__
+To get into projectile motion we first need to correctly describe the _velocity_ and _acceleration_ of an object in motion.
+
+A ball is thrown vertically upwards. __In pairs on a whiteboard, draw a diagram and describe the direction of the ball's velocity and acceleration when:__
 
 1. It is going up,
 2. it is going down,
@@ -43,37 +61,42 @@ A ball is thrown vertically upwards. __Describe the direction of the ball's velo
 
 ---
 
-__Describe the direction of the ball's acceleration when it is:__
+#### Whakatika {.c2}
 
-1. Going up,
-2. going down,
-3. at the highest point.
+![[Velocity](https://physicsinbaseballl.weebly.com/projectile-motion.html)](https://physicsinbaseballl.weebly.com/uploads/1/5/2/3/15231458/3075613.jpg?525)
+
+![[Acceleration](https://physicsinbaseballl.weebly.com/projectile-motion.html)](https://physicsinbaseballl.weebly.com/uploads/1/5/2/3/15231458/3075613.jpg?525)
 
 ---
 
-# Forces on The Ball
+### Forces on The Ball
 We assume that friction force is negligible (we ignore it).
 
-Therefore, _the only force_ acting upon the ball while in the air is the *__weight force__*.
+Therefore, _the only force_ acting upon the ball while in the air is the __weight force__.
 
-\begin{equation}
-	F_{net} = F_{weight}
-\end{equation}
+\begin{aligned}
+    F_{net} = F_{weight}
+\end{aligned}
 
-The ball experiences a constant downwards acceleration ($-9.8ms^{-2}$) at all times.
+The ball experiences a constant downwards acceleration ($-9.8ms^{-2}$) at all times, and __no__ acceleration in the horizontal direction.
 
 ---
 
-# Acceleration Due to Gravity
-\begin{equation}
+### Acceleration Due to Gravity
+
+\begin{aligned}
 	g = 9.8ms^{-2}
-\end{equation}
+\end{aligned}
 
-The acceleration of any object in the air without its own power source.
+> The acceleration of any object in the air without its own power source.
 
 ---
 
-# So, Projectile Motion
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/E43-CfukEgs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### So, Projectile Motion
 
 - An object what moves through the air __without its own power source__,
 - only force acting upon it is the __weight force__,
@@ -81,8 +104,9 @@ The acceleration of any object in the air without its own power source.
 
 ---
 
-# Question
-A ball is thrown upwards with an inital speed of __161.3km/hr ($44.8ms^{-1}$)__.
+### Pātai Tahi
+
+A ball is thrown upwards with an initial speed of __161.3km/hr ($44.8ms^{-1}$)__.
 
 1. How long does it take for the ball to reach its highest point?
 2. How high does the ball rise?
@@ -91,7 +115,8 @@ __Remember:__ Knowns, Unknowns, Formula, Substitute, Solve
 
 ---
 
-# Question
+### Pātai Rua
+
 Lachie kicks a rugby ball straight upwards. It is in the air for __10.6s__ before it hits the ground.
 
 1. What is the inital velocity of the ball?
@@ -145,9 +170,9 @@ Therefore, the cannon ball does not experience any forces in the horizontal dire
 
 # Summary
 
-\begin{equation}
+\begin{aligned}
 	Projectile Motion = Vertial Motion + Horizontal Motion
-\end{equation}
+\end{aligned}
 
 ## Vertical Motion
 Constant downwards acceleration of $-9.8ms^{-2}$.

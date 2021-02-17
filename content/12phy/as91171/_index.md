@@ -154,29 +154,29 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     - __Task/Ngohe__
         - 3x practice questions in slides
         - Rearranging practice in slides
-        - Worksheet 5
-        - Homework book questions
         - Mahi kāinga issued
 
-10. ####
+10. #### Kinematics 2
     - __Whakaritenga__
-        -
+        - Print kinematics worksheet 5
     - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
+        1. Be able to use 5 kinematic equations to solve problems.
     - __Task/Ngohe__
-        -
+        - Kinematics worksheet 5 questions
+        - Homework booklet questions
+        - Textbook questions
 
-11. ####
+11. #### Projectile Motion 1
     - __Whakaritenga__
-        -
+        - Print projectile motion tūhura/introduction investigation sheets
     - __Te Whāinga Ako__
-        1.
+        1. Be able to describe the motion of an object undergoing projectile motion
     - __Notes__
         - Slides:
     - __Task/Ngohe__
         -
+    - __Tūhura__
+        + Projectile introduction (time up and down)
 
 12. ####
     - __Whakaritenga__
