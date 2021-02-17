@@ -122,6 +122,7 @@ menu:
 10. #### Biotic & Abiotic Factors
     - __Whakaritenga__
         + Schedule quiz on Classroom
+        + Print page 25 (word list) for hit the board tākaro
     - __Te Whāinga Ako__
         + Define the terms and give examples of abiotic and biotic factors that affect organisms
     - __Notes__
@@ -131,7 +132,7 @@ menu:
             * Word list on page 25: https://www.torontozoo.com/pdfs/AquaLinks%20lesson%202.pdf
         + Quiz: https://docs.google.com/forms/d/e/1FAIpQLSeXWTbqanvwaw9LhSHly1T6NclxOapqAHsMP-ZhhNcE9jhREg/viewform
     - __Tūhura__
-        - ?Observing microbes
+        - Observe microbes growing on bread
 
 11. #### Adaptations 1
     - __Te Whāinga Ako__: Define and list some structural, behavioural and physiological adaptation for different plants and animals.

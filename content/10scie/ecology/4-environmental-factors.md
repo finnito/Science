@@ -52,7 +52,7 @@ header-includes:
 
 ### Abiotic Factors
 
-> non-living chemical and physical factors in the environment
+> Non-living chemical and physical factors in the environment
 
 - Water, light wind, soil, humidity, minerals, gases, pH, salinity
 
@@ -65,12 +65,10 @@ header-includes:
 
 ---
 
-## Quiz
+## Kēmu Patapatai/Quiz
 
 <p class="instruction">Open Google Classroom on your device and complete the Google Forms quiz there</p>
 
 ---
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/rNjPI84sApQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
