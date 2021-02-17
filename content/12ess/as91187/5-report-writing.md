@@ -38,6 +38,8 @@ E.g. I think that _______ will [increase/decrease] when the ______ is [increased
 
 Be specific about your description and units. E.g. We will change the concentration of the $HCl$ measured in $mol$.
 
+---
+
 > __Dependent Variable(s)__: The variable(s) being measured.
 
 You _can_ measure multiple variables, but generally only measure one. Be specific about what you will measure and the units the measurement will be gathered in.
@@ -45,8 +47,6 @@ You _can_ measure multiple variables, but generally only measure one. Be specifi
 E.g We will measure the time taken to produce $10ml$ of carbon dioxide gas.
 
 ---
-
-### Variables Continued
 
 > __Control Variable(s)__: Things that you are keeping __constant__ in between trials.
 
@@ -66,8 +66,19 @@ E.g. The concentration of the $HCl$ used, the volume of $HCl$ used, the test tub
 |                            |                                                       Reliability                                                        |                                                     Validity                                                     |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | __What does it tell you?__ | The extent to which the __results can be reproduced__ when the research is repeated under the same conditions.           | The extent to which the results really measure what they are supposed to measure.                                |
+
+---
+
+|                            |                                                       Reliability                                                        |                                                     Validity                                                     |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | __How is it assessed?__    | By checking the __consistency of results__ across time, across different observers, and across parts of the test itself. | By checking __how well the results correspond to established theories__ and other measures of the same concept.  |
+
+---
+
+|                            |                                                       Reliability                                                        |                                                     Validity                                                     |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | __How do they relate?__    | __A reliable measurement is not always valid__: the results might be reproducible, but they’re not necessarily correct.  | __A valid measurement is generally reliable__: if a test produces accurate results, they should be reproducible. |
+
 
 ---
 
