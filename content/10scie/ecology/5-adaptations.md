@@ -18,7 +18,7 @@ header-includes:
 
 1. Describe the role of the raccoon in the food web
 2. What are some resources that the raccoon will compete with other raccoons for?
-3. __Discuss__: What makes one raccoon able to compete better than other raccoons?
+3. __Discuss__: Why can some racoons compete for resources better than other racoons?
 
 ![[Source](https://www.expii.com/t/food-web-definition-examples-10293)](https://d20khd7ddkh5ls.cloudfront.net/food_web_transfer_of_energy.jpg)
 
