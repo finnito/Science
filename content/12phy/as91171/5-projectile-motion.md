@@ -2,18 +2,10 @@
 title: Projectile Motion
 subtitle: 12PHYS - Mechanics
 author: Finn LeSueur
-date: 2019
+date: 2021
 theme: finn
-colortheme: dolphin
 weight: 5
 slug: projectile-motion
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
 ## Akoranga 10 Mahi Tuatahi
@@ -70,9 +62,9 @@ A ball is thrown vertically upwards. __In pairs on a whiteboard, draw a diagram 
 ---
 
 ### Forces on The Ball
-We assume that friction force is negligible (we ignore it).
 
-Therefore, _the only force_ acting upon the ball while in the air is the __weight force__.
+- We assume that friction force is negligible (we ignore it).
+- Therefore, _the only force_ acting upon the ball while in the air is the __weight force__.
 
 \begin{aligned}
     F_{net} = F_{weight}
@@ -106,7 +98,7 @@ The ball experiences a constant downwards acceleration ($-9.8ms^{-2}$) at all ti
 
 ### Pātai Tahi
 
-A ball is thrown upwards with an initial speed of __161.3km/hr ($44.8ms^{-1}$)__.
+A ball is thrown upwards with an initial speed of $161.3km/hr$ ($44.8ms^{-1}$).
 
 1. How long does it take for the ball to reach its highest point?
 2. How high does the ball rise?
@@ -117,9 +109,9 @@ __Remember:__ Knowns, Unknowns, Formula, Substitute, Solve
 
 ### Pātai Rua
 
-Lachie kicks a rugby ball straight upwards. It is in the air for __10.6s__ before it hits the ground.
+Lachie kicks a rugby ball straight upwards. It is in the air for $10.6s$ before it hits the ground.
 
-1. What is the inital velocity of the ball?
+1. What is the initial velocity of the ball?
 2. How high does the ball rise?
 
 __Remember:__ Knowns, Unknowns, Formula, Substitute, Solve
@@ -127,7 +119,7 @@ __Remember:__ Knowns, Unknowns, Formula, Substitute, Solve
 ---
 
 # Question
-Angus is going cliff diving. He jumps and falls for __3.4s__ before hitting the water below.
+Angus is going cliff diving. He jumps and falls for $3.4s$ before hitting the water below.
 
 1. What is his __initial velocity__?
 2. What is his __acceleration__?

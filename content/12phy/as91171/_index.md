@@ -172,9 +172,9 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     - __Te Whāinga Ako__
         1. Be able to describe the motion of an object undergoing projectile motion
     - __Notes__
-        - Slides:
+        - Slides: First few describing the acceleration and velocity of objects in projectile motion
     - __Task/Ngohe__
-        -
+        - Calculate the height that the boy is thrown by Hancock
     - __Tūhura__
         + Projectile introduction (time up and down)
 
