@@ -7,7 +7,7 @@ theme: finn
 colortheme: dolphin
 font-size: 35px
 text-align: center
-weight: 9
+weight: 5
 slug: torque-and-equilibrium
 header-includes:
 - \usepackage{graphicx}
