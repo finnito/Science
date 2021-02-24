@@ -139,6 +139,10 @@ menu:
     - __Notes__: First half of the adaptations slides
     - __Tūhura__
         + [Adaptations of the Human Hand](https://docs.google.com/document/d/1XgrqlQbGcGYhUZ_Q3zFdvjiyXL9CXKbXnf7Np06JH_k/edit)
+    - __Tākaro__
+        + https://create.kahoot.it/details/0e0d4b34-e6ea-48f0-8b69-95e35d92de4c
+    - __Topenga Ataata__
+        + https://www.youtube.com/watch?v=ZT8YswmQuAg
 
 12. #### Adaptations 2
     - __Te Whāinga Ako__: Relate an organisms adaptations back to its niche

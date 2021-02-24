@@ -71,10 +71,6 @@ header-includes:
 
 ---
 
-<iframe width="1280" height="723" src="https://www.youtube.com/embed/b-iGZPtWXzE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
 ## Akoranga 12 Mahi Tuatahi Tahi
 
 ![[Source](https://www.storyboardthat.com/lesson-plans/adaptation/label-diagram)](../assets/polarbear-unlabelled.png)
@@ -120,6 +116,10 @@ header-includes:
 ![[Source](https://www.storyboardthat.com/lesson-plans/adaptation/label-diagram)](../assets/camel.png)
 
 <p class="instruction">Extra: Categorise the adaptations into behavioural/physiological/structural</p>
+
+---
+
+<iframe width="944" height="531" src="https://www.youtube.com/embed/2WuB8BhUJrc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
