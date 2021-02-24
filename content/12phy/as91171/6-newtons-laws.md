@@ -76,3 +76,31 @@ __TLDR__: Objects exert an opposite and equal force as a kind of _support_.
 ---
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/8yis7GzlXNM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Pātai
+
+With the person next to you, write a paragraph describing how Newton's 1st and 2nd Laws relate to projectile motion.
+
+---
+
+### Whakatika
+
+- Newton's 1st Law
+    + __A non-zero net force will induce a change in velocity (an acceleration)__
+    + In the x-direction there are no forces acting (friction is negligible), and in the y-direction there is only the weight force of the object. This means the resultant force is in the downwards direction.
+    + An acceleration is therefore induced in the downwards direction (constant).
+
+---
+
+- Newton's 2nd Law
+    + __The acceleration created by a force depends directly upon the mass of the object.__
+    + In Earth's gravitational field at sea level, $g=9.81ms^{-2}$ at all times, and therefore the object is accelerated uniformly down.
+
+---
+
+## Whakawai/Practise
+
+- Try Q1-3 of Activity 10A: Using Newton's Laws in your textbook.
+- Draw a diagram each time!
