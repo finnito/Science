@@ -151,13 +151,13 @@ The kinetic energy is transferred into the ground, creating an impact crater and
 
 ---
 
-<iframe width="1083" height="609" src="https://www.youtube.com/embed/TuDfZ2Md5x8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1256" height="628" src="https://www.youtube.com/embed/4Wrc4fHSCpw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-## Pātai
+## Akoranga 5 Mahi Tuatahi
 
-What are some characteristics of a crater that could change depending on the energy of the impact?
+1. Brainstorm some characteristics of a crater that could change depending on the energy of the impact?
 
 ---
 
@@ -167,15 +167,6 @@ What are some characteristics of a crater that could change depending on the ene
 - Crater width
 - Amount/volume of debris ejected
 - Distance that debris is ejected
-
----
-
-## Ngohe: Google Earth Tour {.c2}
-
-1. Open Google Classroom and find the Google Earth link
-2. Follow through the tour -- make sure to __read more__ on each stop!
-
-![[Source](https://thecrystalcouncil.com/crystals/nwa-4420-meteorite)](https://the-crystal-council.sfo2.digitaloceanspaces.com/prod/105/585de2c5636a3c34a9a706bd61e447b3.jpg)
 
 ---
 
@@ -199,13 +190,38 @@ Typically to increase the energy of an impact in a simulation we increase the he
     v = \sqrt{2 \times g \times h}
 \end{aligned}
 
+![[Source](https://thecrystalcouncil.com/crystals/nwa-4420-meteorite)](https://the-crystal-council.sfo2.digitaloceanspaces.com/prod/105/585de2c5636a3c34a9a706bd61e447b3.jpg)
+
 - This gives the _theoretical_ impact velocity of a rock dropped within Earth's gravitational field.
 - __Pātai__: What assumption are we making here?
 - __Whakatika__: That energy is conserved
 - __Pātai__: What happens to some of that energy?
 - __Whakatika__: That some energy is lost to the atmosphere as light/heat/sound.
+- __Whakakapi/Conclusion__: Real-world velocity is less than the theoretical maximum velocity.
+
+---
+
+## Pātai
+
+\begin{aligned}
+    v &= \sqrt{2 \times g \times h} \\
+    E_{k} &= \frac{1}{2} \times m \times v^{2}
+\end{aligned}
+
+1. Calculate the impact speed of an object dropped from $1m$
+2. Calculate the impact speed of an object dropped from $2m$
+3. Calculate the impact speed of an object dropped from $5m$
+4. Calculate the impact kinetic energy of a $10kg$ object travelling at $3000ms^{-1}$
+5. Calculate the impact kinetic energy of a $750kg$ object travelling at $5000ms^{-1}$
+
+---
+
+## Ngohe: Google Earth Tour {.c2}
 
 ![[Source](https://thecrystalcouncil.com/crystals/nwa-4420-meteorite)](https://the-crystal-council.sfo2.digitaloceanspaces.com/prod/105/585de2c5636a3c34a9a706bd61e447b3.jpg)
+
+1. Open Google Classroom and find the Google Earth link
+2. Follow through the tour -- make sure to __read more__ on each stop!
 
 ---
 

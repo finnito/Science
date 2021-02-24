@@ -67,10 +67,16 @@ weight: 1
         + In-slides questions
         + [Google Earth Tour](https://earth.google.com/web/search/asteroid/@75.14572977,-86.45796331,594.85074296a,904799.365801d,35y,359.90708308h,0t,0r/data=ClkSLxIgMTlkNWY5MDBlMTE5MTFlOGJmODQxNWJiNDVkZTkwZTEiC3ZveV9wb2ludF8xIiYKJAm6igd3ufJFwBFfe4uqRPNFwBnsRb_ttp1lQCFuFiRGYp1lQA)
         + [Quizizz](https://quizizz.com/admin/presentation/5fcd762e8e241c001b80de03/meteoroids-meteor-or-meteorites)
-5. #### Impact Craters on Earth
+5. #### Conservation of Energy and Impact Craters on Earth
     - __Ngā Whāinga Ako__
-        - Identify how the formation of impact craters differs on Earth, the Moon & Mars
+        - Identify the formation of impact craters on Earth
         - Explain why meteorites are found easily in Antarctica
+    - __Ngohe__
+        + Finish video on asteroids to worry about
+        + Notes on conservation of energy/impact energy
+        + Google Earth tour
+        + [Quizizz](https://quizizz.com/admin/presentation/5fcd762e8e241c001b80de03/meteoroids-meteor-or-meteorites)
+
 6. #### Impact Craters in Space
     - __Te Whāinga Ako__
         - Identify how the formation of impact craters differs on Earth, the Moon & Mars
