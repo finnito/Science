@@ -88,11 +88,18 @@ The ball experiences a constant downwards acceleration ($-9.8ms^{-2}$) at all ti
 
 ---
 
+## Mahi Tuatahi
+
+Calculate the height that your ball reached yesterday in your experiment
+
+---
+
 ### So, Projectile Motion
 
-- An object what moves through the air __without its own power source__,
+- An object that moves through the air __without its own power source__,
 - only force acting upon it is the __weight force__,
-- always experiencing __downward acceleration of $9.8ms^{-2}$__.
+- always experiencing __downward acceleration of $9.8ms^{-2}$__,
+- motion up/down is symmetrical.
 
 ---
 
@@ -118,7 +125,8 @@ __Remember:__ Knowns, Unknowns, Formula, Substitute, Solve
 
 ---
 
-# Question
+### Pātai Toru
+
 Angus is going cliff diving. He jumps and falls for $3.4s$ before hitting the water below.
 
 1. What is his __initial velocity__?
@@ -130,37 +138,37 @@ __Remember:__ Knowns, Unknowns, Formula, Substitute, Solve
 
 ---
 
-# A Classic: The Cannon Ball Question
+### Whakawai/Practise
 
-A cannon ball is fired horizontally from the top of a hill.
-The velocity of the cannon ball is split into two components:
-
-1. __Vertical motion__, and
-2. __horizontal motion__.
-
-__Note__ - These motions are __independent of each other__. That is, they do not affect each other.
+- Complete Worksheet 5
+- Textbook Activity 8C Q1-6
+- __Manatu/Remember__: Homework Kinematics Q1 due Tuesday!
 
 ---
 
-# Vertical Motion
+## 2-D Kinematics: The Cannon Ball Question
 
-__Recall:__ once in motion, the only force acting upon the cannon ball is the __weight force__. We are assuming friction is negligible.
+> A cannon ball is fired horizontally from the top of a hill. The velocity of the cannon ball is split into $x$ and $y$ components, which are independent of each other.
 
-Therefore:
-
-The cannon ball is experiencing a constant downward acceleration of $g=-9.8ms^{-2}$.
+![[Source](https://www.texasgateway.org/resource/53-projectile-motion)](https://d1yqpar94jqbqm.cloudfront.net/styles/media_full/s3/images/598c9cdae7991341071f858a98f8ed29b02a04fd.jpg?itok=aKgosno9)
 
 ---
 
-# Horizontal Motion
+### Vertical Motion
 
-__Recall:__ once in motion, the only force acting upon the cannon ball is the __weight force__. We are assuming friction is negligible.
-
-Therefore, the cannon ball does not experience any forces in the horizontal direction. Therefore it does not accelerate in the horizontal direction.
+- __Recall:__ once in motion, the only force acting upon the cannon ball is the __weight force__. We are assuming friction is negligible.
+- Therefore: the cannon ball is experiencing a constant downward acceleration of $g=-9.8ms^{-2}$.
 
 ---
 
-# Summary
+### Horizontal Motion
+
+- __Recall:__ once in motion, the only force acting upon the cannon ball is the __weight force__. We are assuming friction is negligible.
+- Therefore, the cannon ball does not experience any forces in the horizontal direction. Therefore it does not accelerate in the horizontal direction.
+
+---
+
+### Summary
 
 \begin{aligned}
 	Projectile Motion = Vertial Motion + Horizontal Motion
@@ -174,12 +182,14 @@ No acceleration, therefore constant speed. $v_{i} = v_{f}$
 
 ---
 
-# Thought Whakamātau
-If the cannon ball is fired with a __greated horizontal velocity__ will it take longer to hit the ground?
+# Thought Whakamātau/Experiment
+
+If the cannon ball is fired with a __greater horizontal velocity__ will it take longer to hit the ground?
 
 ---
 
-# Question
+# Pātai
+
 A marble rolls of a desk of height 1.25m and with $v_{x} = 1.6ms^{-1}$.
 
 1. Calculate the __duration of the fall__.
