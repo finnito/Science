@@ -21,7 +21,7 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 1. __Monday, February 15th__: Vectors Question 9
 2. __Monday, February 22nd__: Kinematics Question 1
 3. __Monday, March 1st__: 
-4. __Monday, March 8th__: 
+4. __Monday, March 8th__: Projectile Motion Q19, Q20
 5. __Monday, March 15th__: 
 6. __Monday, March 22nd__: 
 7. __Monday, March 29th__: 
