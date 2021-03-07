@@ -24,9 +24,13 @@ header-includes:
 
 ## Te Whāinga Ako
 
-1. Describe the role and importance of decomposers in an ecosystem
+1. Describe the carbon cycle and its importance.
 
 <p class="instruction">Write the date and te whāinga ako in your book</p>
+
+---
+
+<iframe width="884" height="497" src="https://www.youtube.com/embed/NHqEthRCqQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -74,7 +78,7 @@ header-includes:
 > The process of turning light energy and carbon dioxide into sugar.
 
 - Recall from Year 9 the equation for photosynthesis (write it in your book if you remember)
-- $light + water + \text{carbon dioxide} \rightarrow sugar + oxygen$
+- $water + \text{carbon dioxide} \xrightarrow{\text{Light}} sugar + oxygen$
 
 ---
 
@@ -110,23 +114,6 @@ For each arrow in your carbon cycle diagram, write 2-3 sentences explaining why/
 If you need to research on your device, that is allowed.
 
 <p class="instruction">Work individually.</p>
- 
----
-
-## Akoranga 14 Mahi Tuatahi
-
-1. Collect a whiteboard from the front
-2. In pairs, explain the difference between these three words:
-    - Habitat, niche, community
-    - You may wish to use terms like _abiotic/biotic factors_, _environment_, _food chain_ etc.
-
----
-
-## Te Whāinga Ako
-
-1. Describe the role and importance of decomposers in an ecosystem
-
-<p class="instruction">Write the date and te whāinga ako in your book</p>
 
 ---
 
@@ -136,6 +123,14 @@ If you need to research on your device, that is allowed.
 2. Work individually to complete the task
 3. Make notes in your exercise book about any new information you encounter
 4. Once done, open the vocabulary Quizlet and get practicing!
+
+---
+
+## Te Whāinga Ako
+
+1. Be able to use _habitat_, _niche_, and _community_ in an Ecology context.
+
+<p class="instruction">Write the date and te whāinga ako in your book</p>
 
 ---
 

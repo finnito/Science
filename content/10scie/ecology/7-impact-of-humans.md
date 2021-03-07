@@ -16,10 +16,10 @@ header-includes:
 
 ## Akoranga 15 + 16
 
-1. Use your knowledge of ecology to produce a poster explaining the __impact of humans__ on the ecosystem.
+1. Use your knowledge of ecology to produce a poster explaining the __impact of humans__ on the ecosystem. You may want to base it around the Carbon Cycle.
 2. Work in pairs.
 3. Use __CHS Junior Science Content > Year 10 Science > Ecology > 5. Impact of Humans__ on Education Perfect to start your research!
 4. Take pride in your work - it would be nice to put these on the wall!
 5. You should aim to explain/use as much ecology vocabulary as possible on your poster.
 
----
+<p class="instruction">Due Friday!</p>

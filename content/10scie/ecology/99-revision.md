@@ -27,7 +27,7 @@ header-includes:
 - After ensuring your notes are complete, read through them slowly.
 - If you don't understand what something means, take a bright coloured pen and indicate this next to the note.
 - This should be a slow process and not something you do in 5 minutes.
-- At the end, seek clarification from your teacher about the points you highlighted, or post on [https://ask.lesueur.nz](https://ask.lesueur.nz)
+- At the end, seek clarification from your teacher about the points you highlighted!
 
 ---
 
@@ -44,7 +44,7 @@ header-includes:
 ## 4. Check your understanding of the learning outcomes
 
 - In your exercise book, write each learning outcome and then use your notes to write a paragraph explaining the whāinga ako
-- If you don't understand something, ask your teacher in class or post on [https://ask.lesueur.nz](https://ask.lesueur.nz)
+- If you don't understand something, ask your teacher!
 
 ---
 
@@ -88,4 +88,4 @@ Check out the vocabulary slides for spelling/flashcard exercises and definitions
 
 ## 9. Stuck?
 
-Ask your teacher in class or post on [https://ask.lesueur.nz](https://ask.lesueur.nz)
+Ask your teacher!

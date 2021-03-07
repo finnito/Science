@@ -160,7 +160,7 @@ menu:
     - __Whakaritenga__:
         + Assign EP
         + Put Quizlet on Classroom
-    - __Te Whāinga Ako__: Describe the role and importance of decomposers in an ecosystem
+    - __Te Whāinga Ako__: Understand how the Carbon Cycle works
     - __Notes__: Second half of Carbon Cycle slides
     - __Task/Ngohe__
         + https://www.educationperfect.com/controlpanel/#/content/manage/science/2586323/Year-10-Science%7CEcology%7C4-Micro-organisms
