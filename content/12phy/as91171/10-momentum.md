@@ -6,7 +6,7 @@ date: 2019
 theme: finn
 colortheme: dolphin
 font-size: 35px
-weight: 7
+weight: 10
 slug: momentum
 text-align: center
 header-includes:
