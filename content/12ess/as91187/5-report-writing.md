@@ -63,6 +63,8 @@ E.g. The concentration of the $HCl$ used, the volume of $HCl$ used, the test tub
 
 ---
 
+## Reliability and Validity
+
 |                            |                                                       Reliability                                                        |                                                     Validity                                                     |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | __What does it tell you?__ | The extent to which the __results can be reproduced__ when the research is repeated under the same conditions.           | The extent to which the results really measure what they are supposed to measure.                                |
