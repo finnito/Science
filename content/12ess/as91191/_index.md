@@ -12,6 +12,24 @@ menu:
         parent: "12ESS"
 ---
 
+## Homework _/ Mahi Kāinga_
+
+Homework is issued on a weekly basis. Find the [homework booklet here](homework-booklet/).
+
+1. Monday, March 22nd: 
+2. Monday, March 29th: 
+3. Thursday, April 8th: 
+3. Monday, April 12: 
+4. Monday, May 3rd: 
+
+### Grading
+
+Homework is graded on three things, each worth one point.
+
+1. Attempt the question
+2. Mark the question
+3. Review & correct the question
+
 {{< slides >}}
 
 ## Learning Outcomes / _Ngā Whāinga Ako_

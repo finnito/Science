@@ -1,0 +1,110 @@
+# [[questions]]
+# label = ""
+# topic = ""
+# source = ""
+# source_link = ""
+# marking_schedule_path = ""
+# youtube_id = ""
+# image_path = ""
+# text = '''
+#
+# '''
+# hint = """
+
+# """
+# answer = """
+
+# """
+
+
+
+topics = [
+    "Volcanoes",
+    "Earthquakes",
+    "Tsunamis",
+]
+
+# ============
+# 2019 Q1
+# ============
+[[questions]]
+label = "Auckland Volcanic Field"
+topic = "Volcanoes"
+source = "2019 Q1"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91191-exm-2019.pdf"
+marking_schedule_path = "../assets/2019-q1-answers.png"
+youtube_id = ""
+image_path = "https://static.sciencelearn.org.nz/images/images/000/000/716/full/Auckland_Volc_Field_2018_latest_mapBruceHayward.jpg?1587612809"
+text = '''
+Auckland sits over an active volcanic field, which includes more than 50 volcanoes. While scientists don’t expect any of these existing volcanoes to erupt again, they are almost certain that more eruptions are likely to take place at some time in the future. The type of eruption that occurs may depend upon whether the eruption meets water as it rises through the crust.
+Explain in detail how possible future eruptions in the Auckland Volcanic Field may be formed, and their likely characteristics.
+
+In your answer, you should refer to:
+
+- the processes within the upper mantle and crust that may cause an eruption within the Auckland Volcanic Field
+- the type of magma that is likely to erupt in this area, and the characteristics of this type of magma
+- the likely phases of an eruption in this area, and the features that may form from this type of eruption.
+
+_A diagram may assist your explanation._
+'''
+hint = """
+
+"""
+answer = """
+
+"""
+
+# ============
+# 2019 Q2
+# ============
+[[questions]]
+label = "Wairarapa Earthquake 1855"
+topic = "Earthquakes"
+source = "2019 Q2"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91191-exm-2019.pdf"
+marking_schedule_path = "../assets/2019-q2-answers.png"
+image_path = "../assets/2019-q2-asset.png"
+text = '''
+In 1855, the most severe earthquake in New Zealand’s recent history occurred along the Wairarapa Fault. The depth was shallow, and it was recorded as a magnitude 8.2 – 8.3.
+
+Explain in detail how a rupture along this fault could lead to a large-magnitude earthquake. In your answer, you should consider:
+
+- the types of faults represented by letters A and B on the block diagram opposite
+- the tectonic plate movements that may have resulted in this fault
+- the cause of this large magnitude earthquake
+- the effects seen on the land (do not include tsunami effects).
+'''
+hint = """
+
+"""
+answer = """
+
+"""
+
+# ============
+# 2019 Q3
+# ============
+[[questions]]
+label = "Wellington Tsunami 1855"
+topic = "Tsunamis"
+source = "2019 Q3"
+source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91191-exm-2019.pdf"
+marking_schedule_path = "../assets/2019-q3-answers.png"
+image_path = "../assets/2019-q3-asset.png"
+text = '''
+The 1855 Wairarapa Fault rupture triggered uplift of the Australian Plate and a series of landslides into the Cook Strait Canyon. This resulted in a number of tsunami, up to 11 metres high, reaching Wellington.
+
+Explain in detail how tsunami could have formed as a result of the sea floor uplift and landslides into the Cook Strait Canyon.
+
+In your answer, you should:
+- annotate the diagrams below, showing how tsunami are produced
+- explain, in detail, how sea floor uplift in the Cook Strait AND underwater landslides into the Cook Strait Canyon can generate tsunami
+- explain, in detail, the energy transfers that occur in each type of tsunami formation
+- explain, in detail, the factors which may affect the size of the Wellington tsunami.
+'''
+hint = """
+
+"""
+answer = """
+
+"""
