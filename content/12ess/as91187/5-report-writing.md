@@ -32,7 +32,7 @@ E.g. I think that _______ will [increase/decrease] when the ______ is [increased
     
 ---
 
-### Variables
+## Variables
 
 > __Independent Variable__: The variable that you will change.
 
@@ -54,7 +54,7 @@ E.g. The concentration of the $HCl$ used, the volume of $HCl$ used, the test tub
 
 ---
 
-### Method
+## Method
 
 - At the top, give an equipment list,
 - give you method as a numbered list,
@@ -84,7 +84,7 @@ E.g. The concentration of the $HCl$ used, the volume of $HCl$ used, the test tub
 
 ---
 
-### Data/Results
+## Data/Results
 
 - Design a table to record your results __before__ you start the whakamātau,
 - You will need to think about how many trials you are going to do, how many measurements you will make and calculating an average.
@@ -102,14 +102,14 @@ __Average__: Add up all your trials and divide by the number of trials.
 
 ---
 
-### Conclusion
+## Conclusion
 
 - Link your aim and hypothesis to thedata you gathered.
 - In our whakamātau we investigated __[your-aim-here]__ and we found that when the __[temperature/surface area/concentration]__ was __[increased/decreased]__ that the reaction went __[slower/faster]__. This tells us that the rate of reaction __[increased/decreased]__. This is reflected in our results, for example __[two-pieces-of-data-compared-here]__. This [supports/does not support] our hypothesis that ____.
 
 ---
 
-### Discussion/Evaluation
+## Discussion/Evaluation
 
 - Discuss the reliability of your data
 - Discuss the validity of your method
