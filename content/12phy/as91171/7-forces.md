@@ -189,3 +189,89 @@ __TLDR__: The acceleration created by a force depends directly upon the mass of 
 ### Task/Ngohe
 
 Worksheet - everything up to but not including the __Work__ section.
+
+---
+
+## Case Study
+
+![](../assets/hw-q30.png)
+
+<p class="instruction">Step 1. Consider what we know about the motion of the object, and what this implies about the net force acting upon the object.</p>
+
+---
+
+### Question 1 {.c2}
+
+![](../assets/hw-q30-a.png)
+
+- What force do we know is __not__ acting due to the cars movement?<br><br>
+- Therefore, what three forces __are__ acting?<br><br>
+- Draw a force diagram illustrating these forces and their relative magnitude. Ensure you label them!
+
+---
+
+#### Question 1 Whakatika {.c2}
+
+![](../assets/hw-q30-a-answers.png)
+
+- What force do we know is __not__ acting due to the cars movement?<br>_Thrust, because it is not accelerating._<br><br>
+- Therefore, what three forces __are__ acting?<br>_Weight, friction and support._<br><br>
+- Draw a force diagram illustrating these forces and their relative magnitude. Ensure you label them!
+
+---
+
+### Question 2 {.c2}
+
+![](../assets/hw-q30-b.png)
+
+- What do we know about the motion of the car?<br><br>
+- Therefore, what can we say about its acceleration, forces and state of equilibrium?<br><br>
+- Therefore, what do we know the vector diagram will look like?<br><br>
+- Draw a diagram.
+
+---
+
+#### Question 2 Whakatika {.c2}
+
+![](../assets/hw-q30-b-answers.png)
+
+- What do we know about the motion of the car?<br>_It is stationary (constant velocity)._<br><br>
+- Therefore, what can we say about its acceleration, forces and state of equilibrium?<br>_$a = 0, F_{net} = 0$ and is therefore __in equilibrium__._<br><br>
+- Therefore, what do we know the vector diagram will look like?<br>_The vectors will form a closed loop._ <br><br>
+- Draw a diagram.
+
+---
+
+### Question 3 {.c2}
+
+![](../assets/hw-q30-c.png)
+
+- We need to calculate the __weight force__ of the car. Hint: $F=ma$.<br><br>
+- Recognise & state that not all of the weight force acts directly through the slope.<br><br>
+
+---
+
+### Question 3 Continued {.c2}
+
+![](../assets/hw-q30-c.png)
+
+- Recgonise and state we need to find component of weight force acting into slope, and is equal in magnitude to the support force. Hint: $F_{n} = F_{w}cos(\theta)$.<br><br>
+- Calculate $F_{f}$ using EITHER Pythagoras OR trigonometry to find the frictional side of the triangle.
+
+---
+
+#### Question 3 Whakatika {.c2}
+
+![](../assets/hw-q30-c-answers-1.png)
+
+- We need to calculate the __weight force__ of the car. Hint: $F=ma$.<br>_$W=F=m \times a = 1500 \times 9.8 = 14700N$. Use $a = g$ because weight force is due to gravity._<br>
+- Recognise & state that not all of the weight force acts directly through the slope.<br>_Because the weight force is acting on an angle to the slop, the component perpendicular to the slope is equal & opposite to the normal force._<br>
+
+---
+
+#### Question 3 Whakatika Continued {.c2}
+
+![](../assets/hw-q30-c-answers-2.png)
+
+- Calculate the normal force. Hint: $F_{n} = F_{w}cos(\theta)$.<br>$F_{n} = 14700 cos(12) = 14378N$<br>
+- Calculate $F_{f}$ using EITHER Pythagoras OR trigonometry to find the frictional side of the triangle.<br>$F_{f} = F_{w}sin(\theta) = 14700sin(12) = 3056N$<br>OR<br>$F_{f} = \sqrt(F_{w}^{2} - F_{n}^{2}) = 3056N$.
