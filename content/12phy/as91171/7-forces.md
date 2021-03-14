@@ -275,3 +275,10 @@ Worksheet - everything up to but not including the __Work__ section.
 
 - Calculate the normal force. Hint: $F_{n} = F_{w}cos(\theta)$.<br>$F_{n} = 14700 cos(12) = 14378N$<br>
 - Calculate $F_{f}$ using EITHER Pythagoras OR trigonometry to find the frictional side of the triangle.<br>$F_{f} = F_{w}sin(\theta) = 14700sin(12) = 3056N$<br>OR<br>$F_{f} = \sqrt(F_{w}^{2} - F_{n}^{2}) = 3056N$.
+
+---
+
+## Practise / Whakawai
+
+- Textbook _Activity 10A: Newton's Laws_
+- Homework Booklet: Q31, Q32, Q34
