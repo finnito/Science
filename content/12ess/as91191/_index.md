@@ -66,43 +66,58 @@ Homework is graded on three things, each worth one point.
 
 1. #### Plate Tectonics 1
     - __Whakaritenga__
-        -
+        - Collect textbooks
+        - Upload links to Google Classroom
+        - Print [Earth structure poster](https://docs.google.com/document/d/14pPSz4jIecbloDV8WR6vzyM-SCD5Jfs8OZ30CxFvOCs/edit#heading=h.gjdgxs)
     - __Te Whāinga Ako__
-        1.
+        1. Why convection currents occur in the mantle, and how this causes movement of the Earth’s tectonic plates
     - __Notes__
-        - Slides:
+        - Slides: Plate Tectonics 
     - __Task/Ngohe__
-        -
+        - Glue in poster
+        - Make notes on Earth's structure
+        - Video on what if we nuke the moon?
+        - Video on Wagner
+        - [Cosmos](https://drive.google.com/file/d/15KnZ7gYTJ121fvO84TRsTkxwS2P5PI46/view) from 17min
 
 2. #### Plate Tectonics 2
     - __Whakaritenga__
-        -
+        - Print cloze on [convection current](https://docs.google.com/document/d/1HA_EUkAYckpped7zJjz-hIg6cAuAIs7dOGq0gM0tGM4/edit)
     - __Te Whāinga Ako__
-        1.
+        1. Why convection currents occur in the mantle, and how this causes movement of the Earth’s tectonic plates
     - __Notes__
-        - Slides:
+        - Finish plate tectonics slides
+        - Convection current slides
     - __Task/Ngohe__
-        -
+        - Webquest starter
+        - Textbook page 141-146
+    - __Whakamātau__
+        + [Convection Currents](https://www.riskassess.co.nz/risk_assessment/9491195)
 
 3. #### NZ Tectonics 1
     - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
+        - Print cloze on [convection current](https://docs.google.com/document/d/1HA_EUkAYckpped7zJjz-hIg6cAuAIs7dOGq0gM0tGM4/edit)
+        - Print NZ map
+    - __Ngā Whāinga Ako__
+        1. Be able to describe the concept of density
+        2. Be able to describe plate motion for the three types of plate boundary
     - __Notes__
-        - Slides:
+        - Slides: First half of plate boundary slides
     - __Task/Ngohe__
-        -
+        - Cloze to start
+        - Notes
+        - 
 
 4. #### NZ Tectonics 2
     - __Whakaritenga__
-        -
+        - Print NZ maps poster
+    Starter: Webquest
     - __Te Whāinga Ako__
         1.
-    - __Notes__
-        - Slides:
     - __Task/Ngohe__
-        -
+        - NZ Tectonic Plates poster activity
+    - __Whakamātau__
+        + [Density Practical](https://www.riskassess.co.nz/risk_assessment/9523073)
 
 5. #### Volcanoes Intro
     - __Whakaritenga__
@@ -113,6 +128,8 @@ Homework is graded on three things, each worth one point.
         - Slides:
     - __Task/Ngohe__
         -
+    - __Whakamātau__
+        + [Tectonic Plate Modelling](https://www.riskassess.co.nz/risk_assessment/9523301)
 
 6. #### Magma Types 1
     - __Whakaritenga__
