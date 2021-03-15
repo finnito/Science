@@ -66,7 +66,7 @@ Continental crust colliding with continental crust. Both are light so neither su
 
 ---
 
-### Map Labels {.c2}
+### Map Labels
 
 - Alpine fault 
 - White Island
@@ -74,6 +74,8 @@ Continental crust colliding with continental crust. Both are light so neither su
 - Taupo volcanic zone 
 - Auckland volcanic field 
 - Kermadec trench 
+
+---
 
 - Puysegur trench
 - Hikurangi subduction zone 
