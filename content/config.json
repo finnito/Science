@@ -8,7 +8,7 @@
             "repo": "finnito/Science",
             "branch": "master",
             "action": "have been deployed to the server",
-            "run": "bash /srv/science.lesueur.nz/build-production.sh 2>&1"
+            "run": "sudo -u www-data bash /srv/science.lesueur.nz/build-production.sh 2>&1"
         }
     ]
 }
