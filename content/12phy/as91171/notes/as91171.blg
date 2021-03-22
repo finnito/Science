@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'as91171.blg'
+[96] biber-darwin:322> INFO - === Wed Feb 10, 2021, 11:10:36
+[119] Biber.pm:415> INFO - Reading 'as91171.bcf'
+[239] Utils.pm:304> WARN - No data sources defined!
