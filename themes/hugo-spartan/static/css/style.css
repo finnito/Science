@@ -265,6 +265,7 @@ a.skip-main:focus, a.skip-main:active {
 
 blockquote { 
   border-left: 2px solid var(--green-main);
+  background-color: var(--neutral-main);
   border-radius: 0.25rem;
   margin-left: 1rem;
   padding-left: 1rem;

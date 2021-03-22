@@ -35,7 +35,7 @@ $endif$
   <link rel="stylesheet" href="$revealjs-url$/dist/reset.css">
   <link rel="stylesheet" href="$revealjs-url$/dist/reveal.css">
 $if(theme)$
-  <link rel="stylesheet" href="$revealjs-url$/dist/theme/$theme$.css" id="theme">
+  <link rel="stylesheet" href="$revealjs-url$/css/theme/$theme$.css" id="theme">
 $else$
   <link rel="stylesheet" href="$revealjs-url$/dist/theme/black.css" id="theme">
 $endif$
@@ -337,6 +337,7 @@ $if(display)$
         // The display mode that will be used to show slides
         display: '$display$',
 $endif$
+        pdfSeparateFragments: false,
 
         plugins: [
           GoBack,

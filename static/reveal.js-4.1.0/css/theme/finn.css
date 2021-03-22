@@ -12,6 +12,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 
 .reveal .controls {
+  color: #471718;
   bottom: 60px;
 }
 body {
@@ -26,19 +27,19 @@ body {
 
 ::selection {
   color: #fff;
-  background: #98bdef;
+  background: #e6b2b3;
   text-shadow: none; }
 
 ::-moz-selection {
   color: #fff;
-  background: #98bdef;
+  background: #e6b2b3;
   text-shadow: none; }
 
 .reveal .slides {
   height: 90vh;
   width: 90vw;
   text-align: left;
-  margin-top: 0;
+  /*margin-top: 0;*/
 }
 
 .reveal section {
@@ -60,6 +61,8 @@ body {
   padding: 0;
   height: auto;
 }
+
+iframe { display: block; margin: auto; }
 
 .kowhaiwhai {
   position: fixed;
@@ -122,6 +125,7 @@ body {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+  vertical-align: middle;
 }
 
 .reveal .slides section.c2 h1,
@@ -141,6 +145,7 @@ body {
 .reveal .slides section.c2 > span.math.display,
 .reveal .slides section.c2 blockquote {
   flex-basis: calc(50% - 1em);
+  vertical-align: middle;
   /*margin: 0;*/
 }
 
@@ -151,11 +156,15 @@ body {
 .c2 ~ figure,
 .reveal .c2 ~ iframe,
 .c2 ~ span.math,
-.c2 ~ blockquote {
+.c2 + blockquote {
   width: calc(50% - 1em);
   display: inline-block;
   margin: 0;
   vertical-align: middle;
+}
+
+.reveal section img {
+  max-width: 50%;
 }
 
 /*********************************************

@@ -192,13 +192,15 @@ callPandoc() {
         --standalone \
         --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
         --incremental \
-        --variable=controls:false \
-        --variable=progress:false \
-        --variable=showSlideNumber:print \
+        --variable=controls:true \
+        --variable=progress:true \
+        --variable=showSlideNumber:all \
         --variable=transition:slide \
         --variable=plugins:GoBack,Clock \
         --variable=revealjs-url:/reveal.js-4.1.0 \
-        --variable=embedded:false
+        --variable=embedded:false \
+        --variable=showNotes:false \
+        --variable=overview:false
 }
 
 compileGitLog() {
