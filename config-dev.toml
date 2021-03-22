@@ -1,4 +1,4 @@
-baseurl       = "/"
+baseurl       = "http://putaiao.test"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
