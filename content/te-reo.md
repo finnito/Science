@@ -93,15 +93,12 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Ka mau te wehi!__: Awesome! Fantastic!
 - __Mere Kirihimete__: Merry Christmas
 
- 
- 
+---
 
-
-
-
-
-
-
+- Whānau: family
+- Whanauga: someone you are related to
+- Whaka: cause to happen
+- Whakawhanaungtanga: The act of building relationships
 
 
 
