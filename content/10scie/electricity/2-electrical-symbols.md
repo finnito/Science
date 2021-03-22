@@ -168,8 +168,7 @@ __Wires__: A straight line with right-angled corners that connects electrical co
 #### Pātai {.c2}
 
 1. Neatly draw these circuits in your book.
-2. Label the different components.
-3. Decide whether each circuit is a __parallel__ or __series__ circuit.
+2. Decide whether each circuit is a __parallel__ or __series__ circuit.
 
 ![](../assets/series-vs-parallel.png)
 
@@ -183,3 +182,8 @@ __Wires__: A straight line with right-angled corners that connects electrical co
 4. A circuit with two bulbs in parallel, with a switch that can turn one bulb on/off.
 5. A circuit with three bulbs and a switch, where two bulbs can be controlled by the switch, and the third is always on.
 
+---
+
+### Tākaro / Game
+
+[Kahoot!](https://create.kahoot.it/details/ffb8e269-de5f-47a4-b6cd-4c673a055138)
