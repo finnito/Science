@@ -18,7 +18,7 @@ header-includes:
 
 ## Mahi Tuatahi
 
-Aaron is painting the outside of his house. He is standing on a 3.5m long plank with a support at each end. The plank weighs 4.8kg. He is standing 0.8m from the left side and he weighs 63kg.
+Aaron is painting the outside of his house. He is standing on a $3.5m$ long plank with a support at each end. The plank weighs $4.8kg$. He is standing $0.8m$ from the left side and he weighs $63kg$.
 
 1. Draw a diagram to illustrate the situation
 2. Calculate the support force provided by Support A (left) and Support B (right).
