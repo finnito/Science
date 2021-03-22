@@ -2,10 +2,8 @@
 title: Circular Motion
 subtitle: 12PHYS - Mechanics
 author: Finn LeSueur
-date: 2019
+date: 2021
 theme: finn
-colortheme: dolphin
-font-size: 35px
 text-align: center
 weight: 9
 slug: circular-motion
@@ -18,7 +16,7 @@ header-includes:
 
 ---
 
-# Mahi Tuatahi
+## Mahi Tuatahi
 
 Aaron is painting the outside of his house. He is standing on a 3.5m long plank with a support at each end. The plank weighs 4.8kg. He is standing 0.8m from the left side and he weighs 63kg.
 
@@ -27,126 +25,196 @@ Aaron is painting the outside of his house. He is standing on a 3.5m long plank 
 
 ---
 
-# Circular Motion
+## Circular Motion
 
-The motion of an object moving in a circular path.
+> The motion of an object moving in a circular path.
 
 e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket bowler.
 
 ---
 
-# Circles
+## Circles {.c2}
 
-<img src="assets/circle-diagram.png" style="float: right; width: 50%;"/>
+![](../assets/circle-diagram.png)
 
 \begin{aligned}
-    & Center \\
     & Radius = r \\
     & Diameter = d \\
-    & Circumference = 2\pi r \\
-    & Period = T \\
-    & Frequency = f \\
-    & Speed = v \\
-    & v = \frac{2\pi r}{T} \\
+    & Circumference = C
 \end{aligned}
 
 ---
 
-# Question
-<img src="assets/circle-gif.gif" style="float: right; width: 50%;"y/>
+### Pātai Tahi (Q1): Circumference {.c2}
 
-If the radius is 2m, find:
+- How do we calculate circumference?
+- __Whakatika__: $C = 2\pi r$
+- Where $r$ is the radius of the circle
 
-1. Circumference,
+![](../assets/circle-diagram.png)
+
+---
+
+### Pātai Rua (Q2): What is Frequency? {.c2}
+
+![](../assets/circle-gif.gif)
+
+- Frequency is __the number of rotations in one second__.
+- It is given the symbol $f$ and measured in $s^{-1}$ (per second).
+
+---
+
+### Pātai Toru (Q3): What is Period? {.c2}
+
+![](../assets/circle-gif.gif)
+
+- Period is __the time taken to do one revolution__.
+- It is given the symbol $T$ and is measured in $s$ (seconds).
+- Period and frequency are inversely related via this equation
+- $T = \frac{1}{f}$
+
+---
+
+## Velocity on a Circle {.c2}
+
+![](../assets/circle-gif.gif)
+
+- Velocity is always given by $v = \frac{d}{t}$
+- On a circle, $d = C = 2 \pi r$
+- On a circle, $t = T = \frac{1}{f}$
+- Therefore, circular velocity is $v = \frac{2\pi r}{T}$
+
+---
+
+### Pātai Whā (Q4): Finding Velocity {.c2}
+
+![](../assets/circle-gif.gif)
+
+1. __If the radius is 2m, find the__: circumference,
+2. and speed
+
+---
+
+#### Whakatika {.c2}
+
+![](../assets/circle-gif.gif)
+
+1. __If the radius is 2m, find the__: circumference,
+    - $C = 2 \pi r = 2 \pi 2 = 12.57m$
 2. period,
+    - $T = 12s$
 3. frequency
+    - $f = \frac{1}{T} = \frac{1}{12} = 0.083^{-s}$
 4. and speed
+    - $v = \frac{d}{t} = \frac{12.57}{12} = 1.0475ms^{-1}$
 
 ---
 
-# Question
+### Pātai Rimu (Q5) {.c2}
 
-<img src="assets/circle-gif.gif" style="float: right; width: 50%;"y/>
+![](../assets/circle-gif.gif)
 
-Is speed constant?
-
-Is velocity constant?
-
----
-
-# Centripetal Acceleration
-
-An object undergoing circular motion is always changing its direction towards the center of the circle.
-
-Therefore, beacuse the direction is changing, the velocity is changing. Therefore the object is always accelerating, even if its speed is constant.
+- Is speed constant?
+- Is velocity constant?
 
 ---
 
-# Centripetal Acceleration
+#### Whakatika {.c2}
+
+![](../assets/circle-gif.gif)
+
+- __Is speed constant?__
+    + Speed is constant, because the __magnitude__ of the velocity is constant.
+- __Is velocity constant?__
+    + Velocity is not constant, because even though the magnitude is constant, the direction is changing.
+
+---
+
+## Centripetal Acceleration
+
+> An object undergoing circular motion is always accelerating towards the center of the circle. Therefore, because the direction is changing, the velocity is changing. Therefore the object is always accelerating, even if its speed is constant.
 
 \begin{aligned}
     & a_{c} = \frac{v^{2}}{r} \\
 \end{aligned}
 
-\begin{aligned}
-    & v = \frac{2 \pi r}{T} \\
-\end{aligned}
+---
+
+### What Causes the Acceleration?
+
+- Newton's Laws of Motion tell us that __an acceleration is always caused by an unbalanced forced (net force).__
+- Therefore, centripetal (_center-seeking_) acceleration is caused by an unbalanced force which continuously pulls the object towards the center. __Centripetal (_center-seeking_) force__.
 
 ---
 
-# Okay, but what causes the centripetal acceleration?
+## Centripetal Force
 
-Newton's Laws of Motion tell us that __an acceleration is always caused by an unbalanced forced (net force).__
-
-Therefore, centripetal acceleration is caused by an unbalanced force which continuously pulls the object towards the center. __Centripetal force__.
-
----
-
-# Centripetal Force
-
-<img src="assets/centripetal-force.png" style="float: right; width: 50%;"y/>
+![](../assets/centripetal-force.png)
 
 \begin{aligned}
     & F_{c} = \frac{mv^{2}}{r}
 \end{aligned}
 
-Centripetal force acts inwards towards the center of the circle, while the velocity acts along a tangent to the circle at all times.
+- Centripetal force acts inwards towards the center of the circle, while the velocity acts along a tangent to the circle at all times.
+- Therefore, if the centripetal force is removed, the object will move in a straight line tangent to the circle
 
 ---
 
-## Question
-
-Mathieu is swinging a bucket of water above his head. It weighs, 8kg and has a horizontal speed of $4ms^{-1}$ in a circle of radius 1m.
-
-Calculate the force required to keep the ball moving in a circle.
+<iframe width="1249" height="703" src="https://www.youtube.com/embed/bpFK2VCRHUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-# Mahi Tuatahi
+### Pātai Ono (Q6): Bucket of Water {.c2}
 
-<img src="assets/q-49.png" style="max-width: 40%;"/>
+![](../assets/bucket-of-water.png)
 
-The plank weighs 22kg and is in equilibrium.
-
-1. Draw labelled arrows showing the forces acting upon the plank.
-2. Calculate the support force of __Support A__. Use $g=10ms^{-2}$.
-
-__Note__ - The plank's weight force acts through its center of mass, therefore the overhanging plank does not matter, other than to reduce the length of certain measurements.
+- Mathieu is swinging a bucket of water above his head. It weighs, $8kg$ and has a horizontal speed of $4ms^{-1}$ in a circle of radius $1m$.
+- __Calculate the force required to keep the ball moving in a circle.__
+    + __Knowns, Unknowns, Formula, Substitute, Solve__
 
 ---
 
-# Question
+#### Whakatika {.c2}
 
-During a hammer throw, a 7kg steel ball is swung horizontally with a speed of $10ms^{-1}$ in a circle of radius 2m.
-
-Calculate the force required to keep the ball moving in a circle.
-
----
-
-# Answer 
+![](../assets/bucket-of-water.png)
 
 \begin{aligned}
-    & F = \frac{mv^{2}}{r} \\
-    & F = \frac{7 \times 10^{2}}{2} \\
-    & F = \text{350N inwards}
+    & v = 4ms^{-1}, r = 1m, m = 8kg && \text{(K)}  \\
+    & F_{c} = ? && \text{(U)} \\
+    & F_{c} = \frac{mv^{2}}{r} && \text{(F)} \\
+    & F_{c} = \frac{8 \times 4^{2}}{1} = 128N \text{ inwards} && \text{(S\&S)} 
 \end{aligned}
+
+
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/XHGKIzCcVa0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+NB: From 2:30 to 5:25.
+
+---
+
+### Pātai Whitu (Q7): Hammer Throw {.c2}
+
+![](../assets/hammer-throw.png)
+
+- During a hammer throw, a $7kg$ steel ball is swung horizontally with a speed of $10ms^{-1}$ in a circle of radius $2m$.
+- __Calculate the force required to keep the ball moving in a circle.__
+    + __Knowns, Unknowns, Formula, Substitute, Solve__
+
+---
+
+#### Whakatika
+
+\begin{aligned}
+    & m = 7kg, v = 10ms^{-1}, r = 2m && \text{(K)}  \\
+    & F_{c} = ? && \text{(U)} \\
+    & F_{c} = \frac{mv^{2}}{r} && \text{(F)} \\
+    & F = \frac{7 \times 10^{2}}{2}N \text{ inwards} && \text{(S\&S)} 
+\end{aligned}
+
+---
+
+### Pātai Waru (Q8): Exam Question 26
+
+

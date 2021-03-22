@@ -280,5 +280,7 @@ Worksheet - everything up to but not including the __Work__ section.
 
 ## Practise / Whakawai
 
-- Textbook _Activity 10A: Newton's Laws_
+- Textbook 
+    -  New: _Activity 10A: Newton's Laws_
+    -  Old: _Activity 9A: Newton's Laws_
 - Homework Booklet: Q31, Q32, Q34

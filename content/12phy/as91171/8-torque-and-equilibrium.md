@@ -20,9 +20,9 @@ header-includes:
 
 # Mahi Tuatahi
 
-\begin{equation}
+\begin{aligned}
     F=ma
-\end{equation}
+\end{aligned}
 
 1. State what each letter stands for
 2. Give the units for each letter
@@ -34,6 +34,14 @@ header-includes:
 For a car of __mass 1500kg__ which is accelerating at $3.7ms^{-2}$:
 
 1. What net force is needed to maintain this acceleration?
+
+\begin{aligned}
+    &  && \text{Knowns}  \\
+    &  && \text{Unknowns} \\
+    &  && \text{Formula} \\
+    &  && \text{Sub and Solve} 
+\end{aligned}
+
 2. If the engine is producing $6000N$ of thrust, what is the difference and what happened to it?
 
 ---
@@ -43,16 +51,14 @@ For a car of __mass 1500kg__ which is accelerating at $3.7ms^{-2}$:
 Torque can be thought of as the __turning effect__ around a __pivot__.
 Torque is sometimes known as __moment__ or __leverage__.
 
-\begin{equation}
-    \tau = Fd_{\bot} \\
-    torque = Newtons \times metres \\
-    torque = \text{Newton meters (Nm)}
-\end{equation}
+\begin{aligned}
+    \tau &= Fd_{\bot} \\
+    torque &= Newtons \times metres \\
+    torque &= \text{Newton meters (Nm)}
+\end{aligned}
 
-\begin{equation}
-    F = \text{force in Newtons} \\
-    d_{\bot} = \text{perpendicular distance of force from pivot}
-\end{equation}
+- $F =$ force in Newtons 
+- $d_{\bot} =$ perpendicular distance of force from pivot
 
 ---
 
@@ -65,15 +71,22 @@ Torque is sometimes known as __moment__ or __leverage__.
 
 ---
 
-# Question 1
+# Pātai 1
 
-A force of 9N acting up at a distance of 10cm is needed to lift the top off a bottle of soft drink. __Calculate the torque applied.__
+A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off a bottle of soft drink. Start by drawing a rough diagram. __Calculate the torque applied.__
+
+\begin{aligned}
+    &  && \text{Knowns}  \\
+    &  && \text{Unknowns} \\
+    &  && \text{Formula} \\
+    &  && \text{Sub and Solve} 
+\end{aligned}
 
 ---
 
-# Question 1: Answer
+# Pātai 1: Whakatika
 
-A force of 9N acting up at a distance of 10cm is needed to lift the top off a bottle of soft drink. __Calculate the torque applied.__
+A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off a bottle of soft drink. __Calculate the torque applied.__
 
 \begin{aligned}
     & \tau = Fd_{\bot} \\
@@ -83,15 +96,22 @@ A force of 9N acting up at a distance of 10cm is needed to lift the top off a bo
 
 ---
 
-# Question 2
+# Pātai 2
 
-Calculate the torque applied if the lever is stretched to 75cm.
+Calculate the torque applied if the lever is stretched to $75cm$.
+
+\begin{aligned}
+    &  && \text{Knowns}  \\
+    &  && \text{Unknowns} \\
+    &  && \text{Formula} \\
+    &  && \text{Sub and Solve} 
+\end{aligned}
 
 ---
 
-# Question 2: Answer
+# Pātai 2: Whakatika
 
-Calculate the torque applied if the lever is stretched to 75cm.
+Calculate the torque applied if the lever is stretched to $75cm$.
 
 \begin{aligned}
     & \tau = Fd_{\bot} \\
@@ -101,15 +121,22 @@ Calculate the torque applied if the lever is stretched to 75cm.
 
 ---
 
-# Question 3
+# Pātai 3
 
-Calculate the torque applied if the lever is compressed to 1cm.
+Calculate the torque applied if the lever is compressed to $1cm$.
+
+\begin{aligned}
+    &  && \text{Knowns}  \\
+    &  && \text{Unknowns} \\
+    &  && \text{Formula} \\
+    &  && \text{Sub and Solve} 
+\end{aligned}
 
 ---
 
-# Question 3: Answer
+# Pātai 3: Whakatika
 
-Calculate the torque applied if the lever is compressed to 1cm.
+Calculate the torque applied if the lever is compressed to $1cm$.
 
 \begin{aligned}
     & \tau = Fd_{\bot} \\
@@ -128,6 +155,14 @@ Calculate the torque applied if the lever is compressed to 1cm.
 Yes, and you must always state which direction it is acting in.
 
 __Clockwise or Anticlockwise__
+
+---
+
+<iframe width="731" height="411" src="https://www.youtube.com/embed/1Xp_imnO6WE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<iframe width="731" height="411" src="https://www.youtube.com/embed/jIMihpDmBpY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -155,6 +190,7 @@ Building bridges, setting up scaffolding, see-saws and more!
 ---
 
 # Question 1
+
 ![](../assets/torque-balance.png){ width=50% }
 
 $m_{1}=2kg$, $d_{1}=15cm$, $m_{2}=1kg$, $d_{2}=30cm$
@@ -165,6 +201,7 @@ $m_{1}=2kg$, $d_{1}=15cm$, $m_{2}=1kg$, $d_{2}=30cm$
 ---
 
 # Question 2
+
 ![](../assets/torque-balance.png){ width=50% }
 
 $m_{1}=7kg$, $d_{1}=65cm$, $m_{2}=13kg$, $d_{2}=35cm$
@@ -220,16 +257,28 @@ The plank may not be massless. You may need to take it into account.
 
 ---
 
-# Question
+# Pātai {.c2}
 
 ![](../assets/torque-uneven.png){ width=50% }
 
-$d_{1}=30cm$, $d_{2}=70cm$, $m_{1}=900g$, $m_{2}=300g$, seesaw mass = $100g$.
+- $d_{1}=30cm$, $d_{2}=70cm$, $m_{1}=900g$, $m_{2}=300g$, see-saw mass = $100g$.
+- Calculate the total anticlockwise moment
+- Calculate the total clockwise moment
+- Is it balanced?
 
-1. Calculate the total anticlockwise moment
-2. Calculate the total clockwise moment
-3. Is it balanced?
+---
 
+# Pātai: Case Study {.c2}
 
+![](../assets/torque-uneven.png){ width=50% }
 
+- Assume the system is in equilibrium ($\tau_{clockwise} = \tau_{anticlockwise}$)
+- $d_{1}=0.5m$, $d_{2}=1.5m$, $F_{1}=2.5N$, see-saw mass = $0.5kg$, $F_{2}=?$.
+- Draw the weight force of the see-saw on your diagram
+- Find the unknown force, $F_{2}$
 
+---
+
+## Whakawai / Practise
+
+Textbook: Force, Equilibrium and Motion - Q7, 8, 10, 11, 12
