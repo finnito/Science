@@ -140,9 +140,27 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 
 ---
 
+## Mahi Tuatahi
+
+1. An ice skater performs a 720 degree jump. The outside of their shoulders rotate with a frequency of $1.5s^{-1}$. __Calculate the period of their rotations__.
+2. If their shoulders are $30cm$ from their center of rotation, calculate their linear velocity.
+3. Draw a diagram illustrating the things you know about their circle of rotation.
+
+---
+
+### Whakatika {.c2}
+
+1. __An ice skater performs a 720 degree jump. The outside of their shoulders rotate with a frequency of $1.5s^{-1}$. Calculate the period of their rotations.__<br>$T = \frac{1}{f} = \frac{1}{1.5} = 0.667s$
+2. __If their shoulders are $30cm$ from their center of rotation, calculate their linear velocity.__<br>$v=\frac{2 \pi r}{T} = \frac{2 \pi 0.3}{0.667} = 2.826ms^{-1}$
+3. __Draw a diagram illustrating the things you know about their circle of rotation.__
+
+![](../assets/ice-skater.png)
+
+---
+
 ### What Causes the Acceleration?
 
-- Newton's Laws of Motion tell us that __an acceleration is always caused by an unbalanced forced (net force).__
+- Newton's Laws of Motion tell us that __an acceleration is always caused by an unbalanced force (non-zero net force).__
 - Therefore, centripetal (_center-seeking_) acceleration is caused by an unbalanced force which continuously pulls the object towards the center. __Centripetal (_center-seeking_) force__.
 
 ---
