@@ -216,8 +216,8 @@ NB: From 2:30 to 5:25.
 
 ![](../assets/hammer-throw.png)
 
-- During a hammer throw, a $7kg$ steel ball is swung horizontally with a speed of $10ms^{-1}$ in a circle of radius $2m$.
-- __Calculate the force required to keep the ball moving in a circle.__
+- During a hammer throw, a steel ball is swung horizontally with a speed of $10ms^{-1}$ in a circle of radius $2m$. $350N$ of tension force is required.
+- __Calculate the mass of the steel ball.__
     + __Knowns, Unknowns, Formula, Substitute, Solve__
 
 ---
@@ -225,10 +225,11 @@ NB: From 2:30 to 5:25.
 #### Whakatika
 
 \begin{aligned}
-    & m = 7kg, v = 10ms^{-1}, r = 2m && \text{(K)}  \\
-    & F_{c} = ? && \text{(U)} \\
+    & F_{c} = 350N, v = 10ms^{-1}, r = 2m && \text{(K)}  \\
+    & m = ? && \text{(U)} \\
     & F_{c} = \frac{mv^{2}}{r} && \text{(F)} \\
-    & F = \frac{7 \times 10^{2}}{2}N \text{ inwards} && \text{(S\&S)} 
+    & 350 = \frac{m \times 10^{2}}{2} && \text{(S\&S)} \\
+    & \frac{350 \times 2}{10^{2}} = m = 7kg
 \end{aligned}
 
 ---
