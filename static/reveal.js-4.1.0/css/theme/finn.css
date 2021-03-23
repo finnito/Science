@@ -167,6 +167,10 @@ iframe { display: block; margin: auto; }
   max-width: 50%;
 }
 
+.reveal section figure:only-child img {
+  max-height: 100%;
+}
+
 /*********************************************
  * HEADERS
  *********************************************/
