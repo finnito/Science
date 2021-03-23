@@ -52,17 +52,19 @@ Homework is graded on three things, each worth one point.
 
 ## Unit Plan _/ Mahere Kōwae_
 
-|            |       Akoranga 1      |     Akoranga 2     |      Akoranga 3      |         Akoranga 4        |
-|------------|-----------------------|--------------------|----------------------|---------------------------|
-| __Week 1__ | Previous Unit         | Previous Unit      | 1. Plate Tectonics 1 | 2. Plate Tectonics 2 (P)  |
-| __Week 2__ | 3. NZ Tectonics 1 (P) | 4. NZ Tectonics 2  | 5. Volcanoes Intro   | 6. Magma Types 1 (P)      |
-| __Week 3__ | 7. Magma Types 2 (P)  | 8. Volcano Types 1 | 9. Volcano Types 2   | 10. Volcano Types 3       |
-| __Week 4__ | 11. TVZ               | 12. AVF            | 13. Earthquakes 1    | 14. Earthquakes 2 (P)     |
-| __Week 5__ | 15. Earthquakes 3 (P) | 16. Alpine Fault   | 17. __Catch-Up__     | 18. Tsunamis 1            |
-| __Week 6__ | 19. Tsunamis 2 (P)    | 20. Tsunamis 3 (P) | 21. Tsunamis 4       | 22. Tsunamis 5 (P)        |
-| __Week 7__ | 23. Revision 1        | 24. Revision 2     | 25. Revision 3       | 26. __End of Topic Test__ |
+|            |       Akoranga 1      |       Akoranga 2       |      Akoranga 3      |         Akoranga 4        |
+|------------|-----------------------|------------------------|----------------------|---------------------------|
+| __T1 W6__  | ~~Previous Unit~~     | ~~Previous Unit~~      | 1. Plate Tectonics 1 | 2. Plate Tectonics 2 (P)  |
+| __T1 W7__  | 3. NZ Tectonics 1 (P) | 4. NZ Tectonics 2      | 5. Volcanoes Intro   | 6. Volcanoes Intro 2      |
+| __T1 W8__  | 7. NZ Volcanoes       | 8. Magma Types 1       | 9. Magma & Volcanoes | 10. Volcanoes (P)         |
+| __T1 W9__  | 11. TVZ               | 12. AVF                | 13. Earthquakes 1    | 14. Earthquakes 2 (P)     |
+| __T1 W10__ | 15. ~~Easter Monday~~ | 16. ~~Easter Tuesday~~ | 17. Alpine Fault     | 18. Tsunamis 1            |
+| __T1 W11__ | 19. Tsunamis 2 (P)    | 20. Tsunamis 3 (P)     | 21. Tsunamis 4       | 22. Tsunamis 5 (P)        |
+| __T2 W1__  | 23. Revision 1        | 24. Revision 2         | 25. Revision 3       | 26. __End of Topic Test__ |
 
 ### Lesson Plans / _Ngā Mahere Akoranga_
+
+### Term 1 Week 6
 
 1. #### Plate Tectonics 1
     - __Whakaritenga__
@@ -93,6 +95,10 @@ Homework is graded on three things, each worth one point.
         - Textbook page 141-146
     - __Whakamātau__
         + [Convection Currents](https://www.riskassess.co.nz/risk_assessment/9491195)
+
+---
+
+### Term 1 Week 7
 
 3. #### NZ Tectonics 1
     - __Whakaritenga__
@@ -147,45 +153,62 @@ Homework is graded on three things, each worth one point.
     - __Task/Ngohe__
         -
 
-7. #### Magma Types 2
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+---
 
-8. #### Volcano Types 1
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+### Term 1 Week 8
 
-9. #### Volcano Types 2
+7. #### Formation of Volcanoes
     - __Whakaritenga__
-        -
+        - Print subduction/hot spot flowcharts
+    - __Te Whāinga Ako__
+        1. Formation of hotspot vs subduction zone volcanoes
+    - __Task/Ngohe__
+        - Two pages in your book, titled Hotspot and Subduction
+        - Use the textbook to illustrate a diagram of the formation of the volcanoes
+        - Cut out the flowchart & order them onto the page
+        - Give examples of NZ volcanoes
+
+8. #### Magma Types
+    - __Whakaritenga__
+        - Print map of NZ volcanoes
     - __Te Whāinga Ako__
         1.
     - __Notes__
         - Slides:
     - __Task/Ngohe__
-        -
+        - Sketch the main fault lines in NZ onto the map
+        - Finish the classification of NZ volcanoes task
+        - Categorise the volcanoes on your little map in your book
+
+9. #### Magma & Volcanoes
+    - __Whakaritenga__
+        - Print viscosity of magma summary
+        - Print volcanic composition worksheet
+    - __Te Whāinga Ako__
+        1. Understand what makes lava viscous or not
+        2. Relate the viscosity of lava to basic volcano shapes and explosivity
+    - __Notes__
+        - Slides: Types of Lava
+    - __Task/Ngohe__
+        - Starter on viscosity of lava research
+        - Volcanic composition worksheet
 
 10. #### Volcano Types 3
     - __Whakaritenga__
-        -
+        - Book experiment
     - __Te Whāinga Ako__
         1.
     - __Notes__
         - Slides:
     - __Task/Ngohe__
         -
+    - __Whakamātau__
+        + $CO_{2}$ in drinks
+        + https://www.riskassess.co.nz/risk_assessment/9601201
+
+---
+
+### Term 1 Week 9
 
 11. #### Taupō Volcanic Zone
     - __Whakaritenga__
@@ -227,6 +250,10 @@ Homework is graded on three things, each worth one point.
     - __Task/Ngohe__
         -
 
+---
+
+### Term 1 Week 10
+
 15. #### Earthquakes 3
     - __Whakaritenga__
         -
@@ -267,6 +294,10 @@ Homework is graded on three things, each worth one point.
     - __Task/Ngohe__
         -
 
+---
+
+### Term 1 Week 11
+
 19. #### Tsunamis 2
     - __Whakaritenga__
         -
@@ -306,6 +337,10 @@ Homework is graded on three things, each worth one point.
         - Slides:
     - __Task/Ngohe__
         -
+
+---
+
+### Term 2 Week 1
 
 23. #### Revision 1
     - __Whakaritenga__
