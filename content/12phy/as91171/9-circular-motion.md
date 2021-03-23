@@ -162,6 +162,7 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 
 - Newton's Laws of Motion tell us that __an acceleration is always caused by an unbalanced force (non-zero net force).__
 - Therefore, centripetal (_center-seeking_) acceleration is caused by an unbalanced force which continuously pulls the object towards the center. __Centripetal (_center-seeking_) force__.
+- Net force and acceleration vectors point in the same direction.
 
 ---
 
@@ -187,7 +188,7 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 ![](../assets/bucket-of-water.png)
 
 - Mathieu is swinging a bucket of water above his head. It weighs, $8kg$ and has a horizontal speed of $4ms^{-1}$ in a circle of radius $1m$.
-- __Calculate the force required to keep the ball moving in a circle.__
+- __Calculate the force required to keep the bucket moving in a circle.__
     + __Knowns, Unknowns, Formula, Substitute, Solve__
 
 ---
