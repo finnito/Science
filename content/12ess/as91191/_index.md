@@ -120,8 +120,14 @@ Homework is graded on three things, each worth one point.
         + [Density Practical](https://www.riskassess.co.nz/risk_assessment/9523073)
 
 5. #### Volcanoes Intro
+    - Finish NZ tectonics map (15min)
+    - Read pg 141-144
+        + Make 1-2 notes per page of interesting things you think you should know in your exercise book
+    - Watch video on NZ volcanoes
+        + https://youtu.be/BC-Vk4EzMbg
+    - Finish early for assembly
     - __Whakaritenga__
-        -
+        - 
     - __Te Whāinga Ako__
         1.
     - __Notes__
