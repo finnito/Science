@@ -33,7 +33,7 @@ topic = "Volcanoes"
 source = "2019 Q1"
 source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91191-exm-2019.pdf"
 marking_schedule_path = "../assets/2019-q1-answers.png"
-youtube_id = ""
+youtube_id = "eJGmkOFBDvg"
 image_path = "https://static.sciencelearn.org.nz/images/images/000/000/716/full/Auckland_Volc_Field_2018_latest_mapBruceHayward.jpg?1587612809"
 text = '''
 Auckland sits over an active volcanic field, which includes more than 50 volcanoes. While scientists don’t expect any of these existing volcanoes to erupt again, they are almost certain that more eruptions are likely to take place at some time in the future. The type of eruption that occurs may depend upon whether the eruption meets water as it rises through the crust.
@@ -47,12 +47,6 @@ In your answer, you should refer to:
 
 _A diagram may assist your explanation._
 '''
-hint = """
-
-"""
-answer = """
-
-"""
 
 # ============
 # 2019 Q2
@@ -64,6 +58,7 @@ source = "2019 Q2"
 source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91191-exm-2019.pdf"
 marking_schedule_path = "../assets/2019-q2-answers.png"
 image_path = "../assets/2019-q2-asset.png"
+youtube_id = "lH_PAGimWJM"
 text = '''
 In 1855, the most severe earthquake in New Zealand’s recent history occurred along the Wairarapa Fault. The depth was shallow, and it was recorded as a magnitude 8.2 – 8.3.
 
@@ -74,12 +69,6 @@ Explain in detail how a rupture along this fault could lead to a large-magnitude
 - the cause of this large magnitude earthquake
 - the effects seen on the land (do not include tsunami effects).
 '''
-hint = """
-
-"""
-answer = """
-
-"""
 
 # ============
 # 2019 Q3
@@ -91,6 +80,7 @@ source = "2019 Q3"
 source_link = "https://www.nzqa.govt.nz/nqfdocs/ncea-resource/exams/2019/91191-exm-2019.pdf"
 marking_schedule_path = "../assets/2019-q3-answers.png"
 image_path = "../assets/2019-q3-asset.png"
+youtube_id = "HipS-7kGe9c"
 text = '''
 The 1855 Wairarapa Fault rupture triggered uplift of the Australian Plate and a series of landslides into the Cook Strait Canyon. This resulted in a number of tsunami, up to 11 metres high, reaching Wellington.
 
@@ -102,9 +92,3 @@ In your answer, you should:
 - explain, in detail, the energy transfers that occur in each type of tsunami formation
 - explain, in detail, the factors which may affect the size of the Wellington tsunami.
 '''
-hint = """
-
-"""
-answer = """
-
-"""
