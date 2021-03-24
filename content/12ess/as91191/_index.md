@@ -196,12 +196,15 @@ Homework is graded on three things, each worth one point.
 10. #### Volcano Types 3
     - __Whakaritenga__
         - Book experiment
+        - Print volcanic composition worksheet
     - __Te Whāinga Ako__
-        1.
+        1. Be able to relate the types of rock to their silica content, explosivity and shape.
     - __Notes__
+        + Video on the [Taupo Volcanic Zone](https://www.youtube.com/watch?v=xAMrY7ty0dc)
+        + Video on [lava flows in Hawaii](https://youtu.be/pzHCd2X1GaM)
         - Slides:
     - __Task/Ngohe__
-        -
+        - Volcanic composition graphing task
     - __Whakamātau__
         + $CO_{2}$ in drinks
         + https://www.riskassess.co.nz/risk_assessment/9601201
