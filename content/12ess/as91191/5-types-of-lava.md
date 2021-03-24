@@ -66,7 +66,7 @@ header-includes:
 
 ### Temperature {.c2}
 
-- Hot liquid --> less viscosity
+- Hot --> higher viscosity
 - Magma composed of melted crust has a lower temperature
 - Magma composed of melted mantle rocks has a higher temperature
 
