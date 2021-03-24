@@ -16,7 +16,7 @@ export default {
 	maxScale: 2.0,
 
 	// Display presentation control arrows
-	controls: false,
+	controls: true,
 
 	// Help the user learn the controls by providing hints, for example by
 	// bouncing the down arrow when they first encounter a vertical slide
@@ -30,7 +30,7 @@ export default {
 	controlsBackArrows: 'faded',
 
 	// Display a presentation progress bar
-	progress: false,
+	progress: true,
 
 	// Display the page number of the current slide
 	// - true:    Show slide number
@@ -52,7 +52,7 @@ export default {
 	// - "all":      Always show the slide number
 	// - "print":    Only when printing to PDF
 	// - "speaker":  Only in the speaker view
-	showSlideNumber: 'print',
+	showSlideNumber: 'all',
 
 	// Use 1 based indexing for # links to match slide number (default is zero
 	// based)
@@ -60,7 +60,7 @@ export default {
 
 	// Add the current slide number to the URL hash so that reloading the
 	// page/copying the URL will return you to the same slide
-	hash: true,
+	hash: false,
 
 	// Flags if we should monitor the hash and change slides accordingly
 	respondToHashChanges: true,
@@ -288,9 +288,6 @@ export default {
 	dependencies: [],
 
 	// Plugin objects to register and use for this presentation
-	plugins: [
-		GoBack,
-		Clock
-	]
+	plugins: []
 
 }
