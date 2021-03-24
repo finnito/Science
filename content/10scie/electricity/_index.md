@@ -111,12 +111,22 @@ menu:
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-11. #### Resistance 2
-    - Whakamātau: Finding unknown resistors (electricity trolley)
-    - __Ngā/Te Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+11. #### Charge, Current, Voltage
+    <!-- - Whakamātau: Finding unknown resistors (electricity trolley) -->
+    - __Whakaritenga__
+        + Print CO - Electric components - jigsaw game
+    - __Ngā/Te Whāinga Ako__
+        1. Describe electric current in terms of a moving flow of charge (Coulombs per second)
+        2. Describe voltage in terms of the amount of electrical energy carried by each Coulomb of charge
+    - __Notes__
+        + Charge, Current and Voltage
+    - __Task/Ngohe__
+        + 10min to start to finish notes from last class
+        + Kahoot
+        + Notes on charge, current, voltage
+        + Find the unknown voltage question
+        + Jigsaw game/tākaro
+    <!-- - __Whakamātau/Whakakite__:  -->
 
 12. #### Review/Catch-Up
     - __Ngā/Te Whāinga Ako__: 
