@@ -163,9 +163,9 @@ iframe { display: block; margin: auto; }
   vertical-align: middle;
 }
 
-.reveal section img {
+/*.reveal section:not img {
   max-width: 50%;
-}
+}*/
 
 .reveal section figure:only-child img {
   max-height: 100%;
