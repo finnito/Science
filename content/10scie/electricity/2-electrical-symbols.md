@@ -168,7 +168,7 @@ __Wires__: A straight line with right-angled corners that connects electrical co
 #### Pātai {.c2}
 
 1. Neatly draw these circuits in your book.
-2. Decide whether each circuit is a __parallel__ or __series__ circuit.
+2. In pairs, decide whether each circuit is a __parallel__ or __series__ circuit.
 
 ![](../assets/series-vs-parallel.png)
 
@@ -176,11 +176,11 @@ __Wires__: A straight line with right-angled corners that connects electrical co
 
 ### Whakawai / Practise: Drawing Circuits
 
-1. A circuit with two bulbs in series.
-2. A circuit with two bulbs, a switch and a resistor in series.
-3. A circuit with two bulbs in parallel, with a switch can turn both lights on/off.
-4. A circuit with two bulbs in parallel, with a switch that can turn one bulb on/off.
-5. A circuit with three bulbs and a switch, where two bulbs can be controlled by the switch, and the third is always on.
+1. A circuit with a battery, two bulbs in series.
+2. A circuit with a battery, two bulbs, an open switch and a resistor in series.
+3. A circuit with a battery, two bulbs in parallel, with a switch that can turn both lights on/off.
+4. A circuit with a battery, two bulbs in parallel, with a switch that can turn one bulb on/off.
+5. A circuit with a battery, three bulbs and a switch, where two bulbs can be controlled by the switch, and the third is always on.
 
 ---
 
