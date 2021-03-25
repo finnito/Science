@@ -25,7 +25,8 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 5. __Monday, March 15th__: 
 6. __Monday, March 22nd__: 
 7. __Monday, March 29th__: 
-8. __Wednesday, April 7th__: 
+8. __Wednesday, April 7th__: Q20, Q22-23, Q42
+    - This homework should be done on refill paper and handed in on the first period after Easter!
 9. __Monday, April 12th__: 
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
