@@ -499,13 +499,3 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     - __Task/Ngohe__
         -
 
-44. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
-
