@@ -50,15 +50,15 @@ Any of the task left unfinished should be completed as homework.
 - In _current electricity_, charges have to flow through a conductor (e.g. copper wire).
 - The charges that flow are __electrons__.
 - These electrons carry a negative charge, and move from the negative to the positive terminal of the power supply.
-- __NB__: _Conventional current_ is an old concept from when we thought that positive charges flow.
 
-![[Source](https://electronics.stackexchange.com/questions/483777/confused-with-diodes-and-conventional-vs-real-current-flow)](https://i.stack.imgur.com/cuhsg.png)
+![[Source](https://electronics.stackexchange.com/questions/483777/confused-with-diodes-and-conventional-vs-real-current-flow)](../assets/electron-flow.jpg)
+
 
 ---
 
 ### {.c2}
 
-![[Source](https://electronics.stackexchange.com/questions/483777/confused-with-diodes-and-conventional-vs-real-current-flow)](https://i.stack.imgur.com/cuhsg.png)
+![[Source](https://electronics.stackexchange.com/questions/483777/confused-with-diodes-and-conventional-vs-real-current-flow)](../assets/electron-flow.jpg)
 
 - Current is given the letter $I$ in equations, as it was historically known as intensité du courant (French).
 - It is measured in a unit called Amperes (Amps) or A for short.
@@ -70,7 +70,7 @@ Any of the task left unfinished should be completed as homework.
 
 Discuss with the person next to you, why is it that negative charges flow, and positive charges do not? Write your conclusion down in your book.
 
-![[Source](https://electronics.stackexchange.com/questions/483777/confused-with-diodes-and-conventional-vs-real-current-flow)](https://i.stack.imgur.com/cuhsg.png)
+![[Source](https://electronics.stackexchange.com/questions/483777/confused-with-diodes-and-conventional-vs-real-current-flow)](../assets/electron-flow.jpg)
 
 ---
 
@@ -89,9 +89,8 @@ Discuss with the person next to you, why is it that negative charges flow, and p
 - Each electron carries some amount of charge
 - This charge is given the letter $Q$
 - Charge is measured in a unit called a $Coulomb$ (C).
-- In one second, a current of $1A$ will carry $1C$ of charge past a point.
 
-![[Source](https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb)](https://upload.wikimedia.org/wikipedia/commons/9/9f/Charles_de_Coulomb.png)
+![[Wikipedia: Charles-Augustin de Coulomb](https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb)](https://upload.wikimedia.org/wikipedia/commons/9/9f/Charles_de_Coulomb.png)
 
 ---
 
@@ -105,6 +104,28 @@ Discuss with the person next to you, why is it that negative charges flow, and p
 - The total voltage must be _"consumed"_.
 
 ![[Source](https://www.pathwayz.org/Tree/Plain/VOLTAGE)](https://www.pathwayz.org/Node/Image/url/aHR0cHM6Ly9pLmltZ3VyLmNvbS9DTUhrSUFpLnBuZw==)
+
+---
+
+![[Source](https://makeagif.com/gif/electric-circuits-basics-of-the-voltage-and-current-laws-DHzg7p)](https://i.makeagif.com/media/8-28-2017/DHzg7p.gif)
+
+---
+
+### Tūhura/Investigation: Ohm's Law
+
+1. Open the [PhET Simulation](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_en.html) on Google Classroom.
+2. The __voltage__ and __resistance__ sliders allow you to change those properties of the circuit.
+3. __What impact does increasing the voltage have on the circuit?__ Extra: Why?
+4. __What impact does increasing the resistance have on the circuit?__ Extra: Why?
+
+---
+
+#### Whakatika
+
+1. __What impact does increasing the voltage have on the circuit?__ Extra: Why?<br>Increasing the voltage increases the current in the circuit. Because a higher "_pressure_" is exerted by the power source, causing more electrons to flow around the circuit.
+2. __What impact does increasing the resistance have on the circuit?__ Extra: Why?<br>Increasing the resistance decreases the current in the circuit. Because there is more friction acting upon the electrons, stopping them from flowing as freely.
+
+---
 
 ---
 
@@ -125,3 +146,14 @@ Discuss with the person next to you, why is it that negative charges flow, and p
 5. __Place all uncrumpled excess paper into the green recycling bin!__
 
 ![](../assets/CO - Electric components - jigsaw.jpg)
+
+---
+
+### John Travoltage {.c2}
+
+![[Source](https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_en.html)](../assets/john-travoltage.png)
+
+1. Open the [PhET Simulation](https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_en.html) on Google Classroom
+2. Describe & explain what happens when you move his foot across the mat multiple times.
+3. Describe & explain what happens when you bring his hand close to the door handle.
+4. Investigate to see if there is a relationship between the amount of charge needed to cause a spark, and the distance of the hand to the door handle.
