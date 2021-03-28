@@ -398,6 +398,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     - Recap/review any material that you have been away for
     - Practice older questions in vectors/kinematics/projectile motion/forces
 
+---
+
+#### Term 1, Week 9
+
 32. ####
     - __Whakaritenga__
         -
