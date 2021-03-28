@@ -72,6 +72,8 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 
 ### Ngā Mahere Akoranga: _Lesson Plans_
 
+#### Term 1, Week 1
+
 1. #### Intro to Physics
     - __Whakaritenga__
         - Collect year planner
@@ -101,6 +103,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
         - Continue vector slides
     - __Task/Ngohe__
         - Vectors worksheet
+
+---
+
+#### Term 1, Week 2
 
 4. #### Vector Addition and Subtraction
     - __Ngā Whāinga Ako__
@@ -138,6 +144,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
         - Complete any missed questions in textbook
         - Homework booklet Q8, Q10, Q11
         - Vectors & Relative Velocity Worksheet
+
+---
+
+#### Term 1, Week 3
 
 8. #### Vectors Practice
     - __Task/Ngohe__
@@ -179,6 +189,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     - __Tūhura__
         + Projectile introduction (time up and down)
 
+---
+
+#### Term 1, Week 4
+
 12. ####
     - __Whakaritenga__
         -
@@ -218,6 +232,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
         - Slides:
     - __Task/Ngohe__
         -
+
+---
+
+#### Term 1, Week 5
 
 16. ####
     - __Whakaritenga__
@@ -259,6 +277,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     - __Task/Ngohe__
         -
 
+---
+
+#### Term 1, Week 6
+
 20. ####
     - __Whakaritenga__
         -
@@ -299,6 +321,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     - __Task/Ngohe__
         -
 
+---
+
+#### Term 1, Week 7
+
 24. ####
     - __Whakaritenga__
         -
@@ -338,6 +364,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
         - Slides:
     - __Task/Ngohe__
         -
+
+---
+
+#### Term 1, Week 8
 
 28. ####
     - __Whakaritenga__
@@ -419,6 +449,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     - __Task/Ngohe__
         -
 
+---
+
+#### Term 1, Week 10
+
 36. ####
     - __Whakaritenga__
         -
@@ -458,6 +492,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
         - Slides:
     - __Task/Ngohe__
         -
+
+---
+
+#### Term 1, Week 11
 
 40. ####
     - __Whakaritenga__
