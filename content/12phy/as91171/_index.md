@@ -56,19 +56,19 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|           | Akoranga 1                   | Akoranga 2              | Akoranga 3                 | Akoranga 4                |
-| :-------- | :---------------------       | :---------------------- | :------------------------- | :------------------------ |
-| Week 1    | _Juniors Only_               | Speed & Acceleration    | Scalars & Vectors          | Vectors in 1D (Delta)     |
-| Week 2    | _Waitangi Day_/Vectors in 1D | Vectors in 2D           | Vectors in 2D              | Vector Components         |
-| Week 3    | Vector Components            | Vector Revision         | Vector Test                | Kinematic Equations       |
-| Week 4    | Kinematic Equations          | Kinematic Equations     | Newton's Laws              | Newton's Laws             |
-| Week 5    | Newton's Laws                | __Mid-Topic Test #1__   | Projectile Motion          | Projectile Motion         |
-| Week 6    | Projectile Motion            | Projectile Motion       | Projectile Motion          | Torque & Equilibrium      |
-| Week 7    | Torque & Equilibrium         | Torque & Equilibrium    | Torque & Equilibrium       | Torque & Equilibrium      |
-| Week 8    | Circular Motion              | Circular Motion         | Circular Motion            | __Mid-Topic Test #2__     |
-| Week 9    | Momentum & Impulse           | Momentum & Impulse      | Momentum & Impulse         | Momentum & Impulse        |
-| Week 10   | Momentum & Impulse           | Energy Conservation     | Elastic Potential Energy   | Work & Power              |
-| Week 11   | __Revision__                 | __TEST__                | _Hand Back Test_           | _Work on Test Mistakes_   |
+|           | Akoranga 1                      | Akoranga 2                | Akoranga 3                 | Akoranga 4                |
+| :-------- | :---------------------          | :----------------------   | :------------------------- | :------------------------ |
+| Week 1    | ~~_Juniors Only_~~              | 1. Speed & Acceleration   | 2. Scalars & Vectors       | 3. Vectors in 1D (Delta)  |
+| Week 2    | 4. _Waitangi Day_/Vectors in 1D | 5. Vectors in 2D          | 6. Vectors in 2D           | 7. Vector Components      |
+| Week 3    | 8. Vector Components            | 9. Vector Revision        | 10. Vector Test            | 11. Kinematic Equations   |
+| Week 4    | 12. Kinematic Equations         | 13. Kinematic Equations   | 14. Newton's Laws          | 15. Newton's Laws         |
+| Week 5    | 16. Newton's Laws               | 17. __Mid-Topic Test #1__ | 18. Projectile Motion      | 19. Projectile Motion     |
+| Week 6    | 20. Projectile Motion           | 21. Projectile Motion     | 22. Projectile Motion      | 23. Torque & Equilibrium  |
+| Week 7    | 24. Torque & Equilibrium        | 25. Torque & Equilibrium  | 26. Torque & Equilibrium   | 27. Torque & Equilibrium  |
+| Week 8    | 28. Circular Motion             | 29. Circular Motion       | 30. Circular Motion        | 31. Recap & Review        |
+| Week 9    | 32. Momentum & Impulse          | 33. Momentum & Impulse    | 34. Momentum & Impulse     | 35. ~~Easter Friday~~     |
+| Week 10   | 36. ~~Easter Mon/Tues~~         | 37. Spring & Elastics     | 38. Energy Conservation    | 39. Work & Power          |
+| Week 11   | 40. __Revision__                | 41. __Revision__          | 42. __TEST__               | 43. _Hand Back Test_      |
 
 ### Ngā Mahere Akoranga: _Lesson Plans_
 
