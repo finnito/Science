@@ -57,9 +57,9 @@ Homework is graded on three things, each worth one point.
 | __T1 W6__  | ~~Previous Unit~~     | ~~Previous Unit~~      | 1. Plate Tectonics 1 | 2. Plate Tectonics 2 (P)  |
 | __T1 W7__  | 3. NZ Tectonics 1 (P) | 4. NZ Tectonics 2      | 5. Volcanoes Intro   | 6. Volcanoes Intro 2      |
 | __T1 W8__  | 7. NZ Volcanoes       | 8. Magma Types 1       | 9. Magma & Volcanoes | 10. Volcanoes (P)         |
-| __T1 W9__  | 11. TVZ               | 12. AVF                | 13. Earthquakes 1    | 14. Earthquakes 2 (P)     |
-| __T1 W10__ | 15. ~~Easter Monday~~ | 16. ~~Easter Tuesday~~ | 17. Alpine Fault     | 18. Tsunamis 1            |
-| __T1 W11__ | 19. Tsunamis 2 (P)    | 20. Tsunamis 3 (P)     | 21. Tsunamis 4       | 22. Tsunamis 5 (P)        |
+| __T1 W9__  | 11. NZ Volcanoes      | 12. TVZ & AVF          | 13. Volcanic Hazards | 14. Earthquakes 1         |
+| __T1 W10__ | 15. ~~Easter Monday~~ | 16. ~~Easter Tuesday~~ | 17. Earthquakes 2    | 18. Earthquakes 3         |
+| __T1 W11__ | 19. Alpine Fault      | 20. Tsunamis 1 (P)     | 21. Tsunamis 2       | 22. Tsunamis 3 (P)        |
 | __T2 W1__  | 23. Revision 1        | 24. Revision 2         | 25. Revision 3       | 26. __End of Topic Test__ |
 
 ### Lesson Plans / _Ngā Mahere Akoranga_
@@ -213,7 +213,29 @@ Homework is graded on three things, each worth one point.
 
 ### Term 1 Week 9
 
-11. #### Taupō Volcanic Zone
+11. #### NZ Volcanoes
+    - __Whakaritenga__
+        - Print [plate tectonics match-up](https://docs.google.com/document/d/1-jhHQ8ShDeuhxApqn3X6AtdIE5sW8I_t9GD-0XpaUWM/edit)
+        - Print [4x NZ volcanoes pictures](https://docs.google.com/document/d/1Bd924Ao2_WMfC1sNlEu_ZczBSR56R5N4ilV_Yf1bZgs/edit)
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+12. #### Taupō Volcanic Zone & Auckland Volcanic Field
+    - __Whakaritenga__
+    - __Mahi Tuatai__
+        + [Dome vs Shield Volcanoes](https://docs.google.com/document/d/12T5UQLhE7uN6zJrRDTH-iB2SfolaeB8koQUdyRmCtYg/edit)
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+13. #### Volcanic Hazards
     - __Whakaritenga__
         -
     - __Te Whāinga Ako__
@@ -223,27 +245,7 @@ Homework is graded on three things, each worth one point.
     - __Task/Ngohe__
         -
 
-12. #### Auckland Volcanic Field
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
-
-13. #### Earthquakes 1
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
-
-14. #### Earthquakes 2
+14. #### Earthquakes 1
     - __Whakaritenga__
         -
     - __Te Whāinga Ako__
