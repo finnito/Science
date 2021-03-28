@@ -6,20 +6,20 @@ emoji: 🇳🇿
 
 A simple cheatsheet of teaching-related language to use in the classroom or on ngā kirita. Use [Paekupu](https://paekupu.co.nz/words/wordlist/te-reo-pūtaiao/english-to-maori) for pūtaiao specific language.
 
-| Weekdays | Months           | Numbers |
-|:---------|:-----------------|:--------|
-| Rātapu   | Kohi-tātea       | Tahi    |
-| Rāhina   | Hui-tanguru      | Rua     |
-| Rātu     | Poutū-te-rangi   | Toru    |
-| Rāapa    | Paenga-whāwhā    | Whā     |
-| Rāpare   | Haratua          | Rimu    |
-| Rāmere   | Pipiri           | Ono     |
-| Rāhoroi  | Hōngongoi        | Whitu   |
-|          | Here-turi-kōkā   | Waru    |
-|          | Mahuru           | Iwa     |
-|          | Whiringa-ā-nuku  | Tekau   |
-|          | Whiringa-ā-rangi |         |
-|          | Hakihea          |         |
+| Weekdays   | Months             | Numbers   |
+| :--------- | :----------------- | :-------- |
+| Rāhina     | Kohi-tātea         | Tahi      |
+| Rātu       | Hui-tanguru        | Rua       |
+| Rāapa      | Poutū-te-rangi     | Toru      |
+| Rāpare     | Paenga-whāwhā      | Whā       |
+| Rāmere     | Haratua            | Rimu      |
+| Rāhoroi    | Pipiri             | Ono       |
+| Rātapu     | Hōngongoi          | Whitu     |
+|            | Here-turi-kōkā     | Waru      |
+|            | Mahuru             | Iwa       |
+|            | Whiringa-ā-nuku    | Tekau     |
+|            | Whiringa-ā-rangi   |           |
+|            | Hakihea            |           |
 
 - __Akoranga__: Lesson
 - __Aromatawai__: Assessment
