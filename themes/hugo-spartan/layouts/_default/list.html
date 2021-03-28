@@ -40,17 +40,19 @@
     </div>
     {{ .Content }}
 
-    <div class="changelog">
-        <h3>Revision History: Latest Change</h3>
-        {{ with .GitInfo }}
-            <p><a href="https://github.com/finnito/Science/commit/{{ .Hash }}">{{ .AuthorName }} {{ .AuthorDate.Format "January 2, 2006" }}</a> {{ .Subject }}</p>
-        {{ end }}
-        {{ with .File }}
-            {{ $file := path.Join "/static" .Dir "changelog.txt" }}
-            {{ if (fileExists $file) -}}
-                {{ $file  | readFile | safeHTML }}
-            {{- end }}
-        {{ end }}
+    <div class="tab-content">
+        <div class="changelog">
+            <h3>Changelog: Latest Change</h3>
+            {{ with .GitInfo }}
+                <p><a href="https://github.com/finnito/Science/commit/{{ .Hash }}">{{ .AuthorName }} {{ .AuthorDate.Format "January 2, 2006" }}</a> {{ .Subject }}</p>
+            {{ end }}
+            {{ with .File }}
+                {{ $file := path.Join "/static" .Dir "changelog.txt" }}
+                {{ if (fileExists $file) -}}
+                    {{ $file  | readFile | safeHTML }}
+                {{- end }}
+            {{ end }}
+        </div>
     </div>
 
 {{ partial "footer.html" . }}
