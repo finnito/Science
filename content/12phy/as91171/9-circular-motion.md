@@ -38,8 +38,8 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 ![](../assets/circle-diagram.png)
 
 \begin{aligned}
-    & Radius = r \\
-    & Diameter = d \\
+    & Radius = r \newline
+    & Diameter = d \newline
     & Circumference = C
 \end{aligned}
 
@@ -135,7 +135,7 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 > An object undergoing circular motion is always accelerating towards the center of the circle. Therefore, because the direction is changing, the velocity is changing. Therefore the object is always accelerating, even if its speed is constant.
 
 \begin{aligned}
-    & a_{c} = \frac{v^{2}}{r} \\
+    & a_{c} = \frac{v^{2}}{r} \newline
 \end{aligned}
 
 ---
@@ -198,9 +198,9 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 ![](../assets/bucket-of-water.png)
 
 \begin{aligned}
-    & v = 4ms^{-1}, r = 1m, m = 8kg && \text{(K)}  \\
-    & F_{c} = ? && \text{(U)} \\
-    & F_{c} = \frac{mv^{2}}{r} && \text{(F)} \\
+    & v = 4ms^{-1}, r = 1m, m = 8kg && \text{(K)}  \newline
+    & F_{c} = ? && \text{(U)} \newline
+    & F_{c} = \frac{mv^{2}}{r} && \text{(F)} \newline
     & F_{c} = \frac{8 \times 4^{2}}{1} = 128N \text{ inwards} && \text{(S\&S)} 
 \end{aligned}
 
@@ -226,15 +226,15 @@ NB: From 2:30 to 5:25.
 #### Whakatika
 
 \begin{aligned}
-    & F_{c} = 350N, v = 10ms^{-1}, r = 2m && \text{(K)}  \\
-    & m = ? && \text{(U)} \\
-    & F_{c} = \frac{mv^{2}}{r} && \text{(F)} \\
-    & 350 = \frac{m \times 10^{2}}{2} && \text{(S\&S)} \\
+    & F_{c} = 350N, v = 10ms^{-1}, r = 2m && \text{(K)}  \newline
+    & m = ? && \text{(U)} \newline
+    & F_{c} = \frac{mv^{2}}{r} && \text{(F)} \newline
+    & 350 = \frac{m \times 10^{2}}{2} && \text{(S\&S)} \newline
     & \frac{350 \times 2}{10^{2}} = m = 7kg
 \end{aligned}
 
 ---
 
-### Pātai Waru (Q8): Exam Question 26
+### Pātai Waru (Q8): Exam Question 26-28
 
 
