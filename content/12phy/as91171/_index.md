@@ -389,25 +389,14 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     - __Task/Ngohe__
         -
 
-30. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+30. #### Circular Motion Practice
+    - Q26, Q28, Q28 from the homework booklet as practice
 
-31. ####
+31. #### Recap & Revision
     - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+        - Print Torque & Circular Motion worksheets
+    - Recap/review any material that you have been away for
+    - Practice older questions in vectors/kinematics/projectile motion/forces
 
 32. ####
     - __Whakaritenga__
