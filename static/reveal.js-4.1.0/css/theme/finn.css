@@ -73,8 +73,9 @@ iframe { display: block; margin: auto; }
   height: 50px;
 }
 
-.reveal .instruction {
-  background-color: #f6e58d;
+.reveal .instruction,
+mark {
+  background-color: rgba(246, 229, 141, 0.75);
   padding: 0 0.25rem;
   border-radius: 0.25rem;
 }
