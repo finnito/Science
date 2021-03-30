@@ -35,6 +35,28 @@ body {
 
 a > em { font-weight: 300; }
 
+dl {
+  margin-top: 0.5rem;
+  border: 1px solid var(--neutral-dark);
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+dt {
+  font-weight: bold;
+  padding-left: 0.25rem;
+}
+
+dd {
+  margin-inline-start: 0;
+  font-style: italic;
+}
+
+dl dt:nth-of-type(odd),
+dl dd:nth-of-type(odd) {
+  background-color: var(--neutral-light);
+}
+
 img, iframe {
   max-width: 100%;
   max-height: 100%;
