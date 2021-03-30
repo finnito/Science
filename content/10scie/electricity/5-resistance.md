@@ -100,10 +100,10 @@ An current of $0.01A$ flows through a resistor with resistance $1000\Omega$. __C
 #### Whakatika
 
 \begin{aligned}
-    & I = 0.01A, R = 1000\Omega && \text{(K)}  \newline
-    & V = ? && \text{(U)} \newline
-    & V = IR && \text{(F)} \newline
-    & V = 0.01 \times 1000 = 10V && \text{(S+S)}
+    & I = 0.01A, R = 1000\Omega &&\text{(K)}  \newline
+    & V = ? &&\text{(U)} \newline
+    & V = IR &&\text{(F)} \newline
+    & V = 0.01 \times 1000 = 10V &&\text{(S+S)}
 \end{aligned}
 
 ---
@@ -183,3 +183,15 @@ Calculate the current that flows through a $10V$ bulb with a resistance of $400\
 ---
 
 ### Tūhura/Investigation: Ohm's Law
+
+1. Open the [PhET Simulation](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_en.html) on Google Classroom.
+2. The __voltage__ and __resistance__ sliders allow you to change those properties of the circuit.
+3. __What impact does increasing the voltage have on the circuit?__ Extra: Why?
+4. __What impact does increasing the resistance have on the circuit?__ Extra: Why?
+
+---
+
+#### Whakatika
+
+1. __What impact does increasing the voltage have on the circuit?__ Extra: Why?<br>Increasing the voltage increases the current in the circuit. Because a higher "_pressure_" is exerted by the power source, causing more electrons to flow around the circuit.
+2. __What impact does increasing the resistance have on the circuit?__ Extra: Why?<br>Increasing the resistance decreases the current in the circuit. Because there is more friction acting upon the electrons, stopping them from flowing as freely.

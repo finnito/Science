@@ -39,7 +39,7 @@ Any of the task left unfinished should be completed as homework.
 
 - We are moving on from thinking about static electricity, to thinking about electricity that flows: __current electricity__.
 - Split part of your page into three columns:
-    + __Current__, __Charge__ and __Voltage__
+    + __Current__, __Voltage__, and __Resistance__
 
 ![[Source](https://in.pinterest.com/pin/592293788476669615/)](https://i.pinimg.com/originals/3f/cb/c4/3fcbc422177b0906dcaaa27a8fec778b.gif)
 
@@ -81,6 +81,11 @@ Discuss with the person next to you, why is it that negative charges flow, and p
 - Electrons carry negative charge, and protons carry positive charge.
 - In conductors, electrons are loosely held and can move freely throughout a solid in a _"sea"_ of electrons.
 - Protons cannot move, because they reside in the nucleus of the atom, and atoms are fixed in place.
+- Electrons cannot flow easily or at all in insulators - this is why you stand on a chair with the Van der Graaf generator.
+
+---
+
+<iframe width="1241" height="698" src="https://www.youtube.com/embed/-n1pSHzdahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -100,32 +105,14 @@ Discuss with the person next to you, why is it that negative charges flow, and p
 - Because they all have the same charge, they repel each other.
 - This _"pressure"_ to get away from each other is called __Voltage__
 - As electrons pass through different components (bulb, resistor etc.) the voltage decreases.
-- Components with a higher voltage do more __work__ (e.g. get brighter/warmer)
-- The total voltage must be _"consumed"_.
+- Components with a higher voltage are brighter/warmer
+- The total voltage of the power supply must be _"consumed"_.
 
 ![[Source](https://www.pathwayz.org/Tree/Plain/VOLTAGE)](https://www.pathwayz.org/Node/Image/url/aHR0cHM6Ly9pLmltZ3VyLmNvbS9DTUhrSUFpLnBuZw==)
 
 ---
 
 ![[Source](https://makeagif.com/gif/electric-circuits-basics-of-the-voltage-and-current-laws-DHzg7p)](https://i.makeagif.com/media/8-28-2017/DHzg7p.gif)
-
----
-
-### Tūhura/Investigation: Ohm's Law
-
-1. Open the [PhET Simulation](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_en.html) on Google Classroom.
-2. The __voltage__ and __resistance__ sliders allow you to change those properties of the circuit.
-3. __What impact does increasing the voltage have on the circuit?__ Extra: Why?
-4. __What impact does increasing the resistance have on the circuit?__ Extra: Why?
-
----
-
-#### Whakatika
-
-1. __What impact does increasing the voltage have on the circuit?__ Extra: Why?<br>Increasing the voltage increases the current in the circuit. Because a higher "_pressure_" is exerted by the power source, causing more electrons to flow around the circuit.
-2. __What impact does increasing the resistance have on the circuit?__ Extra: Why?<br>Increasing the resistance decreases the current in the circuit. Because there is more friction acting upon the electrons, stopping them from flowing as freely.
-
----
 
 ---
 
@@ -137,19 +124,32 @@ Discuss with the person next to you, why is it that negative charges flow, and p
 
 ---
 
-#### Tākaro/Game{.c2}
+#### Ngohe/Task {.c2}
 
 1. Collect your sheet from the front
 2. Cut out the pieces and the middle rectangle
 3. Glue the big rectangle into your book
 4. Match up the symbols next to the definitions and glue them in!
-5. __Place all uncrumpled excess paper into the green recycling bin!__
+5. __Place all un-crumpled excess paper into the green recycling bin!__
 
 ![](../assets/CO - Electric components - jigsaw.jpg)
 
 ---
 
-### John Travoltage {.c2}
+### Tūhura/Investigation: Current {.c2}
+
+1. In groups of 3-4 collect a light kit from the trolley and find a station around the room
+2. Create a circuit with the power supply, two bulbs, and a switch __in series__.
+3. Turn your circuit off, add an ammeter in series. __Check with your teacher before you turn it back on!__
+4. What does the ammeter measure?
+5. How does the reading change when you have 1 or 2 bulbs in the circuit?
+6. How does changing the voltage impact your circuit?
+
+![](../assets/circuit-investigation.png)
+
+---
+
+### Tūhura/Investigation: John Travoltage {.c2}
 
 ![[Source](https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_en.html)](../assets/john-travoltage.png)
 
