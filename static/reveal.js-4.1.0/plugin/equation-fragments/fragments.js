@@ -6,7 +6,7 @@
 window.EquationFragments = window.EquationFragments || {
     id: 'EquationFragments',
     init: function(deck){
-        document.querySelectorAll("span.math.display,figure,blockquote,p.instruction,section > p").forEach((element) => {
+        document.querySelectorAll("span.math.display,blockquote,p.instruction,section > p").forEach((element) => {
             element.classList.add("fragment");
         });
     }
