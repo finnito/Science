@@ -85,8 +85,6 @@ $body$
   <script src="$revealjs-url$/plugin/equation-fragments/fragments.js"></script>
   <script src="$revealjs-url$/plugin/back/back.js"></script>
   <script src="$revealjs-url$/plugin/clock/clock.js"></script>
-  <script src="$revealjs-url$/plugin/search/search.js"></script>
-  <script src="$revealjs-url$/plugin/zoom/zoom.js"></script>
   <script>
 
       // Full list of configuration options available at:
