@@ -11,28 +11,3 @@ window.EquationFragments = window.EquationFragments || {
         });
     }
 };
-// var EquationFragments = ( function( _Reveal ){
-//     var Reveal = _Reveal;
-
-//     Plugin.id = 'EquationFragments';
-//     Plugin.init = function( _Reveal ){
-//         document.querySelectorAll("span.math.display").forEach((element) => {
-//             element.parentNode.classList.add("fragment");
-//         });
-//     }
-//     return Plugin;
-// })( Reveal )
-
-// var AddFragments = window.AddFragments || (function(){
-
-//     return {
-//         init: function() {
-//             document.querySelectorAll("span.math.display").forEach((element) => {
-//                 console.log(element);
-//                 element.parentNode.classList.add("fragment");
-//             });
-//         }
-//     }
-// })();
-
-// Reveal.registerPlugin( 'fragments', AddFragments );
