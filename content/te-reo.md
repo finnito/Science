@@ -21,6 +21,8 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 |            | Whiringa-ā-rangi   |           |
 |            | Hakihea            |           |
 
+## Planning & Classroom Vocabulary
+
 - __Akoranga__: Lesson
 - __Aromatawai__: Assessment
 - __He pātai?__: Any questions?
@@ -46,54 +48,148 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Whakatika__: Answer
 - __Whakawai__: Practise
 
-## Greeetings
+## Praise
 
-### Formal letter or email:
+### Achieved/_Paetae_
 
-- __Tēnā koe (Name): Dear (Name)__: greeting one person.
-- __Tēnā kōrua__: Greeting two people. Don’t insert the names.
-- __Tēnā koutou__: Greeting three or more people.
+Pai tō mahi!
+: Good work!
 
-### Informal letter or email:
-  
-(Note: kia ora can mean hello, good morning, good afternoon and thank you)
+Ngā mihi i tō mahi!
+: Acknowledgements for your work!
 
-- __Kia ora__: Hello any number of people
-- __Kia ora kōrua__: Hello to two people
-- __Kia ora koutou__: Hello to three or more people
-- __Mōrena or Ata mārie__: Good morning
+### Merit/_Kaiaka_
+
+Ka rawe tō mahi!
+: Fine/great work!
+
+Tau kē!
+: Awesome!
+
+Tino pai tō mahi!
+: Your work is really great!
+
+### Excellence/_Kairangi_
+
+Whakamiharo ana!
+: Superb! 
+
+Mīharo
+: Wonderful
+
+Koia kei a koe!
+: You’re awesome!
+
+Ka mau te wehi!
+: Amazing!
+
+Kei runga noa atu!
+: Outstanding/just the best!
+
+---
+
+## Greetings
+
+### Formal Letter or Email
+
+Tēnā koe (Name)
+: Dear (Name) (greeting one person)
+
+Tēnā kōrua
+: Greeting two people (don’t insert the names)
+
+Tēnā koutou
+: Greeting three or more people
+
+### Informal Letter or Email
+
+Kia ora
+: Hello, good morning, good afternoon and thank you
+
+Kia ora kōrua
+: Hello to two people
+
+Kia ora kotou
+: Hello to three or more people
+
+Mōrena/Ata Mārie
+: Good morning
 
 ## Signoffs
 
-- __Nā__: From
-- __Nāku, nā__: Yours faithfully
-- __Nāku iti noa, nā__: Yours sincerely
-- __Ngā mihi__: Kind regards or thank you
-- __Ngā mihi nui__: Kind regards (with more emphasis on gratitude)
-- __Hei konā mai__: Goodbye for now
-- __Mā te wā__: Bye for now, see you later
-- __Noho ora mai__: Stay well, look after yourself, good bye
-- __Kia pai tō rā__: Have a nice day
-- __Kia pai tō kōrua rā__: Have a nice day (two people)
-- __Kia pai tō koutou rā__: Have a nice day (three or more people)
-- __Kia pai tō rā whakatā__: Have a great weekend!
+Nā
+: From
+
+Nāku, nā
+: Yours faithfully
+
+Nāku iti noa, nā
+: Yours sincerely
+
+Ngā mihi
+: Kind regards or thank you
+
+Ngā mihi nui
+: Kind regards (with more emphasis on gratitude)
+
+Hei konā mai
+: Goodbye for now
+
+Mā te wā
+: Bye for now, see you later
+
+Noho ora mai
+: Stay well, look after yourself, good bye
+
+Kia pai tō rā
+: Have a nice day
+
+Kia pai tō kōrua rā
+: Have a nice day (two people)
+
+Kia pai tō koutou rā
+: Have a nice day (three or more people)
+
+Kia pai tō rā whakatā
+: Have a great weekend!
 
 ## Other
 
-- __Ngā mihi__: Thank you
-- __Ngā mihi nui__: Thank you very much
-- __Ngā mihi maioha__: Thank you with appreciation
-- __Aroha mai__: Sorry, I’m sorry, my apologies
-- __Kei te pēhea koe?__: How are you? (one person)
-- __Kei to pēhea kōrua?__: How are you? (two people)
-- __Kei to pēhea koutou?__: How are you? (three or more people)
-- __Kei te pai__: I’m well
-- __Kei te tino pai__: I’m very well
-- __Kia manahau!__: Enjoy!
-- __Ka mau te wehi!__: Awesome! Fantastic!
-- __Mere Kirihimete__: Merry Christmas
+Ngā mihi
+: Thank you
 
----
+Ngā mihi nui
+: Thank you very much
+
+Ngā mihi maioha
+: Thank you with appreciation
+
+Aroha mai
+: Sorry, I’m sorry, my apologies
+
+Kei te pēhea koe?
+: How are you? (one person)
+
+Kei to pēhea kōrua?
+: How are you? (two people)
+
+Kei to pēhea koutou?
+: How are you? (three or more people)
+
+Kei te pai
+: I’m well
+
+Kei te tino pai
+: I’m very well
+
+Kia manahau!
+: Enjoy!
+
+Ka mau te wehi!
+: Awesome! Fantastic!
+
+Mere Kirihimete
+: Merry Christmas
 
 - Whānau: family
 - Whanauga: someone you are related to

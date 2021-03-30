@@ -12,22 +12,6 @@ menu:
         parent: "12PHY"
 ---
 
-<input type="radio" id="tab1" name="css-tabs" checked>
-<input type="radio" id="tab2" name="css-tabs">
-<input type="radio" id="tab3" name="css-tabs">
-<input type="radio" id="tab4" name="css-tabs">
-<input type="radio" id="tab5" name="css-tabs">
-
-<ul class="tabs">    
-    <li class="tab"><label for="tab1">Homework</label></li>
-    <li class="tab"><label for="tab2">Slides</label></li>
-    <li class="tab"><label for="tab3">Learning Outcomes</label></li>
-    <li class="tab"><label for="tab4">Unit Plan</label></li>
-    <li class="tab"><label for="tab5">Changelog</label></li>
-</ul>
-
-<div class="tab-content">
-
 ## Homework _/ Mahi Kāinga_
 
 Homework is issued on a weekly basis. It should be completed in the back of your exercise book, __not in the homework booklet itself__.
@@ -45,15 +29,7 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     - This homework should be done on refill paper and handed in on the first period after Easter!
 9. __Monday, April 12th__:
 
-</div>
-
-<div class="tab-content">
-
 {{< slides >}}
-
-</div>
-
-<div class="tab-content">
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
@@ -77,10 +53,6 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     5. Work
     6. Power and conservation of energy
     7. Elastic potential energy
-
-</div>
-
-<div class="tab-content">
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
@@ -557,5 +529,3 @@ Homework is issued on a weekly basis. It should be completed in the back of your
         - Slides:
     - __Task/Ngohe__
         -
-
-</div>
