@@ -16,11 +16,9 @@ menu:
 
 Homework is issued on a weekly basis. Find the [homework booklet here](homework-booklet/).
 
-1. Monday, March 22nd: 
-2. Monday, March 29th: 
-3. Thursday, April 8th: 
-3. Monday, April 12: 
-4. Monday, May 3rd: 
+1. Thursday, April 8th: 
+2. Monday, April 12: 
+3. Monday, May 3rd: 
 
 ### Grading
 
@@ -218,18 +216,22 @@ Homework is graded on three things, each worth one point.
         - Print [plate tectonics match-up](https://docs.google.com/document/d/1-jhHQ8ShDeuhxApqn3X6AtdIE5sW8I_t9GD-0XpaUWM/edit)
         - Print [4x NZ volcanoes pictures](https://docs.google.com/document/d/1Bd924Ao2_WMfC1sNlEu_ZczBSR56R5N4ilV_Yf1bZgs/edit)
     - __Te Whāinga Ako__
-        1.
+        1. Use our understanding of magma types to categorise and explain the shape of volcanoes in New Zealand
     - __Notes__
-        - Slides:
+        - Slides 6: Volcanoes in New Zealand
     - __Task/Ngohe__
-        -
+        - 4x NZ Volcanoes activitiy
 
 12. #### Taupō Volcanic Zone & Auckland Volcanic Field
     - __Whakaritenga__
+        + Print map of [TVZ](https://docs.google.com/document/d/14JMumlUwlMMFrKIo-XpCsCtnjVE90u2BivVBe8anW0Q/edit)
+        + Print [map of AVF](https://docs.google.com/document/d/1A4VtFsRH0w4jZswl2ugTBfId05P9HZwBeyvYXpI_YCQ/edit)
     - __Mahi Tuatai__
         + [Dome vs Shield Volcanoes](https://docs.google.com/document/d/12T5UQLhE7uN6zJrRDTH-iB2SfolaeB8koQUdyRmCtYg/edit)
     - __Te Whāinga Ako__
-        1.
+        1. Identify the main volcanoes in the Taupo Volcanic Zone
+        2. Describe how each of these volcanoes form
+        3. Identify the key features of each volcano type
     - __Notes__
         - Slides:
     - __Task/Ngohe__

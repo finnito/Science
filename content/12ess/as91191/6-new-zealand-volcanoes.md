@@ -54,9 +54,9 @@ header-includes:
 
 ### Shield Volcanoes (Basalt) {.c2}
 
-- The flattish gently sloping __shield volcanoes__ of DUnedin and Christchurch are built from basalt
+- The flattish gently sloping __shield volcanoes__ of Dunedin and Christchurch are built from basalt
 - The Dunedin volcano was active 10-13MYA, and the Lyttelton/Akaroa volcanoes 5.8-13MYA
-- The form because low viscosity lava can flow a great distance before solidifying into solid rock
+- They form because low viscosity lava can flow a great distance before solidifying into solid rock
 
 ![[Source](https://www.propertyguides.com/new-zealand/news/a-guide-to-dunedin/)](https://www.propertyguides.com/new-zealand/media/sites/21/Dunedin-town-and-bay-as-seen-from-the-hills-above-South-Island-New-Zealand.jpg)
 
@@ -81,7 +81,7 @@ header-includes:
 
 ![[Source](https://eos.org/science-updates/implications-of-a-supervolcanos-seismicity)](https://eos.org/wp-content/uploads/2020/03/lake-taupo-ngati-tuwharetoa-new-zealand.jpg)
 
-- Some volcanoes are very wide flat areas which complete collapsed following huge eruptions to form __calderas__ (e.g. Lake Taupō).
+- Some volcanoes are very wide flat areas which completely collapsed following huge eruptions to form __calderas__ (e.g. Lake Taupō).
 - The eruption would have been extremely large and violent.
 - Taupō last erupted about 186AD.
 
@@ -106,7 +106,7 @@ header-includes:
 
 - Typically formed at subduction zones
 - Made up of andesitic lava which has an intermediate amount of silica
-- The lava is semi-sticky and cooler. This means that it is so runny and that it cools more quickly.
+- The lava is semi-sticky and cooler. This means that it is not so runny and that it cools more quickly.
 - The combination of these two factors means that it does not travel as far and forms cone shapes.
 - Eruptions can be gentle, erupting lava, or explosive, eruption hot ash.
 
