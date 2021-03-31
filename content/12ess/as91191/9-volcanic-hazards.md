@@ -36,7 +36,7 @@ header-includes:
 ## Tākaro/Game
 
 - Open Google Classroom
-- Find the __Volcanic Hazards Quizlet__
+- Find the __[Volcanic Hazards Quizlet](https://quizlet.com/409323595/extreme-earth-events-volcanic-hazards-flash-cards/)__
 - Do Flashcards/Learn/Write/Spell/Test to practice the cards (10min)
 - Get ready for a Quizlet Live
 
