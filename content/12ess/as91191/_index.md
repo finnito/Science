@@ -222,13 +222,12 @@ Homework is graded on three things, each worth one point.
     - __Task/Ngohe__
         - 4x NZ Volcanoes activitiy
 
-12. #### Taupō Volcanic Zone & Auckland Volcanic Field
+12. #### Taupō Volcanic Zone
     - __Whakaritenga__
         + Print map of [TVZ](https://docs.google.com/document/d/14JMumlUwlMMFrKIo-XpCsCtnjVE90u2BivVBe8anW0Q/edit)
-        + Print [map of AVF](https://docs.google.com/document/d/1A4VtFsRH0w4jZswl2ugTBfId05P9HZwBeyvYXpI_YCQ/edit)
     - __Mahi Tuatai__
         + [Dome vs Shield Volcanoes](https://docs.google.com/document/d/12T5UQLhE7uN6zJrRDTH-iB2SfolaeB8koQUdyRmCtYg/edit)
-    - __Te Whāinga Ako__
+    - __Ngā Whāinga Ako__
         1. Identify the main volcanoes in the Taupo Volcanic Zone
         2. Describe how each of these volcanoes form
         3. Identify the key features of each volcano type
@@ -237,25 +236,30 @@ Homework is graded on three things, each worth one point.
     - __Task/Ngohe__
         -
 
-13. #### Volcanic Hazards
+13. #### Auckland Volcanic Field
     - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
+        - Print [map of AVF](https://docs.google.com/document/d/1A4VtFsRH0w4jZswl2ugTBfId05P9HZwBeyvYXpI_YCQ/edit)
+        - Print geological diagram
+    - __Ngā Whāinga Ako__
+        1. Identify the main volcanoes in the Auckland Volcanic Field
+        2. Describe how each of these volcanoes form
+        3. Identify the key features of each volcano type
     - __Notes__
-        - Slides:
+        - Slides: Auckland volcanic field
     - __Task/Ngohe__
-        -
+        - At end of slides: textbook work on AVF
 
-14. #### Earthquakes 1
+14. #### Earthquake Hazards
     - __Whakaritenga__
-        -
+        - 
+    - __Mahi Tuatahi__
+        + Start/Finish Textbook work from L13
     - __Te Whāinga Ako__
-        1.
+        1. How the type of magma affects the type of eruption that happens and what is produced in this eruption.
     - __Notes__
-        - Slides:
+        - Slides: Volcanic hazards slides
     - __Task/Ngohe__
-        -
+        - Volcanic Hazards information poster & end of slides
 
 ---
 
