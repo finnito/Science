@@ -232,7 +232,7 @@ An object with momentum $p=10kgms^{-1}$ impacts a surface at an angle of $45\deg
 
 A satellite is in orbit. It weighs $300kg$ and it has a thruster which exerts a force of $1500N$. How long must the satellite fire its thruster for if it wants to increase its speed from $5000ms^{-1}$ to $6000ms^{-1}$?
 
-__Hint:__ Calculate $\Delta p$ first using the velocities, then use the inpulse relationships.
+__Hint:__ Calculate $\Delta p$ first using the velocities, then use the impulse relationships.
 
 ---
 
