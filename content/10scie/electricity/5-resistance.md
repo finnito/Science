@@ -24,9 +24,9 @@ header-includes:
 
 ## Resistance {.c2}
 
-- Resistance is a measure of how difficult it is for charges (electrons) to flow through a circuit component
-- A higher resistance ➡ lower current
-- A lower resistance ➡ higher current
+- Resistance is a measure of <mark>how difficult it is for charges (electrons) to flow</mark> through a circuit component
+- <mark>A higher resistance ➡ lower current</mark>
+- <mark>A lower resistance ➡ higher current</mark>
 - It is letter $R$ in equations
 - It has the unit __Ohm__, given the Greek letter capital Omega: $\Omega$
 
@@ -39,14 +39,18 @@ header-includes:
 ![[Source](http://www.dynamicscience.com.au/tester/solutions1/electric/resistanceanalogy.htm)](http://www.dynamicscience.com.au/tester/solutions1/electric/ELECTRICTHINWIRE.gif)
 
 - You can think of it as a skinny pipe which cannot carry as much water as a larger pipe
-- When electrons move through a material with resistance, they lose some energy in the form of heat (and light, when hot enough)
+- When electrons move through a material with resistance, they <mark>lose some energy in the form of heat</mark> (and light, when hot enough)
 - E.g. your toaster, filament lightbulbs, hair dryer, heater, hair straightener
-- Materials with very high resistance are called __insulators__
-- Materials with very low resistance are called __conductors__
+- <mark>Materials with very high resistance are called __insulators__</mark>
+- <mark>Materials with very low resistance are called __conductors__</mark>
 
 ---
 
-The amount of resistance in a component is related directly to the __voltage__ and __current__ flowing through it. This equation is known as __Ohm's Law__.
+<iframe width="1005" height="565" src="https://www.youtube.com/embed/RPvYjrSWCUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+The amount of resistance in a component is related directly to the __voltage__ and __current__ flowing through it. This equation is known as <mark>__Ohm's Law__</mark>.
 
 \begin{aligned}
     &V &&= &&&I &&&&\times &&&&&R \newline
