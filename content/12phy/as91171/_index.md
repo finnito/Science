@@ -402,35 +402,33 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 
 #### Term 1, Week 9
 
-32. ####
-    - __Whakaritenga__
-        -
+32. #### $p=mv$ & $\Delta p$ in 1D
     - __Te Whāinga Ako__
-        1.
+        1. Be able to use the momentum equation ($p=mv$)
+        2. Be able to calculate basic change in momentum situations ($\Delta p = p_{f} - p_{i}$)
     - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+        - Follow momentum slides
 
-33. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
+33. #### $\Delta p$ in 2D & Impulse
+    - __Mahi Tuatahi__
+        + 2D momentum question
+    - __Ngā Whāinga Ako__
+        1. Calculate change of momentum ($\Delta p$) in 2D
+        2. Understand and use the concept of impulse ($F\Delta t = \Delta p$)
     - __Notes__
-        - Slides:
+        - Middle section of slides & questions on momentum
     - __Task/Ngohe__
-        -
+        - Questions in-slides
+        - Textbook momentum & impulse questions 1-5
 
-34. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
+34. #### Conservation of Momentum
+    - __Ngā Whāinga Ako__
+        1. Understand the assumptions behind momentum conservation
+        2. Be able to use conservation of momentum to understand collisions/explosions
     - __Notes__
-        - Slides:
+        - Slides: Follow slides from Akoranga 34
     - __Task/Ngohe__
-        -
+        - Questions embedded in the slides
 
 35. ####
     - __Whakaritenga__
