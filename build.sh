@@ -64,12 +64,12 @@ main() {
             # If -h flag then only do a Hugo
             # build because only an _index.md
             # file was changed.
-            cd content
+            cd content || exit
             runHugo
         else
             # A slide file was changed, so we
             # need to build it.
-            cd $folder
+            cd "$folder" || exit
             tidyFolders
             slides=("$file")
             createSlides "${slides[@]}"
