@@ -71,7 +71,9 @@ main() {
             # need to build it.
             cd $folder
             tidyFolders
-            buildSingleSlide $file
+            slides=("$file")
+            createSlides "${slides[@]}"
+            # buildSingleSlide "$file"
             cd ../../
             runHugo
         fi
@@ -104,7 +106,7 @@ main() {
                 echo "Entered $i"
                 compileGitLog $i
                 tidyFolders
-                createSlides
+                createSlides !(_index).md
                 cd ../../
             else
                 echo "Couldn't enter $i"
@@ -133,55 +135,34 @@ tidyFolders() {
     fi
 }
 
-buildSingleSlide() {
-    # TODO: Standardise the pandoc call into a function
-    # TODO: Standardise the name parsing into a function
-    # TODO: Consider reworking to take an array of filenames as input so that only one function is needed
-    # TODO: Only parse files starting with a number as slides. https://stackoverflow.com/a/36474627
-    filename=$1
-    file="${filename##*/}"
-    name="${file%%.*}"
-    OLDIFS=$IFS
-    IFS='-'; read -a array <<< "$name"
-    numberlessName=$(printf '%s\n' "$(IFS=-; printf '%s' "${array[*]:1}")")
-    IFS=$OLDIFS
-    callPandoc $name $numberlessName
-    # pandoc "${name}.md" \
-    #     --output="slides/${numberlessName}.html" \
-    #     --standalone \
-    #     --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
-    #     --incremental \
-    #     --to=revealjs \
-    #     --variable=revealjs-url:/reveal.js-4.1.0
-    if [ $? == 0 ]; then
-        echo "Built ${name}.md --> slides/${numberlessName}.html"
-    fi
-}
-
 createSlides() {
-    for filename in !(_index).md; do
-        [[ -e "$filename" ]] || continue    
-        file="${filename##*/}"
-        name="${file%%.*}"
-        OLDIFS=$IFS
-        IFS='-'; read -a array <<< "$name"
-        numberlessName=$(printf '%s\n' "$(IFS=-; printf '%s' "${array[*]:1}")")
-        IFS=$OLDIFS
-        callPandoc $name $numberlessName
-        # pandoc "${name}.md" \
-        #     --output="slides/${numberlessName}.html" \
-        #     --standalone \
-        #     --controls=false \
-        #     --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
-        #     --incremental \
-        #     --to=revealjs \
-        #     --variable=revealjs-url:/reveal.js-4.1.0
+    for filename in $1; do
+        name=$(getFilename "$filename")
+        numberlessName=$(getNumberlessFilename "$filename")
+        callPandoc "$name" "$numberlessName"
         if [ $? == 0 ]; then
             echo "    Built ${name}.md --> slides/${numberlessName}.html"
         fi
     done
 }
 
+getFilename() {
+    [[ -e "$1" ]] || return    
+    file="${1##*/}"
+    name="${file%%.*}"
+    echo "$name"
+}
+
+getNumberlessFilename() {
+    [[ -e "$1" ]] || return    
+    file="${1##*/}"
+    name="${file%%.*}"
+    OLDIFS=$IFS
+    IFS='-'; read -ra array <<< "$name"
+    numberlessName=$(printf '%s\n' "$(IFS=-; printf '%s' "${array[*]:1}")")
+    IFS=$OLDIFS
+    echo "$numberlessName"
+}
 callPandoc() {
     # $name=$1
     # $numberlessName=$2
