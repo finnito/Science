@@ -205,7 +205,7 @@ callPandoc() {
 
 compileGitLog() {
     OLDIFS=$IFS
-    IFS='/'; read -a array <<< "$1"
+    IFS='/'; read -ra array <<< "$1"
     yr=$(printf '%s' "$(IFS=/; printf '%s' "${array[*]::1}")")
     IFS=$OLDIFS
     outputFile="../../../static/$1/changelog.txt"
