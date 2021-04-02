@@ -10,6 +10,11 @@ while getopts hdf:p: opt; do
         p) folder=${OPTARG};;
         d) dev=1;;
         h) doHugo=1;;
+        *)
+            echo "Invalid flags. The only valid flags are: -fpdh"
+            shift
+            exit
+            ;;
     esac
 done
 
