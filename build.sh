@@ -102,9 +102,9 @@ main() {
             echo "Entered 'content'"
         fi    
         for i in "${MODULES[@]}"; do
-            if cd $i; then 
+            if cd "$i"; then 
                 echo "Entered $i"
-                compileGitLog $i
+                compileGitLog "$i"
                 tidyFolders
                 createSlides !(_index).md
                 cd ../../
@@ -192,11 +192,11 @@ compileGitLog() {
     outputFile="../../../static/$1/changelog.txt"
     mkdir "../../../static/$yr"
     mkdir "../../../static/$1"
-    echo "" > $outputFile
-    echo "<details><summary>Full History</summary>" >> $outputFile
-    git log --name-status --pretty=format:"</pre></li><li><a href='https://github.com/finnito/Science/commit/%H'>%cn %ar</a> %s %d<pre>" ./ >> $outputFile
-    echo "</pre></li>" >> $outputFile
-    echo "</details>" >> $outputFile
+    echo "" > "$outputFile"
+    echo "<details><summary>Full History</summary>" >> "$outputFile"
+    git log --name-status --pretty=format:"</pre></li><li><a href='https://github.com/finnito/Science/commit/%H'>%cn %ar</a> %s %d<pre>" ./ >> "$outputFile"
+    echo "</pre></li>" >> "$outputFile"
+    echo "</details>" >> "$outputFile"
 }
 
 runHugo() {
