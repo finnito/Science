@@ -1,4 +1,12 @@
-<a class="button blue" title="Ask a Question" href='mailto:lsf@cashmere.school.nz?subject=Pūtaiao: {{ .Page.Title }}'>📨 Email Me</a>
+<input type="checkbox" id="tr-button" name="tr-button" class="desktop">
+<label class="button green desktop" for="tr-button">Te Reo Guide</label>
+
+{{ with .Site.GetPage "/te-reo" }}
+<div id="tr-content" class="desktop">
+{{ .Content }}
+</div>
+{{ end }}
+
 {{ $page := . }}
 {{ with .File }}
     {{ if isset $page.Params "file" }}
@@ -11,3 +19,5 @@
         {{ end }}
     {{ end }}
 {{ end }}
+
+<a class="button blue" title="Ask a Question" href='mailto:lsf@cashmere.school.nz?subject=Pūtaiao: {{ .Page.Title }}'>📨 Email Me</a>

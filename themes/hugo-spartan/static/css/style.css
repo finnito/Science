@@ -447,6 +447,10 @@ ol li:first-of-type p { margin-top: 0; }
   background-color: var(--red-main);
 }
 
+.button.green {
+  background-color: var(--green-main);
+}
+
 .button.yellow {
   background-color: var(--yellow-main);
 }
@@ -455,7 +459,7 @@ ol li:first-of-type p { margin-top: 0; }
   background-color: var(--blue-dark);
 }
 
-.top-buttons a,
+.top-buttons > a,
 .button {
   box-shadow: 0 0 10px rgba(0,0,0,0.16), 0 0 10px rgba(0,0,0,0.23);
   border-radius: 1rem;
@@ -468,6 +472,42 @@ ol li:first-of-type p { margin-top: 0; }
 
 .button:visited {
   color: white;
+}
+
+#tr-button {
+  display: none;
+}
+
+#tr-content {
+  display:  none;
+  position: fixed;
+  background-color: white;
+  border: 2px solid black;
+  box-shadow: 0 0 10px rgba(0,0,0,0.16), 0 0 10px rgba(0,0,0,0.23);
+  border-radius: 0.25rem;
+  padding: 0.25rem;
+  top: 10rem;
+  right: 0.5rem;
+  width: 400px;
+  overflow-y: scroll;
+  max-height: calc(100vh - 12rem);
+}
+
+#tr-button:checked ~ #tr-content {
+  display: block;
+}
+
+#tr-button + label::before {
+  content: "📂";
+  margin-right: 0.5rem;
+}
+
+#tr-button:checked + label::before {
+  content: "❌";
+}
+
+#tr-button + label {
+  cursor: pointer;
 }
 
 table {
