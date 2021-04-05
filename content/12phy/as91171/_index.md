@@ -56,19 +56,19 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|           | Akoranga 1                      | Akoranga 2                | Akoranga 3                 | Akoranga 4                |
-| :-------- | :---------------------          | :----------------------   | :------------------------- | :------------------------ |
-| Week 1    | ~~_Juniors Only_~~              | 1. Speed & Acceleration   | 2. Scalars & Vectors       | 3. Vectors in 1D (Delta)  |
-| Week 2    | 4. _Waitangi Day_/Vectors in 1D | 5. Vectors in 2D          | 6. Vectors in 2D           | 7. Vector Components      |
-| Week 3    | 8. Vector Components            | 9. Vector Revision        | 10. Vector Test            | 11. Kinematic Equations   |
-| Week 4    | 12. Kinematic Equations         | 13. Kinematic Equations   | 14. Newton's Laws          | 15. Newton's Laws         |
-| Week 5    | 16. Newton's Laws               | 17. __Mid-Topic Test #1__ | 18. Projectile Motion      | 19. Projectile Motion     |
-| Week 6    | 20. Projectile Motion           | 21. Projectile Motion     | 22. Projectile Motion      | 23. Torque & Equilibrium  |
-| Week 7    | 24. Torque & Equilibrium        | 25. Torque & Equilibrium  | 26. Torque & Equilibrium   | 27. Torque & Equilibrium  |
-| Week 8    | 28. Circular Motion             | 29. Circular Motion       | 30. Circular Motion        | 31. Recap & Review        |
-| Week 9    | 32. Momentum & Impulse          | 33. Momentum & Impulse    | 34. Momentum & Impulse     | 35. ~~Easter Friday~~     |
-| Week 10   | 36. ~~Easter Mon/Tues~~         | 37. Spring & Elastics     | 38. Energy Conservation    | 39. Work & Power          |
-| Week 11   | 40. __Revision__                | 41. __Revision__          | 42. __TEST__               | 43. _Hand Back Test_      |
+|           | Akoranga 1                      | Akoranga 2                        | Akoranga 3                 | Akoranga 4                |
+| :-------- | :---------------------          | :----------------------           | :------------------------- | :------------------------ |
+| Week 1    | ~~_Juniors Only_~~              | 1. Speed & Acceleration           | 2. Scalars & Vectors       | 3. Vectors in 1D (Delta)  |
+| Week 2    | 4. _Waitangi Day_/Vectors in 1D | 5. Vectors in 2D                  | 6. Vectors in 2D           | 7. Vector Components      |
+| Week 3    | 8. Vector Components            | 9. Vector Revision                | 10. Vector Test            | 11. Kinematic Equations   |
+| Week 4    | 12. Kinematic Equations         | 13. Kinematic Equations           | 14. Newton's Laws          | 15. Newton's Laws         |
+| Week 5    | 16. Newton's Laws               | 17. __Mid-Topic Test #1__         | 18. Projectile Motion      | 19. Projectile Motion     |
+| Week 6    | 20. Projectile Motion           | 21. Projectile Motion             | 22. Projectile Motion      | 23. Torque & Equilibrium  |
+| Week 7    | 24. Torque & Equilibrium        | 25. Torque & Equilibrium          | 26. Torque & Equilibrium   | 27. Torque & Equilibrium  |
+| Week 8    | 28. Circular Motion             | 29. Circular Motion               | 30. Circular Motion        | 31. Recap & Review        |
+| Week 9    | 32. Momentum & Impulse          | 33. Momentum & Impulse            | 34. Momentum & Impulse     | 35. ~~Easter Friday~~     |
+| Week 10   | 36. ~~Easter Mon/Tues~~         | 37. $E_{p}, E_{k}$ & Conservation | 38. Springs                | 39. Work & Power          |
+| Week 11   | 40. __Revision__                | 41. __Revision__                  | 42. __TEST__               | 43. _Hand Back Test_      |
 
 ### Ngā Mahere Akoranga: _Lesson Plans_
 
@@ -444,45 +444,35 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 
 #### Term 1, Week 10
 
-36. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+36. #### ~~Easter Monday/Tuesday~~
 
-37. ####
-    - __Whakaritenga__
-        -
+37. #### $E_{p}, E_{k}$ and Conservation
     - __Te Whāinga Ako__
-        1.
+        1. Be able to calculate gravitational potential energy ($E_{p} = mgh$)
+        2. Be able to calculate kinetic energy ($E_{k} = \frac{1}{2}mv^{2}$)
+        3. Be able to use the law of conservation of energy
     - __Notes__
-        - Slides:
+        - 1st 3rd of Energy & Hooke's Law slides
     - __Task/Ngohe__
-        -
+        - Questions & practice inside slides
 
-38. ####
-    - __Whakaritenga__
-        -
+38. #### Springs
     - __Te Whāinga Ako__
-        1.
+        1. Be able to calculate the energy stored in a spring ($E_{p} = \frac{1}{2}kx^{2}$)
+        2. Be able to use Hooke's Law ($F=-kx$)
     - __Notes__
-        - Slides:
+        - 2nd 3rd of Energy & Hooke's Law slides
     - __Task/Ngohe__
-        -
+        - Questions & practice inside slides
 
-39. ####
-    - __Whakaritenga__
-        -
+39. #### Work and Power
     - __Te Whāinga Ako__
-        1.
+        1. Be able to define & calculate work done ($W=Fd=mgh$)
+        2. Be able to define & calculate power ($P=\frac{W}{t}$)
     - __Notes__
-        - Slides:
+        - Last 3rd of Energy & Hooke's Law slides
     - __Task/Ngohe__
-        -
+        - Questions & practice inside slides
 
 ---
 
