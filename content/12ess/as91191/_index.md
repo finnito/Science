@@ -55,8 +55,8 @@ Homework is graded on three things, each worth one point.
 | __T1 W6__  | ~~Previous Unit~~     | ~~Previous Unit~~      | 1. Plate Tectonics 1 | 2. Plate Tectonics 2 (P)  |
 | __T1 W7__  | 3. NZ Tectonics 1 (P) | 4. NZ Tectonics 2      | 5. Volcanoes Intro   | 6. Volcanoes Intro 2      |
 | __T1 W8__  | 7. NZ Volcanoes       | 8. Magma Types 1       | 9. Magma & Volcanoes | 10. Volcanoes (P)         |
-| __T1 W9__  | 11. NZ Volcanoes      | 12. TVZ & AVF          | 13. Volcanic Hazards | 14. Earthquakes 1         |
-| __T1 W10__ | 15. ~~Easter Monday~~ | 16. ~~Easter Tuesday~~ | 17. Earthquakes 2    | 18. Earthquakes 3         |
+| __T1 W9__  | 11. NZ Volcanoes      | 12. TVZ                | 13. AVF              | 14. Volcanic Hazards      |
+| __T1 W10__ | 15. ~~Easter Monday~~ | 16. ~~Easter Tuesday~~ | 17. Earthquakes 1    | 18. Earthquakes 2         |
 | __T1 W11__ | 19. Alpine Fault      | 20. Tsunamis 1 (P)     | 21. Tsunamis 2       | 22. Tsunamis 3 (P)        |
 | __T2 W1__  | 23. Revision 1        | 24. Revision 2         | 25. Revision 3       | 26. __End of Topic Test__ |
 
@@ -265,39 +265,26 @@ Homework is graded on three things, each worth one point.
 
 ### Term 1 Week 10
 
-15. #### Earthquakes 3
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+15. #### ~~Easter Monday~~
 
-16. #### Alpine Fault
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+16. #### ~~Easter Tuesday~~
 
-17. #### Catch-Up
+17. #### Earthquakes 1
     - __Whakaritenga__
-        -
+        - Assign [reading](https://www.stuff.co.nz/science/112876806/step-closer-to-forecasting-massive-hikurangi-subduction-zone-quake?cid=app-iPhone&fbclid=IwAR3rCBFcZodNMHCcmBcmLfHajyxrMYQ4jKyH_bgEnLrQkBdyeeVwPYe_opg) on Google Classroom
+        - Assign [Types of Faults](https://docs.google.com/document/d/1QCOqjo2F8vMDc0sZ96k6mRgoUMxtXhAl/edit) on Google Classroom
+        - Print [volcanoes crossword](https://drive.google.com/file/d/1OTqvZVcGXihOo6BA_tckOSfzgSMx7q01/view)
     - __Te Whāinga Ako__
-        1.
+        1. What type of plate boundaries and movements occur in NZ that contribute to earthquakes
     - __Notes__
-        - Slides:
+        - Slides: Earthquakes
     - __Task/Ngohe__
-        -
+        - Reading, Google Classroom & Video in slides after the notes
 
-18. #### Tsunamis 1
+18. #### Earthquakes 2
     - __Whakaritenga__
-        -
+        - Book [Making a Seismograph practical](https://docs.google.com/document/d/12JmMGSHqYUR_IRMNTn4zcBxFbf1KpQerz-XOFjAL0PA/edit)
+        - https://www.riskassess.co.nz/risk_assessment/9650193
     - __Te Whāinga Ako__
         1.
     - __Notes__
