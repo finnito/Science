@@ -111,7 +111,8 @@ main() {
                 echo "Entered $i"
                 compileGitLog "$i"
                 tidyFolders
-                createSlides !(_index).md
+                slides=(!(_index).md)
+                createSlides "${slides[@]}"
                 cd ../../
             else
                 echo "Couldn't enter $i"
@@ -141,7 +142,8 @@ tidyFolders() {
 }
 
 createSlides() {
-    for filename in $1; do
+    files=("$@")
+    for filename in "${files[@]}"; do
         name=$(getFilename "$filename")
         numberlessName=$(getNumberlessFilename "$filename")
         callPandoc "$name" "$numberlessName"
