@@ -288,9 +288,9 @@ Homework is graded on three things, each worth one point.
     - __Te Whāinga Ako__
         1.
     - __Notes__
-        - Slides:
+        - Slides: Measuring Earthquakes
     - __Task/Ngohe__
-        -
+        - Build a Seismograph
 
 ---
 
