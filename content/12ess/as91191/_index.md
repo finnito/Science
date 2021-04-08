@@ -110,7 +110,6 @@ Homework is graded on three things, each worth one point.
     - __Task/Ngohe__
         - Cloze to start
         - Notes
-        - 
 
 4. #### NZ Tectonics 2
     - __Whakaritenga__
@@ -249,7 +248,7 @@ Homework is graded on three things, each worth one point.
     - __Task/Ngohe__
         - At end of slides: textbook work on AVF
 
-14. #### Earthquake Hazards
+14. #### Volcanic Hazards
     - __Whakaritenga__
         - 
     - __Mahi Tuatahi__
@@ -296,7 +295,7 @@ Homework is graded on three things, each worth one point.
 
 ### Term 1 Week 11
 
-19. #### Tsunamis 2
+19. #### Alpine Fault
     - __Whakaritenga__
         -
     - __Te Whāinga Ako__
@@ -306,7 +305,7 @@ Homework is graded on three things, each worth one point.
     - __Task/Ngohe__
         -
 
-20. #### Tsunamis 3
+20. #### Tsunamis 1
     - __Whakaritenga__
         -
     - __Te Whāinga Ako__
@@ -316,7 +315,7 @@ Homework is graded on three things, each worth one point.
     - __Task/Ngohe__
         -
 
-21. #### Tsunamis 4
+21. #### Tsunamis 2
     - __Whakaritenga__
         -
     - __Te Whāinga Ako__
@@ -326,7 +325,7 @@ Homework is graded on three things, each worth one point.
     - __Task/Ngohe__
         -
 
-22. #### Tsunamis 5
+22. #### Tsunamis 3
     - __Whakaritenga__
         -
     - __Te Whāinga Ako__
