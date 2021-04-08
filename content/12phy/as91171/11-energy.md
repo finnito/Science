@@ -232,6 +232,8 @@ __Step 2.__ Equate this with potential energy of sandbag & bullet
     & \text{x = spring compression/stretch (displacement)}
 \end{aligned}
 
+<!-- TODO: Add gif of spring extension/compression -->
+
 - The spring constant is a measure of the stiffness of the spring.
 - Low constant $\rightarrow$ easy to displace
 - High constant $\rightarrow$ difficult to displace
@@ -246,6 +248,8 @@ We can relate the displacement of a spring to its spring constant and the force 
     F &= -kx && \text{Force exerted by spring} \newline
     F &= kx && \text{Force creating the displacement} \newline
 \end{aligned}
+
+<!-- TODO: Make diagram illustrating these forces -->
 
 - $F$: the force displacing the spring (Newtons)
 - $x$: the displacement of the spring (meters)
