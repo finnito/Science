@@ -155,11 +155,11 @@ The Mercalli scale does not give a true indication of the actual strength of an 
 
 ---
 
-<iframe width="1240" height="698" src="https://www.youtube.com/embed/NaNw9LHq9dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![[Source](https://www.geological-digressions.com/tag/seismograph/)](https://i2.wp.com/www.geological-digressions.com/wp-content/uploads/2017/04/earthquake-seismogram.jpg?w=1250&ssl=1)
 
 ---
 
-![[Source](https://www.geological-digressions.com/tag/seismograph/)](https://i2.wp.com/www.geological-digressions.com/wp-content/uploads/2017/04/earthquake-seismogram.jpg?w=1250&ssl=1)
+<iframe width="1240" height="698" src="https://www.youtube.com/embed/NaNw9LHq9dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
