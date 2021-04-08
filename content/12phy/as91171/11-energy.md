@@ -243,7 +243,8 @@ __Step 2.__ Equate this with potential energy of sandbag & bullet
 We can relate the displacement of a spring to its spring constant and the force required to create the displacement using __Hooke's Law__.
 
 \begin{aligned}
-    F &= -kx
+    F &= -kx && \text{Force exerted by spring} \newline
+    F &= kx && \text{Force creating the displacement} \newline
 \end{aligned}
 
 - $F$: the force displacing the spring (Newtons)
