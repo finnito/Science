@@ -189,10 +189,15 @@ menu:
 18. #### ~~Easter Tuesday~~
 
 19. #### $V=IR$ L3
-    - __Ngā/Te Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
+    - __Mahi Tuatahi__
+        + [Quizlet](https://quizlet.com/7813049/electric-current-flash-cards/)
+        + Finish the $V=IR$ worksheet from L15
+    - __Te Whāinga Ako__: 
+        + Use Ohm’s Law ($V=IR$)
+    - __Task/Ngohe__:
+        + EP tasks on current electricity 
     - __Whakamātau/Whakakite__: 
+        + Building circuits
 
 20. #### Fuses
     - __Whakakite__: burning steel wool
