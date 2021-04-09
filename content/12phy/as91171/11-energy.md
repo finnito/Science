@@ -445,6 +445,13 @@ One joule of work is done when a force of one newton moves an object one meter.
 
 ---
 
+- Work is done __only__ when energy is transferred or transformed.
+- __Work Done__: Lifting an object and placing it on a shelf transfers energy to that object into the form of gravitational potential energy.
+- __No Work Done__: Moving an object horizontally where it starts and finishes with $v=0ms^{-1}$.
+- Work only depends on the _start_ and _finish_ position, the path does not matter (path independence).
+
+---
+
 ### Pātai Whā (Q4): Eddie Hall
 
 In 2016 weightlifter Eddie Hall set a new (at the time) world record for heaviest deadlift of $500kg$. If he lifted the weights to a height of $1.25m$, how much work did Eddie do?
@@ -461,14 +468,6 @@ In 2016 weightlifter Eddie Hall set a new (at the time) world record for heavies
     & W=Fd=mgh && \text{(F)} \newline
     & W=500\times9.81\times1.25= 6131.25J && \text{(S+S)} 
 \end{aligned}
-
----
-
-### A Note on Work {.c2}
-
-- Work is done __only__ when energy is transferred or transformed.
-- __Work Done__: Lifting an object and placing it on a shelf transfers energy to that object into the form of gravitational potential energy.
-- __No Work Done__: Moving an object horizontally where it starts and finishes with $v=0ms^{-1}$.
 
 ---
 
