@@ -360,8 +360,8 @@ It halves the amount that the spring extends, and reduces the amount of energy s
 
 1. Give the equations for kinetic, gravitational potential and elastic potential energy.
 2. Give the name and formula for the law that you can use to relate __force, spring constant and displacement__.
-3. Lachie is going to football in the weekend. The van he rides in with some of his teammates has suspension on each wheel. Lachie and his teammates weight $357kg$ in total and their weight is spread evenly across all four springs. The springs have a spring constant of $2.26 \times 10^{4}Nm^{1}$. Calculate how much the car __sinks down__ when they get into the car. __(E)__
-4. How much energy is stored in each spring if they are compressed by $0.12m$? __(A)__
+3. Lachie is going to football in the weekend. The van he rides in with some of his teammates has suspension on each wheel. Lachie and his teammates weight $357kg$ in total and their weight is spread evenly across all four springs. The springs have a spring constant of $2.26 \times 10^{4}Nm^{-1}$. Calculate how much the car __sinks down__ when they get into the car. __(E)__
+4. How much energy is stored in each spring if car sinks $0.12m$? __(A)__
 
 ---
 
