@@ -61,9 +61,7 @@ header-includes:
 
 ## 8. Can you answer all the questions on Kahoot/Quizlet/Quizizz?
 
-- 
-
-<!-- NOTE: Add Kahoot/Quizlet/Quizizz links here throughout unit @links -->
+- https://quizlet.com/579859432/current-electricity-flash-cards/
 
 ---
 
