@@ -439,7 +439,7 @@ One joule of work is done when a force of one newton moves an object one meter.
 
 \begin{aligned}
     W &= F_{w}d \newline
-    W &= (m \times g) d
+    W &= (m \times g) d \newline
     W &= mgh!
 \end{aligned}
 
