@@ -123,7 +123,6 @@ menu:
     - __Whakamātau/Whakakite__: 
 
 11. #### Charge, Current, Voltage
-    <!-- - Whakamātau: Finding unknown resistors (electricity trolley) -->
     - __Whakaritenga__
         + Print CO - Electric components - jigsaw game
     - __Ngā/Te Whāinga Ako__
@@ -137,7 +136,6 @@ menu:
         + Notes on charge, current, voltage
         + Find the unknown voltage question
         + Jigsaw game/tākaro
-    <!-- - __Whakamātau/Whakakite__:  -->
 
 12. #### Review/Catch-Up
     - __Ngā/Te Whāinga Ako__: 
@@ -149,7 +147,6 @@ menu:
 
 ### Term 1, Week 9
 
-<!-- NOTE: Add torch challenge, building circuits/fruit battery experiments -->
 13. #### $V=IR$ L1
     - __Mahi Tuatahi__
         + Open this PhET simulation on [John Travoltage](https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_en.html)

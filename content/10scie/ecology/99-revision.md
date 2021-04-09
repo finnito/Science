@@ -65,8 +65,6 @@ header-includes:
 - [Food Webs & Chains](https://create.kahoot.it/details/food-web-food-chain/0b1082af-894b-4b54-9893-bd56ff55d9c4)
 - [Google Form Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeXWTbqanvwaw9LhSHly1T6NclxOapqAHsMP-ZhhNcE9jhREg/viewform)
 
-<!-- NOTE: Add Kahoot/Quizlet/Quizizz links here throughout unit @links -->
-
 ---
 
 ## Ecology Hints
