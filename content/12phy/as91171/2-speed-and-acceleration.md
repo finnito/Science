@@ -65,9 +65,9 @@ slug: speed-and-acceleration
 ## Average Speed
 
 \begin{aligned}
-    & v = \frac{d}{t} \\
-    & d = \text{total distance travelled} \\
-    & t = \text{time} \\
+    & v = \frac{d}{t} \newline
+    & d = \text{total distance travelled} \newline
+    & t = \text{time} \newline
     & v = \text{speed}
 \end{aligned}
 
@@ -101,10 +101,10 @@ Ash runs $315m$ in $45s$. Calculate his average speed in __meters per second__.
 Ash runs $315m$ in $45s$. Calculate his average speed in __meters per second__.
 
 \begin{aligned}
-    & d = 315m, t = 45s \\
-    & v = ? \\
-    & v = \frac{d}{t} \\
-    & v = \frac{315}{45} \\
+    & d = 315m, t = 45s \newline
+    & v = ? \newline
+    & v = \frac{d}{t} \newline
+    & v = \frac{315}{45} \newline
     & v = 7ms^{-1}
 \end{aligned}
 
@@ -125,8 +125,8 @@ Ash runs $315m$ in $45s$. Calculate his average speed in __meters per second__.
 #### Whakatika
 
 \begin{aligned}
-    v &= \frac{1100km}{hr} \\
-    &= \frac{1100km \times 1000}{60 \times 60} \\
+    v &= \frac{1100km}{hr} \newline
+    &= \frac{1100km \times 1000}{60 \times 60} \newline
     &= \frac{1100000}{3600} = 305.56ms^{-1}
 \end{aligned}
 
@@ -149,10 +149,10 @@ A car is moving at a speed of $10ms^{-1}$. How far does the car travel in $12s$?
 A car is moving at a speed of $10ms^{-1}$. How far does the car travel in $12s$?
 
 \begin{aligned}
-    v &= 10ms^{-1}, t=12s \\
-    d &= ? \\
-    v &= \frac{d}{t} \\
-    10 &= \frac{d}{12} \\
+    v &= 10ms^{-1}, t=12s \newline
+    d &= ? \newline
+    v &= \frac{d}{t} \newline
+    10 &= \frac{d}{12} \newline
     10 \times 12 &= d = 120m
 \end{aligned}
 
@@ -175,11 +175,11 @@ A man is running at a speed of $4ms^{-1}$. How long does he take to run $100m$?
 A man is running at a speed of $4ms^{-1}$. How long does he take to run $100m$?
 
 \begin{aligned}
-    v &= 4ms^{-1}, d=100m \\
-    t &= ? \\
-    v &= \frac{d}{t} \\
-    4 &= \frac{100}{t} \\
-    4 \times t &= 100 \\
+    v &= 4ms^{-1}, d=100m \newline
+    t &= ? \newline
+    v &= \frac{d}{t} \newline
+    4 &= \frac{100}{t} \newline
+    4 \times t &= 100 \newline
     t &= \frac{100}{4} = 25s
 \end{aligned}
 
@@ -207,9 +207,9 @@ The formula $v = \frac{d}{t}$ can only be used to calculate __average velocity__
 > The rate of change in speed
 
 \begin{aligned}
-    & a = \frac{\Delta v}{t} \\
-    & \Delta v = \text{ change in speed} \\
-    & t = \text{ time} \\
+    & a = \frac{\Delta v}{t} \newline
+    & \Delta v = \text{ change in speed} \newline
+    & t = \text{ time} \newline
     & a = \text{ acceleration}
 \end{aligned}
 
@@ -233,7 +233,7 @@ For example, $a=12ms^{-2}$ means that the velocity is increased by $12ms^{-1}$ e
 This is the difference between the __initial__ and the __final__ value.
 
 \begin{aligned}
-    & \Delta = final - initial \\
+    & \Delta = final - initial \newline
     & \text{e.g. }\Delta v = v_{f} - v_{i}
 \end{aligned}
 
@@ -251,9 +251,9 @@ A man initially walking at $2.0ms^{-1}$ notices that his house is on fire so he 
 ### Whakatika 1
 
 \begin{aligned}
-    & v_{f} = 11ms^{-1}, v_{i} = 2ms^{-1} && \text{Knowns}\\
-    & \Delta v = ? && \text{Unknowns}\\
-    & \Delta v = v_{f} - v_{i} && \text{Formula}\\
+    & v_{f} = 11ms^{-1}, v_{i} = 2ms^{-1} && \text{Knowns}\newline
+    & \Delta v = ? && \text{Unknowns}\newline
+    & \Delta v = v_{f} - v_{i} && \text{Formula}\newline
     & \Delta v = 11 - 2 = 9ms^{-1} && \text{Sub and Solve}
 \end{aligned}
 
@@ -262,9 +262,9 @@ A man initially walking at $2.0ms^{-1}$ notices that his house is on fire so he 
 ### Whakatika 2
 
 \begin{aligned}
-    & \Delta v = 9ms^{-1}, t = 1.3s && \text{Knowns}  \\
-    & a = ? && \text{Unknowns} \\
-    & a = \frac{\Delta v }{t} && \text{Formula} \\
+    & \Delta v = 9ms^{-1}, t = 1.3s && \text{Knowns}  \newline
+    & a = ? && \text{Unknowns} \newline
+    & a = \frac{\Delta v }{t} && \text{Formula} \newline
     & a = \frac{9}{1.3} = 6.9ms^{-2} && \text{Sub and Solve} 
 \end{aligned}
 
@@ -281,12 +281,12 @@ __K,U,F,S,S__
 #### Whakatika
 
 \begin{aligned}
-    & v_{i} = 4ms^{-1}, v_{f} = 24ms^{-1}, a = 2.5ms^{-2} && \text{Knowns} \\
-    & t = ? && \text{Unknowns} \\
-    & a = \frac{\Delta v}{t} && \text{Formula} \\
-    & t = \frac{\Delta v}{a} && \text{Rearrange by swapping a and t} \\
-    & t = \frac{v_{f}-v_{i}}{a} && \text{Expand Δv} \\
-    & t = \frac{24 - 4}{2.5} && \text{Substitute} \\
+    & v_{i} = 4ms^{-1}, v_{f} = 24ms^{-1}, a = 2.5ms^{-2} && \text{Knowns} \newline
+    & t = ? && \text{Unknowns} \newline
+    & a = \frac{\Delta v}{t} && \text{Formula} \newline
+    & t = \frac{\Delta v}{a} && \text{Rearrange by swapping a and t} \newline
+    & t = \frac{v_{f}-v_{i}}{a} && \text{Expand Δv} \newline
+    & t = \frac{24 - 4}{2.5} && \text{Substitute} \newline
     & t = 8s && \text{Solve}
 \end{aligned}
 
@@ -302,11 +302,11 @@ __K,U,F,S,S__
 __Whakatika 1__
 
 \begin{aligned}
-    & v_{i} = 12.7ms^{-1}, a = 1.3ms^{-2}, t = 60s && \text{Knowns} \\
-    & v_{f} = ? && \text{Unknowns} \\
-    & a = \frac{v_{f} - v_{i}}{t} && \text{Formula} \\
-    & a \times t = v_{f} - v_{i} && \text{Rearrange for final v} \\
-    & v_{f} = (a \times t) + v_{i} \\
+    & v_{i} = 12.7ms^{-1}, a = 1.3ms^{-2}, t = 60s && \text{Knowns} \newline
+    & v_{f} = ? && \text{Unknowns} \newline
+    & a = \frac{v_{f} - v_{i}}{t} && \text{Formula} \newline
+    & a \times t = v_{f} - v_{i} && \text{Rearrange for final v} \newline
+    & v_{f} = (a \times t) + v_{i} \newline
     & v_{f} = (1.3 \times 60) + 12.7 = 90.7ms^{-1} && \text{Sub and solve}
 \end{aligned}
 
@@ -315,11 +315,11 @@ __Whakatika 1__
 __Whakatika 2__
 
 \begin{aligned}
-    & a = -1.8ms^{-2}, t = 9.4s, v_{f} = 0ms^{-1} && \text{Knowns} \\
-    & v_{i} = ? && \text{Unknowns} \\
-    & a = \frac{v_{f} - v_{i}}{t} && \text{Formula} \\
-    & a \times t = v_{f} - v_{i} && \text{Rearrange for initial v} \\
-    & v_{i} = v_{f} - (a \times t) \\
+    & a = -1.8ms^{-2}, t = 9.4s, v_{f} = 0ms^{-1} && \text{Knowns} \newline
+    & v_{i} = ? && \text{Unknowns} \newline
+    & a = \frac{v_{f} - v_{i}}{t} && \text{Formula} \newline
+    & a \times t = v_{f} - v_{i} && \text{Rearrange for initial v} \newline
+    & v_{i} = v_{f} - (a \times t) \newline
     & v_{i} = 0 - (-1.8 \times 9.4) = 16.92ms^{-1} && \text{Sub and solve}
 \end{aligned}
 

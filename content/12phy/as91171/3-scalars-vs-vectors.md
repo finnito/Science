@@ -180,7 +180,7 @@ Consider acceleration:
 This works because of algebra:
 
 \begin{aligned}
-    & a - b = a + (-b) \\
+    & a - b = a + (-b) \newline
     & 1 - 4 = 1 + (-4) = -3
 \end{aligned}
 
@@ -193,14 +193,14 @@ This works because of algebra:
 Velocity is a vector and a change ($\Delta$) is calculated like this: 
 
 \begin{aligned}
-    & \Delta v = v_{f} - v_{i} \\
+    & \Delta v = v_{f} - v_{i} \newline
 \end{aligned}
 
 Pātai: Can we turn this into __vector addition__?
 
 \begin{aligned}
-    & \Delta v = v_{f} - v_{i} \\
-    & \Delta v = v_{f} + (-v_{i}) \\
+    & \Delta v = v_{f} - v_{i} \newline
+    & \Delta v = v_{f} + (-v_{i}) \newline
 \end{aligned}
 
 ---
@@ -268,7 +268,7 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 
 ![](../assets/6-mt2.png)
 
-1. A cyclist is heading down a hill at $14ms^{-1}$ S, before going around a sharp $90\degree$ bend, after which they are going $29ms^{-1}$ W. __Draw the vectors $v_{f}$, $v_{i}$, $-v_{f}$ and $-v_{i}$__
+1. A cyclist is heading down a hill at $14ms^{-1}$ S, before going around a sharp $90\degree$ bend, after which they are going $29ms^{-1}$ W. Draw the vectors $v_{f}$, $v_{i}$, $-v_{f}$ and $-v_{i}$
 2. Calculate their change in velocity (including direction) using a vector diagram, Pythagoreas theorem and trigonometry. 
 
 ---
@@ -320,7 +320,7 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 ![Vector Decomposition](../assets/1-vector-decomposition.png)
 
 \begin{aligned}
-    v_{x} &= v \times cos(\theta) && \text{Horizontal} \\
+    v_{x} &= v \times cos(\theta) && \text{Horizontal} \newline
     v_{y} &= v \times sin(\theta) && \text{Vertical}
 \end{aligned}
 
