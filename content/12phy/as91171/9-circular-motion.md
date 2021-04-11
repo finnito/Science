@@ -201,7 +201,7 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
     & v = 4ms^{-1}, r = 1m, m = 8kg && \text{(K)}  \newline
     & F_{c} = ? && \text{(U)} \newline
     & F_{c} = \frac{mv^{2}}{r} && \text{(F)} \newline
-    & F_{c} = \frac{8 \times 4^{2}}{1} = 128N \text{ inwards} && \text{(S\&S)} 
+    & F_{c} = \frac{8 \times 4^{2}}{1} = 128N \text{ inwards} && \text{(S+S)} 
 \end{aligned}
 
 
@@ -229,7 +229,7 @@ NB: From 2:30 to 5:25.
     & F_{c} = 350N, v = 10ms^{-1}, r = 2m && \text{(K)}  \newline
     & m = ? && \text{(U)} \newline
     & F_{c} = \frac{mv^{2}}{r} && \text{(F)} \newline
-    & 350 = \frac{m \times 10^{2}}{2} && \text{(S\&S)} \newline
+    & 350 = \frac{m \times 10^{2}}{2} && \text{(S+S)} \newline
     & \frac{350 \times 2}{10^{2}} = m = 7kg
 \end{aligned}
 
