@@ -478,42 +478,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 
 #### Term 1, Week 11
 
-40. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+40. #### Revision 1
 
-41. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+41. #### Revision 2
 
-42. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+42. #### Test
 
-43. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+43. #### Return Test
