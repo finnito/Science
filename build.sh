@@ -176,9 +176,9 @@ callPandoc() {
     pandoc "${name}.md" \
         --to=revealjs \
         --template=default.revealjs \
+        --mathjax\
         --output="slides/${numberlessName}.html" \
         --standalone \
-        --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js \
         --incremental \
         --variable=controls:true \
         --variable=progress:true \
