@@ -306,14 +306,15 @@ Homework is graded on three things, each worth one point.
         -
 
 20. #### Tsunamis 1
+    - __Mahi Tuatahi__: The [Alpine Fault research activity](https://docs.google.com/document/d/1fNhTvCAgzcKKbMseaKrsMMOStzewDXOlBbivnhJr0uk/edit)
     - __Whakaritenga__
-        -
+        - Schedule MT on Classroom
+        - Schedule [Tsunamis TedED activity](https://docs.google.com/document/d/1sMK3fUv10Dlzdqtcor28yFya4x7zOc-M85lAtwj7BZI/edit) on Classroom
+        - Schedule [Causes of Tsunamis](https://docs.google.com/document/d/177-ebtDw6WFMf2xtM9KRnPVhBYTR9M85WlchI1X6Ksk/edit) on Classroom
     - __Te Whāinga Ako__
-        1.
+        1. How earthquakes, volcanic eruptions, and landslides can cause tsunamis
     - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+        - Slides: Follow tsunamis slides
 
 21. #### Tsunamis 2
     - __Whakaritenga__
@@ -340,14 +341,10 @@ Homework is graded on three things, each worth one point.
 ### Term 2 Week 1
 
 23. #### Revision 1
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
     - __Notes__
-        - Slides:
+        - Slides: Finish recap of tsunamis
     - __Task/Ngohe__
-        -
+        - Answer Q1 in the past exam and hand it in at the end of the period
 
 24. #### Revision 2
     - __Whakaritenga__
