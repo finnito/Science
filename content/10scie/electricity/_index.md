@@ -37,7 +37,7 @@ menu:
 | __T1 W8__    | 9. Charge, Current & Voltage 2 | 10. Resistance 1             | 11. Resistance 2                       | 12. Review/Catch-Up              |
 | __T1 W9__    | 13. $V = IR$ 1                 | 14. $V = IR$ 2               | 15. (P) Conductors & Burning Resistors | 16. ~~Easter Friday~~            |
 | __T1 W10__   | 17. ~~Easter Monday~~          | 18. ~~Easter Tuesday~~       | 19. $V = IR$ 3                         | 20. Fuses                        |
-| __T1 W11__   | 21. Series & Parallel          | 22. $P=IV$ L1                | 23. $P=IV$ L2                          | 24. Electrical Safety & Revision |
+| __T1 W11__   | 21. Series & Parallel          | 22. Series & Parallel 2      | 23. $P=IV$                             | 24. Electrical Safety & Revision |
 | __T2 W1__    | 25. Revision 1                 | 26. Revision 2               | 27. __TEST__                           | 24. __pHun Reactions__           |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
@@ -209,18 +209,20 @@ menu:
 
 ### Term 1, Week 11
 
-21. #### Sesries & Parallel
-    - Whakakite: burning steel wool
-    - __Ngā/Te Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+21. #### Series & Parallel 1
+    - __Ngā Whāinga Ako__
+        + Construct series and parallel circuits
+        + Measure and explain the behaviour of voltage, current and resistance in series and parallel circuits
+    - __Notes__: Follow Series and Parallel slides
+    - __Ngohe/Task__: Worksheet to complete in parallel with the slides
+    - __Whakamātau/Whakakite__: Mini series and parallel investigation inside slides
 
-22. #### Power 1
-    - __Ngā/Te Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+22. #### Series & Parallel 2
+    - __Te Whāinga Ako__
+        + Measure and explain the behaviour of voltage, current in series and parallel circuits
+    - __Notes__: Complete series and parallel slides
+    - __Task/Ngohe__: [Voltage and Current worksheet](https://docs.google.com/document/d/10RFw8e_3HAXYw8csUZ09Bu-6bzBmibBe00tRd3IcESM/edit#heading=h.poc2tkdjq5l0)
+    - __Tākaro/Game__: [Quizlet](https://quizlet.com/gb/578296335/series-and-parallel-flash-cards/)
 
 23. #### Power 2
     - __Ngā/Te Whāinga Ako__: 
@@ -228,11 +230,12 @@ menu:
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-24. #### Electrical Safety & Revision
+24. #### Fruit Batteries
     - __Ngā/Te Whāinga Ako__: 
     - __Notes__: 
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
+        + https://www.riskassess.co.nz/risk_assessment/9657939
 
 ---
 
