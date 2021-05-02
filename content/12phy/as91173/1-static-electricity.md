@@ -1,49 +1,44 @@
 ---
 title: Static Electricity & Charge
+slug: static-electricity
 subtitle: 12PHYS - Electricity
 author: Finn LeSueur
 weight: 1
-date: 2019
+date: 2021
 theme: finn
-slug: static-electricity
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
 ---
 
-# Mahi Tuatahi
+## Akoranga 1 Mahi Tuatahi
 
-Take 5 minutes and brainstorm in your book all the things that you can remember off the top of your head about electricity from Year 10 Pūtaiao.
+On the board, brainstorm all the things you can remember about electricity from Year 10!
+
 ---
 
-# Static Electricity
+## Static Electricity {.c2}
 
 Static electricity has many effects - some dangerous, some hilarious, but they all depend on charge!
 
-![Static Electricity](../assets/1-static-electricity.jpg "Static Electricity"){ width=50% }
+![Static Electricity](../assets/1-static-electricity.jpg "Static Electricity")
 
 ---
 
-## Charges: Positive & Negative
+### Charges: Positive & Negative {.c2}
 
 From Year 10 we should all remember that, much like magnets, opposites attract and likes repel.
 
-![Electric Charges](../assets/1-charges.png "Electric Charges"){ width=75% }
+![Electric Charges](../assets/1-charges.png "Electric Charges")
 
 ---
 
-## Charge Carriers
+### Charge Carriers {.c2}
 
 Recall: __the atom__. What element is this? What are the three subatomic particles that make it up?
 
-![](../assets/1-carbon-atom.gif "Carbon atom"){ width=50% }
+![](../assets/1-carbon-atom.gif "Carbon atom")
+
+<p class="instruction">Draw this diagram in your book and label the particles and the charge they carry.</p>
 
 ---
 
@@ -51,35 +46,40 @@ Recall: __the atom__. What element is this? What are the three subatomic particl
 - __Protons__: Positively charged
 - __Neutrons__: No charge
 
-__Question__: What happens when an atom loses or gains electrons?
+__Pātai__: What happens when an atom loses or gains electrons?
 
 ---
 
-## Ions
+## Ions {.c2}
 
-Electrons are extremely light and move very fast. Therefore they can sometimes escape an atom.
-
+- Electrons are extremely light and move very fast. Therefore they can sometimes escape an atom.
 - An ion is formed when an atom gains or loses electrons.
 - Losing one or more electrons makes you __positively charged__ and is called a __cation__.
 - Gaining one or more electrons makes you __negatively charged__ and is called an __anion__.
 
+![[Source](https://educatorpages.com/site/Riversideschoolscience/pages/chemistry)](https://i.imgur.com/bWjML6a.gif)
+
 ---
 
-### Question 1
+### Pātai Tahi
 
 What did we do in Year 10 Pūtaiao to remove charges from one object and put them onto another?
 
 ---
 
-### Question 1: Answer
+#### Whakatika Tahi
 
 We applied friction!
 
 ---
 
-# Van der Graaf Generator
+### Van der Graaf Generator
 
-![Van der Graaf Generator](../assets/1-van-der-graaf-generator.png "Van der Graaf Generator"){ width=50% }
+![Van der Graaf Generator](../assets/1-van-der-graaf-generator.png "Van der Graaf Generator")
+
+---
+
+<iframe width="1150" height="656" src="https://www.youtube.com/embed/YDHos3Q1NcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
