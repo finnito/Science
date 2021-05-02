@@ -170,7 +170,7 @@ mark {
 
 .reveal section figure:only-child img {
   max-height: 80vh;
-  width: 100%;
+  /*width: 100%;*/
 }
 
 /*********************************************
