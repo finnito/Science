@@ -23,10 +23,6 @@ menu:
     2. Construct series and parallel circuits
     3. Measure and explain the behaviour of voltage, current and resistance in series and parallel circuits
     4. Use Ohm’s Law ($V=IR$) and the power equation ($P=IV$) 
-3. __Using Electricity__
-    1. Identify factors that affect electrical safety in the workplace
-    2. Identify and explain the risks of short-circuits
-    3. Explain how a fuse works
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
