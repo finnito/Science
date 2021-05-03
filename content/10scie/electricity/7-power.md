@@ -5,7 +5,7 @@ subtitle: Electricity - 10SCIE
 author: Finn LeSueur
 date: 2021
 theme: finn
-weight: 8
+weight: 7
 ---
 
 ## Akoranga 25 Mahi Tuatahi
@@ -15,7 +15,7 @@ For $V=IR$:
 1.  State what each letter stands for
 2.  Describe what the variable is measuring in a circuit
 3.  State the unit that it is measured in.
-4.  Draw a diagram of a circuit with a $6V$ battery, and three $2\Ohm$ resistors in series.
+4.  Draw a diagram of a circuit with a $6V$ battery, and three $2\Omega$ resistors in series.
 5.  Calculate the current flowing through the circuit
 
 ---
@@ -48,9 +48,16 @@ For $V=IR$:
 
 ---
 
+<iframe src="https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab_en.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+---
+
 ### Pātai: Re-arranging the Equation
 
 In pairs, can you re-arrange this equation to make $V$ and $I$ the subject of the equation?
+
+$I = $
+$V = $
 
 Hint: Use your $V=IR$ notes as a guide!
 
