@@ -13,11 +13,28 @@ menu:
 katex: true
 ---
 
+<!-- TODO: Re-order slides -->
+
 {{< slides >}}
 
-## Lesson Plans _/ Ngā Mahere Akoranga_ 
+<!-- TODO: Make 2021 unit plan -->
 
+## Unit Plan _/ Mahere Kōwae_ 
 
+|           |               Akoranga 1               |                          Akoranga 2                          |                                  Akoranga 3                                 |                Akoranga 4                |
+|-----------|----------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|
+| __T2 W1__ | 1. [Statics Intro](#statics-intro)     | 2. [Coulombs](#coulombs)                                     | 3. [Current, Insulators and Conductors](#current-insulators-and-conductors) | 4. [Drawing E Fields](#drawing-e-fields) |
+| __T2 W2__ | 5. [Electric Forces](#electric-forces) | 6. [Voltage on Parallel Plates](#voltage-on-parallel-plates) | 7. ~~Teacher Only Day~~                                                     | 8.                                       |
+| __T2 W3__ | 9.                                     | 10.                                                          | 11.                                                                         | 12.                                      |
+| __T2 W4__ | 13.                                    | 14.                                                          | 15.                                                                         | 16.                                      |
+| __T2 W5__ | 17.                                    | 18.                                                          | 19.                                                                         | 20.                                      |
+| __T2 W6__ | 21. ~~Queens Birthday~~                | 22.                                                          | 23.                                                                         | 24.                                      |
+| __T2 W7__ | 25.                                    | 26.                                                          | 27.                                                                         | 28.                                      |
+| __T2 W8__ | 29.                                    | 30.                                                          | 31.                                                                         | 32. ~~Teacher Only Day~~                 |
+|           |                                        |                                                              |                                                                             |                                          |
+
+<!--
+2020
 |        | Akoranga 1      | Akoranga 2             | Akoranga 3                 | Akoranga 4              |
 |:-------|:----------------|:-----------------------|:---------------------------|:------------------------|
 | T2 W3  |                 | Static Electricity     | Conductors & Insulators    | Charge & Current        |
@@ -30,8 +47,319 @@ katex: true
 | T2 W10 | Generating AC   | Generating AC          | Lenz' Law in Solenoids     | Lenz' Law in Solenoids  |
 | T2 W11 | Revision        | Revision               | Revision                   | Revision                |
 | T2 W12 | Revision        | __TEST__               |                            | _Hand Back_             |
+-->
 
-## AS91173 Ngā Mahere Akoranga
+<!-- TODO: Make new lesson plan sequence -->
+
+### Ngā Mahere Akoranga: _Lesson Plans_
+
+1. #### Statics Intro
+    - __Whakaritenga__
+        - Book Van der Graaff Generator
+    - __Te Whāinga Ako__
+        1. Explain how static electricity is created by the removal or addition of electric charge (and is measured in Coulombs)
+    - __Notes__
+        - Slides: First part of Static Electricity
+    - __Whakamātau__
+        + Van der Graaff
+
+2. #### Coulombs
+    - __Te Whāinga Ako__
+        Explain how static electricity is created by the removal or addition of electric charge (and is measured in Coulombs)
+    - __Notes__
+        + Slides: Seond part of Static Electricity
+    - __Task/Ngohe__
+        + Two questions in the slides
+
+3. #### Current, Insulators and Conductors
+    - __Whakaritenga__
+        + Print Worksheet 1
+    - __Ngā Whāinga Ako__
+        1. Be able to define current
+        2. Be able to calculate current using charge and time
+        3. Recall the properties of conductors and insulators
+    - __Notes__
+        + Slides: Last part of statics slides
+    - __Task/Ngohe__
+        + Worksheet One Q1-4
+        + Homework booklet Q1a
+
+4. #### Drawing E Fields
+    - __Whakaritenga__
+        - Post [simulation link](https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_en.html) on Google Classroom
+    - __Ngā Whāinga Ako__
+        1. Be able to draw electric fields
+        2. Be able to determine which way a charge will move in a field
+    - __Notes__
+        - Slides: First part of Electric Fields
+    - __Task/Ngohe__
+        - Simulation to help investigate/make notes on drawing fields
+
+5. #### Electric Forces
+    - __Ngā Whāinga Ako__
+        1. Be able to relate $\vec{E}, F$ and $q$.
+        2. Be able to calculate electric field strength
+        3. Be able to calculate electric field potential difference
+    - __Notes__
+        - Slides: Second part of Electric Fields
+    - __Task/Ngohe__
+        - Textbook: Electric Fields Q1, Q2, Q4, Q5
+            + New: pg. 192
+            + Old: pg. 177
+        - Homework Booklet: Q3a-b
+
+6. #### Voltage on Parallel Plates
+    - __Whakaritenga__
+        - Post [simulation link](https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_en.html) on Google Classroom
+    - __Te Whāinga Ako__
+        1. Be able to calculate the voltage between parallel plates
+    - __Notes__
+        - Slides: Third part of Electric Fields
+    - __Task/Ngohe__
+        - Calculation in slides
+        - Simulation investigation (short)
+        - Worksheet 1: Q6a-b, Q11a-b,d
+        - Textbook: Electric Fields Q7-8
+            + New: pg. 192
+            + Old: pg. 177
+
+7. #### Teacher Only Day
+
+8. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+9. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+10. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+11. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+12. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+13. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+14. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+15. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+16. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+17. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+18. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+19. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+20. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+21. #### Queens Birthday
+
+22. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+23. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+24. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+25. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+26. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+27. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+28. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+29. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+30. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+31. ####
+    - __Whakaritenga__
+        -
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        - Slides:
+    - __Task/Ngohe__
+        -
+
+32. #### Teacher Only Day
+
+<!--## AS91173 Ngā Mahere Akoranga
 
 ## Week 1
 
@@ -180,4 +508,4 @@ This week we will be looking at the following:
 1. Revision
 2. Test
 3. 
-4. Return
+4. Return-->
