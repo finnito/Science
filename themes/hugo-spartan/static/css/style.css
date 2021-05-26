@@ -635,6 +635,22 @@ input[type=checkbox].toggle,
     transform: translateY(-3px) rotateZ(-45deg)
 }
 
+.c2 ~ ul:first-of-type,
+.c2 ~ ol:first-of-type,
+.c2 ~ p:first-of-type,
+.c2 ~ div:first-of-type,
+.c2 ~ p img:first-of-type,
+.c2 ~ figure:first-of-type,
+.reveal .c2 ~ iframe:first-of-type,
+.c2 ~ span.math:first-of-type,
+.c2 + blockquote:first-of-type {
+  width: calc(50% - 1em);
+  display: inline;
+  margin: 0;
+  vertical-align: middle;
+  box-sizing: border-box;
+}
+
 nav { position: relative; display: flex; justify-content: space-between; flex-wrap: wrap;}
 
 .nav-wrapper {

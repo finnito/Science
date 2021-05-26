@@ -68,6 +68,9 @@ $endfor$
 $if(date)$
   <p class="date">$date$</p>
 $endif$
+$if(logo)$
+  <img src="$logo$"/>
+$endif$
 </section>
 $endif$
 $if(toc)$
