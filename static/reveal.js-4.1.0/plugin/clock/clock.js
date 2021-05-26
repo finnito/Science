@@ -18,6 +18,31 @@ function updateClock () {
     var date = new Date();
 
     const days = [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+    ];
+
+    const months = [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December",
+    ];
+
+    const trDays = [
         "Rātapu",
         "Rāhina",
         "Rātu",
@@ -26,7 +51,8 @@ function updateClock () {
         "Rāmere",
         "Rāhoroi"
     ];
-    const months = [
+    
+    const trMonths = [
         "Kohi-tātea",
         "Hui-tanguru",
         "Poutū-te-rangi",
@@ -45,8 +71,16 @@ function updateClock () {
         + ", "
         + date.getDate()
         + " "
-        + months[date.getMonth()];
+        + months[date.getMonth()]
+        + "<br>"
+        + trDays[date.getDay()]
+        + ", "
+        + date.getDate()
+        + " "
+        + trMonths[date.getMonth()];
+
+    // TODO: Add English date
 
     document.getElementById('clock').innerHTML = dte + "<br>" + date.toLocaleTimeString();
-    setTimeout(updateClock, 100);
+    setTimeout(updateClock, 75);
 }
