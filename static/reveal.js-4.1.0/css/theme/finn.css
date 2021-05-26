@@ -11,6 +11,27 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 
+
+html.reveal-full-page .reveal {
+  font-size: 40px;
+}
+
+html.reveal-full-page .reveal.none {
+  font-size: unset;
+}
+
+#title-slide img {
+  max-width: 30%;
+  margin-top: 10rem;
+}
+
+#title-slide .subtitle,
+#title-slide .author {
+  color: #636e72;
+  margin-top: 0;
+  font-size: 30px;
+}
+
 .reveal .controls {
   color: #471718;
   bottom: 60px;
@@ -21,7 +42,6 @@ body {
 
 .reveal {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 40px;
   font-weight: normal;
   color: #222; }
 
@@ -36,7 +56,7 @@ body {
   text-shadow: none; }
 
 .reveal .slides {
-  height: 90vh;
+  height: 80vh;
   width: 90vw;
   text-align: left;
   /*margin-top: 0;*/
@@ -116,6 +136,10 @@ mark {
   font-size: 2rem;
   color: rgba(0,0,0,0.5);
   text-align: right;
+}
+
+.reveal.none #clock {
+  font-size: unset;
 }
 
 .reveal .slides section#title-slide { text-align: center; }
