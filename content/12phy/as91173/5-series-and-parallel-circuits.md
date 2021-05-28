@@ -85,7 +85,7 @@ In parallel we can use this equation:
 
 ---
 
-Calculate the values for each voltmeter and ammeter.
+Calculate the values for each voltmeter, ammeter, as well as the total resistance of the circuit.
 
 ![](../assets/7-dc-1.png){width=75%}
 

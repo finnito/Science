@@ -4,7 +4,7 @@ subtitle: 12PHYS - Electricity
 author: Finn LeSueur
 date: 2021
 theme: finn
-weight: 6
+weight: 2
 slug: electric-fields
 
 ---
@@ -285,6 +285,15 @@ An object with charge $25 \times 10^{-6}C$ is placed in an electric field with s
 
 ---
 
+## Ngā Whāinga Ako
+
+1. Be able to relate electric potential energy and voltage
+2. Use _work_ in an electric field context
+
+<p class="instruction">Write the date and ngā whāinga ako in your book</p>
+
+---
+
 ## Electric Potential Energy
 
 Electric potential energy is akin to gravitational potential energy. Moving a charged particle against the direction of the field is similar to lifting an object up in a gravitational potential field.
@@ -344,4 +353,196 @@ Because it moves against the field, it gains electric potential energy.
     & E_{p} = 0.15J
 \end{aligned}
 
+---
 
+## Akoranga 9 Mahi Tuatahi
+
+Homework booklet Electric Fields Question 4
+
+---
+
+### Whakatika
+
+Hamish connects a circuit comprised of a 6.0 V battery, 1.0 m of Nichrome resistance wire and two connecting wires. The battery produces a uniform electric field in the Nichrome resistance wire. _Assume that the connecting wires have no resistance._
+
+__(a) Calculate the strength of the electric field in the Nichrome resistance wire. (A)__
+
+\begin{aligned}
+    & V=6V, d=1m && \text{(K)} \newline
+    & \vec{E}=? && \text{(U)} \newline
+    & \vec{E} = \frac{V}{d} && \text{(F)} \newline
+    & \vec{E} = \frac{6}{1} = 6Vm^{-1} && \text{(S+S)} 
+\end{aligned}
+
+---
+
+__(b) Explain what happens to the size of the electric force on an electron as it travels through the Nichrome resistance wire. (M)__
+
+Throughout the wire the field strength is constant, and the charge on the electron is also constant. Therefore using $F=\vec{E}q$ we can see that the force is also constant.
+
+---
+
+__(c) Calculate the distance moved by an electron as it loses 9.6 × 10-20 J of electrical potential energy. (M)__
+
+\begin{aligned}
+    & W = 9.6\times10^{-20}J, \vec{E} = 6Vm^{-1}, q=-1.6\times10^{-19}&& \text{(K)} \newline
+    & d = ? && \text{(U)} \newline
+    & W = Fd = Eqd && \text{(F)} \newline
+    & 9.6\times10^{-20} = 6 \times (-1.6\times10^{-19}) \times d && \text{(S+S)} \newline
+    & d = \frac{9.6\times10^{-20}}{6 \times (-1.6\times10^{-19})} = 0.1m
+\end{aligned}
+
+---
+
+__(d) Hamish then adds another 6.0 V battery in series AND shortens the wire to 0.50 m. Write a comprehensive explanation on what will happen to the size of the force on the electron. (E) _Calculations are not needed.___
+
+- Adding another $6V$ battery will double the electric field strength according to $\vec{E} = {V}{d}$.
+- Shortening the wire from $1m$ to $0.5m$ will also double the field strength according to $\vec{E} = {V}{d}$.
+- Both of these factors will result in a 4x stronger electric field.
+- Assuming the charge of the electron stays constant, according to $F=\vec{E}q$, the force experienced will also be 4x stronger.
+
+---
+
+## Millikan's Oil Drop Experiment {.c2}
+
+![[Source](https://en.wikipedia.org/wiki/Oil_drop_experiment)](https://upload.wikimedia.org/wikipedia/commons/a/a6/Robert-millikan2.jpg)
+
+- In the early 1900s we did not know what the charge of the electron was
+- Millikan figured that if the force exerted by an electric field was strong enough, it could _balance_ the weight force due to gravity
+- By measuring the field strength needed to balance many different droplets of charged oil, he figured out that the charges were multiples of $1.5924(17)\times10^{−19}C$!
+
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/JsHQvy-Y30g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Ngohe/Task
+
+Homework booklet Electric Fields Q2
+
+---
+
+## Akoranga 10 Mahi Tuatahi
+
+- In an X-ray machine, a heating element releases electrons from a negatively charged plate called the cathode. The electrons are then accelerated by an electric field that exists between the cathode and a positively charged tungsten plate called the anode.
+- The cathode and the anode are connected to a high voltage source of $20 000 V$. The distance between the cathode and anode plates is $0.050 m$. The beam of electrons causes X-rays to be released from the anode.
+- Charge on an electron = $-1.60\times10^{–19}C$
+- Mass of an electron = $9.11\times10^{–31}kg$
+
+__a) Calculate the electric field strength between the plates, and state its direction. (A)__
+
+---
+
+### Whakatika
+
+\begin{aligned}
+    & V=20000V, d=0.05m && \text{(K)} \newline
+    & \vec{E} = ? && \text{(U)} \newline
+    & \vec{E} = \frac{V}{d} && \text{(F)} \newline
+    & \vec{E} = \frac{20000V}{0.05m} = 400000Vm^{-1} && \text{(S+S)} \newline
+    & \text{Direction: from anode (+ve) to cathode (-ve)}
+\end{aligned}
+
+<aside class="notes">
+Achieved: Correct working and correct direction.
+</aside>
+
+---
+
+- In an X-ray machine, a heating element releases electrons from a negatively charged plate called the cathode. The electrons are then accelerated by an electric field that exists between the cathode and a positively charged tungsten plate called the anode.
+- The cathode and the anode are connected to a high voltage source of $20 000 V$. The distance between the cathode and anode plates is $0.050 m$. The beam of electrons causes X-rays to be released from the anode.
+- Charge on an electron = $-1.60\times10^{–19}C$
+- Mass of an electron = $9.11\times10^{–31}kg$
+
+__b) State what type of energy an electron would have at the cathode (negative plate), and what would happen to that energy as the electron moved towards the anode (positive plate). (M)__
+
+---
+
+### Whakatika
+
+- __Particle Point of View__:
+    + Maximum electric potential energy when on the cathode.
+    + This electric potential energy is transformed to kinetic energy as it moves away from the cathode.
+- __Field Point of View__:
+    + The field is doing work on the particle, so it loses electric potential energy.
+    + This energy is transferred to the particle in the form of kinetic energy
+
+<aside class="notes">
+Achieved: Names one energy.<br>
+Merit: Names both energies and implies “change”.
+</aside>
+
+---
+
+- In an X-ray machine, a heating element releases electrons from a negatively charged plate called the cathode. The electrons are then accelerated by an electric field that exists between the cathode and a positively charged tungsten plate called the anode.
+- The cathode and the anode are connected to a high voltage source of $20 000 V$. The distance between the cathode and anode plates is $0.050 m$. The beam of electrons causes X-rays to be released from the anode.
+- Charge on an electron = $-1.60\times10^{–19}C$
+- Mass of an electron = $9.11\times10^{–31}kg$
+
+__c) Calculate the speed of the electron as it reaches the anode (positive plate). (M)__
+
+---
+
+### Whakatika
+
+The field does work on the particle, so it loses energy:
+
+\begin{aligned}
+    & \vec{E}=400000Vm^{-1}, q=-1.6\times10^{-19}C, d=0.05m && \text{(K)} \newline
+    & E_{p}=W=? && \text{(U)} \newline
+    & E_{p} = W = Fd = \vec{E}qd && \text{(F)} \newline
+    & W = 400000Vm^{-1} \times (-1.6\times10^{-19}C) \times 0.05m = -3.2\times10^{-15}J && \text{(S+S)}
+\end{aligned}
+
+<aside class="notes">
+Achieved: Work done is calculated correctly. OR Showing the understanding that kinetic energy equals work done. OR Incorrect work done and consequently incorrect speed.<br>
+Merit: Correct answer
+</aside>
+
+---
+
+Assuming no friction, all $E_{p}$ converted to $E_{k}$:
+
+\begin{aligned}
+    E_{p} &= E_{k} \newline
+    -3.2\times10^{-15}J &= \frac{1}{2}mv^{2} \newline
+    v &= \sqrt{\frac{2\times(-3.2\times10^{-15})}{9.11\times10^{-31}}} = 8.39\times10^{7}ms^{-1}
+\end{aligned}
+
+<aside class="notes">
+Achieved: Work done is calculated correctly. OR Showing the understanding that kinetic energy equals work done. OR Incorrect work done and consequently incorrect speed.<br>
+Merit: Correct answer
+</aside>
+
+---
+
+In 1909 Millikan used two oppositely charged metal plates to keep a charged oil drop falling at terminal velocity when he was experimenting to find the charge of an electron. A modified form of his experiment keeps an oil drop stationary. 
+
+__d) Discuss how it was possible to make the oil drop stationary between the plates. (E)__
+
+In your comprehensive answer you should:
+
+- identify the forces acting on the oil drop 
+- describe how the forces can combine to cause the oil drop to be stationary 
+- explain what type of charge the oil drop must have in order to remain stationary.
+
+---
+
+### Whakatika
+
+- The forces acting on the oil drop are downward weight force and upward electrical force.
+- These two forces must be balanced, as the oil drop is stationary.
+- For the electrical force to be upwards, the type of charge on the oil drop must be opposite to the charge on the top plate.
+
+<aside class="notes">
+Achieved: Identifies the two forces OR Saying that the forces must be balanced OR Top plate should be positive and the charge on the oil must be negative, or vice versa.<br>
+Merit: Identifies the forces and that the forces must be balanced, as the charged drop is stationary.<br>
+Excellence: Explain that the electrical force must be upwards to balance the downward weight force, as the oil drop is stationary AND For the electric force to be upwards, the charge on the oil drop must be negative.
+</aside>
+
+---
+
+## Task/Ngohe
+
+Working independently, complete Mahi Kāinga/Homework Q6

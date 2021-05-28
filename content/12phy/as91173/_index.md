@@ -21,17 +21,16 @@ katex: true
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|           |               Akoranga 1               |                          Akoranga 2                          |                                  Akoranga 3                                 |                Akoranga 4                |
-|-----------|----------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------|
-| __T2 W1__ | 1. [Statics Intro](#statics-intro)     | 2. [Coulombs](#coulombs)                                     | 3. [Current, Insulators and Conductors](#current-insulators-and-conductors) | 4. [Drawing E Fields](#drawing-e-fields) |
-| __T2 W2__ | 5. [Electric Forces](#electric-forces) | 6. [Voltage on Parallel Plates](#voltage-on-parallel-plates) | 7. ~~Teacher Only Day~~                                                     | 8.                                       |
-| __T2 W3__ | 9.                                     | 10.                                                          | 11.                                                                         | 12.                                      |
-| __T2 W4__ | 13.                                    | 14.                                                          | 15.                                                                         | 16.                                      |
-| __T2 W5__ | 17.                                    | 18.                                                          | 19.                                                                         | 20.                                      |
-| __T2 W6__ | 21. ~~Queens Birthday~~                | 22.                                                          | 23.                                                                         | 24.                                      |
-| __T2 W7__ | 25.                                    | 26.                                                          | 27.                                                                         | 28.                                      |
-| __T2 W8__ | 29.                                    | 30.                                                          | 31.                                                                         | 32. ~~Teacher Only Day~~                 |
-|           |                                        |                                                              |                                                                             |                                          |
+|           |                   Akoranga 1                   |                          Akoranga 2                          |                                  Akoranga 3                                 |                         Akoranga 4                         |
+|-----------|------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------|
+| __T2 W1__ | 1. [Statics Intro](#statics-intro)             | 2. [Coulombs](#coulombs)                                     | 3. [Current, Insulators and Conductors](#current-insulators-and-conductors) | 4. [Drawing E Fields](#drawing-e-fields)                   |
+| __T2 W2__ | 5. [Electric Forces](#electric-forces)         | 6. [Voltage on Parallel Plates](#voltage-on-parallel-plates) | 7. ~~Teacher Only Day~~                                                     | 8. [Electric Potential Energy](#electric-potential-energy) |
+| __T2 W3__ | 9. [Oil Drop Experiment](#oil-drop-experiment) | 10. [Electric Fields Practice](#electric-fields-practice)    | 11.                                                                         | 12.                                                        |
+| __T2 W4__ | 13.                                            | 14.                                                          | 15.                                                                         | 16.                                                        |
+| __T2 W5__ | 17.                                            | 18.                                                          | 19.                                                                         | 20.                                                        |
+| __T2 W6__ | 21. ~~Queens Birthday~~                        | 22.                                                          | 23.                                                                         | 24.                                                        |
+| __T2 W7__ | 25.                                            | 26.                                                          | 27.                                                                         | 28.                                                        |
+| __T2 W8__ | 29. Revision 1                                 | 30. Revision 2                                               | 31. __TEST__                                                                | 32. ~~Teacher Only Day~~                                   |
 
 <!--
 2020
@@ -125,35 +124,23 @@ katex: true
 
 7. #### Teacher Only Day
 
-8. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
+8. #### Electric Potential Energy
+    - __Ngā Whāinga Ako__
+        1. Be able to relate electric potential energy and voltage
+        2. Use _work_ in an electric field context
     - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+        - Slides: From [Akoranga 8](slides/electric-fields.html#/akoranga-8-mahi-tuatahi/)
 
-9. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
+9. #### Oil Drop Experiment
     - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+        - Slides: Last part of Electric Fields on Millikan's Oil Drop experiment
 
-10. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
+10. #### Electric Fields Practice
+    - __Ngā Whāinga Ako__
+        - Practise electric field questions independently
     - __Task/Ngohe__
-        -
+        - Mahi Kāinga Q5 with answers on board after 20min
+        - Mahi Kāinga Q6 independently with self-marking
 
 11. ####
     - __Whakaritenga__
@@ -327,35 +314,11 @@ katex: true
     - __Task/Ngohe__
         -
 
-29. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+29. #### Revision 1
 
-30. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+30. #### Revision 2
 
-31. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+31. #### TEST
 
 32. #### Teacher Only Day
 
