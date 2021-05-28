@@ -12,73 +12,85 @@ menu:
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
 
+
+
 1. __Atoms and Ions__
-    1. Use diagrams to represent the arrangement of protons, neutrons and electrons in atoms
-    2. Write electron configurations for the first 20 elements and their ions
-    3. Locate groups 1, 2, 16, 17, 18 elements on the periodic table and identify their number of valence electrons
-    4. Describe how ions and ionic bonds are formed from the transfer of electron
-    5. Identify a covalent compound and explain covalent bond as the sharing of electrons
-    6. Use an ion table to write and name simple ionic formulae
+    1. Can use the periodic table to find proton, neutron & electron numbers
+    2. Use diagrams to represent the arrangement of protons, neutrons and electrons in atoms
+    3. Write electron configurations for the first 20 elements and their ions
+    4. Locate groups 1, 2, 16, 17, 18 elements on the periodic table and identify their number of valence electrons
+    5. Can describe why ions form and identify the difference between cations & anions 
+    6. Describe how ionic bonds are formed from the transfer of electrons
+    7. Count atoms in ionic formula 
+    8. Use a table of ions to write and name simple ionic formulae
+    9. Balance simple equations 
+
 2. __Acids and Bases__
     1. Describe the general properties of acids, bases and neutral solutions
     2. Explain the pH scale and use it to determine if a substances is an acid, base, or neutral
-    3. Recall that indicators can be used to identify acids & bases
+    3. Can use a range of indicators to identify acids and bases 
     4. Recall the names and formula for some common acids: $HCl$, $H_{2}SO_{4}$, $HNO_{3}$
     5. Identify the acids and bases from a list of common consumer products
-3. __Acid Reactions__
-    1. Name the products and write word equations and balanced symbol equations for reactions of acids with bases, carbonate compounds and metals
-    2. Give examples of everyday or useful acid reactions
-4. __Metals__
-    1. Explain the difference between physical and chemical properties of metals
-    2. Describe the structure of a metals
-    3. Explain how the physical properties of a metal (ie malleability, ductility, lustrous, sonorous) are related to the structure of a metal and its use
-    4. Describe where metals and non-metals are found on the periodic table
+    6. Discuss how $OH^{-}$ ions & $H^{+}$ ions form neutral solutions 
+    7. Can discuss real life situations where neutralization is necessary 
+    8. Name the products and write word equations and balanced symbol equations for acid/base reactions
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|             | Akoranga 1 ()                | Akoranga 2 ()           | Akoranga 3 ()        | Akoranga 4 ()             |
-| :---------- | :--------------              | :--------------         | :--------------      | :--------------           |
-| __T2 W1__   | 1. Elements & Periodic Table | 2. Atomic Structure     | 3. Atomic Properties | 4. Electron Configuration |
-| __T2 W2__   | 5. Flame Test                | 6. Formation of Ions    | 7. Ionic Compounds 1 | 8. Ionic Compounds 2      |
-| __T2 W3__   | 9. Writing Equations 1       | 10. Writing Equations 2 | 11. Acids & Base     | 12. Neutralisation        |
-| __T2 W4__   | 13. Metal Properties         | 14. Acid + Carbonate    | 15. Acid + Metal     | 16. Metal + Water         |
-| __T2 W5__   | 17. Revision 1               | 18. Revision 2          | 19. Revison 3        | 20. __TEST__              |
+|             | Akoranga 1                                                | Akoranga 2                                        | Akoranga 3              | Akoranga 4                |
+| :---------- | :--------------                                           | :--------------                                   | :--------------         | :--------------           |
+| __W1__      | 1. [Elements & Periodic Table](#elements--periodic-table) | 2. [Atomic & Mass Numbers](#atomic--mass-numbers) | 3. ~~Teacher Only Day~~ | 4. Electron Configuration |
+| __W2__      | 5. [Ions](#ions)                                          | 6. Formation of Ions                              | 7. Ionic Compounds 1    | 8. Ionic Compounds 2      |
+| __W3__      | 9. Writing Equations 1                                    | 10. Writing Equations 2                           | 11. Acids & Base        | 12. Neutralisation        |
+| __W4__      | 13. Metal Properties                                      | 14. Acid + Carbonate                              | 15. Acid + Metal        | 16. Metal + Water         |
+| __W5__      | 17. Revision 1                                            | 18. Revision 2                                    | 19. Revision 3           | 20. __TEST__              |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
 1. #### Elements & Periodic Table
-    - Atom battleships
+    - __Whakaritenga__
+        + Print flashcards
     - __Ngā Whāinga Ako__: 
     - __Notes__: 
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-2. #### Atomic Structure
+2. #### Atomic & Mass Numbers
+    - __Whakaritenga__:
+        + Print atom worksheets
     - __Ngā Whāinga Ako__: 
     - __Notes__: 
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-3. #### Atomic Properties
-    - Atomic number,
-    - Mass number,
-    - Isotopes
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+3. #### ~~Teacher Only Day~~
 
 4. #### Electron Configuration
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+    - __Whakaritenga__
+        + Collect Electron Battleships tākaro
+    - __Te Whāinga Ako__:
+        1. Write electron configurations for the first 20 elements
+    - __Notes__: Electron configuration slides
+    - __Task/Ngohe__:
+        + Complete electron configuration row from previous class worksheet
+        + Drawing electron configuration diagrams worksheet
+    - __Tākaro__
+        + Electron Battleships
 
-5. #### Flame Test
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+5. #### Ions
+    - __Whakaritenga__
+        + Collect ion battleships
+    - __Ngā Whāinga Ako__:
+        1. Can describe why ions form and identify the difference between cations & anions
+        2. Locate groups 1, 2, 16, 17, 18 elements on the periodic table and identify their number of valence electrons
+        3. Describe how ionic bonds are formed from the transfer of electrons
+    - __Notes__: First part of ions notes
+    - __Task/Ngohe__:
+        + Finish flashcards
+        + Finish electron configuration diagrams
+        + Identify cation/anion examples
+    - __Tākaro__
+        + Electron Battleships
 
 6. #### Formation of Ions
     - __Ngā Whāinga Ako__: 
@@ -105,11 +117,12 @@ menu:
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-10. #### Writing Chemical Equations 2
+10. #### pH Scale
     - __Ngā Whāinga Ako__: 
     - __Notes__: 
     - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+    - __Whakamātau/Whakakite__:
+        + https://www.riskassess.co.nz/risk_assessment/9958951 
 
 11. #### Acids & Bases 1
     - Whakamātau: indicators (UI, litmus, red, cabbage)
@@ -120,17 +133,17 @@ menu:
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-12. #### Neutralisation
-    - Whakamātau: sulfuric acid & ammonia
+12. #### Ionic Compounds
     - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+        + Form Complex Ionic Compounds
+    - __Notes__:
+        + Swap and Drop
 
-13. #### Metal Properties
-    - Physical and chemical properties
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
+13. #### pH Scale
+    - __Ngā Whāinga Ako__:
+        + Colours, numbers and printed out scale
+    - __Notes__:
+        + 
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
@@ -142,21 +155,21 @@ menu:
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-15. #### Acid + Metal Reaction
-    - Whakamātau: $Mg+ HCl$ (Pop Test)
-    - Whakakite: $Ca + HCl$
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+15. #### Neutralisation Reaction
+    - Whakamātau: $NaOH + HCl$
+    - __Ngā Whāinga Ako__:
+        + Perform a neutralisation reaction
 
-16. #### Metal + Water Reaction
-    - Whakamātau: $Ca + H_{2}O$
-    - Demo: Reactive elements (sodium + water)
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+16. #### Balancing Equations
+    - __Ngā Whāinga Ako__:
+        + Common acids and bases
+        + Balance and equation
+    - __Notes__:
+        + Acids and Bases L16
+    - __Task/Ngohe__:
+        + Starter pop quiz
+        + Notes on common acids/bases
+        + Example of balancing equation ($H_{2}SO_{4} + HCl$)
 
 17. #### Revision 1
 
