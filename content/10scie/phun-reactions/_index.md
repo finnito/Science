@@ -37,13 +37,13 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|             | Akoranga 1                                                | Akoranga 2                                        | Akoranga 3              | Akoranga 4                |
-| :---------- | :--------------                                           | :--------------                                   | :--------------         | :--------------           |
-| __W1__      | 1. [Elements & Periodic Table](#elements--periodic-table) | 2. [Atomic & Mass Numbers](#atomic--mass-numbers) | 3. ~~Teacher Only Day~~ | 4. Electron Configuration |
-| __W2__      | 5. [Ions](#ions)                                          | 6. Formation of Ions                              | 7. Ionic Compounds 1    | 8. Ionic Compounds 2      |
-| __W3__      | 9. Writing Equations 1                                    | 10. Writing Equations 2                           | 11. Acids & Base        | 12. Neutralisation        |
-| __W4__      | 13. Metal Properties                                      | 14. Acid + Carbonate                              | 15. Acid + Metal        | 16. Metal + Water         |
-| __W5__      | 17. Revision 1                                            | 18. Revision 2                                    | 19. Revision 3           | 20. __TEST__              |
+|             | Akoranga 1                                                | Akoranga 2                                        | Akoranga 3                  | Akoranga 4                |
+| :---------- | :--------------                                           | :--------------                                   | :--------------             | :--------------           |
+| __W1__      | 1. [Elements & Periodic Table](#elements--periodic-table) | 2. [Atomic & Mass Numbers](#atomic--mass-numbers) | 3. ~~Teacher Only Day~~     | 4. Electron Configuration |
+| __W2__      | 5. [Ions](#ions)                                          | 6. Formation of Ions                              | 7. Ionic Compounds 1        | 8. Ionic Compounds 2      |
+| __W3__      | 9. Writing Equations 1                                    | 10. Writing Equations 2                           | 11. Acids & Base            | 12. Neutralisation        |
+| __W4__      | 13. Metal Properties                                      | 14. Acid + Carbonate                              | 15. Acid + Metal            | 16. Metal + Water         |
+| __W5__      | 17. Revision 1 + Long Answers                             | 18. Revision 2                                    | 19. Revision 3 + Burning Mg | 20. Revision 4            |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
@@ -176,5 +176,6 @@ menu:
 18. #### Revision 2
 
 19. #### Revision 3
+    - [Burning Mg](https://www.riskassess.co.nz/risk_assessment/9998507)
 
 20. #### TEST

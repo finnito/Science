@@ -109,3 +109,14 @@ Name or create these ionic compounds! Bonus, count up the number of each type of
 
 - __Pātai__: How many of each atom on each side of the equation?
 
+---
+
+## Neutralisation Reaction
+
+> A reaction between acid and base is called a neutralisation reaction.
+
+\begin{aligned}
+    acid + base &\rightarrow salt + water \newline
+    \text{hydrochloric acid} + \text{sodium hydroxide} &\rightarrow \text{sodium chloride} + water \newline
+    HCl + NaOH &\rightarrow NaCl + H_{2}O
+\end{aligned}
