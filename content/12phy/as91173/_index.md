@@ -27,7 +27,7 @@ katex: true
 | __T2 W2__ | 5. [Electric Forces](#electric-forces)         | 6. [Voltage on Parallel Plates](#voltage-on-parallel-plates) | 7. ~~Teacher Only Day~~                                                     | 8. [Electric Potential Energy](#electric-potential-energy) |
 | __T2 W3__ | 9. [Oil Drop Experiment](#oil-drop-experiment) | 10. [Electric Fields Practice](#electric-fields-practice)    | 11.                                                                         | 12.                                                        |
 | __T2 W4__ | 13.                                            | 14.                                                          | 15.                                                                         | 16.                                                        |
-| __T2 W5__ | 17.                                            | 18.                                                          | 19.                                                                         | 20.                                                        |
+| __T2 W5__ | 17. Finding Unknowns + HW Q8                   | 18. Practise                                                 | 19.                                                                         | 20.                                                        |
 | __T2 W6__ | 21. ~~Queens Birthday~~                        | 22.                                                          | 23.                                                                         | 24.                                                        |
 | __T2 W7__ | 25.                                            | 26.                                                          | 27.                                                                         | 28.                                                        |
 | __T2 W8__ | 29. Revision 1                                 | 30. Revision 2                                               | 31. __TEST__                                                                | 32. ~~Teacher Only Day~~                                   |
@@ -202,25 +202,15 @@ katex: true
     - __Task/Ngohe__
         -
 
-17. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
+17. #### Finding Unknowns + HW Q8
     - __Notes__
-        - Slides:
-    - __Task/Ngohe__
-        -
+        - Slides: 1 more series and parallel circuit
+        - HW Q8
 
-18. ####
-    - __Whakaritenga__
-        -
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        - Slides:
+18. #### Practise
     - __Task/Ngohe__
-        -
+        - Textbook Activity 18B Q1-3
+        - Homework Booklet Circuits Q10
 
 19. ####
     - __Whakaritenga__

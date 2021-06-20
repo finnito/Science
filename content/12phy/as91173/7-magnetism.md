@@ -162,17 +162,11 @@ __Pātai:__ Is force a scalar or vector? How do we know the direcito of the forc
 
 ## Pātai
 
-A charged object ($q=1.6\times10^{-19}C$) moves across a magnetic field with a speed of $4.0\times10^{3}ms^{-1}$. The magnetic field strength is $12T$.
+A charged object ($q=1.6\times10^{-19}C$) moves to the left across a magnetic field (out of the page) with a speed of $4.0\times10^{3}ms^{-1}$. The magnetic field strength is $12T$.
 
 1. Draw a diagram and illustrate the magnetic field lines
 2. Calculate the force applied to the charged object
 3. Describe/draw the direction of the force applied
-
----
-
-Which direction is the force acting in?
-
-![](../assets/9-magnetic-field-q.png){width=75%}
 
 ---
 
@@ -186,7 +180,7 @@ Which direction is the force acting in?
 
 ---
 
-## Formula: F=BvL
+## Formula: F=BIL
 
 Instead of thinking about the velocity of the moving charges, we can think about the current and length of wire in the magnetic field.
 
@@ -199,3 +193,38 @@ Instead of thinking about the velocity of the moving charges, we can think about
 
 - Mahi Kāinga booklet Q16, Q17
 
+---
+
+## Current-Carrying Wire {.c2}
+
+- Magnetic fields exist around current carrying wires
+- The magnetic field is circular around the wire
+- The direction of the field depends on a right hand rule!
+
+![[Source](https://physics.stackexchange.com/questions/162800/magnetic-field-direction-a-single-one-on-a-current-carrying-wire)](https://i.stack.imgur.com/4iM3O.jpg)
+
+---
+
+## Solenoids {.c2}
+
+- A solenoid is a coil of wire, which generates a strong magnetic field
+- The more coils, the stronger the field!
+- Use the solenoid right hand rule to determine the direction of the field
+    + Your fingers curl in the direction of flow of positive charge! Thumb indicates the N end of the solenoid
+
+![[Source](https://en.wikipedia.org/wiki/Solenoid)](https://upload.wikimedia.org/wikipedia/commons/4/45/Solenoid-1.png)
+
+---
+
+![[Source](https://en.wikipedia.org/wiki/Solenoid)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/2880px-VFPt_Solenoid_correct2.svg.png)
+
+---
+
+## Individual Quiet Practise
+
+1. Homework Booklet Q18 (__M__)
+2. Magnetism Worksheet #7
+    - Collect from the front
+    - A good overall review
+3. Homework Booklet Q15 (__M__)
+    - A more conceptually difficult problem, but not using more difficult Physics.
