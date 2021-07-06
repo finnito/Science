@@ -2,19 +2,10 @@
 title: Doppler Effect
 subtitle: 12PHYS - Wave Systems
 author: Finn LeSueur
-date: 2020
+date: 2021
 weight: 2
 theme: finn
-colortheme: dolphin
-font-size: 35px
 slug: doppler-effect
-text-align: center
-katex: true
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
 ## Mahi Tuatahi
@@ -23,7 +14,7 @@ Bodgan is observing a star through a telescope, and it appears to be orange. He 
 
 1. What is the frequency of orange light, given than the speed of light is $c=3 \times 10^{8}ms^{-1}$?
 2. Using your value for frequency, what is the period of the orange light?
-3. Draw a rough wave for this orange light, labelling the wavelength and an arrow indicating the velocity.
+3. Sketch a wave for this orange light, labelling the wavelength and an arrow indicating the velocity.
 
 ---
 
@@ -34,7 +25,25 @@ Bodgan is observing a star through a telescope, and it appears to be orange. He 
 
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Djz_rtnXSfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+<iframe width="100%" height="666px" src="https://www.youtube.com/embed/Djz_rtnXSfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
+<div class="videoWrapper">
+<iframe width="100%" height="666px" src="https://www.youtube.com/embed/8WgSQlRymwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
+<div class="videoWrapper">
+<iframe width="100%" height="666px" src="https://www.youtube.com/embed/fWX38qjECyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
+<div class="videoWrapper"><iframe width="895" height="503" src="https://www.youtube.com/embed/uNeZGfUhG1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
@@ -44,43 +53,36 @@ Bodgan is observing a star through a telescope, and it appears to be orange. He 
 
 ---
 
-### What is Observed
+### What is Observed?
 
 - __Sound:__ As a car approaches, the wavefront is compressed and the frequency is increased (pitch increases). As it passes, the wavefront is expanded, the frequency thus decreases (pitch decreases).
 - __Light:__ Doppler for light is also known as redshift: a star moving towards us has an increased frequency (bluer light), and a star moving away from us has a decreased frequency (redder light)
 
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ikgRZt1BSyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ikgRZt1BSyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 
 ### The Equations
 
-- To work with the __doppler effect__ we will need to be confident using the equations we learned last week!
+- To work with the __Doppler effect__ we will need to be confident using the equations we learned last week!
 - If you do not have these equations in your book, copy them down and include the units for each variable.
 
 \begin{aligned}
-    & v = f\lambda \\
-    & velocity = frequency \times wavelength
+    v &= f\lambda \newline
+    f &= \frac{1}{T}
 \end{aligned}
 
 ---
 
-\begin{aligned}
-    & f = \frac{1}{T} \\
-    & frequency = \frac{1}{period}
-\end{aligned}
-
----
-
-#### Question 1: Speeding Tickets
+#### Pātai Tahi: Speeding Tickets
 
 Police can use radar guns to measure the amount of compression or expansion of the frequency due to the relative motion of the offending car.
 
 1. The gun emits waves with $f=100MHz$. What wavelength is this?
-2. The gun reads $f=75MHz$ when the car is approaching. What wavelength is this?
-3. The gun reads $f=125MHz$ when the car is receding. What wavelength is this?
+2. The gun reads $f=125MHz$ when the car is approaching. What wavelength is this?
+3. The gun reads $f=75MHz$ when the car is receding. What wavelength is this?
 
 ---
 
