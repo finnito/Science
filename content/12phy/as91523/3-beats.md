@@ -2,19 +2,10 @@
 title: Beats
 subtitle: 12PHYS - Wave Systems
 author: Finn LeSueur
-date: 2020
+date: 2021
 weight: 3
 theme: finn
 slug: beats
-colortheme: dolphin
-font-size: 35px
-text-align: center
-katex: true
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
 ## Ngā Whāinga Ako
@@ -56,7 +47,7 @@ This changing interference _can_ give rise to periodic changes in volume (amplit
 
 ---
 
-### Beat Frequency
+## Beat Frequency
 
 For beats to occur we need:
 
@@ -64,27 +55,27 @@ For beats to occur we need:
 2. The difference in frequency to be small
 
 \begin{aligned}
-    & f_{b} = f_{2} - f_{1}
+    & f_{b} = |f_{2} - f_{1}|
 \end{aligned}
 
-This equation is not given to your in your formula sheet. $f_{2}$ should be the larger of the two.
+<mark>This equation is not given to your in your formula sheet.</mark>
 
 ---
 
-#### Pātai Tahi
+### Pātai Tahi
 
 Zak is standing still and holding a device emitting a frequency of $100Hz$. Josh stands next to him holding a device emitting a frequency of $107Hz$.
 
-Calculate the frequency of the beats observed them both.
+__Calculate the frequency of the beats observed by them both.__
 
 ---
 
-##### Whakatika Tahi
+#### Whakatika Tahi
 
-This equation $f_{b} = f_{2} \pm f_{1}$ mainly tells us that the beat frequency is the difference between the two frequencies.
+This equation $f_{b} = |f_{2} - f_{1}|$ mainly tells us that the beat frequency is the difference between the two frequencies.
 
 \begin{aligned}
-    & f_{b} = f_{2} \pm f_{1} \\
+    & f_{b} = f_{b} = |f_{2} - f_{1}| \newline
     & f_{b} = 107 - 100 = 7Hz
 \end{aligned}
 
@@ -94,32 +85,36 @@ This equation $f_{b} = f_{2} \pm f_{1}$ mainly tells us that the beat frequency 
 
 Jules is tuning the middle C key on a piano. He is using a tuning fork which produces a frequency of $257Hz$ as a reference. The key is slightly out of tune and a beat frequency of $4Hz$ is heard.
 
-Calculate the frequency of the out of tune key.
+__Calculate the frequency of the out of tune key.__ Note any considerations you need to have regarding this calculation.
 
 ---
 
 #### Whakatika Rua
 
 \begin{aligned}
-    & f_{b} = f_{2} - f_{1} \\
-    & 4 = 256 - f_{k} = 252Hz \\
+    & f_{b} = f_{b} = |f_{2} - f_{1}| \newline
+    & 4 = 256 - f_{k} = 252Hz \newline
     & 4 = 256 + f_{k} = 260Hz
 \end{aligned}
 
-On paper we cannot tell which of the frequencies the key should have. In person, with a good musical ear, a person could tell.
+On paper we cannot tell which of the frequencies the key should have. In person, with a good musical ear, a person could tell if the key is sharp (high) or flat (low).
 
 ---
 
-Josh changes his device to be $100Hz$, the same as Zak. He walks away him again while Anton listens. Anton observes a beat frequency of $10Hz$. The speed of sound is $343ms^{-1}$.
+### Pātai Toru 
+
+Both Josh and Zak are holding identical devices emitting a frequency of $100Hz$. Josh walks away him again while Zak listens. Zak observes a beat frequency of $10Hz$. The speed of sound is $343ms^{-1}$.
 
 1. __How fast is Josh walking ($v_{s}$)?__
-    1. Calculate $f'$ that Anton is observing from Josh's device ($f_{b} = f_{2} \pm f_{1}$)
-    2. Use this value to find $v_{s}$ in $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$
+    a. __Step 1__: Calculate $f'$ that Anton is observing from Josh's device ($f_{b} = |f_{2} - f_{1}|$)
+    b. __Step 2__: Use this value to find $v_{s}$ in $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$
 
 ---
 
+#### Whakatika Toru a)
+
 \begin{aligned}
-    f_{b} &= f_{2} - f_{1} \\
+    f_{b} &= |f_{2} - f_{1}| \newline
     f &= 110 \text{ or } 90
 \end{aligned}
 
@@ -127,12 +122,14 @@ Because Josh is walking __away__, the frequency should be lower, so $90Hz$.
 
 ---
 
+#### Whakatika Toru b)
+
 \begin{aligned}
-    f' &= f \frac{v_{w}}{v_{w} \pm v_{s}} \text{ add because away} \\
-    90 &= 100 \frac{343}{343 + v_{s}} \\
-    \frac{90}{100} &= \frac{343}{343 + v_{s}} \\
-    (343 + v_{s}) \times 0.9 &= 343 \\
-    343 + v_{s} &= \frac{343}{0.9} \\
+    f' &= f \frac{v_{w}}{v_{w} \pm v_{s}} \text{ add because away} \newline
+    90 &= 100 \frac{343}{343 + v_{s}} \newline
+    \frac{90}{100} &= \frac{343}{343 + v_{s}} \newline
+    (343 + v_{s}) \times 0.9 &= 343 \newline
+    343 + v_{s} &= \frac{343}{0.9} \newline
     v_{s} &= \frac{343}{0.9} - 343 = 38.11ms^{-1}
 \end{aligned}
 
@@ -140,8 +137,7 @@ Because Josh is walking __away__, the frequency should be lower, so $90Hz$.
 
 ## Mahi Kāinga
 
-- Mahi Kāinga Booklet Question 8, due Monday August 3rd
-- Tutorials Tuesday & Friday lunchtime in A3
+- Mahi Kāinga Booklet Question 8, due Monday August 2nd/3rd
 
 ---
 

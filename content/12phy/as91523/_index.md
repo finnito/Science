@@ -31,7 +31,7 @@ katex: true
 12. Use $\lambda = \frac{dx}{L}$ to solve problems with a diffraction grating
 13. Use $n\lambda = dsin(\theta)$ to analyse the spectrum angles produced by a diffraction grating
 
-## Mahi Kāinga
+<!-- ## Mahi Kāinga
 
 1. Term 3, Week 1 (Fri July 25th): Wave Fundamentals Question 1 & 2
 2. Term 3, Week 2 (Mon July 27th): Doppler Question 9
@@ -39,22 +39,22 @@ katex: true
 4. Term 3, Week 6 (Mon August 24th): 
 5. Term 3, Week 7 (Mon August 31st): 
 6. Term 3, Week 8 (Mon Sept 7th): 
-7. Term 3, Week 9 (Mon Sept 14th): Interference Q18, Q19  
+7. Term 3, Week 9 (Mon Sept 14th): Interference Q18, Q19   -->
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|            | Akoranga 1 (Mon)                                        | Akoranga 2 (Tues)                            | Akoranga 3 (Wed)                          | Akoranga 4 (Thurs)                          |
-|:-----------|:--------------------------------------------------------|:---------------------------------------------|:------------------------------------------|:--------------------------------------------|
-| __T2 W12__ | 1. [Intro to Waves](#intro-to-waves)                    | 2. [Hand back Test](#hand-back-test)         | 3. [Intro Continued](#intro-continued-1)  | 4. [Intro Continued](#intro-continued-2)    |
-| __T3 W1__  | 5. [Doppler Effect](#intro-to-the-doppler-effect)       | 6. [Doppler Effect](#intro-doppler-equation) | 7. [Doppler Effect](#doppler-continued-1) | 8. [Doppler Effect](#doppler-continued-2)   |
-| __T3 W2__  | 9. [Beats](#beats)                                      | 10. [Beats Whakamātau](#beats-whakamātau)    | 11. [Beats](#beats-hbq)                   | 12. [Standing Waves](#standing-waves-intro) |
-| __T3 W3__  | _Exam Revision_                                         | _Exam Revision_                              | _Exam Revision_                           | _Exam Revision_                             |
-| __T3 W4__  | __School Exams__                                        | __School Exams__                             | __School Exams__                          | __School Exams__                            |
-| __T3 W5__  | __School Exams__                                        | __School Exams__                             | _Return Exam_                             | 13. Standing Waves & Music                  |
-| __T3 W6__  | 14. Standing Waves & Music                              | 15. Attitude Presentations                   | 16. Standing Waves & Music                | 17. Standing Waves & Music                  |
-| __T3 W7__  | 18. Interference Pattern (2 Point)                      | 19. Interference Pattern (2 Point)           | 20. Interference Pattern (2 Point)        | 21. Multi-Point Interference                |
-| __T3 W8__  | 22. [Multi-Point Interference](#diffraction-whakamātau) | 23. Multi-Point Interference                 | 24. Diffraction Gratings                  | _Revision/Catch-Up_                         |
-| __T3 W9__  | _Revision/Catch-Up_                                     | _Revision_                                   | _Revision_                                | __TEST__                                    |
+|              | Akoranga 1 (Mon)                                          | Akoranga 2 (Tues)                              | Akoranga 3 (Wed)                            | Akoranga 4 (Thurs)                            |
+| :----------- | :-------------------------------------------------------- | :--------------------------------------------- | :------------------------------------------ | :-------------------------------------------- |
+| __T2 W9__    | 1. [Intro to Waves](#intro-to-waves)                      | 2. [Hand back Test](#hand-back-test)           | 3. [Intro Continued](#intro-continued-1)    | 4. [Intro Continued](#intro-continued-2)      |
+| __T3 W10__   | 5. [Doppler Effect](#intro-to-the-doppler-effect)         | 6. [Doppler Effect](#intro-doppler-equation)   | 7. [Doppler Effect](#doppler-continued-1)   | 8. [Doppler Effect](#doppler-continued-2)     |
+| __T3 W1__    | 9. [Review & Beats](#beats)                               | 10. [Beats Whakamātau](#beats-whakamātau)      | 11. [Beats](#beats-hbq)                     | 12. [Standing Waves](#standing-waves-intro)   |
+| __T3 W2__    | 14. Standing Waves & Music                                | 15.                                            | 16. Standing Waves & Music                  | 17. Standing Waves & Music                    |
+| __T3 W3__    | _Exam Revision_                                           | _Exam Revision_                                | _Exam Revision_                             | _Exam Revision_                               |
+| __T3 W4__    | __School Exams__                                          | __School Exams__                               | __School Exams__                            | __School Exams__                              |
+| __T3 W5__    | __School Exams__                                          | __School Exams__                               | _Return Exam_                               | 13. Standing Waves & Music                    |
+| __T3 W6__    | 18. Interference Pattern (2 Point)                        | 19. Interference Pattern (2 Point)             | 20. Interference Pattern (2 Point)          | 21. Multi-Point Interference                  |
+| __T3 W7__    | 22. [Multi-Point Interference](#diffraction-whakamātau)   | 23. Multi-Point Interference                   | 24. Diffraction Gratings                    | _Revision/Catch-Up_                           |
+| __T3 W8__    | _Revision/Catch-Up_                                       | _Revision_                                     | _Revision_                                  | __TEST__                                      |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
@@ -90,6 +90,7 @@ katex: true
 8. #### Doppler Continued 2
     - Mahi Kāinga booklet question 
 9. #### Beats
+    - Review waves so far
     - Introduce $f_{b} = | f' - f |$
     - Notes & tauria questions
     - Assign mahi kāinga
