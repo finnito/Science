@@ -27,7 +27,7 @@ def main():
     file = event_args[0].split("/")[-1]
     event = {
         "path": event_args[0],
-        "type": event_args[2],
+        "type": event_args[3],
         "file": file,
         "folder": "/".join(event_args[0].split("/")[:-1])
     }
