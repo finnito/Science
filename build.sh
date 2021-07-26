@@ -188,7 +188,9 @@ callPandoc() {
         --variable=revealjs-url:/reveal.js-4.1.0 \
         --variable=embedded:false \
         --variable=showNotes:false \
-        --variable=overview:false
+        --variable=overview:false \
+        --variable=hash:true \
+        --variable=fragmentInURL:true
 }
 
 compileGitLog() {
