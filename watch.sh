@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+terminal-notifier \
+        -group "com.finnlesueur.science" \
+        -title "Pūtaiao" \
+        -message "fswatch started!" \
+        -appIcon http://putaiao.test/favicon.png
+
 fswatch --print0 \
         --event-flags \
         --recursive \
