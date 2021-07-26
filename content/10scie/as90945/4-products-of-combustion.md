@@ -4,57 +4,58 @@ slug: products-of-combustion
 weight: 4
 subtitle: 10SCIE - Fire & Fuels
 author: Finn LeSueur
-date: 2019
+date: 2021
 theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
-# Ngā Whāinga Ako
+## Akoranga 6 Mahi Tuatahi
 
-- Investigate and test for the products created in combustion.
+1. Collect a crossword as you come in
+2. Glue it into your book
+2. You have 10min to complete the crossword!
 
 ---
 
-# Mahi Tuatahi
+## Ngā Whāinga Ako
 
-Research and describe the three sides of the fire triangle for a lighter.
+- Be able to describe the products of combustion
+- Be able to perform the pop, limewater and lighted splint gas tests
+- Be able to determine the products of combustion through experiment
 
-![Lighter](../assets/4-lighter.jpg){width=30%}
-
----
-
-# Combustion
-
-Combustion is a very predictable formula. Every time something is burned, __carbon dixoide__ or __carbon monoxide__ is produced along with __water__.
+<p class="instruction">Write the date and ngā whāinga ako in your book.</p>
 
 ---
 
-## Test for Carbon Dioxide
+## Combustion {.c2}
 
-Think back to pHun Reactions: __how did we test for the presence of carbon dioxide?__
+- Combustion is a very predictable formula. Every time something is burned, __water__ is produced, along with a mixture of __carbon dixoide__, __carbon monoxide__ and __carbon__.
+- It can be a chain reaction
 
-Write down your answer with a diagram in your exercise book.
-
----
-
-![](../assets/4-limewater-test.jpg){width=75%}
+![[Source](https://www.grc.nasa.gov/www/k-12/airplane/combst1.html)](https://www.grc.nasa.gov/www/k-12/airplane/Images/combst1.gif)
 
 ---
 
-## Testing for Water
+Collect a products of combustion sheet and glue it into your exercise book!
 
-- Does anyone have any ideas on how we can test for water?
+---
+
+### Testing for Water {.c2}
+
+![[Source](https://www.sciencephoto.com/media/717794/view/positive-cobalt-chloride-test-for-water)](https://media.sciencephoto.com/image/c0288190/800wm)
+
 - In fact we can use __cobalt (II) chloride strips__
     - The paper goes pink in the presence of water
     - It can be dehydrated and re-used
+
+<p class="instruction">Fill out the water test section of your products of combustion sheet!</p>
+
+---
+
+### Rangahau/Research
+
+1. In pairs, try and recall from Y9, the tests for carbon dioxide, oxygen and hydrogen gas.
+2. Get out a device and research the gas tests, just to be sure.
+3. Add notes and diagrams to your __Products of Combustion__ sheet.
 
 ---
 

@@ -7,9 +7,6 @@ level: 1
 credits: 4
 assessment: internal
 weight: 4
-menu:
-    main:
-        parent: "10SCIE"
 ---
 
 {{< slides >}}
@@ -21,6 +18,7 @@ menu:
     2. List the three things needed for a fire to occur
     3. Explain that fuels must be in the gas phase to burn
     4. Explain how a fire is extinguished and relate it to the fire triangle
+
 2. __Burning and Combustion__
     1. Describe how a wick works and its function
     2. Describe the differences between complete and incomplete combustion
@@ -30,6 +28,7 @@ menu:
     6. Determine the energy produced per gram when burning fuels
     7. Recognise that a hydrocarbon contains only C and H atoms
     8. Name and write the formula for the first six hydrocarbons
+
 3. __Environmental Impacts of Burning Fuels__
     1. Explain the greenhouse effect and its advantages and disadvantages
     2. List the greenhouse gasses
@@ -38,30 +37,39 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|             | Akoranga 1 ()               | Akoranga 2 ()               | Akoranga 3 ()               | Akoranga 4 ()               |
-| :---------- | :--------------             | :--------------             | :--------------             | :--------------             |
-| __T2 W6__   | 1. Fire Triangle 1          | 2. Fire Triangle 2          | 3. Wicks 1                  | 4. Wicks 2                  |
-| __T2 W7__   | 5. Hydrocarbons 1           | 6. Hydrocarbons 2           | 7. Complete vs Incomplete 1 | 8. Complete vs Incomplete 2 |
-| __T2 W8__   | 9. Review/Catch-Up          | 10. Energy from Fuels       | 11. Fire Mysteries          | 12. Fire Extinguishers      |
-| __T3 W2__   | 13. Environmental Impacts 1 | 14. Environmental Impacts 2 | 15. Health Implications 1   | 16. Health Implications 2   |
-| __T3 W3__   | 17. Revision                | 18. __Assessment 1__        | 19. __Assessment 2__        | 20. __Assessment 3__        |
+|             | Akoranga 1                  | Akoranga 2                  | Akoranga 3                | Akoranga 4                |
+| :---------- | :--------------             | :--------------             | :--------------           | :--------------           |
+| __T2 W7__   | 1. Fire Triangle 1          | 2. Fire Triangle 2          | 3. Why Have a Wick?       | 4. Fire & Fuels           |
+| __T2 W8__   | 5. Fire & Fuels             | 6. Fire & Fuels             | 7. Fire & Fuels           | 8. Fire & Fuels           |
+| __T2 W9__   | 9. Fire & Fuels             | 10. ~~Science Fair~~        | 11. ~~Science Fair~~      | 12. ~~Science Fair~~      |
+| __T2 W10__  | 13. Fire & Fuels            | 14. ~~Science Fair~~        | 15. ~~Science Fair~~      | 16. ~~Science Fair~~      |
+| __T3 W1__   | 17. ~~Science Fair~~        | 18. ~~Science Fair~~        | 19. ~~Science Fair~~      | 20. Fire & Fuels          |
+| __T3 W2__   | 21. Environmental Impacts 1 | 22. Environmental Impacts 2 | 23. Health Implications 1 | 24. Health Implications 2 |
+| __T3 W3__   | 25. __Assessment 1__        | 26. ~~TOD~~                 | 27. __Assessment 2__      | 28. __Assessment 3__      |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_
 
 1. #### Fire Triangle 1
-    - Burning experiment
-    - Mythbusters clip
-    - Braniac clip “burning a candle”
+    - Hand out LO
+    - Hand out booklet
+    - Intro to FF
+    - Lab Safety
     - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+        + Refresh lab safety
+        + Burns first-aid
+        + Refresh chemistry knowledge
+    - __Notes__: Fire Triangle
+    - __Whakamātau__:
+        + Heating Water pg. 10 of booklet
 
 2. #### Fire Triangle 2
+    - Science Fair powerpoint
     - __Ngā Whāinga Ako__: 
+        + 
     - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+    - __Task/Ngohe__:
+    - __Whakamātau__: 
+        + Complete the Heating Water (pg. 10)
 
 3. #### Wicks 1
     - How do fuels burn?
@@ -77,25 +85,18 @@ menu:
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-5. #### Hydrocarbons 1
-    - Issue research project
-    - Cut/paste model, molymods
+5. #### Wick Experiment
+    - __Mahi Tuatahi__: Crossword to settle
+    - __Whakamātau__: [Why have a wick?](https://www.riskassess.co.nz/risk_assessment/10126557)
+
+6. #### Burning Theory
     - __Ngā Whāinga Ako__: 
     - __Notes__: 
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-6. #### Hydrocarbons 2
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
-
-7. #### Complete & Incomplete Combustion 1
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+7. #### Burning Experiment
+    - __Whakamātau__: [Burning Candles](https://www.riskassess.co.nz/risk_assessment/10130409)
 
 8. #### Complete & Incomplete Combustion 2
     - Boil water on blue/orange flame & make graph

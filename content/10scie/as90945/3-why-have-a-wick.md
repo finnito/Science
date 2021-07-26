@@ -1,20 +1,11 @@
 ---
 title: Why Have a Wick?
 slug: why-have-a-wick
-weight: 2
+weight: 3
 subtitle: 10SCIE - Fire & Fuels
 author: Finn LeSueur
-date: 2019
+date: 2021
 theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
 # Ngā Whāinga Ako
@@ -39,11 +30,17 @@ header-includes:
 
 ---
 
-![](../assets/2-capillary-action.png){ width=75% }
+![](../assets/2-capillary-action.png)
 
 ---
 
-![](../assets/2-how-things-ignite.jpg){ width=75% }
+- Pātai: Why is capillary action important?
+- Whakatika: Because it <mark>increases the surface area of the liquid</mark>. This allows it to evaporate more easily!
+- Fuels need to be gaseous and mixed with oxygen to combust.
+
+---
+
+![](../assets/2-how-things-ignite.jpg)
 
 ---
 

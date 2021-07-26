@@ -1,39 +1,22 @@
 ---
 title: Fire & Fuels Introduction
+subtitle: 10SCIE - Fire & Fuels
 slug: introduction
 weight: 1
-subtitle: 10SCIE - Fire & Fuels
 author: Finn LeSueur
-date: 2019
+date: 2021
 theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
-# Ngā Whāinga Ako
+## Mahi Tuatahi
 
-- Refresh lab safety
-- Burns first-aid
-- Refresh chemistry knowledge
+1. Collect and glue in the learning outcomes for this unit
+2. Look up the temperature at which these fuels burn and place them in order from coolest to hottest.
+    - Wood, petrol, candle, LPG, coal
 
 ---
 
-# Mahi Tuatahi
-
-Look up the temperature at which these fuels burn and place them in order from coolest to hottest.
-
-- Wood, petrol, candle, LPG, coal
-
----
-
-## Answer
+### Whakatika
 
 1. Wood ($275^{\circ}$)
 2. Petrol ($280^{\circ}$)
@@ -43,28 +26,36 @@ Look up the temperature at which these fuels burn and place them in order from c
 
 ---
 
-# Lab Safety
+## Fire and Fuels
 
-- Must wear safety glasses
+- ~5 weeks of learning
+- A break for Science Fair in the middle
+- Assessment takes three periods
+    + 
+
+---
+
+## Ngā Whāinga Ako
+
+- Refresh lab safety
+- Burns first-aid
+- Refresh chemistry knowledge
+
+---
+
+## Lab Safety {.c2}
+
+- Must wear safety glasses at all times when performing experiments
 - Must tie up long hair
 - Must attend to loose clothing
 
-![](../assets/1-positive-attitude.jpg){ width=50% }
+![[Source](https://k3lh.com/2017/01/09/carol-safety-goggles-poster/)](https://pics.awwmemes.com/carol-never-wore-her-safety-goggles-now-she-doesnt-need-51290725.png)
 
 ---
 
-## Burns
+## Burns {.c2}
 
-![](../assets/1-burns-diagram.jpeg){ width=65% }
+- Tell Mr Le Sueur
+- Run under cold water for at least 20 minutes.
 
-Run under cold water for at least 20 minutes.
-
----
-
-# Chemical Reactions
-
-- When one or more substances combine to form new substances
-- Atoms and molecules split, swap or decompose
-- $reactact + reactant \rightarrow product + product$
-- $methane + oxygen \rightarrow water + carbon dioxide$
-- __Burning__ (combustion) is a type of reaction
+![](../assets/1-burns-diagram.jpeg)
