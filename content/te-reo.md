@@ -29,9 +29,11 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Kēmu Patapatai__: Quiz
 - __Mahere Kōwae__: Unit Plan
 - __Mahi Kāinga__: Homework
+- __Mahi Ngātahi__: Group Activity
 - __Mahi Tuatahi__: Do Now/Starter
 - __Matapaki__: Discussion
 - __Ngohe__: Task/Activity
+- __Ngohe Tūhono__: Jigsaw Activity
 - __Ngā Kirita__: Slides
 - __Ngā Mahere Akoranga__: Lesson Plans
 - __Ngā Whāinga Ako__: Learning Outcomes
