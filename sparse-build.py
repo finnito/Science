@@ -7,7 +7,7 @@ Script argv look like this:
 [
     'sparse-build.py',
     '-d',
-    '/full/path/6-total-internal-reflection.md PlatformSpecific Updated IsFile'
+    '/Users/finnlesueur/Git/science.lesueur.nz/content/12phy/as91523/3-beats.md AttributeModified IsFile Updated'
 ]
 
 """
