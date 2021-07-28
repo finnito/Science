@@ -11,23 +11,29 @@ slug: beats
 ## Ngā Whāinga Ako
 
 - Be able to calculate the frequency of beats
-- Be able to calculate the velocity of a source using the beat frequency
 
 ---
 
-## Sound Recap
+### Recall: Interference {.c2}
 
-- Recall that sound is the compression and rarefaction of air causing your eardrum to vibrate and you to hear sound!
-- When compression (peak) meets compression, their amplitudes are combined (__constructive interference__)
-- and when rarefaction (trough) meets compression, their amplitudes cancel out (__destructive interference__)
+- When waves intersect each other, they __interfere__. This is where the amplitudes of the waves are combined (add positive and negative amplitudes).
+- __Constructive Interference__: When two peaks meet and the resulting amplitude is greater
+- __Destructive Interference__: When a peak and a trough meet and the resulting amplitude is less (or in some cases, zero)
+
+![](../assets/interference.gif "")
+
+---
+
+### Nodes and Anti-Nodes
+
+- A __node__ (think: no amplitude) is a place of _minimum_ amplitude
+- An __anti-node__ is a place of _maximum_ amplitude
+
+![](../assets/nodes-antinodes.png "")
 
 ---
 
 <iframe width="657" height="370" src="https://www.youtube.com/embed/uKrvTA4SKVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-![](../assets/interference.gif "")
 
 ---
 
@@ -37,13 +43,16 @@ slug: beats
 
 ## Beats
 
-By changing the position of the waves over time, we can cause the interference to change.
-
-This changing interference _can_ give rise to periodic changes in volume (amplitude)
+- Waves with different frequencies will slowly change their alignment (phase) over time, thus causing the interference to change.
+- This changing interference _can_ give rise to periodic changes in volume (amplitude)
 
 ---
 
 ![](../assets/beats.gif "")
+
+---
+
+![[Source](https://www.animations.physics.unsw.edu.au/jw/beats.htm)](https://www.animations.physics.unsw.edu.au/jw/images/beats_files/beats.gif)
 
 ---
 
@@ -54,9 +63,11 @@ For beats to occur we need:
 1. The amplitude to be the same
 2. The difference in frequency to be small
 
+$$
 \begin{aligned}
     & f_{b} = |f_{2} - f_{1}|
 \end{aligned}
+$$
 
 <mark>This equation is not given to your in your formula sheet.</mark>
 
@@ -74,10 +85,12 @@ __Calculate the frequency of the beats observed by them both.__
 
 This equation $f_{b} = |f_{2} - f_{1}|$ mainly tells us that the beat frequency is the difference between the two frequencies.
 
+$$
 \begin{aligned}
     & f_{b} = f_{b} = |f_{2} - f_{1}| \newline
     & f_{b} = 107 - 100 = 7Hz
 \end{aligned}
+$$
 
 ---
 
@@ -91,11 +104,13 @@ __Calculate the frequency of the out of tune key.__ Note any considerations you 
 
 #### Whakatika Rua
 
+$$
 \begin{aligned}
-    & f_{b} = f_{b} = |f_{2} - f_{1}| \newline
-    & 4 = 256 - f_{k} = 252Hz \newline
-    & 4 = 256 + f_{k} = 260Hz
+    f_{b} &= f_{b} = |f_{2} - f_{1}| \newline
+    4 &= 256 - f_{k} = 252Hz \newline
+    4 &= 256 + f_{k} = 260Hz
 \end{aligned}
+$$
 
 On paper we cannot tell which of the frequencies the key should have. In person, with a good musical ear, a person could tell if the key is sharp (high) or flat (low).
 
@@ -153,7 +168,7 @@ Josh is back holding his device. It is now emitting a frequency of $125Hz$, and 
 ### Te Whakatika
 
 \begin{aligned}
-    f_{b} &= f' - f \\
+    f_{b} &= f' - f \newline
     f_{b} - f &= f' = 130.5Hz \text{ OR } 119.5Hz
 \end{aligned}
 
@@ -162,11 +177,11 @@ Because Zak is running __away__, the frequency should be decreased: $f' = 119.5H
 ---
 
 \begin{aligned}
-    f' &= f\frac{v_{w}}{v_{w} \pm v_{s}}\\
-    119.5 &= 125 \frac{343}{343 + v_{s}} \\
-    \frac{119.5}{125} &= \frac{343}{343 + v_{s}} \\
-    343 + v_{s} &= \frac{343}{0.956} \\
-    v_{s} &= \frac{343}{0.956} - 343 \\
+    f' &= f\frac{v_{w}}{v_{w} \pm v_{s}}\newline
+    119.5 &= 125 \frac{343}{343 + v_{s}} \newline
+    \frac{119.5}{125} &= \frac{343}{343 + v_{s}} \newline
+    343 + v_{s} &= \frac{343}{0.956} \newline
+    v_{s} &= \frac{343}{0.956} - 343 \newline
     &= 15.7ms^{-1}
 \end{aligned}
 
