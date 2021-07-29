@@ -116,12 +116,19 @@ On paper we cannot tell which of the frequencies the key should have. In person,
 
 ---
 
+## Beats Caused by Doppler
+
+- Because movement of a sound source can cause a change of frequency (Doppler effect), this can cause beats to occur
+- For example, two identical devices where one is moving towards/away from the other can cause a slight change in frequency, causing beats to arise
+
+---
+
 ### Pātai Toru 
 
-Both Josh and Zak are holding identical devices emitting a frequency of $100Hz$. Josh walks away him again while Zak listens. Zak observes a beat frequency of $10Hz$. The speed of sound is $343ms^{-1}$.
+Both Josh and Zak are holding identical devices emitting a frequency of $100Hz$. Josh walks away from him again while Zak listens. Zak observes a beat frequency of $3Hz$. The speed of sound is $343ms^{-1}$.
 
 1. __How fast is Josh walking ($v_{s}$)?__
-    a. __Step 1__: Calculate $f'$ that Anton is observing from Josh's device ($f_{b} = |f_{2} - f_{1}|$)
+    a. __Step 1__: Calculate $f'$ that Zak is observing from Josh's device ($f_{b} = |f_{2} - f_{1}|$)
     b. __Step 2__: Use this value to find $v_{s}$ in $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$
 
 ---
@@ -130,7 +137,7 @@ Both Josh and Zak are holding identical devices emitting a frequency of $100Hz$.
 
 \begin{aligned}
     f_{b} &= |f_{2} - f_{1}| \newline
-    f &= 110 \text{ or } 90
+    f &= 103 \text{ or } 97
 \end{aligned}
 
 Because Josh is walking __away__, the frequency should be lower, so $90Hz$.
@@ -140,12 +147,12 @@ Because Josh is walking __away__, the frequency should be lower, so $90Hz$.
 #### Whakatika Toru b)
 
 \begin{aligned}
-    f' &= f \frac{v_{w}}{v_{w} \pm v_{s}} \text{ add because away} \newline
-    90 &= 100 \frac{343}{343 + v_{s}} \newline
-    \frac{90}{100} &= \frac{343}{343 + v_{s}} \newline
-    (343 + v_{s}) \times 0.9 &= 343 \newline
-    343 + v_{s} &= \frac{343}{0.9} \newline
-    v_{s} &= \frac{343}{0.9} - 343 = 38.11ms^{-1}
+    f' &= f \frac{v_{w}}{v_{w} \pm v_{s}} \text{(+ because away)} \newline
+    97 &= 100 \frac{343}{343 + v_{s}} \newline
+    \frac{97}{100} &= \frac{343}{343 + v_{s}} \newline
+    (343 + v_{s}) \times 0.97 &= 343 \newline
+    343 + v_{s} &= \frac{343}{0.97} \newline
+    v_{s} &= \frac{343}{0.97} - 343 = 10.6ms^{-1}
 \end{aligned}
 
 ---
