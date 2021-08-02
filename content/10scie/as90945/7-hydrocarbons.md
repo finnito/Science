@@ -32,13 +32,11 @@ header-includes:
 
 ---
 
-## Hydrocarbon Formation
+## Hydrocarbon Formation {.c2}
 
-|                                                           |                                                   |                                                                                                                                                       |
-|--------------------------------------------------------   |------------------------------------------------   |-----------------------------------------------------------------------------------------------------------------------------------------------------  |
-| 1. Layers of dead organic matter settle on the seabed.    | 2. Layers of sedimentary rock build up on top.    | 3. The heat and pressure from these rocks, along with the absence of oxygen mean that oil and gas (fossil fuels) are formed over millions of years.   |
-
----
+1. Layers of dead organic matter settle on the seabed.
+2. Layers of sedimentary rock build up on top.
+3. The heat and pressure from these rocks, along with the absence of oxygen mean that oil and gas (fossil fuels) are formed over millions of years.
 
 ![](../assets/7-hydrocarbon-formation.png){width=80%}
 
