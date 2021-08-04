@@ -2,19 +2,10 @@
 title: Standing Waves
 subtitle: 12PHYS - Wave Systems
 author: Finn LeSueur
-date: 2020
+date: 2021
 weight: 4
 theme: finn
 slug: standing-waves
-colortheme: dolphin
-font-size: 35px
-text-align: center
-katex: true
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
 ## Ngā Whāinga Ako
@@ -25,7 +16,7 @@ Explain the basic structure and wavelength of a standing wave
 
 ## Standing Waves
 
-Most musical instruments produce sound through vibration of __standing waves__ in strings or columns of air
+Most musical instruments produce sound through vibration of __standing waves__ in strings or columns of air.
 
 <iframe width="1920" height="800" src="https://www.youtube.com/embed/RNt8d6vJj8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -60,7 +51,7 @@ Most musical instruments produce sound through vibration of __standing waves__ i
 
 ## Producing Standing Waves
 
-- Because both ends of the string have to be nodes, only certain frequencies will be able to produce standing waves.
+- Because both ends of the string have to be nodes, only certain frequencies will be able to produce standing waves (certain multiples of the wavelength).
 
 ![](../assets/standing_waves_on_a_string.gif "")
 
@@ -81,21 +72,10 @@ Most musical instruments produce sound through vibration of __standing waves__ i
 ## Standing Waves {.c2}
 
 - The length of the string is defined as $L$
-- The frequency with the longest wavelength that fits into the string/pipe is called the __fundamental__ or __1st harmonic__
+- The frequency with the longest wavelength that fits into the string/pipe is called the __fundamental__ (resonant frequency) or __1st harmonic__
 - On a string, the fundamental has $\lambda = 2L$
 
 ![](https://www.a-levelphysicstutor.com/images/waves/strings-diag-fund.jpg)
-
----
-
-### Harmonics {.c2}
-
-- We can calculate the harmonic wavelength & frequency using these relationships:
-
-\begin{aligned}
-    \lambda &= \frac{\lambda_{fundamental}}{\text{harmonic number}} \\
-    f &= f_{fundamental} \times \text{harmonic number}
-\end{aligned}
 
 ---
 
@@ -121,42 +101,31 @@ Calculate the 3rd harmonic for a string with length 25cm where the speed of soun
 
 ## Mahi Tuatahi
 
-![](../assets/mahi tuatahi.png)
+<p class="instruction">Head up your book with the date.</p>
+
+Quinn strums a ukulele string such that is oscillates at the 3rd harmonic. The string has a length of $30cm$ and the speed of sound is $343ms^{-1}$.
+
+1. Draw a diagram of the harmonic on the string. _Label the nodes and antinodes_.
+2. Calculate the wavelength of the harmonic
+3. Calculate the frequency of the note emitted
+4. Give a reason why the same frequency note played on a trumpet would sound different (with regards to harmonics)
 
 ---
 
 ## Ngā Whāinga Ako
 
-5. Explain the modes of resonance of a string in terms of the fundamental vibration and the harmonics
-6. Calculate the harmonic frequencies of a string
+1. Explain the modes of resonance of a string in terms of the fundamental vibration and the harmonics
+2. Calculate the harmonic frequencies of a string, closed pipe, and open pipe
+
+<p class="instruction">Write the date and ngā whāinga ako in your book</p>
 
 ---
 
-## Resonance in Strings {.c2}
-
-1. Calculate the wavelength of the harmonic using the wavelength relationship $\lambda_{n} = \frac{2L}{n}$
-2. Use the wave formula $v=f\lambda$ to calculate the frequency of the harmonic
-
-![](https://www.open.edu/openlearn/ocw/pluginfile.php/75903/mod_oucontent/oucontent/646/37f7df20/783e0f1f/ta212_2_010i.small.jpg)
-
----
+## {.c2}
 
 ![](../assets/hwb-q12a.png)
 
----
-
 ![](../assets/hwb-q12b.png)
-
----
-
-## Open Ended Pipes {.c2}
-
-- Open ends of a pipe are __antinodes__ - places of maximum displacement
-- A single open end fundamental has  $\lambda = 4L$
-- A single open end can only produce harmonics when $n$ is odd
-- Double open ends has fundamental $\lambda = 2L$
-
-![](https://www.allaboutcircuits.com/uploads/articles/harmonics-in-open-ended-pipes.png)
 
 ---
 
@@ -170,18 +139,6 @@ Quizziz: https://quizizz.com/admin/quiz/5a7d8747b69214001faec0e9/standing-waves
 
 ---
 
-## Harmonics vs Overtones
-
-|     |              | String       | Closed Pipe  | Open Pipe    |
-|:----|:-------------|:-------------|:-------------|:-------------|
-| n=1 | 1st Harmonic | Fundamental  | Fundamental  | Fundamental  |
-| n=2 | 2nd Harmonic | 1st Overtone |              | 2nd Overtone |
-| n=3 | 3rd Harmonic | 2nd Overtone | 1st Overtone | 3rd Overtone |
-| n=4 | 4th Harmonic | 3rd Overtone |              | 4th Overtone |
-| n=5 | 5th Harmonic | 4th          | 2nd Overtone | 5th Overtone |
-
----
-
 ## Musical Wind Instruments
 
 - In order to produce different frequencies in a wind instrument, wind is generally sent past a sharp lip.
@@ -191,8 +148,7 @@ Quizziz: https://quizizz.com/admin/quiz/5a7d8747b69214001faec0e9/standing-waves
 
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/62/Harmonic_Standing_Wave.gif)
-
+<iframe width="1257" height="707" src="https://www.youtube.com/embed/n86pF-wQKrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Timbre {.c2}
