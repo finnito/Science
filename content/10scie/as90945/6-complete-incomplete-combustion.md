@@ -4,17 +4,8 @@ slug: complete-incomplete-combustion
 weight: 6
 subtitle: 10SCIE - Fire & Fuels
 author: Finn LeSueur
-date: 2019
+date: 2021
 theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
 # Ngā Whāinga Ako
@@ -36,20 +27,18 @@ header-includes:
 
 # Complete Combustion
 
-- Occurs when there is excess oxygen
+- Occurs when there is __excess oxygen__
 - methane + oxygen $\rightarrow$ carbon dioxide + water + energy
-- $CH_{4} + 2O_{2} \rightarrow CO_{2} + H_{2}O + energy$
-- Carbon dioxide and water is produced
+- <mark>Carbon dioxide and water is produced</mark>
 - Flame is blue (high energy produced)
 
 ---
 
 # Incomplete Combustion
 
-- Occurs when there is not enough oxygen
-- methane + oxygen $\rightarrow$ carbon monoxide + carbon dioxide + water + energy
-- $4CH_{4} + 7O_{2} \rightarrow 2CO + 2CO_{2} + water + energy$
-- Carbon monoxide is also produced
+- Occurs when there is __not enough oxygen__
+- methane + oxygen $\rightarrow$ carbon monoxide + carbon dioxide + C + water + energy
+- <mark>Carbon monoxide + carbon are also produced</mark>
 - Flame is orange (low energy produced)
 
 ---

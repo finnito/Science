@@ -4,7 +4,7 @@ slug: hydrocarbons
 weight: 7
 subtitle: 10SCIE - Fire & Fuels
 author: Finn LeSueur
-date: 2019
+date: 2021
 theme: finn
 colortheme: dolphin
 font-size: 35px

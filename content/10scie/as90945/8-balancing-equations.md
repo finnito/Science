@@ -4,17 +4,8 @@ slug: balancing-equations
 weight: 8
 subtitle: 10SCIE - Fire & Fuels
 author: Finn LeSueur
-date: 2019
+date: 2021
 theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
 # Ngā Whāinga Ako
@@ -49,6 +40,7 @@ What happens to the atoms/molecules during a chemical reaction?
 - The reactants change molecular structure
 - Two or more new products are made
 - The atoms are _rearranged_
+- Energy _can_ be produced if bonds are broken (combustion)
 
 ---
 
@@ -57,8 +49,8 @@ What happens to the atoms/molecules during a chemical reaction?
 Complete the word and balanced symbol equation for this reaction.
 
 \begin{aligned}
-    & methane \quad + \quad oxygen \rightarrow \hspace{2cm} + \hspace{2cm} \\
-    & CH_{4} \quad + \quad O_{2} \rightarrow \hspace{2cm} + \hspace{2cm}
+    methane \quad + \quad oxygen &\rightarrow \hspace{2cm} + \hspace{2cm} \newline
+    CH_{4} \quad + \quad O_{2} &\rightarrow \hspace{2cm} + \hspace{2cm} \newline
 \end{aligned}
 
 ---
@@ -68,30 +60,9 @@ Complete the word and balanced symbol equation for this reaction.
 Complete combustion of methane:
 
 \begin{aligned}
-    & methane \quad + \quad oxygen \rightarrow \quad \text{carbon dioxide} + \quad water \\
-    & CH_{4} \quad + \quad 2O_{2} \rightarrow \quad CO_{2} + \quad 2H_{2}O
-\end{aligned}
-
----
-
-### Burning of Magnesium
-
-Complete the word and balanced symbol equation for this reaction.
-
-\begin{aligned}
-    & magnesium \quad + \quad oxygen \rightarrow \hspace{2cm} \\
-    & Mg \quad + \quad O_{2} \rightarrow \hspace{2cm}
-\end{aligned}
-
----
-
-#### Answer
-
-Burning of Magnesium
-
-\begin{aligned}
-    & magnesium \quad + \quad oxygen \rightarrow \quad \text{magnesium oxide} \\
-    & 2Mg \quad + \quad O_{2} \rightarrow \quad 2MgO
+    methane \quad + \quad oxygen &\rightarrow \quad \text{carbon dioxide} + \quad water \newline
+    CH_{4} \quad + \quad O_{2} &\rightarrow \quad CO_{2} + \quad H_{2}O \newline
+    CH_{4} \quad + \quad 2O_{2} &\rightarrow \quad CO_{2} + \quad 2H_{2}O \text{ (balanced)}
 \end{aligned}
 
 ---
