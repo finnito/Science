@@ -5,7 +5,7 @@ weight: 1
 subtitle: 10SCIE - Geology
 ---
 
-<p class="instruction">Head up a new page with <strong>Geology</strong> in your book.</p>
+<p class="instruction">Head up a new page with <strong>Geology</strong> in your book. Spend 5min (no more) and make it look nice if you desire!</p>
 
 ---
 
