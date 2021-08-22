@@ -1,21 +1,8 @@
 ---
 title: Interference
 subtitle: 12PHY - Wave Systems
-author: Finn LeSueur
-date: 2020
-theme: finn
 weight: 5
 slug: interference
-colortheme: dolphin
-font-size: 35px
-katex: true
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
 <iframe width="812" height="457" src="https://www.youtube.com/embed/Iuv6hY6zsd0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -102,18 +89,18 @@ header-includes:
 
 ---
 
+## {.c2}
+
 ![](../assets/IMG_1265.jpg)
 
-<aside class="notes">
-1. Label the nodal and antinodal lines
-2. Determine which of P1, P2, P3 and P4 are nodes and antinodes
-3. Count the number of wavelengths that P1, P2, P3, and P4 are from each source
+1. Label the nodal and antinodal lines</li>
+2. Determine which of P1, P2, P3 and P4 are nodes and antinodes</li>
+3. Count the number of wavelengths that P1, P2, P3, and P4 are from each source</li>
 4. Try and determine a general rule for the path difference of notes and antinodes
-</aside>
 
 ---
 
-## Path Difference {.c2}
+## Calculating Path Difference {.c2}
 
 - Path difference can be written as $pd$
 - __Antinodal Lines__: $pd = n\lambda$
@@ -123,15 +110,13 @@ header-includes:
 
 ---
 
-## Calculations
+## Calculations {.c2}
 
 ![](../assets/IMG_1265.jpg)
 
-<aside class="notes">
-1. Draw P5 and P6 on a node an antinode.
-2. Ask the students to determine whether they are nodes or antinodes
-3. Ask them to calculate, using the equations, the path difference.
-</aside>
+1. Draw P5 and P6 on a node an antinode
+2. Determine whether they are nodes or antinodes
+3. Calculate, using the equations, the path difference
 
 ---
 
@@ -144,29 +129,29 @@ header-includes:
 
 ---
 
-## Interference Formula
+## Interference Formula {.c2}
 
 ![](../assets/interference-formulation.png)
 
-<aside class="notes">
+<!-- <aside class="notes">
 1. For the triangle with $\theta$, $tan(\theta)=\frac{y}{D}$
 2. For the triangle with $\theta'$, $sin(\theta')=\frac{\delta}{d}$
 3. We can say $tan(\theta) \approx sin(\theta) \approx \theta \approx \frac{y}{D}$
-</aside>
+</aside> -->
 
----
-
-## Interference Formula {.c2}
+<!-- ---
+ -->
+<!-- ## Interference Formula {.c2} -->
 
 \begin{aligned}
-    \theta &= \frac{x}{L} \\
-    L \theta &= x \\
-    L \frac{pd}{d} &= x \\
-    L pd &= dx \\
-    pd &= \frac{dx}{L}
+    \theta &= \frac{x}{L} \text{only for small angles} \newline
+    L \theta &= x \newline
+    L \frac{pd}{d} &= x \newline
+    L pd &= dx \newline
+    pd &= \frac{dx}{L} \text{end result}
 \end{aligned}
 
-![](../assets/interference-formulation.png)
+<!-- ![](../assets/interference-formulation.png) -->
 
 <aside class="notes">
 $pd = n\lambda$ OR $pd = (n - \frac{1}{2})\lambda$
