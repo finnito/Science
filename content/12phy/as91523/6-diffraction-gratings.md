@@ -1,21 +1,8 @@
 ---
 title: Diffraction Gratings
-subtitle: 12PHY - Wave Systems
-author: Finn LeSueur
-date: 2020
-theme: finn
-weight: 6
 slug: diffraction-gratings
-colortheme: dolphin
-font-size: 35px
-text-align: center
-katex: true
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
+subtitle: 12PHY - Wave Systems
+weight: 6
 ---
 
 ## Mahi Tuatahi
@@ -66,10 +53,12 @@ header-includes:
 - We still use $n\lambda = dsin(\theta)$ where $d$ is slit separation
 - Diffraction gratings are typically described like so: "2000 lines per cm" and you need to find slit spacing ($d$) from this
 
+$$
 \begin{aligned}
     d &= \frac{1cm}{2000 lines} = 5\times10^{-4}cm \\
     d &= 5\times10^{-6}m
 \end{aligned}
+$$
 
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: Standing Waves
 subtitle: 12PHYS - Wave Systems
-author: Finn LeSueur
-date: 2021
 weight: 4
-theme: finn
 slug: standing-waves
 ---
 
@@ -106,16 +103,24 @@ Calculate the 3rd harmonic for a string with length 25cm where the speed of soun
 Quinn strums a ukulele string such that is oscillates at the 3rd harmonic. The string has a length of $30cm$ and the speed of sound is $343ms^{-1}$.
 
 1. Draw a diagram of the harmonic on the string. _Label the nodes and antinodes_.
-2. Calculate the wavelength of the harmonic
-3. Calculate the frequency of the note emitted
-4. Give a reason why the same frequency note played on a trumpet would sound different (with regards to harmonics)
+2. What overtone is this?
+3. Calculate the wavelength of the harmonic
+4. Calculate the frequency of the note emitted
+5. Give a reason why the same frequency note played on a trumpet would sound different (with regards to harmonics)
+
+---
+
+## Timbre {.c2}
+
+- Different instruments playing the same frequency will produce a different set of harmonics, causing the quality of the note to be quite different.
+
+![](https://p7.hiclipart.com/preview/99/177/124/wavetable-synthesis-additive-synthesis-sound-synthesizers-waveform-timbre-waveform.jpg)
 
 ---
 
 ## Ngā Whāinga Ako
 
-1. Explain the modes of resonance of a string in terms of the fundamental vibration and the harmonics
-2. Calculate the harmonic frequencies of a string, closed pipe, and open pipe
+1. Calculate the harmonic frequencies of a string, closed pipe, and open pipe in a variety of situations
 
 <p class="instruction">Write the date and ngā whāinga ako in your book</p>
 
@@ -149,13 +154,6 @@ Quizziz: https://quizizz.com/admin/quiz/5a7d8747b69214001faec0e9/standing-waves
 ---
 
 <iframe width="1257" height="707" src="https://www.youtube.com/embed/n86pF-wQKrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
-
-## Timbre {.c2}
-
-- Different instruments playing the same frequency will produce a different set of harmonics, causing the quality of the note to be quite different.
-
-![](https://p7.hiclipart.com/preview/99/177/124/wavetable-synthesis-additive-synthesis-sound-synthesizers-waveform-timbre-waveform.jpg)
 
 ---
 

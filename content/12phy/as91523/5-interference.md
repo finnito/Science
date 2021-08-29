@@ -50,9 +50,9 @@ slug: interference
 
 ![](../assets/InterferencePattern.jpg)
 
----
+<!-- ---
 
-![](https://thumbs.gfycat.com/FocusedFittingAmericanwarmblood-max-1mb.gif)
+![](https://thumbs.gfycat.com/FocusedFittingAmericanwarmblood-max-1mb.gif) -->
 
 ---
 
@@ -63,7 +63,7 @@ slug: interference
     - Waves with the same amplitude
     - Waves with a stable phase relationship (__coherent__)
 
-![](https://www.simply.science/images/content/physics/waves_optics/interference_diffraction/Concept_map/interference1.gif)
+<!-- ![](https://www.simply.science/images/content/physics/waves_optics/interference_diffraction/Concept_map/interference1.gif) -->
 
 ---
 
@@ -71,13 +71,13 @@ slug: interference
 
 - To interfere light, we usually take a source that produces a single wavelength and pass it through two small slits
 
-![](https://buphy.bu.edu/~duffy/PY106/26a.GIF)
+![](../assets/light-interference.jpg)
 
 ---
 
 ## Path Difference
 
-![](https://o.quizlet.com/sXdTuohlxpIXRQZnw4abHA.png)
+![](../assets/path-difference.jpeg)
 
 ---
 
@@ -143,6 +143,7 @@ slug: interference
  -->
 <!-- ## Interference Formula {.c2} -->
 
+$$
 \begin{aligned}
     \theta &= \frac{x}{L} \text{only for small angles} \newline
     L \theta &= x \newline
@@ -150,6 +151,7 @@ slug: interference
     L pd &= dx \newline
     pd &= \frac{dx}{L} \text{end result}
 \end{aligned}
+$$
 
 <!-- ![](../assets/interference-formulation.png) -->
 
@@ -161,9 +163,11 @@ $pd = n\lambda$ OR $pd = (n - \frac{1}{2})\lambda$
 
 ## Interference Formula {.c2}
 
+$$
 \begin{aligned}
     pd &= \frac{dx}{L}
 \end{aligned}
+$$
 
 - $pd$ is path difference (m)
 - $d$ is source separation (m)
@@ -174,9 +178,11 @@ $pd = n\lambda$ OR $pd = (n - \frac{1}{2})\lambda$
 
 ## Interference Formula {.c2}
 
+$$
 \begin{aligned}
     x = \frac{pdL}{d}
 \end{aligned}
+$$
 
 - as wavelength increases, so does the spacing (x)
 - as L increases, so does the spacing (x)
