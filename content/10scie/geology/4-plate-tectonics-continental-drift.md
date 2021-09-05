@@ -175,7 +175,7 @@ Explore this website: [http://dinosaurpictures.org/ancient-earth#240](http://din
 
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/8a/Plates_tect2_en.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Tectonic_plates.png/800px-Tectonic_plates.png)
 
 ---
 
