@@ -5,63 +5,101 @@ subtitle: 12PHY - Wave Systems
 weight: 6
 ---
 
-## Mahi Tuatahi
-
-![](../assets/tb4b4.png)
+<iframe width="1060" height="596" src="https://www.youtube.com/embed/F6dZjuw1KUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-## Mahi Tuatahi Answers
-
-1. $6\times^{14}Hz$
-2. $s^{-1}$
-3. Blue has a shorter wavelength than green light, and using the equation we can see that the fringes would be closer together.
-
----
-
-## Diffraction {.c2}
+## Recall: Diffraction {.c2}
 
 ![](https://i2.wp.com/alevelphysics.co.uk/wp-content/uploads/2018/05/Figure-1-4.jpg)
 
 - Light diffracts just like sound or matter waves
-- The longer the wavelength, the greater the diffraction
-- Therefore, red diffracts the most, and blue/purple, the least.
+- The <mark>longer the wavelength, the greater the diffraction</mark>
+- Therefore, <mark>red diffracts the most, and blue/purple, the least</mark>.
+
+---
+
+### Double-Slit vs. Diffraction Gratings
+
+- A double slit has only two openings, while a diffraction grating has thousands of equally spaced openings!
+- This increases the amount of interference that is occurring, which makes the interference pattern more well-defined.
+
+Here is a double-slit interference pattern.
+
+![[Source](https://www.discovery.com/science/Double-Slit-Experiment)](https://discovery.sndimg.com/content/dam/images/discovery/editorial/Curiosity/2020/3/Double-Slit-Experiment_Jordgette_Wikimedia%20Commons.jpg.rend.hgtvcom.616.347.suffix/1583453002808.jpeg)
+
+Here is a diffraction grating interference pattern.
+
+![[Source](http://www.webexhibits.org/causesofcolor/15F.html)](http://www.webexhibits.org/causesofcolor/images/content/415slits.jpg)
+
+And here you can see how the pattern changes are more slits are added to a barrier.
+
+![[Source](http://labman.phys.utk.edu/phys222core/modules/m9/interference.htm)](http://labman.phys.utk.edu/phys222core/modules/m9/images/ipat.jpg)
+
 
 ---
 
 ## Diffraction Gratings {.c2}
 
 - Instead of having two slits, diffraction gratings often have tens, hundreds or thousands
-- Their spacing is typically extremely small, this means the spacing between fringes is much larger than double-slits.
+- <mark>Their spacing is typically extremely small, this means the spacing between fringes is much larger than double-slits</mark>
+- <mark>The slits are extremely thin, so the light is diffracted over almost 180 degrees</mark>
+- There are a large number of slits, so the fringes are bright
+- <mark>In the case of white light, Within each fringe (n) the individual wavelengths are also split up</mark>
 
 ![](https://www.daviddarling.info/images/diffraction_grating.jpg)
 
----
-
-## Diffraction Gratings {.c2}
-
-- The slits are extremely thin, so the light is diffract over almost 180 degrees
-- There are a large number of slits, so the fringes are bright
-- Within each fringe (n), the wavelengths are all split up
-
-![](https://www.researchgate.net/publication/334453073/figure/fig3/AS:780544589713408@1563107740048/Presentation-of-the-way-a-diffraction-grating-operates-The-emitted-lights-power.jpg)
+We should notice, as mentioned before, red light diffracts the most and blue/purple the least. This means for __each fringe__ red is on the outside and blue on the inside.
 
 ---
 
 ## Doing Calculations
 
-- We still use $n\lambda = dsin(\theta)$ where $d$ is slit separation
-- Diffraction gratings are typically described like so: "2000 lines per cm" and you need to find slit spacing ($d$) from this
-
-$$
-\begin{aligned}
-    d &= \frac{1cm}{2000 lines} = 5\times10^{-4}cm \\
-    d &= 5\times10^{-6}m
-\end{aligned}
-$$
+- We can still use our equations from before: $n\lambda = dsin(\theta)$
+- However, diffraction gratings are typically described like this: _"2000 lines per cm"_. <mark>We need to calculate $d$, slit separation, from this number.</mark>
 
 ---
 
+### Pātai
+
+Calculate the slit separation for a grating with _2000 lines per cm_.
+
+---
+
+#### Whakatika
+
+<div class="answers">
+<p>Because there are 2000 lines (gaps) in $1cm$, we can simply divide them to find the distance between each gap.</p>
+$$
+\begin{aligned}
+    d &= \frac{1cm}{2000 lines} \newline
+    d &= 5\times10^{-4}cm \newline
+    d &= 5\times10^{-6}m
+\end{aligned}
+$$
+</div>
+
+---
+
+### Pātai
+
+Calculate the slit separation for a grating with 120,000 lines per $2.5cm$.
+
+---
+
+#### Whakatika
+
+<div class="answers">
+$$
+\begin{aligned}
+    d &= \frac{2.5cm}{120000 lines} \newline
+    d &= 2.083\times10^{-5}cm
+\end{aligned}
+$$
+</div>
+
+<!-- ---
+
 ## Task
 
-Mahi Kāinga Booklet Q16 and Q17
+Mahi Kāinga Booklet Q16 and Q17 -->
