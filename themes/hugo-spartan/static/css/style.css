@@ -30,7 +30,7 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 0 0.5em;
-  overflow-x: visible;
+  overflow-x: hidden;
   scroll: none;
 }
 
@@ -753,6 +753,7 @@ nav.mobile ul li {
 }
 
 @media (min-width: 768px) {
+  body {overflow-x: visible;}
   nav h2 { margin-top: 1rem; }
   .toggle ~ .nav-wrapper {
     transform: none;
