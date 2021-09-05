@@ -30,6 +30,7 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 0 0.5em;
+  overflow-x: visible;
   scroll: none;
 }
 
@@ -725,6 +726,31 @@ nav.mobile ul li {
 }
 
 .desktop { display: none; }
+
+.answers > span,
+.answers > p {
+  filter: blur(1rem);
+  transition: filter 200ms;
+}
+
+.answers:active > span,
+.answers:focus-within > span,
+.answers:hover > span,
+.answers:focus > span,
+.answers:active > p,
+.answers:focus-within > p,
+.answers:hover > p,
+.answers:focus > p {
+  filter: blur(0);
+}
+
+.answers::after {
+  content: "⬆ Hover over this block to reveal the answers. ⬆";
+  filter: none;
+  font-size: small;
+  display: block;
+  text-align: center;
+}
 
 @media (min-width: 768px) {
   nav h2 { margin-top: 1rem; }
