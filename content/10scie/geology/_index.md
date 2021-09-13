@@ -8,6 +8,30 @@ menu:
         parent: "10SCIE"
 ---
 
+<!-- 
+1. Structure of Earth
+    - Core, Outer Core, Mantle, Crust
+    - Convection Currents, nuclear reactions, tectonic plate movement
+2. Volcanoes
+    - Label a diagram
+    - Types of volcanoes: shield, cone, caldera, dome + examples a plenty
+    - Shapes of volcanoes + distinguishing features
+    - Lava viscosity relating to types of volcanoes
+3. Tectonic Boundaries
+    - Three types
+    - NZ's boundary
+    - Label tectonic boundary
+    - Map of NZ + fault lines
+    - Earthquakes
+        + Measurement
+        + Epicentre/focus
+        + Energy scales
+        + s/p waves
+4. Rock Cycle
+    - Formation of rock types
+    - Weathering, erosion, uplift
+ -->
+
 {{< slides >}}
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_ 
@@ -26,30 +50,30 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|             | Akoranga 1 ()       | Akoranga 2 ()         | Akoranga 3 ()            | Akoranga 4 ()              |
-| :---------- | :--------------     | :--------------       | :--------------          | :--------------            |
-| __T3 W4__   | 1. History of Earth | 2. Structure of Earth | 3. Tectonic Plates 1     | 4. Tectonic Plates 2       |
-| __T3 W5__   | 5. Earthquakes 1    | 6. Earthquakes 2      | 7. Earthquakes 3         | 8. Review/Catch-Up         |
-| __T3 W6__   | 9. Volcanoes 1      | 10. Volcanoes 2       | 11. Volcanoes 3          | 12. Rock Cycle 1           |
-| __T3 W7__   | 13. Rock Cycle 2    | 14. Rock Cycle 3      | 15. Weathering & Erosion | 16. NZ Geological Features |
-| __T3 W8__   | 17. Revision 1      | 18. Revision 2        | 19. Revision 3           | 20. __TEST__               |
+|              | Akoranga 1 (Mon)                  | Akoranga 2 (Tue)          | Akoranga 3 (Thu)          | Akoranga 4 (Fri)               |
+| :----------- | :-------------------------------- | :------------------------ | :------------------------ | :--------------------------    |
+| __T3 W5__    | 1. Structure of Earth             | 2. Structure of Earth     | 3. Structure of Earth     | 4. Structure of Earth          |
+| __T3 W6__    | 5. Tectonic Plates                | 6. Tectonic Plates        | 7. Continental Drift      | 8. Boundary Types              |
+| __T3 W7__    | 9. Boundary Types                 | 10. Types of Volcanoes    | 11. Fire & Fuels Revision | 12. Fire & Fuels Assessment P2 |
+| __T3 W8__    | 13. Fire & Fuels Assessment P3    | 14. Types of Volcanoes    | 15. Rock Cycle            | 16. Rock Cycle                 |
+| __T3 W9__    | 17. Weathering, Erosion, Uplift   | 18. Canterbury Plains     | 19. Canterbury Plains     | 20. Earthquakes                |
+| __T3 W10__   | 21. Earthquakes                   | 22. _Revision_            | 23. _Revision_            | 24. __TEST__                   |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_
 
-1. #### History of Earth
-    - Cosmic address, history of life
+1. #### Structure of Earth
     - __Ngā Whāinga Ako__: 
     - __Notes__: 
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-2. #### Structure of Earth
+2. #### Convection Currents
     - __Ngā Whāinga Ako__: 
     - __Notes__: 
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-3. #### Tectonic Plates 1
+3. #### Tectonic Plates
     - Drift theory
     - Convection current demo
     - __Ngā Whāinga Ako__: 
@@ -57,7 +81,7 @@ menu:
     - __Task/Ngohe__: 
     - __Whakamātau/Whakakite__: 
 
-4. #### Tectonic Plates 2
+4. #### Formation of Volcanoes
     - Plate boundary types
     - ?exp
     - __Ngā Whāinga Ako__: 
