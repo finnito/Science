@@ -3,18 +3,39 @@
 \usepackage{blindtext}
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
-\usepackage[margin=0.75in]{geometry}
+\usepackage[
+	a4paper,
+	left=20mm,
+    top=20mm,
+    ]{geometry}
 \usepackage{hyperref}
+\usepackage{amsthm}
+\usepackage{enumitem,amssymb}
 \usepackage{amsmath}
+\usepackage{stackengine}
 \usepackage{enumitem}
+\usepackage{mathtools}
 \usepackage{wrapfig}
 \usepackage{multicol}
-\graphicspath{ {../assets/} }
+\usepackage{titlesec}
+    \titleformat{\chapter}[hang] 
+    {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter:}{1em}{} 
+\graphicspath{ {assets/} }
 
+% ==================
+% Custom Functions
+% ==================
 \newlist{choices}{enumerate}{1}
 \setlist[choices]{label*=(\Alph*)}
 \newcommand{\choice}{\item}
 
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=blue,      
+    urlcolor=blue,
+    }
+    
 \SetEnumitemKey{twocol}{
   before=\raggedcolumns\begin{multicols}{2},
   after=\end{multicols}}
@@ -23,22 +44,39 @@
   before=\raggedcolumns\begin{multicols}{3},
   after=\end{multicols}}
 
+\newcommand\kufss{
+	\begin{enumerate}[itemsep=15pt,label=,leftmargin=0.5cm]
+		\item \textbf{Knowns:}
+		\item \textbf{Unknowns:}
+		\item \textbf{Formula:}
+		\item \textbf{Substitute:}
+		\item \textbf{Solve + Unit:}
+	\end{enumerate}
+}
+
+\newlist{nwa}{itemize}{2}
+\setlist[nwa]{label=$\square$}
+
+% ==================
+% Set Up Title Page
+% ==================
 \title{
-\centerline{\includegraphics[width=50mm]{lymphad.jpg}}
-\vspace{0.5cm}
-Year 12 Physics - Mechanics\\
-\vspace{0.5cm}
-\large AS91171 \\ https://putaiao.nz/12phy/as91171/\\}
-\author{Finn Le Sueur of Cashmere High School\\ \texttt{lsf@cashmere.school.nz}}
-\date{2021}
+    \centerline{\includegraphics[width=50mm]{lymphad.jpg}}
+    \vspace{0.5cm}
+    Year 12 Physics - Mechanics\\
+    \vspace{0.5cm}
+    \large AS91171 \\ https://putaiao.nz/12phy/as91171/\\}
+    \author{Finn Le Sueur of Cashmere High School\\ \texttt{lsf@cashmere.school.nz}}
+    \date{\the\year{}
+}
 
 \begin{document}
 
-% Put title on own page
 \maketitle
 
-% Put contents on own page
 \newpage
+
+\setcounter{tocdepth}{1}
 \tableofcontents
 
 % ====================
@@ -49,315 +87,16 @@ Year 12 Physics - Mechanics\\
 
 \section{Warm Up}
 
-\subsection{Pātai Tahi: Who is the fastest?}
-
-\begin{enumerate}
-\item Andy can run $100m$ in $11.9$ seconds
-\item Bob can run $100m$ in $10.8$ seconds
-\item Chris can run $100m$ in $12.4$ seconds
-\end{enumerate}
-
-\vspace{1cm}
-
-\subsection{Pātai Rua: Who is the fastest?}
-
-\begin{enumerate}
-\item Aaron can run $534m$ in $1 minute$
-\item Billy can run $510m$ in $1 minute$
-\item Cameron can run $452m$ in $1 minute$
-\end{enumerate}
-
-\vspace{1cm}
-
-\subsection{Pātai Toru: Who is the fastest?}
-
-\begin{enumerate}
-\item Ash can run $0.3km$ in $45 seconds$
-\item Bailey can run $420m$ in $1 minute$
-\item Caleb can run $510m$ in $1.5 minutes$
-\end{enumerate}
-
-\vspace{1cm}
-
 \section{Formula: Average Speed}
 
-\begin{align}
-    v &= \frac{d}{t} \\
-    d &= \text{total distance travelled} \\
-    t &= \text{time} \\
-    v &= \text{speed}
-\end{align}
-
-\subsection{What is the Unit?}
-
-\begin{enumerate}
-\item $ms^{-1}$
-\item It stands for \textbf{meters per second}
-\item E.g. the speed of sound is $343ms^{-1}$ - it travels at $343$ meters in one second
-\end{enumerate}
-
-\subsection{Example / Tauria}
+\subsection{Pātai}
 
 Ash runs $315m$ in $45s$. Calculate his average speed in \textit{meters per second}.
 
-\begin{enumerate}
-\item Knowns
-\item Unknowns
-\item Formula 
-\item Substitute
-\item Solve
-\end{enumerate}
-
-\vspace {3cm}
-
-\subsection{Pātai Tahi: Unit Conversions}
-
-\begin{enumerate}
-\item A skydiver (freefall) = $53ms^{-1}$
-\item A handgun bullet = $660ms^{-1}$
-\item A car on the road = $50km/hr$
-\item A flying airplane = $1100kmh^{-1}$
-\item Light = $300,000,000$
-\end{enumerate}
-
-In pairs, convert the speed of the car and airplane into \textit{meters per second}.
-
-\vspace{3cm}
-
-\subsection{Pātai Rua: Velocity Calculation}
-
-A car is moving at a speed of $10ms^{-1}$. How far does the car travel in $12s$?
-
-\begin{enumerate}
-\item Knowns
-\item Unknowns
-\item Formula 
-\item Substitute
-\item Solve
-\end{enumerate}
-
-\vspace {3cm}
-
-\subsection{Pātai Toru: Running Man}
-
-A man is running at a speed of $4ms^{-1}$. How long does he take to run $100m$?
-
-\begin{enumerate}
-\item Knowns
-\item Unknowns
-\item Formula 
-\item Substitute
-\item Solve
-\end{enumerate}
-
-\vspace {3cm}
-
-\section{Average vs Instantaneous Speed}
-
-Velocity may refer to \textbf{average velocity} or \textbf{instantaneous velocity}. The formula $v = \frac{d}{t}$ can only be used to calculate \textbf{average velocity} or when \textbf{the velocity is constant} (acceleration is zero).
-
-\section{Formula: Acceleration}
-
-The rate of change in speed
-
-\begin{align}
-    a &= \frac{\Delta v}{t} \\
-    \Delta v &= \text{ change in speed} \\
-    t &= \text{ time} \\
-    a &= \text{ acceleration}
-\end{align}
-
-\subsection{What Does $ms^{-2}$ Mean?}
-
-\textbf{Whakatika}: meters per second squared OR meters per second per second. For example, $a=12ms^{-2}$ means that the velocity is increased by $12ms^{-1}$ every second.
-
-\begin{table}[h]
-\centering
-\begin{tabular}{lllll}
-\hline
-Time ($s$)           & 0 & 1  & 2  & 3  \\ \hline
-Velocity ($ms^{-1}$) & 0 & 12 & 24 & 36 \\ \hline
-\end{tabular}
-\end{table}
-
-\subsection{Pātai: Re-arranging Acceleration}
-
-Starting with $a = \frac{\Delta v}{t}$, re-arrange the equation for $v$ and $t$.
-
-\begin{choices}[twocol]
-   \choice $a = \frac{\Delta v}{t}$
-   \choice $a = \frac{\Delta v}{t}$
-\end{choices}
-
-\vspace{3cm}
-
-\section{Formula: Calculating Change ($\Delta$)}
-
-This is the difference between the \textbf{initial} and the \textbf{final} value.
-
-\begin{align}
-    \Delta &= final - initial \\
-    \text{e.g. }\Delta v &= v_{f} - v_{i}
-\end{align}
-
-\subsection{Pātai Whā: Walking}
-
-A man initially walking at $2.0ms^{-1}$ notices that his house is on fire so he speeds up to $11ms^{-1}$ in $1.3s$.
-
-\textbf{1. Calculate the change in speed}
-
-\begin{enumerate}
-\item Knowns
-\item Unknowns
-\item Formula 
-\item Substitute
-\item Solve
-\end{enumerate}
-
-\vspace {3cm}
-
-
-\textbf{2. Calculate his acceleration}
-
-\begin{enumerate}
-\item Knowns
-\item Unknowns
-\item Formula 
-\item Substitute
-\item Solve
-\end{enumerate}
-
-\vspace {3cm}
-
-\subsection{Pātai Rimu: The Car}
-
-A car initially moving at $12.7ms^{-1}$ accelerates at $1.3ms^{-2}$ for \textbf{one minute}. What is the car's final speed?
-
-\begin{enumerate}
-\item Knowns
-\item Unknowns
-\item Formula 
-\item Substitute
-\item Solve
-\end{enumerate}
-
-\vspace{3cm}
-
-\subsection{Pātai Ono: Decelerating Car}
-
-A car decelerates at $1.8ms^{-2}$ for $9.4s$ to stop. What was the car's initial speed?
-
-\begin{enumerate}
-\item Knowns
-\item Unknowns
-\item Formula 
-\item Substitute
-\item Solve
-\end{enumerate}
-
-\vspace{3cm}
+\kufss
 
 \newpage
 \chapter{Vectors and Scalars}
-
-\section{Introduction}
-
-In pairs, think about and discuss the similarities and differences between these two questions:
-
-\begin{enumerate}
-    \item Mr Chu puts 40 apples inside a box, except Miss Nam eats two of them. What is the total number of apples inside the box?
-    \item Mrs Carpenter lifts a plant off her desk with a force of $15N$ in the upwards direction, while the plant has a weight force of $5N$ acting down. What is the total force applied on the plant?
-\end{enumerate}
-
-\section{What is a Vector?}
-
-\begin{itemize}
-    \item \textbf{Scalar} = size only (e.g. mass)
-    \item \textbf{Vector} = size + direction (e.g. velocity)
-\end{itemize}
-
-\subsection{Distance vs. Displacement}
-
-\begin{itemize}
-    \item \textbf{Distance} is the amount an object has moved
-    \begin{itemize}
-        \item It is a scalar
-        \item e.g. $3km$
-    \end{itemize}
-    \item \textbf{Displacement} is the distance from start to finish in a straight line
-    \begin{itemize}
-        \item It is a vector, because direction is also important
-        \item e.g. $3km$ South West
-    \end{itemize}
-\end{itemize}
-
-\subsection{Pātai Tahi}
-
-Ella drives to Sumner beach in the weekend because it is far too hot. She drives $5km$ south and $10km$ west to get there.
-
-\textbf{1.} What is the total distance travelled by Ella?
-
-\begin{itemize}
-\item Knowns
-\item Unknowns
-\item Formula 
-\item Substitute
-\item Solve
-\end{itemize}
-
-\vspace{2cm}
-
-\textbf{2.} What is the total displacement of Ella?
-
-\begin{itemize}
-\item Knowns
-\item Unknowns
-\item Formula 
-\item Substitute
-\item Solve
-\end{itemize}
-
-\vspace{2cm}
-
-\subsection{Pātai Rua: Scalar or Vector}
-
-Use the units to help you decide whether each is a scalar or a vector.
-
-\begin{itemize}
-    \item Distance
-    \item Displacement
-    \item Speed
-    \item Velocity
-    \item Acceleration
-    \item Momentum
-    \item Energy
-    \item Force
-    \item Temperature
-    \item Mass
-    \item Work
-    \item Power
-\end{itemize}
-
-\subsection{Vectors}
-
-When dealing with problems which involve vector quantities (e.g. calculating velocity, force, etc.), you must consider the size and direction.
-
-Which means: \textbf{you must use vector calculations and/or vector diagrams.}
-
-\begin{itemize}
-    \item Have both \textbf{direction} and \textbf{magnitude}
-    \item Drawn as an arrow
-    \item Drawn with a ruler
-    \item Drawn to scale (on a grid, typically)
-    \item Drawn head-to-tail
-    \item Can be added an subtracted
-    \item Use Pythagoras and SOH CAH TOA to find values
-\end{itemize}
-
-\begin{wrapfigure}{r}{0.25\textwidth}
-    \centering
-    \includegraphics[width=0.25\textwidth]{trigonometry.png}
-\end{wrapfigure}
 
 \newpage
 \chapter{Kinematic Equations}
@@ -378,6 +117,190 @@ Which means: \textbf{you must use vector calculations and/or vector diagrams.}
 \chapter{Momentum and Impulse}
 
 \newpage
+\chapter{Springs}
+
+\newpage
 \chapter{Energy, Work, and Power}
+
+\section{Ngā Whāinga Ako}
+
+\begin{nwa}
+    \item Be able to calculate gravitational potential energy
+    \item Be able to calculate kinetic energy
+    \item Be able to use the law of conservation of energy
+    \item Be able to define and calculate work
+    \item Be able to define and calculate power
+\end{nwa}
+
+\begin{align*}
+	W &= Fd & E_{k} &= \frac{1}{2}mv^{2} & E_{p} &= mg\Delta h & P &= \frac{W}{t}
+\end{align*}
+
+\section{Energy}
+
+Energy is a quantity that must be transferred (transformed) to do \textbf{work}. Here are some types of energy. In Mechanics we are mostly interested in the ones that are \textbf{bolded}.
+
+\begin{itemize}[twocol]
+	\item Light
+    \item \textbf{Heat}
+    \item \textbf{Sound}
+    \item Electrical
+    \item Radiation
+    \item \textbf{Kinetic}
+    \item Nuclear potential
+    \item Chemical potential
+    \item \textbf{Gravitational potential}
+    \item \textbf{Elastic potential}
+\end{itemize}
+
+\subsection{Unit of Energy}
+
+\begin{itemize}
+	\item \textbf{Pātai:} What is the unit for energy?
+	\item \textbf{Whakatika:}
+\end{itemize}
+
+\section{Kinetic Energy}
+
+The energy that a moving object has. Related to its velocity and mass.
+
+\begin{align*}
+    E_{k} &= \frac{1}{2}mv^{2} \\
+    E_{k} &= \\
+    m &= \\
+    v &=
+\end{align*}
+
+\subsection{Pātai}
+A student is testing how kinetic energy can vary between objects and velocities. He starts by rolling a toy car of mass $50g$ down a hill. It reaches a top speed of $3ms^{-1}$. Calculate its kinetic energy.
+\kufss
+
+He then rolls a toy truck down the hill. It reaches $3ms^{-1}$ but has a mass of $100g$. Calculate its kinetic energy.
+\kufss
+
+He then finds a steeper hill where his $45g$ car reaches a speed of $9ms^{-1}$. Calculate and compare this kinetic energy with the other two. Which component has a greater impact, mass or velocity?
+\kufss
+\vspace{3cm}
+
+\section{Gravitational Potential Energy}
+Energy an object has by being displaced from \textit{ground} in a gravitational field. Related to its mass and height. Unlike kinetic energy, gravitational potential energy has equal weighting on both mass, acceleration due to gravity and height.
+
+\begin{align*}
+    E_{p} &= mg \Delta h \\
+    E_{p} &= \\
+    m &= \\
+    g &= \\
+	h &= 
+\end{align*}
+
+\subsection{Pātai}
+A student with mass $55kg$ climbs a $7.5m$ diving board. Calculate their gravitational potential energy at the top of the diving board.
+\kufss
+
+\section{Law of Conservation of Energy}
+
+Energy can neither be created nor destroyed, it can only be \textit{transformed} or \textit{transferred}. This tells us that: \textbf{the total energy in the system is always conserved.} The system might be a collision/explosion, a beaker, Earth or the whole Universe!
+To be able to do Physics with this law, we need to state it as an equation. In words we can say, \textit{energy before is equal to energy after}.
+
+\begin{align*}
+	E_{i} = E_{f}
+\end{align*}
+
+We can also say \textit{in an ideal world all energy is transformed, and none is lost via friction in the form of heat/light}. We understand that in reality this is not the case, but this assumption makes our calculations easier.
+
+For example, when an object falls from a height, its \textit{gravitational potential energy} is transformed into \textit{kinetic energy}, but the total energy in the system is \textit{constant}. In an ideal world 100\% of the energy is transformed from $E_{p}$ to $E_{k}$. Therefore when comparing an object at the top of its fall, to the bottom of its fall we can say:
+
+\begin{align*}
+	E_{k} &= E_{p} \\
+	\frac{1}{2}mv^{2} &= mgh
+\end{align*}
+
+\subsection{Whakakite: Skate Park Simulation}
+
+Open this URL to view the simulation: \url{https://phet.colorado.edu/sims/html/energy-skate-park/latest/energy-skate-park_en.html}
+
+\begin{itemize}
+    \item For example, in this simulation, the skater will never go higher than they started.
+    \item This is because they cannot \textit{get} extra energy from the surroundings.
+    \item In a frictionless world, they will also reach the same height because no energy is lost to the surroundings!
+\end{itemize}
+
+\subsection{Pātai: Diving Board}
+\begin{wrapfigure}{r}{0.25\textwidth}
+	\vspace{-1cm}
+    \begin{center}
+    	% Sourced from https://app.wizer.me/preview/5UDJWP
+    	\includegraphics[width=0.9\linewidth]{conservation-of-energy-diving-board.png}
+        \label{default}
+    \end{center}
+\end{wrapfigure}
+Think back to the gravitational potential energy diving board question. In an ideal world, all of their gravitational potential energy will be converted to kinetic energy as they fall to the water. In reality some energy will be transferred to heat/sound via air resistance. \textbf{Describe the mixture of kinetic/gravitation energies at A, B and C.}
+
+\begin{enumerate}[label=(\Alph*),itemsep=10pt]
+	\item
+	\item
+	\item
+\end{enumerate}
+
+\textbf{Calculate the maximum speed that the diver will reach}.
+\kufss
+
+\subsection{Pātai: Bullet and Sandbag}
+A bullet of mass $30g$ is fired with a speed of $400ms^{-1}$ into a sandbag. The sandbag has a mass of $10kg$ and is suspended by a rope so that it can swing. \textbf{Calculate the maximum height that the sandbag rises as it recoils with the bullet lodged inside.}
+
+\textbf{Step 1.} Calculate the kinetic energy of the bullet
+
+\kufss
+
+\textbf{Step 2.} Equate this with the potential energy of combined sandbag + bullet
+
+\kufss
+
+\section{Practice}
+
+\begin{itemize}
+	\item Homework Booklet: 
+	\item Textbook: 
+	\item Worksheet: 
+\end{itemize}
+
+\section{Work}
+
+\begin{wrapfigure}{r}{0.4\textwidth}
+    \vspace{-1cm}
+    \begin{center}
+    	% Sourced from https://en.wikipedia.org/wiki/Conservative_force
+    	\includegraphics[width=0.9\linewidth]{work-path-independence.png}
+        \caption{Path Independence of Energy.}
+        \label{default}
+    \end{center}
+\end{wrapfigure}
+
+Work is defined as \textit{the amount of energy transferred or transformed}. Work is an \textit{amount} of energy, and therefore has the same unit: Joules (J). An important part of work is that it is \text{path independent}. Only the start and end points matter, what happens in the middle does not.
+
+\begin{align*}
+	W &= Fd \\
+	W &= \\
+	F &= \\
+	d &=
+\end{align*}
+
+\newpage
+\section{Power}
+
+\appendix
+
+\chapter{Formula Sheet}
+
+\begin{align*}
+    v &= \frac{\Delta d}{\Delta t} & a &= \frac{\Delta v}{\Delta t} \\ \\ \\ \\
+    v_{f} &= v_{i}+at & d &= v_{i}t + \frac{1}{2}at^{2} & d &= \frac{v_{i} + v_{f}}{2}t & v_f^{2} &= v_{i}^{2} + 2ad \\ \\ \\ \\
+    F_{c} &= \frac{mv^{2}}{r} & a_{c} &= \frac{v^{2}}{r} \\ \\ \\ \\
+    p &= mv & \Delta p &= F\Delta t\\ \\ \\ \\
+    W &= Fd & E_{k} &= \frac{1}{2}mv^{2} & E_{p} &= mg\Delta h & P &= \frac{W}{t} \\ \\ \\ \\
+    F &=ma & \tau &= Fd \\ \\ \\ \\
+    E_{p} &= \frac{1}{2}kx^{2} & F &= -kx
+\end{align*}
+
 
 \end{document}
