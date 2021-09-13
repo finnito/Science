@@ -173,6 +173,7 @@ getNumberlessFilename() {
 callPandoc() {
     # $name=$1
     # $numberlessName=$2
+    year=$(date +"%Y")
     pandoc "${name}.md" \
         --to=revealjs \
         --template=default.revealjs \
@@ -190,7 +191,10 @@ callPandoc() {
         --variable=showNotes:false \
         --variable=overview:false \
         --variable=hash:true \
-        --variable=fragmentInURL:true
+        --variable=fragmentInURL:true \
+        --variable=date:"$year" \
+        --variable=theme:finn \
+        --variable=author:"Finn Le Sueur"
 }
 
 compileGitLog() {
