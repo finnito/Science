@@ -41,20 +41,31 @@ katex: true
 6. Term 3, Week 8 (Mon Sept 7th): 
 7. Term 3, Week 9 (Mon Sept 14th): Interference Q18, Q19   -->
 
+## 2021 Post-Lockdown Plan
+
+| __Week__    | __Content__                                                        |
+|:------------|:-------------------------------------------------------------------|
+| __Week 7__  | Review Online Learning                                             |
+| __Week 8__  | 3x periods revision; waves  test on Friday                         |
+| __Week 9__  | P1 Hand back waves test; 3x periods exam revision                  |
+| __Week 10__ | P1 Mechanics Exam, P2 Electricity Exam, 2x Nuclear Physics Periods |
+
 ## Unit Plan _/ Mahere Kōwae_ 
 
-|              | Akoranga 1 (Mon)                                          | Akoranga 2 (Tues)                              | Akoranga 3 (Wed)                            | Akoranga 4 (Thurs)                            |
-| :----------- | :-------------------------------------------------------- | :--------------------------------------------- | :------------------------------------------ | :-------------------------------------------- |
-| __T2 W9__    | 1. [Intro to Waves](#intro-to-waves)                      | 2. [Hand back Test](#hand-back-test)           | 3. [Intro Continued](#intro-continued-1)    | 4. [Intro Continued](#intro-continued-2)      |
-| __T3 W10__   | 5. [Doppler Effect](#intro-to-the-doppler-effect)         | 6. [Doppler Effect](#intro-doppler-equation)   | 7. [Doppler Effect](#doppler-continued-1)   | 8. [Doppler Effect](#doppler-continued-2)     |
-| __T3 W1__    | 9. [Review & Beats](#beats)                               | 10. [Beats Whakamātau](#beats-whakamātau)      | 11. [Beats](#beats-hbq)                     | 12. [Standing Waves](#standing-waves-intro)   |
-| __T3 W2__    | 14. Standing Waves & Music                                | 15.                                            | 16. Standing Waves & Music                  | 17. Standing Waves & Music                    |
-| __T3 W3__    | _Exam Revision_                                           | _Exam Revision_                                | _Exam Revision_                             | _Exam Revision_                               |
-| __T3 W4__    | __School Exams__                                          | __School Exams__                               | __School Exams__                            | __School Exams__                              |
-| __T3 W5__    | __School Exams__                                          | __School Exams__                               | _Return Exam_                               | 13. Standing Waves & Music                    |
-| __T3 W6__    | 18. Interference Pattern (2 Point)                        | 19. Interference Pattern (2 Point)             | 20. Interference Pattern (2 Point)          | 21. Multi-Point Interference                  |
-| __T3 W7__    | 22. [Multi-Point Interference](#diffraction-whakamātau)   | 23. Multi-Point Interference                   | 24. Diffraction Gratings                    | _Revision/Catch-Up_                           |
-| __T3 W8__    | _Revision/Catch-Up_                                       | _Revision_                                     | _Revision_                                  | __TEST__                                      |
+|            | Akoranga 1 (Mon/Tues)                             | Akoranga 2 (Wed)                             | Akoranga 3 (Thurs)                        | Akoranga 4 (Fri)                          |
+|:-----------|:--------------------------------------------------|:---------------------------------------------|:------------------------------------------|:------------------------------------------|
+| __T2 W9__  | 1. [Intro to Waves](#intro-to-waves)              | 2. [Hand back Test](#hand-back-test)         | 3. [Intro Continued](#intro-continued-1)  | 4. [Intro Continued](#intro-continued-2)  |
+| __T3 W10__ | 5. [Doppler Effect](#intro-to-the-doppler-effect) | 6. [Doppler Effect](#intro-doppler-equation) | 7. [Doppler Effect](#doppler-continued-1) | 8. [Doppler Effect](#doppler-continued-2) |
+| __T3 W1__  | 9. [Review & Beats](#beats)                       | 10. [Beats Whakamātau](#beats-whakamātau)    | 11. [Beats](#beats-hbq)                   | 12. [Beats Practice](#beats-practice)     |
+| __T3 W2__  | 14. [Standing Waves](#standing-waves-intro)       | 15. Standing Waves & Music                   | 16. Standing Waves & Music                | 17. Standing Waves & Music                |
+| __T3 W3__  | _Exam Revision_                                   | _Exam Revision_                              | _Exam Revision_                           | _Exam Revision_                           |
+| __T3 W4__  | __School Exams__                                  | __School Exams__                             | __School Exams__                          | __School Exams__                          |
+| __T3 W5__  | __School Exams__                                  | _Return Exam_                                | _Mech Improvements_                       | 13. _Electromag Improvements_             |
+| __T3 W6__  | 18. Interference                                  | 19. Interference Pattern (2 Point)           | 20. Interference Pattern (2 Point)        | 21. Multi-Point Interference              |
+| __T3 W7__  | 22. Remote Learning                               | 23. Remote Learning                          | 24. Review Online Learning                | 25. Review Online Learning                |
+| __T3 W8__  | 26. _Waves Revision_                              | 27. _Waves Revision_                         | 28. _Waves Revision_                      | __TEST__                                  |
+| __T3 W9__  | Hand Back Waves                                   | Mech & Elec Revision                         | Mech & Elec Revision                      | Mech & Elec Revision                      |
+| __T3 W10__ | __Mechanics Exam__                                | __Electricity Exam__                         | 1. Nuclear Physics Internal               | 2. Nuclear Physics Internal               |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_ 
 
@@ -104,7 +115,16 @@ katex: true
     - Fast finishers: mahi kāinga booklet Q10
 11. #### Beats HBQ
     - Question 10
-12. #### Standing Waves Intro
+12. #### Beats Practice
+    - Homework booklet Q7-8, 10
+    - Textbook 6A
+15. Standing Waves Table
+    - Print table
+    - Fill out table with diagrams + equations
+16. Standing Waves Practice 1
+    - Two questions on the board all together
+17. Standing Waves Practice 2
+    - Individual practise from textbook (5A) and homework booklet
 22. #### Diffraction Whakamātau
     - "Diffraction of Laser Light" Lab document
     - Recap of diffraction gratings notes
