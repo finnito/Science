@@ -6,15 +6,6 @@ subtitle: 10SCIE - Fire & Fuels
 author: Finn LeSueur
 date: 2021
 theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
 # Ngā Whāinga Ako
