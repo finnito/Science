@@ -45,9 +45,6 @@ Which of these volcanoes do you think have viscous and not viscous lava? Put you
 
 ![](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_1040/MTc0NjQxNzk0ODMzNzg2ODcw/4-different-types-of-volcanoes-cinder-cones-lava-domes-shield-and-composite-volcanoes.webp)
 
-- __Viscous__: 
-- __Not Viscous__: 
-
 ---
 
 ##### Whakatika
