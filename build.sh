@@ -89,16 +89,25 @@ main() {
             -message "Build complete!" \
             -appIcon http://putaiao.test/favicon.png
 
-        osascript -e 'tell application "Safari"
-            tell window 1
-                --options
-                set myTab to tab 1
-                set myTab to first tab whose URL starts with "http://putaiao.test"
+        # osascript -e 'tell application "Firefox"
+        #     activate
+        #     tell application "System Events" to keystroke "r" using command down
+        #     delay 0.1
+        # end tell
+        # tell application "Sublime Text"
+        #     activate
+        # end tell'
 
-                if current tab is not myTab then set current tab to myTab
-                tell myTab to do JavaScript "location.reload();"
-            end tell
-        end tell'
+        # osascript -e 'tell application "Safari"
+        #     tell window 1
+        #         --options
+        #         set myTab to tab 1
+        #         set myTab to first tab whose URL starts with "http://putaiao.test"
+
+        #         if current tab is not myTab then set current tab to myTab
+        #         tell myTab to do JavaScript "location.reload();"
+        #     end tell
+        # end tell'
     
     # Here we do a full build because the -d flag
     # was not passed.
