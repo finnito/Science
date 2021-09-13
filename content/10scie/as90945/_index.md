@@ -49,6 +49,11 @@ weight: 4
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_
 
+<!-- Practice Assessment RA: https://www.riskassess.co.nz/risk_assessment/10342169
+Assessment: https://www.riskassess.co.nz/risk_assessment/10365713
+Assessment P1 Timer: https://putaiao.nz/timer.html?t=10:50&h=Fire%20and%20Fuels%20Period%201&p=%20%20%20%20%20%20%20%20%20%20%20%20-%20Bags%20at%20the%20front.%3Cbr%3E%20%20%20%20%20%20%20%20%20%20%20%20-%20Pens%20and%20pencils%20at%20desks%20only.%3Cbr%3E-%20NCEA%20slips%20and%20research%20authenticity%20forms%20to%20Mr%20Le%20Sueur%27s%20table.%3Cbr%3E-%20Group%20work%20(1st%20page)%20only%20today.%20You%20are%20NOT%20to%20begin%20working%20on%20any%20other%20pages.%3Cbr%3E-%20You%20have%20the%20whole%20period%20(+%20tomorrow)%20to%20collect%20your%20data.%20If%20you%20are%20done,%20you%20may%20individually%20calculate%20your%20averages,%20but%20you%20may%20not%20start%20the%20other%20pages.%3Cbr%3E%3Cstrong%3E%3C/strong%3E
+-->
+
 1. #### Fire Triangle 1
     - Hand out LO
     - Hand out booklet
