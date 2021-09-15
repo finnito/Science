@@ -82,11 +82,13 @@ Calculate the fundamental frequency of a string with length 25cm, where the spee
 
 ---
 
+$$
 \begin{aligned}
     \lambda &= \frac{1}{2} \times 0.25m = 0.125m\\
     f &= v \times \lambda \\
     f &= 330 \times 0.125 = 41.25Hz
 \end{aligned}
+$$
 
 ---
 
