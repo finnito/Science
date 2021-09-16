@@ -13,5 +13,5 @@ fswatch --print0 \
         --include="\\.md$" \
         --include="\\.html$" \
         --include="\\.css$" \
-        ./ \
+        ./content/ \
         | xargs -0 -n 1 python3 sparse-build.py -d

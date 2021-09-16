@@ -45,11 +45,15 @@ def main():
         if event["path"].endswith(("_index.md", ".css", ".html", ".toml", ".txt")):
             subprocess.run(
                 [
-                    f"cd ~/Git/science.lesueur.nz && \
-                    bash build.sh \
+                    f"bash build.sh \
                     -d \
                     -h \
                     -f {event['file']}"
+                    # f"cd ~/Git/science.lesueur.nz && \
+                    # bash build.sh \
+                    # -d \
+                    # -h \
+                    # -f {event['file']}"
                 ],
                 shell=True,
                 check=False
@@ -61,11 +65,15 @@ def main():
         elif event["path"].endswith(".md"):
             subprocess.run(
                 [
-                    f"cd ~/Git/science.lesueur.nz && \
-                    bash build.sh \
+                    f"bash build.sh \
                      -d \
                      -f {event['file']} \
                      -p {event['folder']}"
+                    # f"cd ~/Git/science.lesueur.nz && \
+                    # bash build.sh \
+                    #  -d \
+                    #  -f {event['file']} \
+                    #  -p {event['folder']}"
                 ],
                 shell=True,
                 check=False
