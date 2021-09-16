@@ -34,7 +34,7 @@ menu:
 
 {{< slides >}}
 
-## Learning Outcomes _/ Ngā Whāinga Ako_ 
+## Learning Outcomes _/ Ngā Whāinga Ako_
 
 1. __Earth Structure and Plate Tectonics__
     1. Explain how the earth has changed over 4.6 billion years and  account for its current structure
@@ -48,130 +48,69 @@ menu:
     1. Describe how sedimentary (including fossils), metamorphic and igneous rocks are created and destroyed
     2. Explain how land features (mountains, rivers, plains) are linked to tectonic plate movement  and erosion and weathering
 
-## Unit Plan _/ Mahere Kōwae_ 
+## Unit Plan _/ Mahere Kōwae_
 
-|              | Akoranga 1 (Mon)                  | Akoranga 2 (Tue)          | Akoranga 3 (Thu)          | Akoranga 4 (Fri)               |
-| :----------- | :-------------------------------- | :------------------------ | :------------------------ | :--------------------------    |
-| __T3 W5__    | 1. Structure of Earth             | 2. Structure of Earth     | 3. Structure of Earth     | 4. Structure of Earth          |
-| __T3 W6__    | 5. Tectonic Plates                | 6. Tectonic Plates        | 7. Continental Drift      | 8. Boundary Types              |
-| __T3 W7__    | 9. Boundary Types                 | 10. Types of Volcanoes    | 11. Fire & Fuels Revision | 12. Fire & Fuels Assessment P2 |
-| __T3 W8__    | 13. Fire & Fuels Assessment P3    | 14. Types of Volcanoes    | 15. Rock Cycle            | 16. Rock Cycle                 |
-| __T3 W9__    | 17. Weathering, Erosion, Uplift   | 18. Canterbury Plains     | 19. Canterbury Plains     | 20. Earthquakes                |
-| __T3 W10__   | 21. Earthquakes                   | 22. _Revision_            | 23. _Revision_            | 24. __TEST__                   |
+|            |           Akoranga 1 (Mon)          |     Akoranga 2 (Tue)     |        Akoranga 3 (Thu)       |          Akoranga 4 (Fri)          |
+| ---------- | ----------------------------------- | ------------------------ | ----------------------------- | ---------------------------------- |
+| __T3 W5__  | 1. Structure of Earth               | 2. Structure of Earth    | 3. Structure of Earth         | 4. Structure of Earth              |
+| __T3 W6__  | 5. Tectonic Plates                  | 6. Tectonic Plates       | 7. Continental Drift          | 8. Boundary Types                  |
+| __T3 W7__  | 9. Boundary Types                   | 10. Types of Volcanoes   | 11. ~~Fire & Fuels Revision~~ | 12. ~~Fire & Fuels Assessment P2~~ |
+| __T3 W8__  | 13. ~~Fire & Fuels Assemssment P3~~ | 14. Types of Volcanoes   | 15. Types of Volcanoes        | 16. Volcanoes & Rock Cycle         |
+| __T3 W9__  | 17. Rock Cycle                      | 18. Weathering & Erosion | 19. Canterbury Plains         | 20. Earthquakes                    |
+| __T3 W10__ | 21. Earthquakes                     | 22. Earthquakes          | 23. _Revision_                | 24. __TEST__                       |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_
 
-1. #### Structure of Earth
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+1-4. #### Structure of Earth
+    1. Note taking on [Intro to Geology](slides/introduction.html)
+    2. Note taking on [Structure of Earth](slides/structure-of-earth.html)
+    3. Read [page 104 of textbook](https://classroom.google.com/w/MjU2NzQ5OTE2OTM4/t/all)
+    4. Whamakātau: [Indirect Observations](slides/indirect-observations.html)
+    5. [Quizlet flashcards on Structure of Earth](https://quizlet.com/finnlesueur/folders/y10-science/sets)
 
-2. #### Convection Currents
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+5-8. #### Tectonic Plates & Drift
+    1. Note taking on [Tectonic Plates](slides/plate-tectonics-continental-drift.html)
+    2. Read [PDF on Pangea](https://drive.google.com/drive/folders/1Tp9TXIVFcMbYcbDrWMONDmV6uo8Wsn5r) and answer questions
+    3. [Evidence for tectonic drift research](https://docs.google.com/document/d/1BYQ-f5ekiAQE1THfJVOoCQcwASTElnfY6peDmwF4H9E/edit)
+    4. [Quizlet flashcards on Tectonic Plates](https://quizlet.com/finnlesueur/folders/y10-science/sets)
 
-3. #### Tectonic Plates
-    - Drift theory
-    - Convection current demo
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+9-10. #### Volcanoes
+    1. [Take notes on volcano formation and types of volcanoes](slides/volcanoes.html)
+    2. Explore [NZ volcanoes on Google Earth](https://earth.google.com/earth/d/1trZcLLtDU3VR0hqO-I6ohgZP8B4xLZqk?usp=sharing)
+    3. Watch [Episode 1 of Perfect Planet](https://drive.google.com/file/d/1B4Wlg-qKjyMjSh0x0dNi8Hl2QZ27oXBh/view?usp=sharing)
 
-4. #### Formation of Volcanoes
-    - Plate boundary types
-    - ?exp
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+11. #### F&F Assessment Revision
 
-5. #### Earthquakes 1
-    - Richter & Mercalli scale
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+12. #### F&F Assessment P2
 
-6. #### Earthquakes 2
-    - Liquefaction demo
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+13. #### F&F Assessment P3 
 
-7. #### Earthquakes 3
-    - Seismograph
-    - 3 types of waves
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+14. #### Types of Volcanoes
+    1. Volcano match-up doc
+    2. [Recap volcano notes on board](slides/volcanoes.html)
+    3. [Google Earth tour of NZ volcanoes](https://earth.google.com/earth/d/1trZcLLtDU3VR0hqO-I6ohgZP8B4xLZqk?usp=sharing)
 
-8. #### Review/Catch-Up
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+15. #### Types of Volcanoes
+    1. [New Zealand Volcanoes research doc](https://docs.google.com/document/d/1Djlg8Ge_8ZOorDND0yjUgTR9bENXDsa-6N5VhgUAc44/edit) (20min)
+    2. Volcanoes summary task (20min)
+        - Draw diagrams and summarise the shape, lava type and explosivity of each volcano.
+    3. [Quizlet](https://quizlet.com/nz/616896100/volcanoes-in-new-zealand-flash-cards/)
 
-9. #### Volcanoes 1
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+16. #### Volcanoes & Rock Cycle
+    1. 
 
-10. #### Volcanoes 2
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+17. #### 
 
-11. #### Volcanoes 3
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+18. #### 
 
-12. #### Rock Cycle 1
-    - 3 types of rocks
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+19. #### 
 
-13. #### Rock Cycle 2
-    - Chocolate rock cycle
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+20. #### 
 
-14. #### Rock Cycle 3
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+21. #### 
 
-15. #### Weathering and Erosion
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+22. #### 
 
-16. #### NZ Geological Features
-    - Canterbury & Banks Peninsula
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+23. #### Revision
 
-17. #### Revision 1
-
-18. #### Revision 2
-
-19. #### Revision 3
-
-20. #### TEST
+24. #### TEST
