@@ -10,12 +10,12 @@
 {{ $page := . }}
 {{ with .File }}
     {{ if isset $page.Params "file" }}
-        <a class="button yellow" title="Edit {{$.Title}} on Github" target="_blank" href="https://github.com/finnito/Science/edit/master/data/{{ $page.Dir }}homework.toml">✍️ Edit Page</a>
+        <a class="button yellow" title="Edit {{$.Title}} on Github" target="_blank" href="https://github.com/finnito/Science/edit/master/data/{{ $page.File.Dir }}homework.toml">✍️ Edit Page</a>
     {{ else }}
         {{ if eq .File.LogicalName "_index.md" }}
             <a class="button yellow" title="Edit {{$.Title}} on Github" target="_blank" href="https://github.com/finnito/Science/edit/master/content/{{ .Path }}">✍️ Edit Page</a>
         {{ else }}
-            <a class="button yellow" title="Edit {{$.Title}} on Github" target="_blank" href="https://github.com/finnito/Science/edit/master/content/{{ .Dir }}{{ .LogicalName }}">✍️ Edit Page</a>
+            <a class="button yellow" title="Edit {{$.Title}} on Github" target="_blank" href="https://github.com/finnito/Science/edit/master/content/{{ .File.Dir }}{{ .LogicalName }}">✍️ Edit Page</a>
         {{ end }}
     {{ end }}
 {{ end }}
