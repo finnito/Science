@@ -70,7 +70,7 @@ body {
   text-shadow: none; }
 
 .reveal .slides {
-  height: 80vh;
+  /*height: 80vh;*/
   width: 90vw;
   text-align: left;
   /*margin-top: 0;*/
@@ -147,8 +147,8 @@ mark {
   position: absolute;
   margin: 1rem;
   right: 0;
-  font-size: 2rem;
-  color: rgba(0,0,0,0.5);
+  font-size: 1.25rem;
+  color: rgba(0,0,0,0.75);
   text-align: right;
 }
 
