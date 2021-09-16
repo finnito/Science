@@ -4,13 +4,16 @@
 \usepackage{lmodern}
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
+\usepackage{ragged2e}
 \usepackage[
 	a4paper,
 	left=20mm,
 	top=20mm,
 	]{geometry}
-\usepackage{hyperref}
+\usepackage[breaklinks]{hyperref}
 \usepackage{amsthm}
+\usepackage{microtype}
+\usepackage{parskip}
 \usepackage{enumitem,amssymb}
 \usepackage{makecell}
 \usepackage{amsmath}
@@ -55,11 +58,11 @@
 %% Real-time switching
 \DeclareRobustCommand{\showanswers}{\setboolean{@answer}{true}}
 \DeclareRobustCommand{\noshowanswers}{\setboolean{@answer}{false}}
-\showanswers
+\noshowanswers
 
 %% Fill in blanks
 \DeclareRobustCommand{\fillinunderline}[1]{%
-\ifthenelse{\boolean{@answer}}{\textcolor{red}{\underbar{~~~~~ #1 ~~~~~}}}{\textcolor{gray}{\underbar{\phantom{~~~~~ #1 ~~~~~}}}}%
+\ifthenelse{\boolean{@answer}}{\textcolor{red}{\underbar{~~~ #1 ~~~}}}{\textcolor{gray}{\underbar{\phantom{~~~ #1 ~~~}}}}%
 }
 
 \DeclareRobustCommand{\fillinspace}[1]{%
@@ -104,7 +107,7 @@
 % \fillinunderline{atom}
 \newcommand\fillin[1]{
 	\sbox0{#1}
-	\hspace*{0pt}\leaders\hrule height 0pt depth 1pt\hskip\wd0 plus 1em\relax\mbox{}}
+	\hspace*{0pt}\leaders\hrule height 0pt depth 1pt\hskip\wd0 plus 0.5em\relax\mbox{}}
 
 % Usage
 % \begin{itemize}[twocol]
@@ -150,14 +153,18 @@
 % ==================
 % Set Up Title Page
 % ==================
+
 \title{
-	\centerline{\includegraphics[width=50mm]{assets/lymphad.jpg}}
-	\vspace{0.5cm}
-	Year 12 Physics - Modern Physics\\
-	\vspace{0.5cm}
-	\large AS91172 \\ https://putaiao.nz/12phy/as91172/\\}
-	\author{Finn Le Sueur\\ \texttt{lsf@cashmere.school.nz}}
-	\date{\the\year{}
+	\centerline{\includegraphics[width=120mm]{assets/lymphad.jpg}}
+	\vspace{2cm}
+	\Huge{Modern Physics}\\
+	\large{AS91172 \\ 3 NCEA L2 Credits}
+}
+\author{Finn Le Sueur \\ \texttt{lsf@cashmere.school.nz} \\ https://putaiao.nz/12phy/as91172/}
+\date{
+	\vspace{2cm}
+	\the\year{}
+	\vspace{2cm}
 }
 
 \begin{document}
@@ -185,7 +192,6 @@
 	\begin{center}
 		% Sourced from https://thefournations-rpg.forumotion.com/
 		\includegraphics[width=0.9\linewidth]{four-nations.jpg}
-		\label{}
 	\end{center}
 \end{wrapfigure}
 
@@ -195,7 +201,7 @@ In the modern day we have a different theory that is testable and that allows us
 
 \section{Atoms and Elements}
 
-\begin{wrapfigure}[9]{r}{0.5\textwidth}
+\begin{wrapfigure}[2]{r}{0.5\textwidth}
 	\vspace{-1cm}
 	\begin{center}
 		\includegraphics[width=0.9\linewidth]{elements.png}
@@ -203,35 +209,27 @@ In the modern day we have a different theory that is testable and that allows us
 \end{wrapfigure}
 
 \textbf{Pātai:} What makes the elements different from each other?\\
-\fillinspace{
-	They have distinct properties, but the thing that defines different elements is the number of protons in the nucleus. Every atom of the same element has the same number of protons.
-}
-\vspace{1cm}
+\vspace{2cm}
 
 \subsection{Ngohe: Draw a labelled diagram of a lithium atom}
-\vspace{5cm}
 
+\newpage
 \subsection{The Rutherford Model}
 
-\begin{wrapfigure}[3]{r}{0.3\textwidth}
-	\vspace{-2cm}
+\begin{wrapfigure}[8]{r}{0.3\textwidth}
+	\vspace{-1cm}
 	\centering
 	% Source: https://en.wikipedia.org/wiki/Rutherford_model
 	\includegraphics[width=0.9\linewidth]{rutherford-model.png}
-	\label{}
 \end{wrapfigure}
 
-What you have drawn is the Rutherford Model of the atom. This model is the most common one we see in school today
-because it has very strong predictive powers. It is also very valuable because it allows to easily visualise things
-like \textit{ions} and \textit{isotopes} and how some chemical bonding works. The central region is called
-the \fillinunderline{nucleus}. It is made of \fillinunderline{protons} and \fillinunderline{neutrons} which are strongly bound
-together by the \fillinspace{nuclear force}. Together we call protons and neutrons \fillinunderline{nucleons}, as they
-exist in the nucleus. Electrons are constantly moving around the nucleus in a probabilistic way. This means that they
-do not have fixed orbits like the planets, but instead exist in a \text{probability cloud}. The size of the nucleus
-compared to the whole atom is very small, but it contains $>99.95\%$ of the mass because electrons are very light.
-Protons have a \fillinunderline{positive} charge, electrons have a \fillinunderline{negative} charge, and neutrons
-have \fillinunderline{no} change. Protons and electrons have an equal but opposite sized charge despite their very
-different masses.
+What you have drawn is the Rutherford Model of the atom. This model is the most common one we see in school today because it has very strong predictive powers. It is also very valuable because it allows to easily visualise things like \textit{ions} and \textit{isotopes} and how some chemical bonding works.
+
+The central region is called the \fillinunderline{nucleus}. It is made of \fillinunderline{protons} and \fillinunderline{neutrons} which are strongly bound together by the \fillinspace{nuclear force}. Together we call protons and neutrons \fillinunderline{nucleons}, as they exist in the nucleus.
+
+Electrons are constantly moving around the nucleus in a probabilistic way. This means that they do not have fixed orbits like the planets, but instead exist in a \text{probability cloud}. The size of the nucleus compared to the whole atom is very small, but it contains $>99.95\%$ of the mass because electrons are very light.
+
+Protons have a \fillinunderline{positive} charge, electrons have a \fillinunderline{negative} charge, and neutrons have \fillinunderline{no} change. Protons and electrons have an equal but opposite sized charge despite their very different masses.
 
 \section{Atomic and Mass Numbers}
 The number of protons in an atom (i.e. the atomic number) defines which type of atom it is. For example, and atom that has six protons MUST be a \fillinunderline{carbon} atom, and cannot be any other.
@@ -244,20 +242,20 @@ The number of protons in an atom (i.e. the atomic number) defines which type of 
 \subsection{Ngohe: Reading the Periodic Table}
 
 \renewcommand{\arraystretch}{2}
-\begin{table}[ht]
-\begin{center}
+\begin{table}[hb]
+\centering
 \begin{tabular}{|l|l|l|l|l|l|l|}
 \cline{2-7}
 \hline
-                   & \textbf{Protons}  & \textbf{Electrons}  & \textbf{Neutrons} & \textbf{Nucleons} & \bfseries{\makecell{Atomic \\Number}} & \bfseries{\makecell{Mass \\Number}} \\ \hline
+                   & \textbf{Protons}  & \textbf{Electrons}  & \textbf{Neutrons} & \textbf{Nucleons} & \bfseries{\makecell{Atomic \\ \#}} & \bfseries{\makecell{Mass \\ \#}} \\ \hline
 \textbf{Oxygen}    & \fillinunderline{8}   & \fillinunderline{8}     & \fillinunderline{8}   & \fillinunderline{16}  & \fillinunderline{8}                       &                                     \\ \hline
 \textbf{Sodium}    & \fillinunderline{11}  & \fillinunderline{11}    & \fillinunderline{12}  & \fillinunderline{23}  & \fillinunderline{11}                      &                                     \\ \hline
 \textbf{Aluminium} & \fillinunderline{13}  & \fillinunderline{13}    & \fillinunderline{14}  & \fillinunderline{27}  & \fillinunderline{13}                      &                                     \\ \hline
 \textbf{Copper}    & \fillinunderline{29}  & \fillinunderline{29}    & \fillinunderline{35}  & \fillinunderline{64}  & \fillinunderline{29}                      &                                     \\ \hline
 \end{tabular}
-\end{center}
 \end{table}
 
+\newpage
 \section{Ions}
 
 \begin{wrapfigure}[7]{r}{0.5\textwidth}
@@ -265,7 +263,6 @@ The number of protons in an atom (i.e. the atomic number) defines which type of 
 	\begin{center}
 		% Source: https://static-cdn.imageservice.cloud/3528258/igcse-chemistry-2017-140-draw-dot-and-cross-diagrams-to-show-the.jpg
 		\includegraphics[width=0.9\linewidth]{ion.png}
-		\label{}
 	\end{center}
 \end{wrapfigure}
 
@@ -279,7 +276,6 @@ Positively charged ions are called \fillinunderline{cations} and negatively char
 	\begin{center}
 		% Source: https://isotopes.gov/isotope-basics
 		\includegraphics[width=0.9\linewidth]{isotopes.jpg}
-		\label{}
 	\end{center}
 \end{wrapfigure}
 
@@ -293,10 +289,11 @@ Some isotopes are stable, while others like Carbon-14 is radioactive and will de
 
 For Carbon-12, Carbon-13 and Carbon-14, complete the table below.
 
-\begin{table}[h]
+\begin{table}[ht]
+\centering
 \begin{tabular}{l|l|l|l|l|l|l|}
 \cline{2-7}
-                                         & \textbf{Protons} & \textbf{Electrons} & \textbf{Neutrons} & \textbf{Nucleons} & \bfseries{\makecell{Atomic \\Number}} & \bfseries{\makecell{Mass \\Number}} \\ \hline
+                                         & \textbf{Protons} & \textbf{Electrons} & \textbf{Neutrons} & \textbf{Nucleons} & \bfseries{\makecell{Atomic \\ \#}} & \bfseries{\makecell{Mass \\ \#}} \\ \hline
 \multicolumn{1}{|l|}{\textbf{Carbon-12}} &                  &                    &                   &                   &                        &                      \\ \hline
 \multicolumn{1}{|l|}{\textbf{Carbon-13}} &                  &                    &                   &                   &                        &                      \\ \hline
 \multicolumn{1}{|l|}{\textbf{Carbon-14}} &                  &                    &                   &                   &                        &                      \\ \hline
@@ -389,7 +386,7 @@ If the electrons were inside the atoms, and an atom was neutral, the electrons w
 
 \section{Ernest Rutherford (1871-1937)}
 
-\begin{wrapfigure}[9]{r}{0.2\textwidth}
+\begin{wrapfigure}[10]{r}{0.2\textwidth}
 	\vspace{-1cm}
 	\begin{center}
 		% Source: https://en.wikipedia.org/wiki/Rutherford_model
@@ -400,16 +397,14 @@ If the electrons were inside the atoms, and an atom was neutral, the electrons w
 
 Ernest Rutherford is a New Zealand-born British Physicist credited as the father of nuclear physics. He was the discoverer of the concept of \fillinunderline{radioactive half-life}, and was awarded the Nobel Prize in Chemistry for his work into the disintegration of the elements (\fillinunderline{radioactivity}).
 
-His work on the atom revolved around something called \fillinunderline{The Gold Foil Experiment} where he fired alpha particles (\fillinunderline{helium nuclei}) at a sheet of thin gold foil. By analysing the scatter pattern of the alpha particles he was able to determine that there is a positive nucleus in the centre of the atom, and that the electrons should orbit around the outside.
-
-Notice that at this point we still have not discovered the neutron.
+His work on the atom revolved around something called \fillinunderline{The Gold Foil Experiment} where he fired alpha particles (\fillinunderline{helium nuclei}) at a sheet of thin gold foil. By analysing the scatter pattern of the alpha particles he was able to determine that there is a positive nucleus in the centre of the atom, and that the electrons should orbit around the outside. \textit{Notice that at this point we still have not discovered the neutron}.
 
 \newpage
 \section{The Gold Foil Experiment}
 
 \noindent\href{https://www.youtube.com/watch?v=1EdTw4I6L0U}{Introductory Video: https://www.youtube.com/watch?v=1EdTw4I6L0U}
 
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
 	\begin{subfigure}{0.5\textwidth}
 		\centering
@@ -504,7 +499,7 @@ Ionising means to have the ability to strip electrons from an atom/molecule. In 
 
 The ability to ionize is also characterised by having an electric charge. Neutral particles are less ionising. Low energy electromagnetic radiation is also not ionising. This is why your phone or microwave cannot harm you, but repeated x-rays can.
 
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
 	% Source: https://www.mirion.com/learning-center/radiation-safety-basics/what-is-radiation
 	\includegraphics[width=0.9\linewidth]{assets/ionising-radiation.jpg}
@@ -555,7 +550,7 @@ Due to being electromagnetic radiation, it travels at \fillinunderline{the speed
 \section{Ngohe: Radiation Protection}
 Draw an arrow from each type of radiation, stopping the arrow at the material that is capable of blocking it.
 
-\begin{figure}[h]
+\begin{figure}[ht]
 	\centering
 	% Source: Finn Le Sueur
 	\includegraphics[width=0.9\linewidth]{radiation-penetration.png}
@@ -565,7 +560,7 @@ Draw an arrow from each type of radiation, stopping the arrow at the material th
 
 \noindent{Summarise the types of radiation below.}
 
-\begin{table}[h!]
+\begin{table}[ht]
 \centering
 \begin{tabular}{l|l|l|p{2cm}|l|}
 \cline{2-5}
@@ -577,7 +572,7 @@ Draw an arrow from each type of radiation, stopping the arrow at the material th
 \end{table}
 
 \begin{enumerate}
-	\item State which elements tend to be naturally radioactive and explain why.\\ \fillinspace{Elements with very large nuclei tend to be radioactive. This is because the strength of the strong nuclear force is diluted due to the large volume of the nucleus. This means that the electrostatic repulsion of the protons can overcome the strong nuclear force and break apart the nucleus.}
+	\item State which elements tend to be naturally radioactive and explain why.\fillinspace{Elements with very large nuclei tend to be radioactive. This is because the strength of the strong nuclear force is diluted due to the large volume of the nucleus. This means that the electrostatic repulsion of the protons can overcome the strong nuclear force and break apart the nucleus.}
 	\item Identify which of the three types of radiation is being described below.
 	\begin{enumerate}
 		\item It travels a few cm in air.\\ \fillinspace{Alpha radiation}
@@ -588,7 +583,7 @@ Draw an arrow from each type of radiation, stopping the arrow at the material th
 		\item It is not deflected by a magnetic field.\\ \fillinspace{Gamma radiation}
 	\end{enumerate}
 	\item When the three types of radiation are passed through a magnetic field they separate into three beams as shown. Identify which beam is which.
-	\begin{figure}[h!]
+	\begin{figure}[ht]
     	\centering
     	% Source: Finn Le Sueur
     	\includegraphics[width=0.8\linewidth]{radiation-magnetic-field.png}
@@ -622,11 +617,11 @@ In alpha ($\alpha$) decay a helium nucleus is emitted from the parent atom. This
 This means that the atomic number \fillinunderline{decreases} by \fillinunderline{two}, and the mass number \fillinunderline{decreases} by \fillinunderline{two}.
 
 \noindent\textbf{Pātai}: Write the nuclear symbol for an alpha particle (two options):
-\vspace{1.5cm}
+\vspace{0.5cm}
 
 \noindent\textbf{Pātai}: Use your knowledge of alpha decay to predict what atom would be produced.
 
-\begin{table}[h!]
+\begin{table}[ht]
 \centering
 \begin{tabular}{|l|p{3cm}|p{3cm}|}
 \hline
@@ -640,17 +635,17 @@ This means that the atomic number \fillinunderline{decreases} by \fillinunderlin
 \end{table}
 
 \noindent\textbf{Pātai}: Next, we should attempt to write this decay as a nuclear equation where Thallium-214 is the reactant, and the daughter atom and alpha particle are the products.
+\vspace{1cm}
 
-\newpage
 \section{Beta Decay}
-In beta ({$\beta^{-1}, e^{-1}$) decay a single neutron turns into a proton and a \fillinunderline{high speed electron} is emitted. This means that the atomic number \fillinunderline{increases} by \fillinunderline{one}, and the mass number \fillinunderline{stays the same}.
+In beta ({$\beta^{-1}, e^{-1}$) decay a neutron turns into a proton and a \fillinunderline{high speed electron} is emitted from the nucleus. This means that the atomic number \fillinunderline{increases} by \fillinunderline{one}, and the mass number \fillinunderline{stays the same}.
 
 \noindent\textbf{Pātai}: Write the nuclear symbol for a beta particle (two options):
 \vspace{1.5cm}
 
 \noindent\textbf{Pātai}: Use your knowledge of beta decay to predict what atom would be produced:
 
-\begin{table}[h]
+\begin{table}[ht]
 \centering
 \begin{tabular}{|l|p{3cm}|p{3cm}|}
 \hline
@@ -672,9 +667,10 @@ Due to the symmetrical nature of Physics, each particle has an \textit{antiparti
 \noindent\textbf{Pātai}: Write the nuclear symbol for a positron (two options):
 \vspace{1.5cm}
 
+% \newpage
 \noindent\textbf{Pātai}: An example atom that undergoes positron decay is Magnesium-23. Use your knowledge of beta decay to predict what atom would be produced:
 
-\begin{table}[h]
+\begin{table}[ht]
 \centering
 \begin{tabular}{|l|p{3cm}|p{3cm}|}
 \hline
@@ -688,17 +684,17 @@ Due to the symmetrical nature of Physics, each particle has an \textit{antiparti
 \end{table}
 
 \noindent\textbf{Pātai}: Next we should attempt to write this decay as a nuclear equation where Magnesium-23 is the reactant, and the daughter atom and positron are the products.
-\vspace{1.5cm}
+\vspace{1cm}
 
 \section{Gamma Decay}
 In gamma ($\gamma$) decay an excited nucleus emits high-energy electromagnetic waves in the form of gamma radiation. The nucleus does not emit any particles - it only becomes more \textit{relaxed}. This means that the atomic and mass numbers \fillinspace{stay the same}.
 
 \noindent\textbf{Pātai}: Write the nuclear symbol for a gamma ray (one option):
-\vspace{1.5cm}
+\vspace{0.5cm}
 
 \noindent\textbf{Pātai}: An example of gamma decay is after Cobolt-60 has decayed to Nickel-60 via beta decay. The Nickel-60 atom is in an excited (high energy state) and needs to emit some energy. Use your knowledge of gamma decay to predict what atom would be produced:
 
-\begin{table}[h!]
+\begin{table}[ht]
 \centering
 \begin{tabular}{|l|p{3cm}|p{3cm}|}
 \hline
@@ -855,7 +851,7 @@ Carbon-14, which has a half-life of 5700 years, decays to Carbon-12. By measurin
 	\item State what is meant by the term \textit{half-life}.
 	\item A sample of living wood has an activity of $16counts/min$ per gram. Calculate the activity of a $20g$ sample of living wood.
 	\item Hence calculate the activity of a $20g$ sample of wood from a tree that died 17,100 years ago. State the correct unit for your answer.\vspace{2cm}
-	\item A $5.0g$ sample of old wood from an archaeological site has an activity of $20counts/min$. Calculate the activity of the sample when the wood was living, and hence calculate how long ago the tree died.
+	\item A $5.0g$ sample of wood from an archaeological site has an activity of $20counts/min$. Calculate the activity of the sample when the wood was living, and hence calculate how long ago the tree died.
 \end{enumerate}
 
 
@@ -883,7 +879,7 @@ Recall from earlier that nuclei are generally stable because the \fillinunderlin
 	\includegraphics[width=0.7\linewidth]{neutron-bombardment.png}
 \end{figure}
 
-By accelerating neutrons to a high speed and colliding them with an already large nucleus, the neutron can sometimes be incorporated into the nucleus via the \fillinunderline{strong nuclear force}. This in turn causes the electrostatic force to now become larger than the strong nuclear force and \textbf{the nuclei to break apart in nuclear fission}. This is the process through which nuclear reactors produce energy here on Earth.
+By colliding high-speed neutrons with an already large nucleus, the neutron can sometimes be incorporated into the nucleus via the \fillinunderline{strong nuclear force}. This in turn causes the electrostatic force to now become larger than the strong nuclear force and \textbf{the nuclei to break apart in nuclear fission}. This is the process through which nuclear reactors produce energy here on Earth.
 
 \subsection{Pātai: Fission of Uranium}
 Uranium-235 is bombarded with a high speed neutron. The resulting nucleus becomes radioactive and decays into two daughter nuclei: Krypton-92 and Barium-141.
