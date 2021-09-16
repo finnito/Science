@@ -97,7 +97,9 @@ menu:
     3. [Quizlet](https://quizlet.com/nz/616896100/volcanoes-in-new-zealand-flash-cards/)
 
 16. #### Volcanoes & Rock Cycle
-    1. 
+    1. Start with EP task on volcanoes
+    2. Make notes at own pace in book [from slides](slides/rock-cycle.html), print [rock cycle diagram](https://docs.google.com/document/d/1jUk7i2p5FKqeqrTCeZLSPqKYcSXS2an9N1Xzujqd70E/edit)
+    3. [Identifying Rocks](https://www.riskassess.co.nz/risk_assessment/10026321)
 
 17. #### 
 
