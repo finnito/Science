@@ -61,20 +61,20 @@ menu:
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_
 
-1-4. #### Structure of Earth
+1. #### (1-4) Structure of Earth
     1. Note taking on [Intro to Geology](slides/introduction.html)
     2. Note taking on [Structure of Earth](slides/structure-of-earth.html)
     3. Read [page 104 of textbook](https://classroom.google.com/w/MjU2NzQ5OTE2OTM4/t/all)
     4. Whamakātau: [Indirect Observations](slides/indirect-observations.html)
     5. [Quizlet flashcards on Structure of Earth](https://quizlet.com/finnlesueur/folders/y10-science/sets)
 
-5-8. #### Tectonic Plates & Drift
+2. #### (5-8) Tectonic Plates & Drift
     1. Note taking on [Tectonic Plates](slides/plate-tectonics-continental-drift.html)
     2. Read [PDF on Pangea](https://drive.google.com/drive/folders/1Tp9TXIVFcMbYcbDrWMONDmV6uo8Wsn5r) and answer questions
     3. [Evidence for tectonic drift research](https://docs.google.com/document/d/1BYQ-f5ekiAQE1THfJVOoCQcwASTElnfY6peDmwF4H9E/edit)
     4. [Quizlet flashcards on Tectonic Plates](https://quizlet.com/finnlesueur/folders/y10-science/sets)
 
-9-10. #### Volcanoes
+3. #### (9-10) Volcanoes
     1. [Take notes on volcano formation and types of volcanoes](slides/volcanoes.html)
     2. Explore [NZ volcanoes on Google Earth](https://earth.google.com/earth/d/1trZcLLtDU3VR0hqO-I6ohgZP8B4xLZqk?usp=sharing)
     3. Watch [Episode 1 of Perfect Planet](https://drive.google.com/file/d/1B4Wlg-qKjyMjSh0x0dNi8Hl2QZ27oXBh/view?usp=sharing)
