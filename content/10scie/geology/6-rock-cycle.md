@@ -102,3 +102,34 @@ There are three types of rock that we are interested in:
 2. Use the magnifying glass to inspect each rock. Look for bands, crystals and other features!
 3. Categorise each rock on the tray as Igneous, Sedimentary or Metamorphic.
 4. ⬆️ Write their names next to your notes in your exercise book. ⬆️
+
+---
+
+<iframe width="950" height="534" src="https://www.youtube.com/embed/R-Iak3Wvh9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Ngohe/Task: Erosion vs Weathering
+
+1. Write a heading "Weathering vs Erosion" in your book
+2. Put a small column down the middle of your page
+3. Use these websites to make some notes on weathering and erosion in your own time!
+	- http://www.onegeology.org/extra/kids/earthprocesses/weathering.html
+	- https://www.doe.virginia.gov/instruction/gifted_ed/project_promise/science_curriculum/grade_two/handouts/earth_science/weathering_erosion_pictures.pdf
+4. Make sure you include some examples of weathering and erosion
+
+---
+
+### Freeze-Thaw Weathering
+
+Perhaps the most common and impressive types of weathering is the freeze-thaw cycle. Water can get into the smallest of cracks, and when it freezes, it expands. This expansion exerts force on the surrounding rock, cracking it slightly. When it melts it can get a little futher into the rock, and repeat until the rock is broken! __Sketch this diagram in your book.__
+
+![[Source](https://www.jkgeography.com/fluvial-processes-weathering-and-mass-movement.html)](https://www.jkgeography.com/uploads/1/0/8/4/108433405/freeze-and-thaw-is-physical-weathering_orig.png)
+
+---
+
+### Ngohe/Task: The Rock Cycle on Banks Peninsula
+
+1. Open the Google Doc on Google Classroom
+2. Find a diagram for the three situations described
+3. Use your notes, rock cycle diagram and best geology vocabulary to answer the questions in the _Explanation_ section!

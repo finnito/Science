@@ -101,9 +101,16 @@ menu:
     2. Make notes at own pace in book [from slides](slides/rock-cycle.html), print [rock cycle diagram](https://docs.google.com/document/d/1jUk7i2p5FKqeqrTCeZLSPqKYcSXS2an9N1Xzujqd70E/edit)
     3. [Identifying Rocks](https://www.riskassess.co.nz/risk_assessment/10026321)
 
-17. #### 
+17. #### Three Types of Rock
+    1. [Kahoot on volcanoes](https://create.kahoot.it/details/61eaa7f1-ae67-486c-92cf-064a648a58e8)
+    2. Notes on [three types of rock](slides/rock-cycle.html)
+    3. Have rock trays available so we can see the different types as we go
 
-18. #### 
+18. #### Weathering & Erosion
+    1. Finish [types of rocks](slides/rock-cycle.html) notes
+    2. Watch [video](https://www.youtube.com/watch?v=R-Iak3Wvh9c) on weathering and erosion
+    3. Make self-paced notes on weathering vs erosion
+    4. Ngohe/Task: Document on [Weathering and Erosion on Banks Peninsula](https://docs.google.com/document/d/1Jctt_YhE1IVQGQLMySYEhdQ5pstn6La3rw9SnVwOyq8/edit#)
 
 19. #### 
 
