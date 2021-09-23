@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+source ~/.profile
+
 terminal-notifier \
         -group "com.finnlesueur.science" \
         -title "Pūtaiao" \
