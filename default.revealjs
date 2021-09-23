@@ -19,7 +19,10 @@
                         ]
                 });
         });
-</script>
+        </script>
+        $if(dev)$
+        <script src="/livereload.js?mindelay=10&amp;v=2&amp;port=$liveReloadPort$&amp;path=livereload" data-no-instant defer></script>
+        $endif$
 $for(author-meta)$
   <meta name="author" content="$author-meta$">
 $endfor$

@@ -203,7 +203,9 @@ callPandoc() {
         --variable=fragmentInURL:true \
         --variable=date:"$year" \
         --variable=theme:finn \
-        --variable=author:"Finn Le Sueur"
+        --variable=author:"Finn Le Sueur" \
+        --variable=dev:"$dev" \
+        --variable=liveReloadPort:1313
 }
 
 compileGitLog() {
