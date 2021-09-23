@@ -9,6 +9,13 @@ menu:
 ---
 
 <!-- 
+Assessment Notes:
+- send the attached letter home to parents to make sure students are entered for the internal before they start. The letter is also in V:\Science\The SCIENCE file\Year 10\Fire and Fuels\Assessment\Permission & Authenticity Forms
+- tick the entry in Kamar as soon as you know who is entering
+- enter their grade in Kamar after the assessment and internal moderation is done
+- print the grades and get the students to sign them off, then double tick the Kamar entry
+- put all student work in PTDs office with the sign-off sheet which should also indicate which student work has been internally moderated.
+
 1. Structure of Earth
     - Core, Outer Core, Mantle, Crust
     - Convection Currents, nuclear reactions, tectonic plate movement
@@ -56,7 +63,7 @@ menu:
 | __T3 W6__  | 5. Tectonic Plates                  | 6. Tectonic Plates       | 7. Continental Drift          | 8. Boundary Types                  |
 | __T3 W7__  | 9. Boundary Types                   | 10. Types of Volcanoes   | 11. ~~Fire & Fuels Revision~~ | 12. ~~Fire & Fuels Assessment P2~~ |
 | __T3 W8__  | 13. ~~Fire & Fuels Assemssment P3~~ | 14. Types of Volcanoes   | 15. Types of Volcanoes        | 16. Volcanoes & Rock Cycle         |
-| __T3 W9__  | 17. Rock Cycle                      | 18. Weathering & Erosion | 19. Canterbury Plains         | 20. Earthquakes                    |
+| __T3 W9__  | 17. Rock Cycle                      | 18. Weathering & Erosion | 19. Local Geology             | 20. Earthquakes                    |
 | __T3 W10__ | 21. Earthquakes                     | 22. Earthquakes          | 23. _Revision_                | 24. __TEST__                       |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_
@@ -110,11 +117,16 @@ menu:
     1. Finish [types of rocks](slides/rock-cycle.html) notes
     2. Watch [video](https://www.youtube.com/watch?v=R-Iak3Wvh9c) on weathering and erosion
     3. Make self-paced notes on weathering vs erosion
-    4. Ngohe/Task: Document on [Weathering and Erosion on Banks Peninsula](https://docs.google.com/document/d/1Jctt_YhE1IVQGQLMySYEhdQ5pstn6La3rw9SnVwOyq8/edit#)
 
-19. #### 
+19. #### Local Geology
+    1. [Quizlet on Rock Cycle](https://quizlet.com/nz/619884045/rock-cycle-flash-cards/)
+    2. Diagramming SA, BP, and CP
+    3. Reading Mountains of Fire
 
-20. #### 
+20. #### Earthquakes
+    0. Print [Earthquake Diagrams](https://docs.google.com/document/d/1tKlXnrlYPBxodxpcyat_Ertz1ilWa0Qp7ntOBJCFg5w/edit)
+    1. Starter: Document on [Weathering and Erosion on Banks Peninsula](https://docs.google.com/document/d/1Jctt_YhE1IVQGQLMySYEhdQ5pstn6La3rw9SnVwOyq8/edit#)
+    2. [Earthquakes notes](slides/earthquakes.html) on slides
 
 21. #### 
 
