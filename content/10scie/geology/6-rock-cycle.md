@@ -105,6 +105,7 @@ There are three types of rock that we are interested in:
 
 ---
 
+<!-- Weathering & Erosion -->
 <iframe width="950" height="534" src="https://www.youtube.com/embed/R-Iak3Wvh9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
@@ -125,6 +126,11 @@ There are three types of rock that we are interested in:
 Perhaps the most common and impressive types of weathering is the freeze-thaw cycle. Water can get into the smallest of cracks, and when it freezes, it expands. This expansion exerts force on the surrounding rock, cracking it slightly. When it melts it can get a little further into the rock, and repeat until the rock is broken! __Sketch this diagram in your book.__
 
 ![[Source](https://www.jkgeography.com/fluvial-processes-weathering-and-mass-movement.html)](https://www.jkgeography.com/uploads/1/0/8/4/108433405/freeze-and-thaw-is-physical-weathering_orig.png)
+
+---
+
+<!-- Mt Cook / Akoraki Weathering & Erosion -->
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/wRvq9A5qwsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
