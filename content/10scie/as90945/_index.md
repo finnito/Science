@@ -9,9 +9,18 @@ assessment: internal
 weight: 4
 ---
 
+<!--
+Assessment Notes:
+- send the attached letter home to parents to make sure students are entered for the internal before they start. The letter is also in V:\Science\The SCIENCE file\Year 10\Fire and Fuels\Assessment\Permission & Authenticity Forms
+- tick the entry in Kamar as soon as you know who is entering
+- enter their grade in Kamar after the assessment and internal moderation is done
+- print the grades and get the students to sign them off, then double tick the Kamar entry
+- put all student work in PTDs office with the sign-off sheet which should also indicate which student work has been internally moderated.
+-->
+
 {{< slides >}}
 
-## Learning Outcomes _/ Ngā Whāinga Ako_ 
+## Learning Outcomes _/ Ngā Whāinga Ako_
 
 1. __Fire Triangle__
     1. Describe the fire triangle
@@ -35,7 +44,7 @@ weight: 4
     3. Explain how burning fuels is contributing to the greenhouse effect
     4. List air pollutants which are produced from fossil fuels and describe their effects on human health
 
-## Unit Plan _/ Mahere Kōwae_ 
+## Unit Plan _/ Mahere Kōwae_
 
 |             | Akoranga 1                  | Akoranga 2                  | Akoranga 3                | Akoranga 4                |
 | :---------- | :--------------             | :--------------             | :--------------           | :--------------           |
