@@ -39,36 +39,36 @@ menu:
 1. __Earth Structure and Plate Tectonics__
     1. Explain how the earth has changed over 4.6 billion years and  account for its current structure
     2. Explain the theory of plate tectonics using many sources of evidence
-    3. Use scientific language:  crust, mantle, outer core, inner core, subduction zone, constructive, destructive and conservative plate boundaries
+    3. Use scientific language:  crust, mantle, outer core, inner core, subduction zone, constructive, destructive and conservative plate boundaries, viscosity of larva, shield, dome, caldera
 2. __Earthquakes and Volcanoes__
     1. Use plate tectonics to explain why and where earthquakes and volcanic eruptions happen
     2. Recall major seismic events from NZ and earth history and relate them to their impact on people
-    3. Use scientific language: Richter and Mercalli scale, epicenter, focus, p and s waves, viscosity of larva, shield, dome, caldera
+    3. Use scientific language: Richter and Mercalli scale, epicenter, focus, p and s waves
 3. __The Rock Cycle__
     1. Describe how sedimentary (including fossils), metamorphic and igneous rocks are created and destroyed
     2. Explain how land features (mountains, rivers, plains) are linked to tectonic plate movement  and erosion and weathering
 
 ## Unit Plan _/ Mahere Kōwae_
 
-|            |           Akoranga 1 (Mon)          |     Akoranga 2 (Tue)     |        Akoranga 3 (Thu)       |          Akoranga 4 (Fri)          |
-| ---------- | ----------------------------------- | ------------------------ | ----------------------------- | ---------------------------------- |
-| __T3 W5__  | 1. Structure of Earth               | 2. Structure of Earth    | 3. Structure of Earth         | 4. Structure of Earth              |
-| __T3 W6__  | 5. Tectonic Plates                  | 6. Tectonic Plates       | 7. Continental Drift          | 8. Boundary Types                  |
-| __T3 W7__  | 9. Boundary Types                   | 10. Types of Volcanoes   | 11. ~~Fire & Fuels Revision~~ | 12. ~~Fire & Fuels Assessment P2~~ |
-| __T3 W8__  | 13. ~~Fire & Fuels Assemssment P3~~ | 14. Types of Volcanoes   | 15. Types of Volcanoes        | 16. Volcanoes & Rock Cycle         |
-| __T3 W9__  | 17. Rock Cycle                      | 18. Weathering & Erosion | 19. Local Geology             | 20. Earthquakes                    |
-| __T3 W10__ | 21. Earthquakes                     | 22. Earthquakes          | 23. _Revision_                | 24. __TEST__                       |
+|            |           Akoranga 1 (Mon)          |        Akoranga 2 (Tue)       |        Akoranga 3 (Thu)       |          Akoranga 4 (Fri)          |
+| ---------- | ----------------------------------- | ----------------------------- | ----------------------------- | ---------------------------------- |
+| __T3 W5__  | 1. [Structure of Earth](#l1)        | 2. [Structure of Earth](#l1)  | 3. [Structure of Earth](#l1)  | 4. [Structure of Earth](#l1)       |
+| __T3 W6__  | 5. [Tectonic Plates](#l2)           | 6. [Tectonic Plates](#l2)     | 7. [Continental Drift](#l2)   | 8. [Boundary Types](#l2)           |
+| __T3 W7__  | 9. [Boundary Types](#l2)            | 10. [Types of Volcanoes](#l3) | 11. ~~Fire & Fuels Revision~~ | 12. ~~Fire & Fuels Assessment P2~~ |
+| __T3 W8__  | 13. ~~Fire & Fuels Assemssment P3~~ | 14. [Types of Volcanoes](#l3) | 15. [Types of Volcanoes](#l3) | 16. Volcanoes & Rock Cycle         |
+| __T3 W9__  | 17. Rock Cycle                      | 18. Weathering & Erosion      | 19. Local Geology             | 20. Earthquakes                    |
+| __T3 W10__ | 21. Earthquakes                     | 22. Earthquakes               | 23. _Revision_                | 24. __TEST__                       |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_
 
-1. #### (1-4) Structure of Earth
+1. #### (1-4) Structure of Earth {#l1}
     1. Note taking on [Intro to Geology](slides/introduction.html)
     2. Note taking on [Structure of Earth](slides/structure-of-earth.html)
     3. Read [page 104 of textbook](https://classroom.google.com/w/MjU2NzQ5OTE2OTM4/t/all)
     4. Whamakātau: [Indirect Observations](slides/indirect-observations.html)
     5. [Quizlet flashcards on Structure of Earth](https://quizlet.com/finnlesueur/folders/y10-science/sets)
 
-2. #### (5-8) Tectonic Plates & Drift
+2. #### (5-8) Tectonic Plates & Drift {#l2}
     1. Note taking on [Tectonic Plates](slides/plate-tectonics-continental-drift.html)
     2. Read [PDF on Pangea](https://drive.google.com/drive/folders/1Tp9TXIVFcMbYcbDrWMONDmV6uo8Wsn5r) and answer questions
     3. [Evidence for tectonic drift research](https://docs.google.com/document/d/1BYQ-f5ekiAQE1THfJVOoCQcwASTElnfY6peDmwF4H9E/edit)
@@ -119,12 +119,28 @@ menu:
 20. #### Earthquakes
     0. Print [Earthquake Diagrams](https://docs.google.com/document/d/1tKlXnrlYPBxodxpcyat_Ertz1ilWa0Qp7ntOBJCFg5w/edit)
     1. Starter: Document on [Weathering and Erosion on Banks Peninsula](https://docs.google.com/document/d/1Jctt_YhE1IVQGQLMySYEhdQ5pstn6La3rw9SnVwOyq8/edit#)
-    2. [Earthquakes notes](slides/earthquakes.html) on slides
+    2. Brief intro to [Earthquakes](slides/earthquakes.html) on slides
 
-21. #### 
+21. #### Seismic Waves & Locating Earthquakes
+    1. [Notes on s & p waves](slides/earthquakes.html)
+    2. Locating earthquakes worksheet
 
-22. #### 
+22. #### Measuring Earthquakes & Revision
+    0. Finish locating earthquakes worksheet
+    1. Finish notes on s & p waves
+    2. Lots of videos on quakes and NZ
 
-23. #### Revision
+23. #### Measuring Earthquakes
+    1. Review homework: last question of weathering and erosion document
+    2. Notes on Richter vs MMI scales
+    3. Ngohe: Assigning Magnitues to Historical NZ Earthquakes
 
-24. #### TEST
+24. #### Beneath New Zealand Documentary
+    1. [IMDB Listing](https://www.imdb.com/title/tt4909344/)
+    2. Ep. 1 - Weathering & Erosion on Southern Alps
+    3. Ep. 2 - Volcanoes
+    4. Ep. 3 - Rocks and Quakes
+    5. Ep. 4 - Pink and White Terraces
+    6. Ep. 5 - Gondwana & Volcanism
+    7. Ep. 6 - Auckland Volcanic Field
+    8. [Drain the Oceans S1E6 - Deadly Pacific](https://www.imdb.com/title/tt8680494/)
