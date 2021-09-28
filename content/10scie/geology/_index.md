@@ -9,13 +9,6 @@ menu:
 ---
 
 <!-- 
-Assessment Notes:
-- send the attached letter home to parents to make sure students are entered for the internal before they start. The letter is also in V:\Science\The SCIENCE file\Year 10\Fire and Fuels\Assessment\Permission & Authenticity Forms
-- tick the entry in Kamar as soon as you know who is entering
-- enter their grade in Kamar after the assessment and internal moderation is done
-- print the grades and get the students to sign them off, then double tick the Kamar entry
-- put all student work in PTDs office with the sign-off sheet which should also indicate which student work has been internally moderated.
-
 1. Structure of Earth
     - Core, Outer Core, Mantle, Crust
     - Convection Currents, nuclear reactions, tectonic plate movement
