@@ -15,7 +15,7 @@ menu:
 
 {{< slides >}}
 
-## Learning Outcomes _/ Ngā Whāinga Ako_ 
+## Learning Outcomes _/ Ngā Whāinga Ako_
 
 1. Describe the key components of the history of the atom, including Dalton, Thompson and Rutherford models.
 2. Describe Rutherford’s gold leaf experiment.
@@ -32,15 +32,24 @@ menu:
 13. Complete energy and power calculations for a nuclear power plant.
 
 
-## Unit Plan _/ Mahere Kōwae_ 
+## Unit Plan _/ Mahere Kōwae_
 
+|            |              Akoranga 1             |   Akoranga 2   |   Akoranga 3   |  Akoranga 4  |
+| ---------- | ----------------------------------- | -------------- | -------------- | ------------ |
+| __T3 W10__ | ~~Prev. Unit~~                      | ~~Prev. Unit~~ | ~~Prev. Unit~~ | 1.           |
+| __T4 W1__  | 2.                                  | 3.             | 4.             | 5.           |
+| __T4 W2__  | 6. Review/Catch-Up (Public Holiday) | 7.             | 8.             | 9.           |
+| __T4 W3__  | 10.                                 | 11.            | 12. _Revision_ | 13. __TEST__ |
+
+<!--
 |        | Akoranga 1 (Mon)                                   | Akoranga 2 (Tues)                                                    | Akoranga 3 (Wed)                                                     | Akoranga 4 (Thurs)                               |
 |:-------|:---------------------------------------------------|:---------------------------------------------------------------------|:---------------------------------------------------------------------|:-------------------------------------------------|
 | T3 W10 | 1. [Structure of the Atom](#structure-of-the-atom) | 2. [Discovering Atomic Structure 1](#discovering-atomic-structure-1) | 3. [Discovering Atomic Structure 2](#discovering-atomic-structure-2) | 4. [Radioactive Decays 1](#radioactive-decays-1) |
 | T4 W1  | 5. [Radioactive Decays 2](#radioactive-decays-2)   | 6. [Writing Equations](#writing-equations)                           | 7. [Half-Life](#half-life)                                           | 8. [Half-Life 2](#half-life-2)                   |
 | T4 W2  | 9. [Fission & Fusion 1](#fission--fusion-1)        | 10. [Fission & Fusion 2](#fission--fusion-2)                         | 11. [__Revision__](#__revision__)                                    | 12. __Test__                                     |
+-->
 
-### Lesson Plans _/ Ngā Mahere Akoranga_ 
+### Lesson Plans _/ Ngā Mahere Akoranga_
 
 1. #### Structure of the Atom
     - Follow ngā kirita #1
