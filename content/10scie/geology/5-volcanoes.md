@@ -85,6 +85,11 @@ We are interested in these four main types of volcanoes. They have distinguishin
 
 ---
 
+<!-- Ruapehu Crater Lake -->
+<iframe width="660" height="371" src="https://www.youtube.com/embed/SDghliurFQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 #### 3. Caldera {.c2}
 
 - High viscosity lava
@@ -93,6 +98,11 @@ We are interested in these four main types of volcanoes. They have distinguishin
 - NZ Examples: Taupō, Okataina
 
 ![](https://geo-mexico.com/wp-content/uploads/2013/05/caldera-formation002.jpg)
+
+---
+
+<!-- Taupo Volcanic Zone -->
+<iframe width="660" height="371" src="https://www.youtube.com/embed/CdNi43qQa7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
