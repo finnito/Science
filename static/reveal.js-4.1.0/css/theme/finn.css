@@ -407,7 +407,9 @@ mark {
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
-  transition: color .15s ease; }
+  transition: color .15s ease;
+  word-wrap: break-word;
+}
 
 .reveal a:hover {
   color: #6ca0e8;
