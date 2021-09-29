@@ -13,6 +13,12 @@ menu:
         parent: "12PHY"
 ---
 
+## Workbook _/ Pukamahi_
+
+Download the [workbook here](notes/as91172.pdf).
+
+A copy with completed notes will be posted near the end of the unit.
+
 {{< slides >}}
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_
@@ -34,12 +40,13 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_
 
-|            |              Akoranga 1             |   Akoranga 2   |   Akoranga 3   |  Akoranga 4  |
-| ---------- | ----------------------------------- | -------------- | -------------- | ------------ |
-| __T3 W10__ | ~~Prev. Unit~~                      | ~~Prev. Unit~~ | ~~Prev. Unit~~ | 1.           |
-| __T4 W1__  | 2.                                  | 3.             | 4.             | 5.           |
-| __T4 W2__  | 6. Review/Catch-Up (Public Holiday) | 7.             | 8.             | 9.           |
-| __T4 W3__  | 10.                                 | 11.            | 12. _Revision_ | 13. __TEST__ |
+|            |              Akoranga 1             |   Akoranga 2   |   Akoranga 3   |   Akoranga 4   |
+| ---------- | ----------------------------------- | -------------- | -------------- | -------------- |
+| __T3 W10__ | ~~Prev. Unit~~                      | ~~Prev. Unit~~ | ~~Prev. Unit~~ | 1.             |
+| __T4 W1__  | 2.                                  | 3.             | 4.             | 5.             |
+| __T4 W2__  | 6. Review/Catch-Up (Public Holiday) | 7.             | 8.             | 9.             |
+| __T4 W3__  | 10.                                 | 11.            | 12.            | 13. _Revision_ |
+| __T4 W4__  | 14. __TEST__                        | _STUDY_        | _STUDY_        | _STUDY_        |
 
 <!--
 |        | Akoranga 1 (Mon)                                   | Akoranga 2 (Tues)                                                    | Akoranga 3 (Wed)                                                     | Akoranga 4 (Thurs)                               |
@@ -52,29 +59,37 @@ menu:
 ### Lesson Plans _/ Ngā Mahere Akoranga_
 
 1. #### Structure of the Atom
-    - Follow ngā kirita #1
-    - Kahoot if needed: https://create.kahoot.it/v2/details/ca4b9437-4d48-4ba3-a526-97b558ee04a3
+    1. __Mahi Tuatahi__: [Kahoot on the basics of atoms](https://create.kahoot.it/v2/details/ca4b9437-4d48-4ba3-a526-97b558ee04a3)
+    2. Hand out workbook/pukamahi
+    3. __Pukamahi__: Chapter 1 - Atoms and Isotopes
+
 2. #### Discovering Atomic Structure 1
-    - __Mahi Tuatahi__: In ngā kirita
-    - Notes on atomic models and their history
-    - Notes on _Gold Foil_ whakamātau
-    - __Whakakite__: Show Gieger counter & radiation sources. Discuss types of radiation.
+    1. __Mahi Tuatahi__: In ngā kirita
+    2. Notes on atomic models and their history
+    3. Notes on _Gold Foil_ whakamātau
+    4. __Whakakite__: Show Gieger counter & radiation sources. Discuss types of radiation.
+
 3. #### Discovering Atomic Structure 2
-    - __Mahi Tuatahi__: In ngā kirita on gold foil experiment
-    - Video on atomic structures in ngā kirita
-    - __Ngohe Tahi__: Mahi Kāinga Booklet: Q2 & Q4
+    1. __Mahi Tuatahi__: In ngā kirita on gold foil experiment
+    2. Video on atomic structures in ngā kirita
+    3. __Ngohe Tahi__: Mahi Kāinga Booklet: Q2 & Q4
+
 4. #### Radioactive Decays 1
+    1. 
+
 5. #### Radioactive Decays 2
-    - __Mahi Tuatahi__: Recall physical quantities conserved during nuclear decays
-    - __Te Whāinga Ako__: Describe the three forms of radioactivity – Alpha, Beta and Gamma radiation.
-    - Notes on beta and gamma decays
-    - Notes on uses of radioactive decays
-    - Two videos about decay and nuclear mishaps
+    1. __Mahi Tuatahi__: Recall physical quantities conserved during nuclear decays
+    2. __Te Whāinga Ako__: Describe the three forms of radioactivity – Alpha, Beta and Gamma radiation.
+    3. Notes on beta and gamma decays
+    4. Notes on uses of radioactive decays
+    5. Two videos about decay and nuclear mishaps
+
 6. #### Writing Equations
-    - __Mahi Tuatahi__: Cloze in notes
-    - __Te Whāinga Ako__: Balance nuclear equations using the knowledge of the conservation of atomic and mass numbers.
-    - Clozes, notes and tauria decays for all three types of decay
-    - Less guided decays at the end including double decays and absorption
+    1. __Mahi Tuatahi__: Cloze in notes
+    2. __Te Whāinga Ako__: Balance nuclear equations using the knowledge of the conservation of atomic and mass numbers.
+    3. Clozes, notes and tauria decays for all three types of decay
+    4. Less guided decays at the end including double decays and absorption
+
 7. #### Half-Life
     - __Mahi Tuatahi__
         - Dice experiment
@@ -85,8 +100,23 @@ menu:
     - Video and notes about half-life
     - 1x brute force calculation question
     - 1x more refined graphical calculation
+
 8. #### Half-Life 2
+    1. 
+
 9. #### Fission & Fusion 1
+    1. 
+
 10. #### Fission & Fusion 2
-11. #### __Revision__
-12. #### __Test__
+    1. 
+
+11. #### 
+    1. 
+
+12. #### 
+    1. 
+
+13. #### Documentary
+    1. [Twisting the Dragon's Tail](https://www.imdb.com/title/tt4847012)
+
+14. __TEST__
