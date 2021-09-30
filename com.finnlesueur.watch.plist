@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>local.job</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/bin/bash</string>
+		<string>/Users/lsf/Nextcloud/putaiao.nz/watch.sh</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardErrorPath</key>
+	<string>/Users/lsf/Nextcloud/putaiao.nz/error.log</string>
+	<key>StandardOutPath</key>
+	<string>/Users/lsf/Nextcloud/putaiao.nz/stdout.log</string>
+	<key>WorkingDirectory</key>
+	<string>/Users/lsf/Nextcloud/putaiao.nz/</string>
+</dict>
+</plist>
