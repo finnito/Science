@@ -211,8 +211,8 @@ __Words__: compression, secondary (s) waves, expansion, slower, earthquake, up, 
 
 ### Richter Scale
 
-- Developed for <mark>use in San Francisco and surrounding areas specifically</mark>
-- <mark>Measures only energy</mark>
+- Developed for <mark>use around the San Adreas Fault</mark>
+- <mark>Measures energy</mark>
 - Is only very accurate for that locality
 - Each number represents 31.6 times the energy of the previous number!
 
@@ -233,6 +233,15 @@ __Words__: compression, secondary (s) waves, expansion, slower, earthquake, up, 
 
 ---
 
+### Ngohe: Assigning Magnitues to Historical NZ Earthquakes
+
+1. Collect a sheet from the front
+2. Glue it into your book
+3. Read the left hand side about the different levels of the _Modified Mercalli Intensity Scale_
+4. Work with the person next to your to decide what magnitude you would assign it using the MMI scale
+
+---
+
 ### Seismographs
 
 - A seismograph is a device that vibrates as an earthquake passes through it
@@ -245,12 +254,3 @@ __Words__: compression, secondary (s) waves, expansion, slower, earthquake, up, 
 
 <!-- Monitoring the Hikurani Trench -->
 <iframe width="834" height="354" src="https://www.youtube.com/embed/y3y9FtMbDGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-### Ngohe: Assigning Magnitues to Historical NZ Earthquakes
-
-1. Collect a sheet from the front
-2. Glue it into your book
-3. Read the left hand side about the different levels of the _Modified Mercalli Intensity Scale_
-4. Work with the person next to your to decide what magnitude you would assign it using the MMI scale
