@@ -1,6 +1,15 @@
 #!/usr/bin/env bash
 
-# TODO: Migrate build.sh to a python script
+# The purpose of this script is to
+# manage the building of RevealJS slides
+# with Pandoc.
+#
+# -f: the file that was changed
+# -p: the path for the changed file
+# -d: if this is a dev build
+# -h: run hugo and nothing else (deprecated)
+#
+
 
 shopt -s nullglob extglob
 
@@ -52,8 +61,8 @@ MODULES=(
 )
 
 main() {
-    : > error_log
-    : > stdout_log
+    : > error.log
+    : > stdout.log
 
     # This script may be called in a dev (-d flag) environment
     # in which it should only do a partial build.
@@ -70,7 +79,6 @@ main() {
             # build because only an _index.md
             # file was changed.
             cd content || exit
-            runHugo
         else
             # A slide file was changed, so we
             # need to build it.
@@ -78,9 +86,7 @@ main() {
             tidyFolders
             slides=("$file")
             createSlides "${slides[@]}"
-            # buildSingleSlide "$file"
             cd ../../
-            runHugo
         fi
 
         terminal-notifier \
@@ -88,26 +94,6 @@ main() {
             -title "Pūtaiao" \
             -message "Build complete!" \
             -appIcon http://putaiao.test/favicon.png
-
-        # osascript -e 'tell application "Firefox"
-        #     activate
-        #     tell application "System Events" to keystroke "r" using command down
-        #     delay 0.1
-        # end tell
-        # tell application "Sublime Text"
-        #     activate
-        # end tell'
-
-        # osascript -e 'tell application "Safari"
-        #     tell window 1
-        #         --options
-        #         set myTab to tab 1
-        #         set myTab to first tab whose URL starts with "http://putaiao.test"
-
-        #         if current tab is not myTab then set current tab to myTab
-        #         tell myTab to do JavaScript "location.reload();"
-        #     end tell
-        # end tell'
     
     # Here we do a full build because the -d flag
     # was not passed.
@@ -118,7 +104,6 @@ main() {
         for i in "${MODULES[@]}"; do
             if cd "$i"; then 
                 echo "Entered $i"
-                compileGitLog "$i"
                 tidyFolders
                 slides=(!(_index).md)
                 createSlides "${slides[@]}"
@@ -208,21 +193,6 @@ callPandoc() {
         --variable=liveReloadPort:1313
 }
 
-compileGitLog() {
-    OLDIFS=$IFS
-    IFS='/'; read -ra array <<< "$1"
-    yr=$(printf '%s' "$(IFS=/; printf '%s' "${array[*]::1}")")
-    IFS=$OLDIFS
-    outputFile="../../../static/$1/changelog.txt"
-    mkdir "../../../static/$yr"
-    mkdir "../../../static/$1"
-    echo "" > "$outputFile"
-    echo "<details><summary>Full History</summary>" >> "$outputFile"
-    git log --name-status --pretty=format:"</pre></li><li><a href='https://github.com/finnito/Science/commit/%H'>%cn %ar</a> %s %d<pre>" ./ >> "$outputFile"
-    echo "</pre></li>" >> "$outputFile"
-    echo "</details>" >> "$outputFile"
-}
-
 runHugo() {
     if cd ../; then
         echo "Moved to the root directory"
@@ -236,4 +206,4 @@ runHugo() {
         --minify
 }
 
-(time main) &> stdout_log
+main
