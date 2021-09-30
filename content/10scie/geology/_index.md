@@ -57,7 +57,8 @@ menu:
 | __T3 W7__  | 9. [Boundary Types](#l2)            | 10. [Types of Volcanoes](#l3) | 11. ~~Fire & Fuels Revision~~ | 12. ~~Fire & Fuels Assessment P2~~ |
 | __T3 W8__  | 13. ~~Fire & Fuels Assemssment P3~~ | 14. [Types of Volcanoes](#l3) | 15. [Types of Volcanoes](#l3) | 16. Volcanoes & Rock Cycle         |
 | __T3 W9__  | 17. Rock Cycle                      | 18. Weathering & Erosion      | 19. Local Geology             | 20. Earthquakes                    |
-| __T3 W10__ | 21. Earthquakes                     | 22. Earthquakes               | 23. _Revision_                | 24. __TEST__                       |
+| __T3 W10__ | 21. Earthquakes                     | 22. Earthquakes               | 23. Measuring Earthquakes     | 24. Documentary                    |
+| __T4 W1__  | 25. _Revision_                      | __TEST__                      |                               |                                    |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_
 
@@ -133,14 +134,18 @@ menu:
 23. #### Measuring Earthquakes
     1. Review homework: last question of weathering and erosion document
     2. Notes on Richter vs MMI scales
-    3. Ngohe: Assigning Magnitues to Historical NZ Earthquakes
+    3. Ngohe: Assigning Magnitudes to Historical NZ Earthquakes
 
 24. #### Beneath New Zealand Documentary
     1. [IMDB Listing](https://www.imdb.com/title/tt4909344/)
     2. Ep. 1 - Weathering & Erosion on Southern Alps
     3. Ep. 2 - Volcanoes
-    4. Ep. 3 - Rocks and Quakes
+    4. Ep. 3 - [Rocks and Quakes](https://cashmere.etv.org.nz/tv/vod/view/149526)
     5. Ep. 4 - Pink and White Terraces
     6. Ep. 5 - Gondwana & Volcanism
     7. Ep. 6 - Auckland Volcanic Field
     8. [Drain the Oceans S1E6 - Deadly Pacific](https://www.imdb.com/title/tt8680494/)
+
+25. #### Revision
+
+26. #### TEST
