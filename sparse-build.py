@@ -1,7 +1,9 @@
 """Author: Finn LeSueur
 
-Watch for input like this:
-fswatch -x0re ".*" -i "\\.md$" ./ | xargs -0 -n 1 python3 sparse-build.py
+The purpose of this script is to parse events
+from fswatch (provided by the watch.sh script)
+and where appropriate, build new slides using
+Pandoc.
 
 Script argv look like this:
 [
@@ -9,15 +11,12 @@ Script argv look like this:
     '-d',
     '/Users/finnlesueur/Git/science.lesueur.nz/content/12phy/as91523/3-beats.md AttributeModified IsFile Updated'
 ]
-
 """
 
 import subprocess
 import sys
 
 def main():
-    """ Currently does all the things!
-    """
 
     # Start by parsing the fswatch
     # output into a hash containing
@@ -36,51 +35,32 @@ def main():
         return
 
     # Only watch for specific event types.
-    if event["type"] in ["Updated", "Created"]:
+    if event["type"] in ["Updated", "Created", "Renamed", "Deleted"]:
+        # print(event["file"])
+        if not event["file"][0].isdigit():
+        # if event["path"].endswith(("_index.md", ".css", ".html", ".toml", ".txt")):
+            # No need to do anything. Hugo serve is running
+            # in the background, so it will catch these changes
+            # and rebuild.
+            pass
 
-        # Here only an _index.md file has been updated
-        # and therefore we don't need to build any slides.
-        # We can simply pass the -h flag to a Hugo-only
-        # build.
-        if event["path"].endswith(("_index.md", ".css", ".html", ".toml", ".txt")):
-            subprocess.run(
-                [
-                    f"bash build.sh \
-                    -d \
-                    -h \
-                    -f {event['file']}"
-                    # f"cd ~/Git/science.lesueur.nz && \
-                    # bash build.sh \
-                    # -d \
-                    # -h \
-                    # -f {event['file']}"
-                ],
-                shell=True,
-                check=False
-            )
-
-        # Here a slide file has been altered, so we need
-        # to build that specific slide and run Hugo.
-        # We need to pass the -f and -p flags.
         elif event["path"].endswith(".md"):
+            # Here a slide file has been altered, so we need
+            # to build that specific slide and run Hugo.
+            # We need to pass the -f and -p flags.
             subprocess.run(
                 [
                     f"bash build.sh \
                      -d \
                      -f {event['file']} \
                      -p {event['folder']}"
-                    # f"cd ~/Git/science.lesueur.nz && \
-                    # bash build.sh \
-                    #  -d \
-                    #  -f {event['file']} \
-                    #  -p {event['folder']}"
                 ],
                 shell=True,
                 check=False
             )
 
         # Something else unforeseen could have been
-        # changed. Ignore it.
+        # changed. Ignore it. The rest will be caught by Hugo.
         else:
             pass
 
