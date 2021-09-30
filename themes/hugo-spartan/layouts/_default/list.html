@@ -39,20 +39,21 @@
         {{ end }}
     </div>
     {{ .Content }}
-
-    <div class="tab-content">
-        <div class="changelog">
-            <h3>Changelog: Latest Change</h3>
-            {{ with .GitInfo }}
-                <p><a href="https://github.com/finnito/Science/commit/{{ .Hash }}">{{ .AuthorName }} {{ .AuthorDate.Format "January 2, 2006" }}</a> {{ .Subject }}</p>
+    
+    <hr/>
+    {{ $page := . }}
+    {{ $url := "" }}
+    {{ with .File }}
+        {{ if isset $page.Params "file" }}
+            {{ $url = path.Join  "https://github.com/finnito/Science/commits/master/data/" $page.File.Dir }}
+        {{ else }}
+            {{ if eq .File.LogicalName "_index.md" }}
+                {{ $url = path.Join "https://github.com/finnito/Science/commits/master/content/" .Path }}
+            {{ else }}
+                {{ $url = path.Join "https://github.com/finnito/Science/commits/master/content/" .File.Dir .LogicalName }}
             {{ end }}
-            {{ with .File }}
-                {{ $file := path.Join "/static" .Dir "changelog.txt" }}
-                {{ if (fileExists $file) -}}
-                    {{ $file  | readFile | safeHTML }}
-                {{- end }}
-            {{ end }}
-        </div>
-    </div>
+        {{ end }}
+    <a class="button yellow" title="Edit {{$.Title}} on Github" target="_blank" href="{{ $url }}">View the Changelog</a>
+    {{ end }}
 
 {{ partial "footer.html" . }}
