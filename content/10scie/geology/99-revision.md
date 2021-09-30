@@ -1,5 +1,5 @@
 ---
-title: Revision
+title: Geology Revision
 slug: revision
 subtitle: 10SCIE - Geology
 weight: 99
