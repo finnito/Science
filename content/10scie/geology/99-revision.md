@@ -37,6 +37,8 @@ weight: 99
 - In your exercise book, write each learning outcome and then use your notes to write a paragraph showing your understanding and explaining about that learning outcome.
 - The learning outcomes can be found on the [Geology home page](/10scie/geology/)!
 
+[__Follow this document as a guide! (make a copy)__](https://docs.google.com/document/d/14kWSqkp2CsBYZe7whjQ2pHH7MjHogBvzXZXgN57YzZ0/edit)
+
 ---
 
 e.g. __Explain the theory of plate tectonics using many sources of evidence__
@@ -58,15 +60,15 @@ Some of the evidence he cited was:
 - Research Document: New Zealand Volcanoe (Classroom)
 - Research Document: Local Geology (Classroom)
 
-<mark>Being able to write long answer questions is __VITAL__ for this assessment.</mark>
+<mark>Being able to write long answer questions is __VITAL__ for this assessment. Consider writing a long answer for each geological feature on [__this document__ (make a copy)](https://docs.google.com/document/d/1afj2ImQA0320UI8Qbk43IOya0xLBqRQ1151RZEaIric/edit)</mark>
 
 ---
 
-## 7. Complete Education Perfect revision task
+## 6. Complete Education Perfect revision task
 
 ---
 
-## 8. Can you answer all the questions on Kahoot/Quizlet/Quizizz?
+## 7. Can you answer all the questions on Kahoot/Quizlet/Quizizz?
 
 - Multiple Sets: https://quizlet.com/finnlesueur/folders/y10-science/sets
 - Volcanoes: https://quizlet.com/nz/616896100/volcanoes-in-new-zealand-flash-cards/
@@ -75,7 +77,7 @@ Some of the evidence he cited was:
 
 ---
 
-## Watch Documentaries
+## 8. Watch Documentaries
 
 <mark>This should be done __only__ after you have finished everything else!</mark>
 

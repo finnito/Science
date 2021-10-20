@@ -147,5 +147,6 @@ menu:
     8. [Drain the Oceans S1E6 - Deadly Pacific](https://www.imdb.com/title/tt8680494/)
 
 25. #### Revision
+    1. Follow the [revision](slides/revision.html) for a guide.
 
 26. #### TEST
