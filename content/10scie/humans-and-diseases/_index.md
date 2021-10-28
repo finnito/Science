@@ -1,6 +1,6 @@
 ---
 title: Humans and Diseases
-te_reo: Ngā Mate
+te_reo: Ngā Tangata Ma Ngā Mate
 emoji: 🧠
 weight: 7
 menu:
@@ -64,57 +64,50 @@ menu:
 
 ## Unit Plan _/ Mahere Kōwae_
 
-|           | Akoranga 1 ()              | Akoranga 2 ()                             | Akoranga 3 ()                      | Akoranga 4 ()                             |
-| :-------- | :------------------------- | :---------------------------------------- | :--------------------------------- | :-------------------------                |
-| __T1 W1__ | ~~Geology Revision~~       | ~~Geology Test~~                          | 1. Parts of the Heart & Blood Flow | 2. MI Risk, Causes, Symptoms & Treatments |
-| __T1 W2__ | 3. ~~Labour Day~~          | 4. Heart Dissection                       | 5. Blood                           | 6. Review/Catch-Up                        |
-| __T1 W3__ | 7. Blood Vessels           | 8. Respiration & Lungs                    | 9. Lungs 2                         | 10. Lung Practical                        |
-| __T1 W4__ | 11. Effects of Exercise    | 12. Inheritable Diseases                  | 13. Genes & Alleles                | 14. ~~Show Day~~                          |
-| __T1 W5__ | 15. __EOY Exam This Week__ | 16. __EOY Exam This Week__                | 17. __EOY Exam This Week__         | 198 __EOY Exam This Week__                |
+|           |       Akoranga 1 ()        |            Akoranga 2 ()             |       Akoranga 3 ()        |       Akoranga 4 ()        |
+| :-------- | :------------------------- | :----------------------------------- | :------------------------- | :------------------------- |
+| __T4 W1__ | ~~Geology Revision~~       | ~~Geology Test~~                     | 1. Parts of the Heart      | 2. Blood Flow              |
+| __T4 W2__ | 3. ~~Labour Day~~          | 4. MI Risks, Sympotoms and Treatment | 5. Blood Vessels           | 6. Parts of Blood          |
+| __T4 W3__ | 7. Blood Vessels           | 8. Respiration & Lungs               | 9. Lungs 2                 | 10. Lung Practical         |
+| __T4 W4__ | 11. Effects of Exercise    | 12. Inheritable Diseases             | 13. Genes & Alleles        | 14. ~~Show Day~~           |
+| __T4 W5__ | 15. __EOY Exam This Week__ | 16. __EOY Exam This Week__           | 17. __EOY Exam This Week__ | 18. __EOY Exam This Week__ |
 
 ### Lesson Plans _/ Ngā Mahere Akoranga_
 
-1. #### Intro/Video
-    - __Ngā Whāinga Ako__: 
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+1. #### Parts of the Heart
+    1. Introduce unit + assessment in the EOY exam
+    2. Introduce plan up to the EOY exam
+    3. Introduce two circulatory systems
+    4. __Ngohe/Task__: Make notes on part of the heart. All on [slides](slides/the-heart.html)
+    5. Print Learning Outcomes
+    6. Print Human Circulator Diagram
+    7. Print Heart Diagram
 
-2. #### Parts of the Heart
-    - __Ngā Whāinga Ako__:
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+2. #### Blood Flow
+    1. Finish notes on parts of the heart
+    2. Practice [flashcards](https://quizlet.com/nz/631958518/parts-of-the-heart-flash-cards/?new) + live
+    3. __Ngohe/Task__: [Students order steps of blood flow in the heart](https://docs.google.com/document/d/17IO3q3gAnpMGI3SK24Au3TApIjVCjo17vL3J7b6hwvI/edit)
+    4. __Tākaro/Game__: [Kahoot on parts of the heart](https://create.kahoot.it/details/da674560-f026-47e3-88a9-f52904c2fc5e)
 
-3. #### Blood Flow Direction
-    - __Ngā Whāinga Ako__:
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+3. #### ~~Labour Day~~
 
-4. #### Heart Dissection
-    - __Ngā Whāinga Ako__:
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+4. #### MI Causes & Symptoms
+    1. Follow [Heart Attack notes](slides/heart-attacks.html)
+    2. Print 
 
-5. #### MI Causes & Symptoms
+5. #### Blood Vessels
     - __Ngā Whāinga Ako__:
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+        + Describe the function and structure of arteries, veins, capillaries
+    - [Quizlet](https://quizlet.com/nz/631958518/parts-of-the-heart-flash-cards/?new) to start
+    1. Compare and contrast arteries and veins
+    2. [Blod Vessels Notes](slides/blood-vessels.html)
 
-6. #### MI Risk & Treatments
+7. #### Parts of blood
     - __Ngā Whāinga Ako__:
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
-
-7. #### Blood
-    - __Ngā Whāinga Ako__:
-    - __Notes__: 
-    - __Task/Ngohe__: 
-    - __Whakamātau/Whakakite__: 
+        + Describe the components of blood and their roles
+    - [Parts of the Blood Notes](slides/parts-of-blood.html)
+    - Print Blood.docx
+    - Print Blood and Circulation workbook or revision.docx
 
 8. #### Review/Catch-Up
     - __Ngā Whāinga Ako__:
