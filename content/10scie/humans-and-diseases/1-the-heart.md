@@ -26,10 +26,24 @@ weight: 1
 ## Circulation
 
 - <mark>The human body is made up of two circulatory loops</mark>
-- One brings __oxygenated blood from the lungs to the heart__ and __takes deoxygenated blood from the heart to the lungs__
-- The other __takes oxygenated blood to the body__ and __returns deoxygenated blood to the heart from the body__
+- Pulmonary (of the Lungs) Circulation
+	+ Brings __oxygenated blood from the lungs to the heart__ and __takes deoxygenated blood from the heart to the lungs__
+- Systemic (of the body) Circulation
+	+ __Takes oxygenated blood to the body__ and __returns deoxygenated blood to the heart from the body__
+- These loops are __parallel__ - they work independently of each other.
 
-<p class="instruction">Collect a heart diagram and glue it on its own page in the middle!</p>
+---
+
+![[Source](https://en.wikipedia.org/wiki/Circulatory_system#/media/File:2101_Blood_Flow_Through_the_Heart.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f2/2101_Blood_Flow_Through_the_Heart.jpg)
+
+---
+
+## Ngohe/Task: Parts of the Heart {.c2}
+
+1. Collect a diagram of the heart & glue it in
+2. Use the slides on Classroom to make notes about the different parts of the heart
+
+![[Source](https://en.wikipedia.org/wiki/Atrium_(heart))](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diagram_of_the_human_heart_%28cropped%29.svg/1920px-Diagram_of_the_human_heart_%28cropped%29.svg.png)
 
 ---
 
@@ -78,3 +92,41 @@ Pumps deoxygenated blood to the lungs via the pulmonary valve (pulmonary circula
 
 - Valves exist to stop blood flowing back the wrong way!
 - This is important because you don't want deoxygenated blood flowing backwards, when you body needs oxygenated blood going forwards!
+
+---
+
+## Arteries vs Veins
+
+- Arteries carry blood __away__ from the heart (a for arteries, a for away)
+- Veins carry blood __towards__ the heart
+
+---
+
+<iframe width="921" height="518" src="https://www.youtube.com/embed/OMqkv5RIPjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Ngohe/Task: Flow Direction {.c2}
+
+<mark>Starting with deoxygenated blood returning to the heart through the superior and inferior vena cava</mark>, make a numbered list describing where it goes after that. You will need to use your notes to figure it out!
+
+![[Source](https://en.wikipedia.org/wiki/Atrium_(heart))](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diagram_of_the_human_heart_%28cropped%29.svg/1920px-Diagram_of_the_human_heart_%28cropped%29.svg.png)
+
+---
+
+## {.c2}
+
+1. Deoxygenated blood from the body enters the right atrium of the heart via the superior and inferior vena cava.
+2. The right side of the heat compresses, pushing the blood into the right ventricle.
+3. Deoxygenated blood leaves the heart and travels to the lungs via the pulmonary arteries.
+4. The lungs oxygenate the blood.
+5. Oxygenated blood from the lungs travels to the left atrium of the heart via the pulmonary veins (two per lung).
+6. The left hand side of the heart compresses, pushing the blood into the left ventricle.
+7. Oxygenated blood leaves the left ventricle via the aorta (and artery) to the body.
+
+![[Source](https://en.wikipedia.org/wiki/Atrium_(heart))](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diagram_of_the_human_heart_%28cropped%29.svg/1920px-Diagram_of_the_human_heart_%28cropped%29.svg.png)
+
+---
+
+![[Source](https://en.wikipedia.org/wiki/Circulatory_system)](https://i.pinimg.com/originals/c1/13/27/c1132786380aa926155a80b54912352f.gif)
+
