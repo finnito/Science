@@ -11,4 +11,5 @@ hugo serve \
 	--forceSyncStatic \
 	--gc \
 	--noHTTPCache \
-	--destination="$dest"
+	--destination="$dest" \
+	--appendPort=false
