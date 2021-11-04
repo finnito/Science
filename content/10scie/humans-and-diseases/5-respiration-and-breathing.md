@@ -36,8 +36,8 @@ Stop after 3min.
 ### Respiration as an Equation
 
 \begin{aligned}
-    sugar + oxygen \rightarrow carbon\ dioxide + water + energy \newline
-    C_{6}H_{12} + 6O_{6} + O_{2} \rightarrow 6CO_{2} + 6H_{2}O + energy
+    sugar + oxygen &\rightarrow carbon\ dioxide + water + energy \newline
+    C_{6}H_{12}O_{6} + 6O_{2} &\rightarrow 6CO_{2} + 6H_{2}O + energy
 \end{aligned}
 
 ---
@@ -47,7 +47,7 @@ Stop after 3min.
 - __Pātai__: How do we get oxygen for respiration?
     + <mark>We get oxygen for respiration from breathing</mark>
 - __Pātai__: How does oxygen from the air get to our cells?
-    + <marmk>Oxygen from the air we breath is absorbed into our blood via structures in our lungs.
+    + <marmk>Oxygen from the air we breathe is absorbed into our blood via structures in our lungs.
 
 ---
 
@@ -67,12 +67,7 @@ Stop after 3min.
 - __Exhaled__
     + Low oxygen concentration
     + Higher water concentration
-    + Low carbon dioxide concentration
-
----
-
-<!-- Diagram of gas transfer in alveoli -->
-![[Source](https://www.bbc.co.uk/bitesize/guides/z6h4jxs/revision/3)](https://bam.files.bbci.co.uk/bam/live/content/ztv7fg8/large)
+    + High carbon dioxide concentration
 
 ---
 
@@ -85,20 +80,25 @@ Stop after 3min.
 
 1. Air enters your __trachea__ (windpipe) through your mouth
 2. Your trachea splits into two __bronchi__ - one bronchus for each lung
+3. Inside the lung, each bronchus splits into many __bronchioles__
+4. Each bronchiole attaches to a tiny inflatable air sac called an __alveoli__
 
 <!-- Diagram of breathing anatomy -->
 ![[Source](https://www.macmillan.org.uk/cancer-information-and-support/lung-cancer/the-lungs)](https://www.macmillan.org.uk/dfsmedia/1a6f23537f7f4519bb0cf14c45b2a629/77-50037/macd024-respiratory-system-labelled-20190613)
 
 ---
 
-###
+### Adaptations of Alveoli{.c2}
 
-3. Inside the lung, each bronchus splits into many __bronchioles__
-4. Each bronchiole attaches to a tiny inflatable air sac called an __alveoli__
-5. Each alveoli is surrounded by capillaries which allow oxygen to diffuse into the blood. Carbon dioxide and water also diffuse out to be exhaled.
-    - Alveoli are tiny to increase surface area for maximum diffusion capabilities
-    - Alveoli have a moist mucus on their walls to maintain their shape and allow diffusion of gases
+5. Each alveoli is surrounded by capillaries which allow $O_{2}, CO_{2}$ and $H_{2}O$ to diffuse
+    - Alveoli are tiny to increase surface area for maximum diffusion 
+    - Alveoli have a moist walls to maintain their shape and allow diffusion of gases
     - Alveoli have a wall one cell thick to allow gas diffusion
+    
+<!-- Diagram of gas transfer in alveoli -->
+![[Source](https://www.bbc.co.uk/bitesize/guides/z6h4jxs/revision/3)](../assets/alveoli.jpeg)
+
+---
 
 <!-- Diagram of breathing anatomy -->
 ![[Source](https://www.macmillan.org.uk/cancer-information-and-support/lung-cancer/the-lungs)](https://www.macmillan.org.uk/dfsmedia/1a6f23537f7f4519bb0cf14c45b2a629/77-50037/macd024-respiratory-system-labelled-20190613)
