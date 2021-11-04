@@ -77,6 +77,10 @@
     </div>
     <div class="kowhaiwhai"></div>
     <script>
+        /* =============================================
+         * START: Countdown Management.
+         * =============================================
+         */
         var x = setInterval(function() {
 
             var res = document.querySelector("input").value.split(":");
@@ -104,11 +108,15 @@
           if (distance < 0) {
             document.getElementById("countdown").innerHTML = "Finished!";
           }
-
         }, 500);
-        
         /* =============================================
-         * Begin URL parameter storage/loading section.
+         * END: Countdown Management.
+         * =============================================
+         */
+        
+
+        /* =============================================
+         * START: URL parameter storage/loading.
          * =============================================
          */
          /* Add event listeners. */
@@ -146,7 +154,7 @@
           }
         }
         /* =============================================
-         * END URL parameter storage/loading section.
+         * END: URL parameter storage/loading.
          * =============================================
          */
 
