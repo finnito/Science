@@ -30,12 +30,20 @@
         p[contenteditable] { max-width: 80vw; }
 
         input, label {display: inline-block;}
+        body.fullscreen input,
+        body.fullscreen label {
+          display: none;
+        }
 
         *[contenteditable] {
             border: 1px solid #dcdde1;
             border-radius: 0.25rem;
             padding: 0.25rem 1rem;
             transition: border 150ms;
+        }
+
+        body.fullscreen *[contenteditable] {
+          border: none;
         }
         .kowhaiwhai {
             margin: 0;
@@ -54,8 +62,7 @@
     <div>
         <label>Exam Finishing Time (format: 14:10)</label>
         <input type="time"/>
-        <button class="fullscreen">Open Fullscreen</button>
-        <button class="close-fullscreen">Close Fullscreen</button>
+        <button class="toggle">Toggle Fullscreen</button>
     </div>
     <div>
         <h2 contenteditable>Exam Title (Edit Me)</h2>
@@ -100,7 +107,6 @@
           }
         }, 1000);
 
-        var elem = document.documentElement;
         
         /* =============================================
          * Begin URL parameter storage/loading section.
@@ -145,33 +151,46 @@
          * =============================================
          */
 
-        document.querySelector(".close-fullscreen").addEventListener("click", closeFullscreen);
+        
+        /* =============================================
+         * START: Fullscreen magangement.
+         * =============================================
+         */
+        var elem = document.documentElement;
+        var fullscreen = false;
+        document.querySelector(".toggle").addEventListener("click", function() {
+          if (fullscreen) {
+            fullscreen = false;
+            document.querySelector("body").classList.remove("fullscreen");
+            if (document.exitFullscreen) {
+              document.exitFullscreen();
+            } else if (document.mozCancelFullScreen) { /* Firefox */
+              document.mozCancelFullScreen();
+            } else if (document.webkitExitFullscreen) { /* Chrome, Safari and Opera */
+              document.webkitExitFullscreen();
+            } else if (document.msExitFullscreen) { /* IE/Edge */
+              document.msExitFullscreen();
+            }
+          }
 
-        document.querySelector(".fullscreen").addEventListener("click", function() {
-          if (elem.requestFullscreen) {
-            elem.requestFullscreen();
-          } else if (elem.mozRequestFullScreen) { /* Firefox */
-            elem.mozRequestFullScreen();
-          } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari and Opera */
-            elem.webkitRequestFullscreen();
-          } else if (elem.msRequestFullscreen) { /* IE/Edge */
-            elem.msRequestFullscreen();
+          else {
+            fullscreen = true;
+            document.querySelector("body").classList.add("fullscreen");
+            if (elem.requestFullscreen) {
+              elem.requestFullscreen();
+            } else if (elem.mozRequestFullScreen) { /* Firefox */
+              elem.mozRequestFullScreen();
+            } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari and Opera */
+              elem.webkitRequestFullscreen();
+            } else if (elem.msRequestFullscreen) { /* IE/Edge */
+              elem.msRequestFullscreen();
+            }
           }
         });
-
-        function closeFullscreen() {
-          if (document.exitFullscreen) {
-            document.exitFullscreen();
-          } else if (document.mozCancelFullScreen) { /* Firefox */
-            document.mozCancelFullScreen();
-          } else if (document.webkitExitFullscreen) { /* Chrome, Safari and Opera */
-            document.webkitExitFullscreen();
-          } else if (document.msExitFullscreen) { /* IE/Edge */
-            document.msExitFullscreen();
-          }
-        }
-
-        
+        /* =============================================
+         * END: Fullscreen Magangement.
+         * =============================================
+         */
     </script>
   </body>
 </html>
