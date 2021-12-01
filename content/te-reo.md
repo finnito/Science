@@ -23,29 +23,41 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 
 ## Planning & Classroom Vocabulary
 
+- __Akonga__: Student
 - __Akoranga__: Lesson
+- __Angitu__: Success
+- __Aorakitanga__: Excellence
 - __Aromatawai__: Assessment
 - __He pātai?__: Any questions?
+- __Hiamo__ Vibrancy
+- __Kaiako__: Teacher
+- __Kia__: Be / let it be (e.g. kia kaha)
+- __Kia Angitu__: Be successful
+- __Kotahitanga__: Working as One
 - __Kēmu Patapatai__: Quiz
 - __Mahere Kōwae__: Unit Plan
 - __Mahi Kāinga__: Homework
 - __Mahi Ngātahi__: Group Activity
 - __Mahi Tuatahi__: Do Now/Starter
 - __Matapaki__: Discussion
-- __Ngohe__: Task/Activity
 - __Ngohe Tūhono__: Jigsaw Activity
+- __Ngohe__: Task/Activity
 - __Ngā Kirita__: Slides
 - __Ngā Mahere Akoranga__: Lesson Plans
 - __Ngā Whāinga Ako__: Learning Outcomes
 - __Pātai__: Question
 - __Rangahau__: Research
-- __Tākaro__: Game
+- __Rangatiratanga__: Citizenship
+- __Rōpū__: Group
 - __Tauira__: Example/Model
 - __Te Reo__: Maori
 - __Te/Ngā__: The (singular)/the (plural)
+- __Tākaro__: Game
 - __Tūhura__: Investigation
+- __Whai Huarahi__: Opportunities
 - __Whakakite__: Demonstration
 - __Whakamātau__: Experiment
+- __Whakamātautau__: Examination
 - __Whakaritenga__: Preparation
 - __Whakatika__: Answer
 - __Whakawai__: Practise
