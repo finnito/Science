@@ -101,8 +101,6 @@ A method should be a sequential set of steps that any person could follow to per
     <th class="tg-0pky"></th>
     <th class="tg-7btt" colspan="4">Radius of Impact Crater (m)</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-fymr">Mass of Impactor</td>
     <td class="tg-fymr">Trial 2</td>
@@ -110,6 +108,8 @@ A method should be a sequential set of steps that any person could follow to per
     <td class="tg-fymr">Trial 3</td>
     <td class="tg-fymr">Average</td>
   </tr>
+</thead>
+<tbody>
   <tr>
     <td class="tg-fymr">0.25kg</td>
     <td class="tg-0pky"></td>
