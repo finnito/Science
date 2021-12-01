@@ -76,11 +76,11 @@ weight: 6
 
 ## Punnet Squares {.c2}
 
-- Dad has two brown eye (B) genes
-- Mum has one brown eye (B) and one blue eye (b) gene
+- Dad has two brown eye (B) alleles
+- Mum has one brown eye (B) and one blue eye (b) allele
 - Brown eyes is dominant to blue eyes
-- __Pātai__: What are the _possible_ gene combinations for the children?
-- __Pātai__: The brown eye gene is dominant. What colour eye does each possible child have?
+- __Pātai__: What are the _possible_ alleles combinations for the children?
+- __Pātai__: What colour eye does each possible child have?
 
 ![](../assets/blank-punnett-square.jpg)
 
@@ -88,8 +88,7 @@ weight: 6
 
 ### Phenotype and Genotype {.c2}
 
-- Dad has two brown eye (B) genes
-- Mum has one brown eye (B) and one blue eye (b) gene
+- Mum and Dad both have one brown eye (B) and one blue eye (b) allele
 - Brown eyes is dominant to blue eyes
 - __Phenotype__: The physical presentation of the genes
 - __Genotype__: The combination of genes that a organism has
@@ -102,10 +101,23 @@ weight: 6
 
 #### {.c2}
 
-- Dad has one brown eye (B) and one blue eye (b) gene
-- Mum has one brown eye (B) and one blue eye (b) gene
+- Dad has one brown eye (B) and one blue eye (b) alleles
+- Mum has two blue eye (b) alleles
 - Brown eyes is dominant to blue eyes
+- __Fill in the Punnett square__
 - __Pātai__: What is the probability of having each phenotype (brown or blue)?
+- __Pātai__: What is the probability of having each genotype?
+
+![](../assets/blank-punnett-square.jpg)
+
+---
+
+#### {.c2}
+
+- Dad carries the the allele for a disease but does not have it (Dd)
+- Mum does not carry the allele for the same disease (dd).
+- __Pātai__: Is the disease dominant or recessive?
+- __Pātai__: What is the probability of having the disease or not?
 - __Pātai__: What is the probability of having each genotype?
 
 ![](../assets/blank-punnett-square.jpg)
