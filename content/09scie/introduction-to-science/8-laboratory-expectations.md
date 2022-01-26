@@ -1,20 +1,8 @@
 ---
 title: Laboratory Expectations
 slug: laboratory-expectations
-weight: 3
 subtitle: 9SCIE - Introduction to Pūtaiao
-author: Finn LeSueur
-date: 2020
-theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
+weight: 8
 ---
 
 ## Laboratory Stations

@@ -2,19 +2,10 @@
 title: Mihi
 slug: mihi
 subtitle: An Introduction to Me
-author: Finn LeSueur
-date: 2021
-theme: finn
 weight: 1
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
-## Ko Te Poho-o-Tamatea te maunga {.c2} 
+## Ko Te Poho-o-Tamatea te maunga {.c2}
 
  _Rapaki Rock is my mountain_
 
@@ -22,7 +13,7 @@ header-includes:
 
 ---
 
-## Ko Ōpāwaho te awa {.c2} 
+## Ko Ōpāwaho te awa {.c2}
 
 The Heathcote is my river
 
@@ -57,3 +48,9 @@ My name is Finn Le Sueur
 ## Nō reira, tēnā koe, tēnā koe, tēnā koe
 
 Therefore, welcome all, welcome all, welcome all!
+
+---
+
+### What do I do outside of work?
+
+Running, tramping, cycling (road and cross country), kayaking, skiing, rock climbing, swimming, 
