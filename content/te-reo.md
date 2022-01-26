@@ -40,25 +40,33 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Mahi Ngātahi__: Group Activity
 - __Mahi Tuatahi__: Do Now/Starter
 - __Matapaki__: Discussion
+- __Meka rānei Hori__: True or False?
 - __Ngohe Tūhono__: Jigsaw Activity
 - __Ngohe__: Task/Activity
 - __Ngā Kirita__: Slides
 - __Ngā Mahere Akoranga__: Lesson Plans
 - __Ngā Whāinga Ako__: Learning Outcomes
 - __Pātai__: Question
+- __Pitopito Kōrero__: Snippet of Information (Notes)
 - __Rangahau__: Research
 - __Rangatiratanga__: Citizenship
 - __Rōpū__: Group
 - __Tauira__: Example/Model
+- __Taurangi Rāwekeweke__: Independent Variable
+- __Taurangi Whakamauru__: Dependent Variable
+- __(Ngā) Taurangi Whakatina__: Control Variables
 - __Te Reo__: Maori
 - __Te/Ngā__: The (singular)/the (plural)
 - __Tākaro__: Game
 - __Tūhura__: Investigation
 - __Whai Huarahi__: Opportunities
+- __Whāinga Whānui__: Aim
 - __Whakakite__: Demonstration
 - __Whakamātau__: Experiment
+- __Whakamātau Tika__: Fair Test / Experiment
 - __Whakamātautau__: Examination
 - __Whakaritenga__: Preparation
+- __Whakapae__: Hypothesis
 - __Whakatika__: Answer
 - __Whakawai__: Practise
 
