@@ -70,9 +70,9 @@ Complete combustion of methane:
 ### Balance these reactions:
 
 \begin{aligned}
-    & C \quad + \quad O_{2} \rightarrow \quad CO_{2} \\
-    & H_{2} \quad + \quad O_{2} \rightarrow \quad H_{2}O \\
-    & N_{2} \quad + \quad H_{2} \rightarrow \quad NH_{3} \\
+    & C \quad + \quad O_{2} \rightarrow \quad CO_{2} \newline
+    & H_{2} \quad + \quad O_{2} \rightarrow \quad H_{2}O \newline
+    & N_{2} \quad + \quad H_{2} \rightarrow \quad NH_{3} \newline
     & CH_{4} \quad + \quad O_{2} \rightarrow \quad CO_{2} + \quad H_{2}O
 \end{aligned}
 
@@ -81,9 +81,9 @@ Complete combustion of methane:
 #### Answer
 
 \begin{aligned}
-    & C \quad + \quad O_{2} \rightarrow \quad CO_{2} \\
-    & 2H_{2} \quad + \quad O_{2} \rightarrow \quad 2H_{2}O \\
-    & N_{2} \quad + \quad 3H_{2} \rightarrow \quad 2NH_{3} \\
+    & C \quad + \quad O_{2} \rightarrow \quad CO_{2} \newline
+    & 2H_{2} \quad + \quad O_{2} \rightarrow \quad 2H_{2}O \newline
+    & N_{2} \quad + \quad 3H_{2} \rightarrow \quad 2NH_{3} \newline
     & CH_{4} \quad + \quad 2O_{2} \rightarrow \quad CO_{2} + \quad 2H_{2}O
 \end{aligned}
 

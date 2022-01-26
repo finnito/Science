@@ -81,7 +81,7 @@ If the protons are positively charged, why don't they repel each other and the n
 #### Whakatika
 
 \begin{aligned}
-    & {}^{1}_{0}n + {}^{235}_{92}U \rightarrow {}^{236}_{92}U \\
+    & {}^{1}_{0}n + {}^{235}_{92}U \rightarrow {}^{236}_{92}U \newline
     & {}^{236}_{92}U \rightarrow {}^{92}_{36}Kr + {}^{141}_{56}Ba + 3{}^{1}_{0}n
 \end{aligned}
 

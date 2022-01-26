@@ -59,7 +59,7 @@ header-includes:
 Written as an equation, this can mean:
 
 \begin{aligned}
-    E_{k} &= E_{p} \\
+    E_{k} &= E_{p} \newline
     \frac{1}{2}mv^{2} &= mgh
 \end{aligned}
 
@@ -84,11 +84,11 @@ Mr Le Sueur has mass 71kg and has climbed a tree 4.5m tall to jump into a lake. 
 #### Whakatika
 
 \begin{aligned}
-    E_{p} &= mgh = 71 \times 10 \times 4.5 = 3195J \\
-    E_{k} &= E_{p} \\
-    E_{k} &= \frac{1}{2}mv^{2} \\
-    3195 &= \frac{1}{2} \times 71 \times v^{2} \\
-    \frac{3195 \times 2}{71} = 90 &= v^{2} \\
+    E_{p} &= mgh = 71 \times 10 \times 4.5 = 3195J \newline
+    E_{k} &= E_{p} \newline
+    E_{k} &= \frac{1}{2}mv^{2} \newline
+    3195 &= \frac{1}{2} \times 71 \times v^{2} \newline
+    \frac{3195 \times 2}{71} = 90 &= v^{2} \newline
     \sqrt{90} = 9.49ms^{-1} &= v
 \end{aligned}
 

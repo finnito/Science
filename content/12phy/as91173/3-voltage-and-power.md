@@ -50,9 +50,9 @@ A current of $1.2A$ flows for $0.25s$. How much charge was transferred in that t
 ### Answer
 
 \begin{aligned}
-    & I = \frac{q}{t} \\
-    & q = I \times t \\
-    & q = 1.2 \times 0.25 \\
+    & I = \frac{q}{t} \newline
+    & q = I \times t \newline
+    & q = 1.2 \times 0.25 \newline
     & q = 0.3 Coulombs (C)
 \end{aligned}
 
@@ -81,9 +81,9 @@ Open this link and build a circuit with a power supply, light bulb, resistor and
 - __Voltage is the amount of energy in one coulomb of charge__
 
 \begin{aligned}
-    & V = \frac{E_{p}}{q} \\
-    & V = \text{ voltage measured in...} \\
-    & E_{p} = \text{ electrical energy measured in... } \\
+    & V = \frac{E_{p}}{q} \newline
+    & V = \text{ voltage measured in...} \newline
+    & E_{p} = \text{ electrical energy measured in... } \newline
     & q = \text{ charge measured in...}
 \end{aligned}
 
@@ -98,9 +98,9 @@ A system has electrical potential energy of $25J$ and has $0.5C$ of charge. What
 ### Answer
 
 \begin{aligned}
-    & V = \frac{E_{p}}{q} \\
-    & V = \frac{25}{0.5} \\
-    & V = 12.5V \\
+    & V = \frac{E_{p}}{q} \newline
+    & V = \frac{25}{0.5} \newline
+    & V = 12.5V \newline
 \end{aligned}
 
 ---
@@ -114,10 +114,10 @@ A system has a voltage of $12V$ and has $1.75C$ of charge inside it. What potent
 ### Answer
 
 \begin{aligned}
-    & V = \frac{E_{p}}{q} \\
-    & E_{p} = V \times q \\
-    & E_{p} = 12 \times 1.75 \\
-    & E_{p} = 21J \\
+    & V = \frac{E_{p}}{q} \newline
+    & E_{p} = V \times q \newline
+    & E_{p} = 12 \times 1.75 \newline
+    & E_{p} = 21J \newline
 \end{aligned}
 
 ---
@@ -128,9 +128,9 @@ A system has a voltage of $12V$ and has $1.75C$ of charge inside it. What potent
 - E.g. A 100W ($100 J/s, 100JS^{-1}$) light bulb transforms 100J of electrical energy per second into light and heat energy.
 
 \begin{aligned}
-    & P = IV \\
-    & P = \text{ power measured in...} \\
-    & I = \text{ current measured in...} \\
+    & P = IV \newline
+    & P = \text{ power measured in...} \newline
+    & I = \text{ current measured in...} \newline
     & V = \text{ voltage measured in...}
 \end{aligned}
 
@@ -145,9 +145,9 @@ A system has a current of $0.5A$ and voltage, $6V$. What is the power consumed b
 ### Answer
 
 \begin{aligned}
-    & P = IV \\
-    & P = 0.5 \times 6 \\
-    & 3W = 3J/s = 3Js^{-1} \\
+    & P = IV \newline
+    & P = 0.5 \times 6 \newline
+    & 3W = 3J/s = 3Js^{-1} \newline
 \end{aligned}
 
 ---
@@ -161,10 +161,10 @@ A washing machine has a power rating of 65W and the house is using a 12V system.
 ### Answer
 
 \begin{aligned}
-    & P = IV \\
-    & I = \frac{P}{V} \\
-    & I = \frac{65}{12} \\
-    & I = 5.42A \\
+    & P = IV \newline
+    & I = \frac{P}{V} \newline
+    & I = \frac{65}{12} \newline
+    & I = 5.42A \newline
 \end{aligned}
 
 ---
@@ -174,8 +174,8 @@ A washing machine has a power rating of 65W and the house is using a 12V system.
 By substituting these equations into each other we can begin to see how intertwined all of these concepts are.
 
 \begin{aligned}
-    & I = \frac{q}{t} \\
-    & V = \frac{E_{p}}{q} \\
-    & \\
+    & I = \frac{q}{t} \newline
+    & V = \frac{E_{p}}{q} \newline
+    & \newline
     & P = I \times V = \frac{q}{t} \times \frac{E_{p}}{q} = \frac{E_{p}}{t}
 \end{aligned}

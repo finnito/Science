@@ -2,16 +2,6 @@
 title: Energy Transformations
 slug: energy-transformations
 subtitle: 12ESS - Meteorite Investigation
-author: Finn LeSueur
-date: 2021
-theme: finn
-weight: 4
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
 ## Akoranga 4 Mahi Tuatahi
@@ -103,7 +93,7 @@ The kinetic energy is transferred into the ground, creating an impact crater and
 > The potential an object has to fall in a gravitational field.
 
 \begin{aligned}
-    E_{p} &= mass \times gravity \times height \\
+    E_{p} &= mass \times gravity \times height \newline
     E_{p} &= m \times g \times h
 \end{aligned}
 
@@ -125,7 +115,7 @@ The kinetic energy is transferred into the ground, creating an impact crater and
 > Energy an object in motion has
 
 \begin{aligned}
-    Energy &= \frac{1}{2} mass \times velocity^{2} \\
+    Energy &= \frac{1}{2} mass \times velocity^{2} \newline
     E &= \frac{1}{2}m \times v^{2}
 \end{aligned}
 
@@ -138,14 +128,14 @@ The kinetic energy is transferred into the ground, creating an impact crater and
 1. Increase its mass!
 
 \begin{aligned}
-    E = \frac{1}{2} \times 10 \times 10^{2} = 500J \\
-    E = \frac{1}{2} \times 20 \times 10^{2} = 1,000J
+    E &= \frac{1}{2} \times 10 \times 10^{2} &&= 500J \newline
+    E &= \frac{1}{2} \times 20 \times 10^{2} &&= 1,000J
 \end{aligned}
 
 2. Increase its velocity (has a greater effect)!
 
 \begin{aligned}
-    E = \frac{1}{2} \times 10 \times 10^{2} = 500J \\
+    E = \frac{1}{2} \times 10 \times 10^{2} = 500J \newline
     E = \frac{1}{2} \times 10 \times 15^{2} = 1,125J
 \end{aligned}
 
@@ -175,10 +165,10 @@ The kinetic energy is transferred into the ground, creating an impact crater and
 Typically to increase the energy of an impact in a simulation we increase the height that it is dropped from, thereby giving it more gravitational potential energy to be converted to kinetic energy (increasing its impact velocity).
 
 \begin{aligned}
-    E_{p} &= E_{k} \\
-    m \times g \times h &= \frac{1}{2}m \times v^{2} && \text{Mass cancels out} \\
-    g \times h &= \frac{1}{2} \times v^{2} && \text{Re-arrange for v} \\
-        2 \times g \times h &= v^{2} \\
+    E_{p} &= E_{k} \newline
+    m \times g \times h &= \frac{1}{2}m \times v^{2} && \text{Mass cancels out} \newline
+    g \times h &= \frac{1}{2} \times v^{2} && \text{Re-arrange for v} \newline
+        2 \times g \times h &= v^{2} \newline
     \sqrt{2 \times g \times h} &= v
 \end{aligned}
 
@@ -204,7 +194,7 @@ Typically to increase the energy of an impact in a simulation we increase the he
 ## Pātai
 
 \begin{aligned}
-    v &= \sqrt{2 \times g \times h} \\
+    v &= \sqrt{2 \times g \times h} \newline
     E_{k} &= \frac{1}{2} \times m \times v^{2}
 \end{aligned}
 

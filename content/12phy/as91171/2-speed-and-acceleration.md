@@ -68,9 +68,9 @@ header-includes:
 
 $$
 \begin{aligned}
-    & v = \frac{d}{t} \\
-    & d = \text{total distance travelled} \\
-    & t = \text{time} \\
+    & v = \frac{d}{t} \newline
+    & d = \text{total distance travelled} \newline
+    & t = \text{time} \newline
     & v = \text{speed}
 \end{aligned}
 $$

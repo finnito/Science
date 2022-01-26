@@ -44,7 +44,7 @@ E.g. When you lift your backpack off the ground you are transferring some __chem
 Work has the formula
 
 \begin{aligned}
-    work &= force \times distance \\    
+    work &= force \times distance \newline    
     W &= F \times d
 \end{aligned}
 
@@ -73,8 +73,8 @@ Sam has decided to take up weight lifting and starts by dead-lifting a $20kg$ ma
 #### Whakatika Rua
 
 \begin{aligned}
-    W &= F \times d \\
-    W &= (m \times g) \times d \\
+    W &= F \times d \newline
+    W &= (m \times g) \times d \newline
     W &= (20 \times 10) \times 1 = 200J
 \end{aligned}
 
@@ -93,8 +93,8 @@ Jack has gone hiking up Avalanche Peak. He has a mass of $55kg$ and reaches a he
 #### Whakatika Toru
 
 \begin{aligned}
-    W &= F \times d \\
-    W &= (m \times g) \times d \\
+    W &= F \times d \newline
+    W &= (m \times g) \times d \newline
     W &= (55 \times 10) \times (1833-733) = 605,000J
 \end{aligned}
 
@@ -115,8 +115,8 @@ Jack has gone hiking up Avalanche Peak. He has a mass of $55kg$ and reaches a he
 #### Whakatika Whā
 
 \begin{aligned}
-    W &= F \times d \\
-    W &= (m \times g) \times d \\
+    W &= F \times d \newline
+    W &= (m \times g) \times d \newline
     W &= (62 \times 10) \times 46.2 = 28,644J
 \end{aligned}
 
@@ -183,7 +183,7 @@ A rocket is launched with an acceleration of $90ms^{-2}$. It has a mass of $5kg$
 All energy is transformed from chemical potential __to gravitational potential__.
 
 \begin{aligned}
-    W = E_{p} &= m \times g \times h \\
+    W = E_{p} &= m \times g \times h \newline
     &= 5 \times 10 \times 2000 = 100,000J
 \end{aligned}
 
@@ -204,7 +204,7 @@ Open your mahi kāinga booklet to Q33 about Ian and Chris on a diving platform.
 a) _How much work does Chris (48 kg) do when he climbs up the stairs to the 2m diving platform?_
 
 \begin{aligned}
-    W = E_{p} &= m \times g \times h \\
+    W = E_{p} &= m \times g \times h \newline
     &= 48 \times 10 \times 2 = 960J
 \end{aligned}
 
@@ -215,7 +215,7 @@ b) _Ian's mass is 52 kg. Why did Ian do more work climbing up the 5 m ladder com
 Because $W=mgh$, if $m$ increases, the work increases. Also if $h$ increases, so does the work. Ian:
 
 \begin{aligned}
-    W = E_{p} &= m \times g \times h \\
+    W = E_{p} &= m \times g \times h \newline
     &= 52 \times 10 \times 5 = 2600J
 \end{aligned}
 
@@ -249,8 +249,8 @@ Get ready to [Kahoot](https://create.kahoot.it/v2/details/34b75563-b84d-4694-931
 - Power is measured in Joules per second ($J/s$), which is also known as a Watt ($W$)
 
 \begin{aligned}
-    power &= \frac{work}{time} \\
-    P &= \frac{W}{t} \\
+    power &= \frac{work}{time} \newline
+    P &= \frac{W}{t} \newline
 \end{aligned}
 
 ---
@@ -268,8 +268,8 @@ You go to school but leave the light in your bedroom on all day. The lightbulb u
 #### Whakatika Tahi
 
 \begin{aligned}
-    P &= \frac{W}{t} \\
-    &= \frac{1,134,000}{25,200} \\
+    P &= \frac{W}{t} \newline
+    &= \frac{1,134,000}{25,200} \newline
     &= 45Js^{-1} = 45\frac{J}{s} = 45W
 \end{aligned}
 
@@ -288,12 +288,12 @@ Chris (48 kg) climbs 2m up some stairs to a diving board. He completes the climb
 #### Whakatika Rua
 
 \begin{aligned}
-    W &= F \times d \\
+    W &= F \times d \newline
     &= (48 \times 10) \times 2 = 960J
 \end{aligned}
 
 \begin{aligned}
-    P & = \frac{W}{t} \\
+    P & = \frac{W}{t} \newline
     &= \frac{960}{5} = 192Js^{-1} = 192\frac{J}{s} = 192W
 \end{aligned}
 
@@ -312,11 +312,11 @@ Mahi Kāinga booklet Q36. _Hint: find work first, and then power._
 #### Whakatika Toru
 
 \begin{aligned}
-    W &= F \times d \\
+    W &= F \times d \newline
     &= (62 \times 10) \times 46.2 = 28,644J
 \end{aligned}
 
 \begin{aligned}
-    P & = \frac{W}{t} \\
+    P & = \frac{W}{t} \newline
     &= \frac{28644}{525} = 54.56Js^{-1} = 54.56\frac{J}{s} = 54.56W
 \end{aligned}

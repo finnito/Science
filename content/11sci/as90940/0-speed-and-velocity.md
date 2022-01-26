@@ -61,8 +61,8 @@ In order to determine speed we need to know two things!
 
 <div>
 \begin{aligned}
-    velocity &= \frac{\text{change in distance}}{\text{change in time}} \\
-    v &= \frac{\Delta d}{\Delta t} \\
+    velocity &= \frac{\text{change in distance}}{\text{change in time}} \newline
+    v &= \frac{\Delta d}{\Delta t} \newline
 \end{aligned}
 </div>
 

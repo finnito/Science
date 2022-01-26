@@ -144,7 +144,7 @@ Try and conmplete these word and symbol equations (refer to your notes):
 __Complete Combustion__
 
 \begin{aligned}
-    methane + oxygen \rightarrow  \hspace{1cm} +  \hspace{1cm}\\
+    methane + oxygen \rightarrow  \hspace{1cm} +  \hspace{1cm}\newline
     CH_{4} + \frac{1}{2}O_{2} \rightarrow \hspace{2cm} + \hspace{2cm}
 \end{aligned}
 
