@@ -3,13 +3,14 @@
 source ~/.profile
 
 dest=~/Sites/public.putaiao.nz/
-echo "$dest"
 
-hugo serve \
+hugo server \
 	--cleanDestinationDir \
 	--disableFastRender \
 	--forceSyncStatic \
+	--renderToDisk \
 	--gc \
 	--noHTTPCache \
 	--destination="$dest" \
-	--appendPort=false
+	--baseURL=http://putaiao.test \
+	--appendPort=true
