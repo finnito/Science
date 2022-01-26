@@ -1,6 +1,27 @@
 {{ partial "header.html" . }}
-    <div class="article-meta">
-        <h2 class="title">{{ .Title | markdownify }}</h2>
-    </div>
-    {{ .Content }}
+    <aside>
+        {{ $page := .Parent }}
+
+        {{ with $page.Pages }}
+            <h2 id="nga-kirita">{{ $page.Title }}</em></h2>
+            <ol>
+                {{ range . }}
+                    {{ if in "1234567890" (substr .File.File.LogicalName 0 1) }}
+                        <li><a
+                            href="{{ .Permalink }}"
+                            title="Read {{ .Title }} notes for {{ $page.Title }}">
+                            {{ .Title }}
+                        </a></li>
+                    {{ end }}
+                {{ end }}
+            </ol>
+        {{ end }}
+    </aside>
+    <main>
+        <div class="article-meta">
+            <h2 class="title">{{ .Title | markdownify }}</h2>
+        </div>
+        {{ .Content }}
+    </main>
+    
 {{ partial "footer.html" . }}

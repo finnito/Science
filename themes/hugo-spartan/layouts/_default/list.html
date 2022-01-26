@@ -1,59 +1,60 @@
 {{ partial "header.html" . }}
-    <div class="article-meta">
-        <h2 class="title">
-            {{ with .Params.emoji }}{{ . }}{{ end }} 
-            {{ .Title | markdownify }}
-            {{ with .Params.te_reo }}
-                <em> / {{ . }}</em>
-            {{ end }} 
-            {{ with .Params.emoji }}
-                {{ . }}
+    <main>
+        <div class="article-meta">
+            <h2 class="title">
+                {{ with .Params.emoji }}{{ . }}{{ end }} 
+                {{ .Title | markdownify }}
+                {{ with .Params.te_reo }}
+                    <em> / {{ . }}</em>
+                {{ end }} 
+                {{ with .Params.emoji }}
+                    {{ . }}
+                {{ end }}
+            </h2>
+            {{ if isset .Params "nzqa" }}
+            <ul>
+                {{ with .Params.nzqa }}
+                <li>
+                    <a href="https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber={{ . }}"
+                        title="AS{{ . }} on NZQA">
+                        NZQA Link
+                    </a>
+                </li>
+                {{ end }}
+                {{ with .Params.level }}
+                <li>
+                    Level {{ . }}
+                </li>
+                {{ end }}
+                {{ with .Params.assessment }}
+                <li>
+                    {{ . | title }}
+                </li>
+                {{ end }}
+                {{ with .Params.credits }}
+                <li>
+                    {{ . }} Credits
+                </li>
+                {{ end }}
+            </ul>
             {{ end }}
-        </h2>
-        {{ if isset .Params "nzqa" }}
-        <ul>
-            {{ with .Params.nzqa }}
-            <li>
-                <a href="https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber={{ . }}"
-                    title="AS{{ . }} on NZQA">
-                    NZQA Link
-                </a>
-            </li>
-            {{ end }}
-            {{ with .Params.level }}
-            <li>
-                Level {{ . }}
-            </li>
-            {{ end }}
-            {{ with .Params.assessment }}
-            <li>
-                {{ . | title }}
-            </li>
-            {{ end }}
-            {{ with .Params.credits }}
-            <li>
-                {{ . }} Credits
-            </li>
-            {{ end }}
-        </ul>
-        {{ end }}
-    </div>
-    {{ .Content }}
-    
-    <hr/>
-    {{ $page := . }}
-    {{ $url := "" }}
-    {{ with .File }}
-        {{ if isset $page.Params "file" }}
-            {{ $url = path.Join  "https://github.com/finnito/Science/commits/master/data/" $page.File.Dir }}
-        {{ else }}
-            {{ if eq .File.LogicalName "_index.md" }}
-                {{ $url = path.Join "https://github.com/finnito/Science/commits/master/content/" .Path }}
+        </div>
+        {{ .Content }}
+        
+        <hr/>
+        {{ $page := . }}
+        {{ $url := "" }}
+        {{ with .File }}
+            {{ if isset $page.Params "file" }}
+                {{ $url = path.Join  "https://github.com/finnito/Science/commits/master/data/" $page.File.Dir }}
             {{ else }}
-                {{ $url = path.Join "https://github.com/finnito/Science/commits/master/content/" .File.Dir .LogicalName }}
+                {{ if eq .File.LogicalName "_index.md" }}
+                    {{ $url = path.Join "https://github.com/finnito/Science/commits/master/content/" .Path }}
+                {{ else }}
+                    {{ $url = path.Join "https://github.com/finnito/Science/commits/master/content/" .File.Dir .LogicalName }}
+                {{ end }}
             {{ end }}
+        <a class="button yellow" title="Edit {{$.Title}} on Github" target="_blank" href="{{ $url }}">View the Changelog</a>
         {{ end }}
-    <a class="button yellow" title="Edit {{$.Title}} on Github" target="_blank" href="{{ $url }}">View the Changelog</a>
-    {{ end }}
-
+    </main>
 {{ partial "footer.html" . }}

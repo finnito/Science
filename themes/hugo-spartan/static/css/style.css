@@ -223,6 +223,16 @@ h4 {
 
 h4 { margin: 0; }
 
+ol > li {
+  position: relative;
+}
+
+ol > li > a[download] {
+  position: absolute;
+  top: 0.5rem;
+  right: 1rem;
+}
+
 .changelog {
   border: 1px solid var(--neutral-main);
   background-color: var(--neutral-light);
