@@ -1,6 +1,6 @@
 ---
 title: Animations
-weight: 3
+weight: 8
 ---
 
 ## 12 Physics
