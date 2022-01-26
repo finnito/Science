@@ -81,6 +81,6 @@ function updateClock () {
 
     // TODO: Add English date
 
-    document.getElementById('clock').innerHTML = dte + "<br>" + date.toLocaleTimeString();
+    document.getElementById('clock').innerHTML = dte + "<br>" + date.toLocaleTimeString([], {hour: '2-digit', minute: '2-digit'});
     setTimeout(updateClock, 75);
 }
