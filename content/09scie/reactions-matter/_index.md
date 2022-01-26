@@ -3,9 +3,6 @@ title: Reactions Matter
 te_reo: Mātai Matū
 emoji: 🧪
 weight: 2
-menu:
-    main:
-        parent: "9SCIE"
 ---
 
 <!-- NOTE: This unit needs severe re-working before teaching again. -->
@@ -16,45 +13,223 @@ menu:
 
 {{< slides >}}
 
-## Term 2, Week 2
+## Learning Outcomes _/ Ngā Whāinga Ako_
 
-__Google Meets:__ Wednesday 8:45am (9KNS), Wednesday 1:40pm (9FCG)
+1. Describe elements as the materials from which everything else is made
+2. Recall the symbol and name of the first 20 elements of the periodic table
+3. Explain that elements are made up of atoms of only one type
+4. Explain the difference between physical and chemical properties of substances
+5. Describe the three different states of matter
+6. Explain the different states of matter using particle diagrams
+7. Describe the properties of solid, liquids and gases
+8. Describe how matter can be classified as a pure substance or a mixture
+9. Explain the difference between an element and a compound
+10. Interpret the formula of a compound and explain the number and type of element in the compound
+11. Explain why compounds have different properties to the elements they are formed from
+12. Describe what a solution is and how it is made
+13. Identify appropriate indicators of chemical reactions 
+14. Write word equation for simple reactions showing reactants and products
+15. Carry out test for common laboratory gases, H2, O2, CO2
 
-__Resources:__ Revision Notes
+## Unit Plan _/Mahere Kōwae_
 
-### Akoranga 1: Revision
+|            |    Akoranga 1   | Akoranga 2 | Akoranga 3 |
+|------------|-----------------|------------|------------|
+| __Week 1__ | 1. Introduction |         2. |         3. |
+| __Week 2__ | 4.              |         5. |         6. |
+| __Week 3__ | 7.              |         8. |         9. |
+| __Week 4__ | 10.             |        11. |        12. |
+| __Week 5__ | 13.             |        14. |        15. |
+| __Week 6__ | 16.             |        17. |        18. |
 
-- Changes of State Worksheet
-- Elements Compounds and Mixtures Worksheet
+## Learning Support Unit Plan _/ Mahere Kōwae_
 
-### Akoranga 2
+|            | Akoranga 1      | Akoranga 2 | Akoranga 3 | Akoranga 4 |
+| :-------   | :-------        | :------    | :--------  | :------    |
+| __Week 1__ | 1. Introduction | 2.         | 3.         | 4.         |
+| __Week 2__ | 5.              | 6.         | 7.         | 8.         |
+| __Week 3__ | 9.              | 10.        | 11.        | 12.        |
+| __Week 4__ | 13.             | 14.        | 15.        | 16.        |
+| __Week 5__ | 17.             | 18.        | 19.        | 20.        |
 
-- Google Meet for questions & help!
+### Ngā Mahere Akoranga: _Lesson Plans_
 
-### Akoranga 3
+1. #### Introduction
+    - __Whakaritenga__
+        + Print Learning Outcomes
+    - __Te Whāinga Ako__
+        1. Describe elements as the materials from which everything else is made
+    - __Notes__
+        + Slides: 
+    - __Task/Ngohe__
+        + [5 Elements](https://docs.google.com/document/d/1cLCYGIkMPWXIyCikTyOKHHW0-HkLxV51JGuxE5WnU6Q/edit)
 
-- Solutions Worksheet
-- Physical vs Chemical Changes Worksheet
+2. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
 
-Please, as always, hand in a photo of your working (if in your exercise book), or the document that you answered your questions in.
+3. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
 
-Comment below or email me LSF@cashmere.school.nz if you get stuck!
+4. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
 
----
+5. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
 
-## Term 2, Week 3
+6. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
 
-This we are continuing our revision of Reactions Matter as we will are having our end of topic test next Tuesday evening. I will email with more details regarding the test later today!
+7. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
 
-Due to the long weekend, this will only be a two-Akoranga week, but I will try assign plenty of content.
+8. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
 
-### Akoranga 1
+9. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
 
-- Complete the true/false worksheet. This should take you ~20-30 minutes if you take time to think about your answers and answer in-depth.
-- Complete the freezing worksheet. This should take you 10-15 minutes if you take the time to do it thoroughly.
+10. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
 
-### Akoranga 2
+11. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
 
-- Education Perfect Revision Task
+12. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
 
-Please comment on this weeks assignment or email me if you have any questions about any of the content! It is important that you clarify any confusions before the test.
+13. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
+
+14. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
+
+15. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
+
+16. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
+
+17. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
+
+18. ####
+    - __Whakaritenga__
+        +
+    - __Te Whāinga Ako__
+        1.
+    - __Notes__
+        + Slides:
+    - __Task/Ngohe__
+        +
