@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-source ~/.profile
+source ~/.bash_profile
+source ~/.zshrc
 
 dest=~/Sites/public.putaiao.nz/
 
