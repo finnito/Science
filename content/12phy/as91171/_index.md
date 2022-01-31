@@ -18,20 +18,9 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 
 <mark>Tutorials are weekly in A3 on Tuesday and Thursday. Bring your lunch and your questions if you get stuck with the homework!</mark>
 
-1. __Monday, February 15th__: Vectors Question 9
-2. __Monday, February 22nd__: Kinematics Question 1
-3. __Monday, March 1st__: 
-4. __Monday, March 8th__: Projectile Motion Q19, Q20
-5. __Monday, March 15th__: 
-6. __Monday, March 22nd__: 
-7. __Monday, March 29th__: 
-8. __Wednesday, April 7th__: Q20, Q22-23, Q42
-    - This homework should be done on refill paper and handed in on the first period after Easter!
-9. __Monday, April 12th__:
-
 {{< slides >}}
 
-## Learning Outcomes _/ Ngā Whāinga Ako_ 
+## Learning Outcomes _/ Ngā Whāinga Ako_
 
 1. __Motion__
     1. Constant acceleration in a straight line
@@ -54,96 +43,85 @@ Homework is issued on a weekly basis. It should be completed in the back of your
     6. Power and conservation of energy
     7. Elastic potential energy
 
-## Unit Plan _/ Mahere Kōwae_ 
+## Unit Plan _/ Mahere Kōwae_
 
-|           | Akoranga 1                      | Akoranga 2                        | Akoranga 3                 | Akoranga 4                |
-| :-------- | :---------------------          | :----------------------           | :------------------------- | :------------------------ |
-| Week 1    | ~~_Juniors Only_~~              | 1. Speed & Acceleration           | 2. Scalars & Vectors       | 3. Vectors in 1D (Delta)  |
-| Week 2    | 4. _Waitangi Day_/Vectors in 1D | 5. Vectors in 2D                  | 6. Vectors in 2D           | 7. Vector Components      |
-| Week 3    | 8. Vector Components            | 9. Vector Revision                | 10. Vector Test            | 11. Kinematic Equations   |
-| Week 4    | 12. Kinematic Equations         | 13. Kinematic Equations           | 14. Newton's Laws          | 15. Newton's Laws         |
-| Week 5    | 16. Newton's Laws               | 17. __Mid-Topic Test #1__         | 18. Projectile Motion      | 19. Projectile Motion     |
-| Week 6    | 20. Projectile Motion           | 21. Projectile Motion             | 22. Projectile Motion      | 23. Torque & Equilibrium  |
-| Week 7    | 24. Torque & Equilibrium        | 25. Torque & Equilibrium          | 26. Torque & Equilibrium   | 27. Torque & Equilibrium  |
-| Week 8    | 28. Circular Motion             | 29. Circular Motion               | 30. Circular Motion        | 31. Recap & Review        |
-| Week 9    | 32. Momentum & Impulse          | 33. Momentum & Impulse            | 34. Momentum & Impulse     | 35. ~~Easter Friday~~     |
-| Week 10   | 36. ~~Easter Mon/Tues~~         | 37. $E_{p}, E_{k}$ & Conservation | 38. Springs                | 39. Work & Power          |
-| Week 11   | 40. __Revision__                | 41. __Revision__                  | 42. __TEST__               | 43. _Hand Back Test_      |
+|             |           Akoranga 1          |        Akoranga 2        |        Akoranga 3        |        Akoranga 4        |
+| :---------- | :---------------------------- | :----------------------- | :----------------------- | :----------------------- |
+| __Week 1__  | ~~_Juniors Only_~~            | 1. Intro & Math          | 2. Math                  | 3. Maths License Test    |
+| __Week 2__  | 4. ~~Waitangi Day~~           | 5. Scalars & Vectors     | 6. Vectors in 1D (Delta) | 7. Vectors in 2D         |
+| __Week 3__  | 8. Vectors in 2D & Components | 9. Vector Components     | 10. Vector Revision      | 11. __Vector Test__      |
+| __Week 4__  | 12. Kinematic Equations       | 13. Kinematic Equations  | 14. Kinematic Equations  | 15. Newton's Laws        |
+| __Week 5__  | 16. Newton's Laws             | 17. Newton's Laws        | 18. _Recap & Review_     | 19. Projectile Motion    |
+| __Week 6__  | 20. Projectile Motion         | 21. Projectile Motion    | 22. Projectile Motion    | 23. Torque & Equilibrium |
+| __Week 7__  | 24. Torque & Equilibrium      | 25. Torque & Equilibrium | 26. Torque & Equilibrium | 27. Torque & Equilibrium |
+| __Week 8__  | 28. Circular Motion           | 29. Circular Motion      | 30. Circular Motion      | 31. _Recap & Review_     |
+| __Week 9__  | 32. Momentum & Impulse        | 33. Momentum & Impulse   | 34. Momentum & Impulse   | 35. $E_{p}$ and $E_{k}$  |
+| __Week 10__ | 36. Conservation of $E$       | 37. Springs              | 38. Work                 | 39. Power                |
+| __Week 11__ | 40. __Revision__              | 41. __Revision__         | 42. __TEST__             | 43. ~~Good Friday~~      |
 
 ### Ngā Mahere Akoranga: _Lesson Plans_
 
 #### Term 1, Week 1
-
 1. #### Intro to Physics
     - __Whakaritenga__
-        - Collect year planner
+        - Year planner on Classroom (show)
         - Collect letter home
         - Collect homework booklets
+        - Print maths license booklet
+        - Print maths license test
+        - Print Walker Maths exercises
+        - Print EAS exercises
     - __Te Whāinga Ako__
         1. Learn what is required for the year
-    - __Notes__
-        - Slides: Speed and acceleration
     - __Task/Ngohe__
-        - Student profile form
+        - Student to fill out profile
+        - Hand out Maths License booklet
+        - Hand out homework booklet
+        - Hand out letter home
+        - __Homework:__ Maths License Booklet exercises
 
-2. #### Speed, Acceleration & Vectors
-    - __Ngā Whāinga Ako__
-        1. Review speed and acceleration calculations
-        2. Introduce vectors and scalars
-    - __Notes__
-        - Slides: Second half of speed and acceleration slides
-        - First part of vectors slides
-
-3. #### Vector Addition
-    - __Whakaritenga__
-        - Photocopy vectors worksheet
-    - __Te Whāinga Ako__
-        1. Introduce vector addition
-    - __Notes__
-        - Continue vector slides
+2. #### Math Practice
     - __Task/Ngohe__
-        - Vectors worksheet
+        + Continue to work on the maths license booklet
+        + Extra exercises available (Walker + EAS)
+        + ESA Activity 1B Useful Mathematics
+
+3. #### Maths License Test
 
 ---
 
 #### Term 1, Week 2
 
-4. #### Vector Addition and Subtraction
-    - __Ngā Whāinga Ako__
-        1. Complete practical vector addition examples
-        2. Introduce vector subtraction
-        3. Calculate vector $\Delta$
-    - __Notes__
-        - Slides: Middle 3rd of the Scalars and Vectors notes. Stopping at vector components.
-    - __Task/Ngohe__
-        - ESA Study Guide (2011): Page 108-109, Q3, Q4, Q5, Q7, Q13.
-        - ESA Study Guide (2008): Page 98-99, Q3, Q4, Q5, Q7, Q13.
+4. #### ~~Waitangi Day~~
 
-5. #### Vector Addition, Subtraction, and Bearings
-    - __Ngā Whāinga Ako__
-        1. Practice Vector Addition and Subtraction
-        2. Use trigonometry to give vector bearings in degrees
-    - __Notes__
-        - Slides: Short section on using SOH CAH TOA
-    - __Task/Ngohe__
-        - ESA Study Guide (2011): Page 108-109, Q3, Q4, Q5, Q7, Q13.
-        - ESA Study Guide (2008): Page 98-99, Q3, Q4, Q5, Q7, Q13.
-        - Homework Q8
+5. #### Scalars & Vectors
+    1. Speed and Acceleration Worksheet (complete for homework Friday)
+    2. Notes on Scalars vs Vectors
 
-6. #### Vector Decomposition
-    - __Te Whāinga Ako__
-        1. Decompose vectors into horizontal and vertical components
-    - __Notes__
-        - Slides: Last part of Vectors and Scalars notes
-    - __Task/Ngohe__
-        - ESA Study Guide (2011): Page 108-109, Q8-12.
-        - ESA Study Guide (2008): Page 98-99, Q8-12.
+6. #### Vector Addition
+    1. Note that the speed and acceleration worksheet was 1D (no direction mentioned)
+    2. ESA Activity 9A Q3-8 
 
-7. #### Vectors Practice
-    - __Task/Ngohe__
-        - Complete any missed questions in textbook
-        - Homework booklet Q8, Q10, Q11
-        - Vectors & Relative Velocity Worksheet
+7. #### Vector Subtraction
+    1. Notes on Vector Subtraction
+    2. ESA Activity 9A Q11-14
+    3. Homework Booklet Q8
+    4. __Homework__ Booklet Q9-10 due Thursday
+
+---
+
+#### Term 1, Week 3
+
+8. #### Vector Components
+    1. Notes on Vector Components
+    2. ESA Activity 9A Q9
+    3. Course Manual on Vector Components
+
+9. #### Vector Components
+
+10. #### Vector Revision
+
+11. #### __Vector Test__
 
 ---
 

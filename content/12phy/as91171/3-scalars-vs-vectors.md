@@ -1,9 +1,6 @@
 ---
-title: Vectors
+title: Scalars vs Vectors
 subtitle: 12PHYS - Mechanics
-author: Finn LeSueur
-date: 2021
-theme: finn
 weight: 3
 slug: scalars-vs-vectors
 ---
@@ -24,7 +21,7 @@ In pairs, think about and discuss the similarities and differences between these
 ## What is a Vector?
 
 - __Scalar__ = size only (e.g. mass)
-- __Vector__ = size + direction (e.g. velocity)
+- __Vector__ = size __and__ direction (e.g. velocity)
 
 <p class="instruction">Discuss with your partner the difference between velocity and speed.</p>
 
@@ -50,7 +47,7 @@ Ella drives to Sumner beach in the weekend because it is far too hot. She drives
 
 ---
 
-#### Whakatika
+#### Whakatika {.c2}
 
 - Distance: $d = 5km + 10km = 15km$
 - Displacement: ?
@@ -59,7 +56,7 @@ Ella drives to Sumner beach in the weekend because it is far too hot. She drives
 
 ---
 
-## Akoranga 3 Te Whāinga Ako
+## Vector Addition: Te Whāinga Ako
 
 1. Introduce vector addition
 
@@ -89,7 +86,7 @@ Ella drives to Sumner beach in the weekend because it is far too hot. She drives
 
 When dealing with problems which involve vector quantities (e.g. calculating velocity, force, etc.), you must consider the size and direction.
 
-Which means: __YOU MUST USE VECTOR CALCULATIONS and/or VECTOR DIAGRAMS.__
+Which means: __YOU MUST USE VECTOR DIAGRAMS__ (trigonometry).
 
 ---
 
@@ -126,21 +123,23 @@ Which means: __YOU MUST USE VECTOR CALCULATIONS and/or VECTOR DIAGRAMS.__
 
 ## Vector Addition Pātai Tahi
 
-A car is driven 3 km east for 200 seconds,  then 4 km south for 250 seconds, then 3 km west for 150 seconds.
+A car is driven 3 km east for 200 seconds, then 4 km south for 250 seconds, then 3 km west for 150 seconds.
 
 1. What is the total distance the car has travelled?
 2. What is the total displacement of the car?
 3. What is the average speed of the car?
 4. What is the average velocity of the car?
 
+$$
 \begin{aligned}
     speed = \frac{distance}{time} \newline
     velocity = \frac{displacement}{time}
 \end{aligned}
+$$
 
 ---
 
-## Akoranga 4 Mahi Tuatahi
+## Mahi Tuatahi
 
 1. [https://quizlet.com/au/566254686/vectors-and-scalars-flash-cards/](https://quizlet.com/au/566254686/vectors-and-scalars-flash-cards/)
 
@@ -171,7 +170,7 @@ Consider acceleration:
 - Positive acceleration will increase speed
 - Negative acceleration will decrease speed
 - Pātai: What is different?
-- Whakatika: The direction!
+- Whakatika: The direction of the acceleration!
 
 ---
 
@@ -179,12 +178,14 @@ Consider acceleration:
 
 This works because of algebra:
 
+$$
 \begin{aligned}
     & a - b = a + (-b) \newline
     & 1 - 4 = 1 + (-4) = -3
 \end{aligned}
+$$
 
-> Vector subtraction is simply vector addition, where the subtracted vectors have their directions flipped.
+> Vector subtraction is simply vector addition, where the subtracted vectors have their directions inverted.
 
 ---
 
@@ -192,16 +193,20 @@ This works because of algebra:
 
 Velocity is a vector and a change ($\Delta$) is calculated like this: 
 
+$$
 \begin{aligned}
     & \Delta v = v_{f} - v_{i} \newline
 \end{aligned}
+$$
 
 Pātai: Can we turn this into __vector addition__?
 
+$$
 \begin{aligned}
     & \Delta v = v_{f} - v_{i} \newline
     & \Delta v = v_{f} + (-v_{i}) \newline
 \end{aligned}
+$$
 
 ---
 
@@ -328,5 +333,5 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 
 ## Textbook Pātai
 
-- ESA Study Guide (2011): Page 108-109, Q8-12.
-- ESA Study Guide (2008): Page 98-99, Q8-12.
+- ESA Study Guide (2011): Page 108-109, Q1-14.
+- ESA Study Guide (2008): Page 98-99, Q1-14.

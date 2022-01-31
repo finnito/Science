@@ -236,7 +236,7 @@ $$
 
 ### What does $ms^{-2}$ mean?
 
-_meters per second squared OR meters per second per second_
+> _meters per second squared OR meters per second per second_
 
 For example, $a=12ms^{-2}$ means that the velocity is increased by $12ms^{-1}$ every second.
 
@@ -302,13 +302,13 @@ __K,U,F,S,S__
 
 $$
 \begin{aligned}
-    & v_{i} = 4ms^{-1}, v_{f} = 24ms^{-1}, a = 2.5ms^{-2} && \text{Knowns} \newline
-    & t = ? && \text{Unknowns} \newline
-    & a = \frac{\Delta v}{t} && \text{Formula} \newline
-    & t = \frac{\Delta v}{a} && \text{Rearrange by swapping a and t} \newline
-    & t = \frac{v_{f}-v_{i}}{a} && \text{Expand $\Delta$v} \newline
-    & t = \frac{24 - 4}{2.5} && \text{Substitute} \newline
-    & t = 8s && \text{Solve}
+    & v_{i} = 4ms^{-1}, v_{f} = 24ms^{-1}, a = 2.5ms^{-2} \newline
+    & t = ?                         && \text{Unknowns} \newline
+    & a = \frac{\Delta v}{t}        && \text{Formula} \newline
+    & t = \frac{\Delta v}{a}        && \text{Rearrange} \newline
+    & t = \frac{v_{f}-v_{i}}{a}     && \text{Expand $\Delta$v} \newline
+    & t = \frac{24 - 4}{2.5}        && \text{Substitute} \newline
+    & t = 8s                        && \text{Solve}
 \end{aligned}
 $$
 

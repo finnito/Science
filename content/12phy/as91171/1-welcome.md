@@ -2,16 +2,7 @@
 title: Welcome to 12PHY
 slug: welcome
 subtitle: 12PHY - Weclome
-author: Finn LeSueur
-date: 2020
-theme: finn
 weight: 1
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
 ## Welcome to 2021!
