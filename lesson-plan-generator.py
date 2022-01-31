@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 lessons = int(input("Number of lessons: "))
 
 output = "### Ngā Mahere Akoranga: _Lesson Plans_\n\n"
