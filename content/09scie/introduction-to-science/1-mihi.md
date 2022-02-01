@@ -53,3 +53,35 @@ Running, tramping, cycling (road and cross country), kayaking, skiing, rock clim
 
 ![](../assets/SATO1198-original.jpeg)
 
+---
+
+### Korra 🐕 {.c2}
+
+- A rescue puppy from Dogwatch
+- Was abandoned on Sumner Beach
+- Rescued at 1yr old
+
+![](../assets/IMG_2886.jpeg)
+
+---
+
+### CHS Trail Running Club {.c2}
+
+- Thursday after school
+- 45min runs
+- Port Hills
+- [https://sporty.co.nz/trailrunning](https://sporty.co.nz/trailrunning)
+
+![](https://lh3.googleusercontent.com/Wz6cNSrDZoBaAFkb2A9Q1yNZtciW7dAxPY0h9lWTkSiiXv0x-v2LIX_QvCHYNISaRRTH6Yp5kftjCppgzxBe1CcdJMfPy6afU1OXnK_F7MJYhD1bzUUUckiDOM_S0G6pvIFTBnZ64Whjgob7Jsrd4h5-YBYILQVALB6vnjdFVlOTrUMERVncACED2cUVRf3bcUuMOAQeokl-g0uEHhuL151NPbDpC9gVlUQRn8ktPACCNrPbkRBbquNtZWqSw4rOhM-lM3gT4CYy6oP3PbZzzE4NZU7jIrk0p84n8ajV2YWEePOXQWtBdLFxzTeY8JrSdu7Slsi5lIScGV4n_rzPcbWEGYHslo4LMdul8wSTV34fdnQE1Zrv1Ndeznb4M-s3n8qHBexEPWRe40Rd36EV6MycQcjyAC9j2-PVTR5p0g8l_0ofyTyfC_Pv4IfXtI35-uLlax6J_ADnn9PgItldO-Vk5amDZ8OX0sVlxjIFlN8RRIUyCbaVSDCO1PC-hLwe_MvBFMelAS27XrrtXJS_FAcuIAmIIzWrByPeePw6H93yg2K3b0IWdMbqpQjoWImiF65sDZl6AH7DVE4dMQjUlUoy5oBCmICnJ8VmnWW7-c0xrZl99SvxcFr9E-ouZ4eCcWRlGSuxyHrRUr0EVe9YiBzN1nSkabm_WF2P0NiuFOSiZWS_ULFOix0_0c7ITYB2yT-xVCSH6CbFsmcxZKzwGSM=w1270-h952-no?authuser=0)
+
+---
+
+### CHS Rock Climbing Club {.c2}
+
+- Wednesday after school
+- 1.5hrs
+- YMCA & Uprising
+- [https://sporty.co.nz/rockclimbing](https://sporty.co.nz/rockclimbing)
+
+![](https://lh3.googleusercontent.com/pw/AM-JKLWTb3Xlju4sNH1MiuDVFTvGLGZnnuR2tgbWGYK8EVDwClMjxsLF8if4QIci79FzkK7US72S2pOAveDygik7HJqTp7vqcxMoC1C-Zg7xABBW8J391IFl3Ho1Hu7e6eWlvr0krmaugnvPZozOh8ASGqvO=w1324-h883-no?authuser=0)
+
