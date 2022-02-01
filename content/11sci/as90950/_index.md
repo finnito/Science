@@ -72,27 +72,18 @@ menu:
         + Microbe
         + Micro-organism
         + Fungi
-        + Spores
-        + Decay
-        + Hyphae
         + Pathogen
-        + Decomposers
-        + Enzyme
-        + Saprophyte
-        + Sporangium
     - Some brief notes on fungi
-    - [Worksheet on fungi](https://docs.google.com/document/d/1M2ugGAyu1vVzu3e0ozd4RdcUmgrsRoAeEzODeu0dNsk/edit#)
-    - [Kahoot on fungi](https://create.kahoot.it/my-library/kahoots/2f5a1b63-53ba-4c44-9678-287ca08d461d)
 
-3. #### 
+3. #### Fungi
     - __Whakaritenga__
-        + 
+        + [Print fungi worksheet](https://docs.google.com/document/d/1M2ugGAyu1vVzu3e0ozd4RdcUmgrsRoAeEzODeu0dNsk/edit#)
     - __Te Whāinga Ako__
-        1. 
-    - __Notes__
-        + Slides: 
+        1. Practice research
+        2. Learn about the structure and function of fungi
     - __Task/Ngohe__
-        + 
+        + [Worksheet on fungi](https://docs.google.com/document/d/1M2ugGAyu1vVzu3e0ozd4RdcUmgrsRoAeEzODeu0dNsk/edit#)
+        + [Kahoot on fungi](https://create.kahoot.it/details/bcbf65f7-1fad-4ab8-8371-6ad6b0acdf5c)
 
 4. #### 
     - __Whakaritenga__
