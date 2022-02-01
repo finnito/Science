@@ -1,4 +1,4 @@
----
+ ---
 title: Introduction to Microbes
 slug: introduction
 subtitle: 11SCI - Microbes
@@ -50,9 +50,9 @@ weight: 1
 
 ### 3 Important Types
 
-Microorganisms (microbes) are living things that are too small to see with the naked eye.
+Microorganisms (microbes) are living things that are <mark>too small to see with the naked eye.</mark>
 
-They are sometimes unicellular (made of one cell), or multicellular (many cells, like you!).
+They are sometimes <mark>unicellular (made of one cell), or multicellular (many cells, like you!)</mark>.
 
 1. Bacteria
 2. Fungi
@@ -63,9 +63,9 @@ They are sometimes unicellular (made of one cell), or multicellular (many cells,
 ### Pātai: Are they helpful to humans or harmful? {.c2}
 
 - Both!
-- They can cause disease (looking at you, SARS-CoV-2 virus)
-	+ Disease causing microbes are called __pathogens__
-- They can be used to make food (yoghurt, ginger beer, mushrooms)
+- They <mark>can cause disease</mark> (looking at you, SARS-CoV-2 virus)
+	+ <mark>Disease causing microbes are called __pathogens__</mark>
+- They <mark>can be used to make food (yoghurt, ginger beer, mushrooms)</mark>
 
 ![[Source](https://www.theguardian.com/news/2018/mar/26/the-human-microbiome-why-our-microbes-could-be-key-to-our-health)](https://i.guim.co.uk/img/media/113a665de9715e2824a6d6383bcf9d3b3893e1e7/563_0_13047_7829/master/13047.jpg?width=1020&quality=45&auto=format&fit=max&dpr=2&s=63f19a7030d0978dd1478b8c24bbc759)
 
@@ -82,16 +82,16 @@ They are sometimes unicellular (made of one cell), or multicellular (many cells,
 
 ![[Source](https://en.wikipedia.org/wiki/Fungus)](https://upload.wikimedia.org/wikipedia/commons/f/fc/Fungi_collage.jpg)
 
-- Made of clusters of cells
+- Made of clusters of cells (<mark>multicellular</mark>)
 - Fungi are sometimes too small to see, but once the group of cells gets too large it becomes visible to the naked eye
-- Get their food by absorbing dissolved organic molecules
+- Get their food by <mark>absorbing dissolved organic molecules</mark>
 
 ---
 
 #### Function of Fungi
 
--  Fungi exist in ecosystems to break down (decay) dead organic matter into small molecules that are able to be be used by other living things
--  This is so that energy and nutrients can be reused!
+-  Fungi exist in ecosystems to <mark>break down (decay) dead organic matter into small molecules</mark> that are able to be be used by other living things
+-  This is <mark>so that energy and nutrients can be reused</mark>!
 
 ---
 
