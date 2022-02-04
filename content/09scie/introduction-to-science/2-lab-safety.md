@@ -65,7 +65,7 @@ weight: 2
 	- Be careful with the sodium hydroxide
 	- If you get some on you, let Mr Le Sueur know and run the skin under cold water for 5 minutes.
 	- Don't breathe in or taste the chemicals
-2. Collect a bottle of sodium hydroxide from the front of the lab
+2. Collect a bottle of sodium hydroxide and balloon from the front of the lab
 3. Pour enough sodium hydroxide into the flask to cover the aluminium
 4. Put a balloon over the end of the flask
 5. Wait 5 minutes
