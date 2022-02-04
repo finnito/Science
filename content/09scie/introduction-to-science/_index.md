@@ -15,7 +15,7 @@ weight: 1
 6. Name a famous scientist and explain why their work is so important. 
 7. Explain how scientists use __scientific method__ to investigate a hunch or question.
 8. Describe a fair test and explain the difference between __independent__, __dependent__  and a __control variable__.
-9. Understand how to set up an investigation(tūhura) and collect and display reliable data in tables and graphs.
+9. Understand how to set up an investigation (tūhura) and collect and display reliable data in tables and graphs.
 
 {{< slides >}}
 
@@ -89,7 +89,7 @@ weight: 1
             + https://www.riskassess.co.nz/risk_assessment/9232283
             + https://docs.google.com/document/d/1B_LOZGxAf7eXL3FvM_vtrLqdYSnR29xJGxCaWWp7YNY/edit
         + Mix and match
-        + Kahoot
+        + [Kahoot](https://create.kahoot.it/details/8a126bcf-675c-452e-bcdc-65bee8e7d462)
 
 4. #### Using Equipment
     - __Whakaritenga__
