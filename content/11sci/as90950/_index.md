@@ -93,7 +93,8 @@ menu:
     - __Notes__
         + Slides: 
     - __Task/Ngohe__
-        + 
+        + EP on fungi
+        + [The Kingdom: How Fungi Made Our World](https://cashmere.etv.org.nz/tv/vod/view/156854)
 
 5. #### 
     - __Whakaritenga__
