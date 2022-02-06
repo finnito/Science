@@ -83,10 +83,10 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 2. #### Math Practice
     - __Task/Ngohe__
         + Continue to work on the maths license booklet
-        + Extra exercises available (Walker + EAS)
-        + ESA Activity 1B Useful Mathematics
 
-3. #### Maths License Test
+3. #### Math Practice
+    - __Task/Ngohe__
+        + Finish maths license booklet
 
 ---
 
@@ -95,29 +95,36 @@ Homework is issued on a weekly basis. It should be completed in the back of your
 4. #### ~~Waitangi Day~~
 
 5. #### Scalars & Vectors
-    1. Speed and Acceleration Worksheet (complete for homework Friday)
+    1. Speed and Acceleration Worksheet (complete for homework Monday)
     2. Notes on Scalars vs Vectors
 
 6. #### Vector Addition
     1. Note that the speed and acceleration worksheet was 1D (no direction mentioned)
     2. ESA Activity 9A Q3-8 
 
-7. #### Vector Subtraction
-    1. Notes on Vector Subtraction
-    2. ESA Activity 9A Q11-14
-    3. Homework Booklet Q8
-    4. __Homework__ Booklet Q9-10 due Thursday
+7. #### Maths License
+    1. Sit maths license test
+    2. Peer-mark test
+        - Be extremely nitpicky
+        - Students then to rework the questions that they got wrong
+        - 19/20 is the passing mark
+    3. Work on homework
 
 ---
 
 #### Term 1, Week 3
 
-8. #### Vector Components
+8. #### Vector Subtraction
+    1. Notes on Vector Subtraction
+    2. ESA Activity 9A Q11-14
+    3. Homework Booklet Q8
+    4. __Homework__ Booklet Q9-10 due Thursday
+    
+
+9. #### Vector Components
     1. Notes on Vector Components
     2. ESA Activity 9A Q9
     3. Course Manual on Vector Components
-
-9. #### Vector Components
 
 10. #### Vector Revision
 
