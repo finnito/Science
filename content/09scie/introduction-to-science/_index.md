@@ -21,13 +21,13 @@ weight: 1
 
 ## Regular Unit Plan _/ Mahere Kōwae_
 
-|              | Akoranga 1               | Akoranga 2                   | Akoranga 3                   |
-| :----------- | :----------------------- | :--------------------------- | :--------------------------- |
-| __Week 1__   | _Teacher Only Day_       | 1. Introduction to Pūtaiao   | 2. Hydrogen Balloons         |
-| __Week 2__   | 3. Scientific Equipment  | 4. Using Equipment           | __TwE TEST__                 |
-| __Week 3__   | 5. Bunsen Burner         | 6. Bunsen Equipment          | 7. Burning Paper             |
-| __Week 4__   | 8. Soluble or Not?       | 9. Scientific Method         | 10. Scientific Method 2      |
-| __Week 5__   | 11. Graphing             | 12. Fair Testing             | __TEST__                     |
+|              | Akoranga 1                 | Akoranga 2                   | Akoranga 3                   |
+| :----------- | :-----------------------   | :--------------------------- | :--------------------------- |
+| __Week 1__   | 1. Introduction to Pūtaiao | 2. Hydrogen Balloons         | 3. Scientific Equipment      |
+| __Week 2__   | 4. Using Equipment         | 5. Bunsen Burner             | __TwE TEST__                 |
+| __Week 3__   | 6. Bunsen Equipment        | 7. Burning Paper             | 8. Soluble or Not?           |
+| __Week 4__   | 9. Scientific Method       | 10. Scientific Method 2      | 11. Graphing                 |
+| __Week 5__   | 12. Fair Testing           | 13. Revision                 | 14. __TEST__                 |
 
 
 ## Learning Support Unit Plan _/ Mahere Kōwae_
@@ -35,9 +35,9 @@ weight: 1
 |            | Akoranga 1               | Akoranga 2                   | Akoranga 3                   | Akoranga 4              |
 | :-------   | :----------------------- | :--------------------------- | :--------------------------- | :----------             |
 | __Week 1__ | _Teacher Only Day_       | 1. Introduction to Pūtaiao   | 2. Hydrogen Balloons         | 3. Scientific Equipment |
-| __Week 2__ | 4. Using Equipment       | 5. Bunsen Burner             | 6. Bunsen Experiment         | __TwE TEST__            |
-| __Week 3__ | 7. Burning Paper         | 8. Soluble or Not?           | 9. Scientific Method         | 10. Scientific Method 2 |
-| __Week 4__ | 11. Graphing             | 12. Fair Testing             | 13. Revision                 | 14. __TEST__            |
+| __Week 2__ | ~~Waitangi Day~~         | 4. Using Equipment           | 5. Bunsen Burner             | __TwE TEST__            |
+| __Week 3__ | 6. Bunsen Experiment     | 7. Burning Paper             | 8. Soluble or Not?           | 9. Scientific Method    |
+| __Week 4__ | 10. Scientific Method 2  | 11. Graphing                 | 12. Fair Testing             | 14. __TEST__            |
 
 
 <!--
