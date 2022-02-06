@@ -72,7 +72,7 @@ main() {
             -title "Pūtaiao" \
             -subtitle "Building Hugo" \
             -message "Changed: $file" \
-            -appIcon http://putaiao.test/favicon.png
+            -appIcon http://putaiao.test:1313/favicon.png
 
         if [ $doHugo ]; then
             # If -h flag then only do a Hugo
@@ -104,7 +104,7 @@ main() {
         for i in "${MODULES[@]}"; do
             if cd "$i"; then 
                 echo "Entered $i"
-                tidyFolders
+                #tidyFolders
                 slides=(!(_index).md)
                 createSlides "${slides[@]}"
                 cd ../../
