@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 
 # The purpose of this script is to use fswatch
 # to look for changes to files in this project.

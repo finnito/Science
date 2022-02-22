@@ -1,6 +1,5 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 
-source ~/.bash_profile
 source ~/.zshrc
 
 dest=~/Sites/public.putaiao.nz/
@@ -11,5 +10,4 @@ hugo server \
 	--renderToDisk \
 	--noHTTPCache \
 	--destination="$dest" \
-	--baseURL=http://putaiao.test \
 	--appendPort=true
