@@ -105,6 +105,7 @@ menu:
 
 7. #### Microbe Mania
     - __Task/Ngohe__: [Microbe Mania](https://docs.google.com/document/d/1yr4g8LIuIcmvMiiX9hTr2XqdouDl47AD8GhYYzG7Hg0/edit)
+    - [Fungi Gimkit](https://www.gimkit.com/view/60208fa617534c0022178c53)
 
 8. #### Bacteria
     - __Whakaritenga__
@@ -154,13 +155,7 @@ menu:
         + Finish by researching the parts of viruses that we didn't talk about
         + Gimkit on microbes
 
-13. #### 
-    - __Whakaritenga__
-        + 
-    - __Te Whāinga Ako__
-        1. 
-    - __Notes__
-        + Slides: 
+13. #### Vaccines
     - __Task/Ngohe__
         + 
 
