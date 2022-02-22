@@ -5,9 +5,9 @@ weight: 4
 subtitle: 9SCIE - Introduction to Pūtaiao
 ---
 
-## The Aim / Whāinga Whānui
+## <mark>The Aim</mark> / Whāinga Whānui
 
-> What is the objective of your experiment?
+> What is <mark>the objective</mark> of your experiment?
 
 An aim describes what you will be investigating (the purpose of the experiment). Keep it simple, one sentence long.
 
@@ -15,9 +15,9 @@ An aim describes what you will be investigating (the purpose of the experiment).
 
 ---
 
-## The Hypothesis / Whakapae
+## <mark>The Hypothesis</mark> / Whakapae
 
-> A prediction for the outcome of the experiment.
+> <mark>A prediction</mark> for the outcome of the experiment.
 
 A hypothesis should make a __specific__ and __testable__ prediction about the outcome of your experiment. It must make a prediction about the effect of your _independent variable_ on your _dependent variable_.
 
@@ -25,9 +25,9 @@ A hypothesis should make a __specific__ and __testable__ prediction about the ou
     
 ---
 
-## Independent Variable / Taurangi Rāwekeweke
+## <mark>Independent Variable</mark> / Taurangi Rāwekeweke
 
-> The variable that you will change throughout the experiment.
+> The <mark>variable that you will change</mark> throughout the experiment.
 
 Be specific about what _exactly_ you are changing. Where possible, you should include units of measurement.
 
@@ -35,9 +35,9 @@ Be specific about what _exactly_ you are changing. Where possible, you should in
 
 ---
 
-## Dependent Variable / Taurangi Whakamauru
+## <mark>Dependent Variable</mark> / Taurangi Whakamauru
 
-> The variable(s) being measured.
+> <mark>The variable being measured.</mark>
 
 Be specific about what you will measure and the units of measurement of the dependent variable.
 
@@ -45,17 +45,17 @@ Be specific about what you will measure and the units of measurement of the depe
 
 ---
 
-## Control Variables / Ngā Taurangi Whakatina
+## <mark>Control Variables</mark> / Ngā Taurangi Whakatina
 
-> Things that you are keeping __constant__ in between trials.
+> Things that you are <mark>keeping __constant__</mark> in between trials.
 
 Include __at least three control variables__ for your experiments and explain how they keep the experiment fair.
 
 ---
 
-### Fair Testing / Whakamātau Tika
+### <mark>Fair Testing</mark> / Whakamātau Tika
 
-Control variables are extremely important because they are what keep a trial fair and let you __draw a causal relationship between your independent and dependent variable__.
+<mark>You must have control variables to have a fair test.</mark>
 
-Without control variables you cannot say for sure what the influence of your independent variable was.
+Without control variables you cannot be sure if your independent variable (flame colour) was the thing affecting the time taken to heat the water.
 

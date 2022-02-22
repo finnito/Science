@@ -99,6 +99,7 @@ weight: 1
         1. Read scales accurately and use the correct units for my measurements.
     - __Task/Ngohe__
         + Mahi tuatahi: https://quizlet.com/273337849/science-equipment-flash-cards/?x=1jqt
+        + https://quizlet.com/au/390225708/drawing-scientific-equipment-diagrams-equipment-flash-cards/
         + Using equipment circus
         + Measurement worksheet
         + Extra: Page 17 Book 1 Scipad → reading scales sheet
@@ -152,7 +153,7 @@ weight: 1
         + Print variable definitions
         + Print variable worksheets
     - __Notes__
-        + Slides:
+        + Slides: Investigations
     - __Task/Ngohe__
         + Mahi tuatahi on using the Bunsen burner
 
