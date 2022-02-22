@@ -27,3 +27,4 @@ changelog.txt
 *-blx.bib
 *.run.xm
 *.DS_STORE
+.hugo_build.lock
