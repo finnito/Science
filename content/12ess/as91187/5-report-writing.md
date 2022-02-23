@@ -65,17 +65,16 @@ Include __at least four control variables__ in your report and __explain how you
 
 ## Method
 
-> A prodecural set of steps that a Scientist can follow to perform an experiment.
-
-A method should be a sequential set of steps that any person could follow to perform the exact same experiment.
+> A method should be a sequential set of steps that any person could follow to perform the exact same experiment.
 
 - Give a list of necessary equipment (be specific)
 - Use numbered, short, steps
 - Give the actions / directions in the past tense or passive voice
 	+ "The shotput was dropped from a height of 1m onto the tray of sand."
 - Some steps may be repeated while the independent variable is changed.
-	+ "Repeat steps 3-7 for each height"
+	+ "Repeat steps 3-7 for each height (0.5m, 1m, 1.5m, 2m, 5m)"
 - Indicate when something is to be recorded and how to calculate the relevant average.
+- Indicate how an experiment should be reset between trials and when to apply control variables.
 
 ---
 
