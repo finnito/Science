@@ -1,19 +1,8 @@
 ---
 title: Kinematic Equations
-subtitle: 12PHYS - Mechanics
-author: Finn LeSueur
-date: 2020
-theme: finn
-colortheme: dolphin
-weight: 4
-font-size: 35px
 slug: kinematic-equations
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
+subtitle: 12PHYS - Mechanics
+weight: 4
 ---
 
 ## Mahi Tuatahi
