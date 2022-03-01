@@ -188,6 +188,8 @@ A cannon ball is fired horizontally from the top of a hill. The velocity of the 
 
 Read page 137-138 in your textbook for extra information. Add any extra information to your notes that you find useful!
 
+Try: Textbook Activity 12B (pg. 140) Q6
+
 ---
 
 ### Pātai: Hammer Throw {.c2}
@@ -210,4 +212,4 @@ Steps:
 
 ### Whakawai/Practise
 
-- Textbook Activity 12B (pg. 140) Q6, Q5
+- Textbook Activity 12B (pg. 140) Q5
