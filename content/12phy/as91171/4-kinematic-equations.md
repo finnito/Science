@@ -25,13 +25,15 @@ A car initially travelling at $13ms^{-1}$ rolls down a straight slope, accelerat
 
 Five variables - five equations!
 
+$$
 \begin{aligned}
-    & v_{f} = v_{i} + at \newline
-    & d = \frac{v_{i} + v_{f}}{2}t \newline
-    & v_{f}^{2} = v_{i}^{2} + 2ad \newline
-    & d = v_{i}t + \frac{1}{2}at^{2} \newline
+    & v_{f} = v_{i} + at \cr
+    & d = \frac{v_{i} + v_{f}}{2}t \cr
+    & v_{f}^{2} = v_{i}^{2} + 2ad \cr
+    & d = v_{i}t + \frac{1}{2}at^{2} \cr
     & d = v_{f}t - \frac{1}{2}at^{2}
 \end{aligned}
+$$
 
 <p class="instruction">In your book, using a page in landscape, re-arrange each equation for each different variable!</p>
 
@@ -41,12 +43,14 @@ Five variables - five equations!
 
 A car initially travelling at $13ms^{-1}$ rolls down a straight slope, accelerating at $0.6 ms^{-2}$ for $10 s$. How far does the car travel in this time?
 
+$$
 \begin{aligned}
-    &  && \text{Knowns}  \newline
-    &  && \text{Unknowns} \newline
-    &  && \text{Formula} \newline
+    &  && \text{Knowns}  \cr
+    &  && \text{Unknowns} \cr
+    &  && \text{Formula} \cr
     &  && \text{Sub and Solve} 
 \end{aligned}
+$$
 
 ---
 
@@ -74,20 +78,24 @@ Which formula does not include $v_{f}$?
 
 __Step Four - "substitute"__
 
+$$
 \begin{aligned}
-    & d = v_{f}t + \frac{1}{2}at^{2} \newline
-    & d = (13 \times 10) + (\frac{1}{2} \times 0.6 \times 10^{2}) \newline
+    & d = v_{f}t + \frac{1}{2}at^{2} \cr
+    & d = (13 \times 10) + (\frac{1}{2} \times 0.6 \times 10^{2}) \cr
 \end{aligned}
+$$
 
 ---
 
 __Step Five - "solve"__
 
+$$
 \begin{aligned}
-    & d = v_{f}t + \frac{1}{2}at^{2} \newline
-    & d = (13 \times 10) + (\frac{1}{2} \times 0.6 \times 10^{2}) \newline
+    & d = v_{f}t + \frac{1}{2}at^{2} \cr
+    & d = (13 \times 10) + (\frac{1}{2} \times 0.6 \times 10^{2}) \cr
     & d = 130 + 30 = 160m
 \end{aligned}
+$$
 
 ---
 
@@ -95,12 +103,14 @@ __Step Five - "solve"__
 
 A windsurfer initially travelling at $3 ms^{-1}$ is accelerated by a strong wind gust, at $0.08 ms^{-2}$. What would be the windsurfer’s speed when he has travelled $100 m$ since the wind gust started?
 
+$$
 \begin{aligned}
-    &  && \text{Knowns}  \newline
-    &  && \text{Unknowns} \newline
-    &  && \text{Formula} \newline
+    &  && \text{Knowns}  \cr
+    &  && \text{Unknowns} \cr
+    &  && \text{Formula} \cr
     &  && \text{Sub and Solve} 
 \end{aligned}
+$$
 
 ---
 
@@ -108,12 +118,14 @@ A windsurfer initially travelling at $3 ms^{-1}$ is accelerated by a strong wind
 
 What time does it take for an airplane to decelerate uniformly from $120 ms^{-1}$ to a stop if the distance covered along the runway is $1500 m$?
 
+$$
 \begin{aligned}
-    &  && \text{Knowns}  \newline
-    &  && \text{Unknowns} \newline
-    &  && \text{Formula} \newline
+    &  && \text{Knowns}  \cr
+    &  && \text{Unknowns} \cr
+    &  && \text{Formula} \cr
     &  && \text{Sub and Solve} 
 \end{aligned}
+$$
 
 ---
 
