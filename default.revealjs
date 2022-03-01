@@ -11,6 +11,7 @@
         <script>
         document.addEventListener("DOMContentLoaded", function() {
                 renderMathInElement(document.body, {
+                        fleqn: true,
                         delimiters: [
                                 {left: "$$$$", right: "$$$$", display: true},
                                 {left: "$$", right: "$$", display: false},
