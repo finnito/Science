@@ -1,28 +1,17 @@
-<!-- <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-    window.MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']]
-      }
-    };
-</script> -->
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.13.2/katex.min.css" integrity="sha512-el2z+rjIj40JeIlKyqcoRjGNjvwHVlyahNQ1PhSs4PCztr6jJ4GgpjgN+1a++L9HZxhLXpa4eLG3ry976z0O2Q==" crossorigin="anonymous" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.13.2/katex.min.js" integrity="sha512-O7WTu9pghLBfbQSGAf2xOFoRxDrHKS3kjRuuiCWttAf76q6h8Qj+KYPBF5EdZsE24LvXiFUshVNWaAxBOij8VA==" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.13.2/contrib/auto-render.min.js" integrity="sha512-CzIEOUs11SQ7tekLhEe5gil9kDip4RTJZVf7pSjlxOdVaYYHEcQflhunPz2Q/onNC4slL9jpKjvNgzPAAxEpew==" crossorigin="anonymous"></script>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  renderMathInElement(document.body, {
-    delimiters: [
-      {left: "$$$$", right: "$$$$", display: true},
-      {left: "$", right: "$", display: false},
-      {left: "\\(", right: "\\)", display: false},
-      {left: "\\[", right: "\\]", display: true},
-      {left: "\\begin{aligned}", right: "\\end{aligned}", display: true},
-      {left: "$", right: "$", display: false},
-      {left: "$$", right: "$$", display: true}
-    ]
-  });
+        renderMathInElement(document.body, {
+                fleqn: true,
+                delimiters: [
+                        {left: "$$$$", right: "$$$$", display: true},
+                        {left: "$$", right: "$$", display: true},
+                        {left: "$", right: "$", display: false},
+                        {left: "\\(", right: "\\)", display: false},
+                        {left: "\\[", right: "\\]", display: true}
+                ]
+        });
 });
 </script>
