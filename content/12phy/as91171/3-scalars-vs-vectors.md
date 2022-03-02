@@ -132,7 +132,7 @@ A car is driven 3 km east for 200 seconds, then 4 km south for 250 seconds, then
 
 $$
 \begin{aligned}
-    speed = \frac{distance}{time} \newline
+    speed = \frac{distance}{time} \cr
     velocity = \frac{displacement}{time}
 \end{aligned}
 $$
@@ -180,7 +180,7 @@ This works because of algebra:
 
 $$
 \begin{aligned}
-    & a - b = a + (-b) \newline
+    & a - b = a + (-b) \cr
     & 1 - 4 = 1 + (-4) = -3
 \end{aligned}
 $$
@@ -195,7 +195,7 @@ Velocity is a vector and a change ($\Delta$) is calculated like this:
 
 $$
 \begin{aligned}
-    & \Delta v = v_{f} - v_{i} \newline
+    & \Delta v = v_{f} - v_{i} \cr
 \end{aligned}
 $$
 
@@ -203,8 +203,8 @@ Pātai: Can we turn this into __vector addition__?
 
 $$
 \begin{aligned}
-    & \Delta v = v_{f} - v_{i} \newline
-    & \Delta v = v_{f} + (-v_{i}) \newline
+    & \Delta v = v_{f} - v_{i} \cr
+    & \Delta v = v_{f} + (-v_{i}) \cr
 \end{aligned}
 $$
 
@@ -325,7 +325,7 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 ![Vector Decomposition](../assets/1-vector-decomposition.png)
 
 \begin{aligned}
-    v_{x} &= v \times cos(\theta) && \text{Horizontal} \newline
+    v_{x} &= v \times cos(\theta) && \text{Horizontal} \cr
     v_{y} &= v \times sin(\theta) && \text{Vertical}
 \end{aligned}
 

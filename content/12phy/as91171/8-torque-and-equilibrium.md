@@ -26,9 +26,9 @@ For a car of __mass 1500kg__ which is accelerating at $3.7ms^{-2}$:
 
 $$
 \begin{aligned}
-    &  && \text{Knowns}  \newline
-    &  && \text{Unknowns} \newline
-    &  && \text{Formula} \newline
+    &  && \text{Knowns}  \cr
+    &  && \text{Unknowns} \cr
+    &  && \text{Formula} \cr
     &  && \text{Sub and Solve} 
 \end{aligned}
 $$
@@ -44,8 +44,8 @@ Torque is sometimes known as __moment__ or __leverage__.
 
 $$
 \begin{aligned}
-    \tau &= Fd_{\bot} \newline
-    torque &= Newtons \times metres \newline
+    \tau &= Fd_{\bot} \cr
+    torque &= Newtons \times metres \cr
     torque &= \text{Newton meters (Nm)}
 \end{aligned}
 $$
@@ -70,9 +70,9 @@ A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off 
 
 $$
 \begin{aligned}
-    &  && \text{Knowns}  \newline
-    &  && \text{Unknowns} \newline
-    &  && \text{Formula} \newline
+    &  && \text{Knowns}  \cr
+    &  && \text{Unknowns} \cr
+    &  && \text{Formula} \cr
     &  && \text{Sub and Solve} 
 \end{aligned}
 $$
@@ -85,9 +85,9 @@ A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off 
 
 $$
 \begin{aligned}
-    & \tau = Fd_{\bot} \newline
-    & \tau = 9 \times 0.1 \newline
-    & \tau = 0.9 \text{Nm anticlockwise} \newline
+    & \tau = Fd_{\bot} \cr
+    & \tau = 9 \times 0.1 \cr
+    & \tau = 0.9 \text{Nm anticlockwise} \cr
 \end{aligned}
 $$
 
@@ -99,9 +99,9 @@ Calculate the torque applied if the lever is stretched to $75cm$.
 
 $$
 \begin{aligned}
-    &  && \text{Knowns}  \newline
-    &  && \text{Unknowns} \newline
-    &  && \text{Formula} \newline
+    &  && \text{Knowns}  \cr
+    &  && \text{Unknowns} \cr
+    &  && \text{Formula} \cr
     &  && \text{Sub and Solve} 
 \end{aligned}
 $$
@@ -114,9 +114,9 @@ Calculate the torque applied if the lever is stretched to $75cm$.
 
 $$
 \begin{aligned}
-    & \tau = Fd_{\bot} \newline
-    & \tau = 9 \times 0.75 \newline
-    & \tau = 6.75 \text{Nm anticlockwise} \newline
+    & \tau = Fd_{\bot} \cr
+    & \tau = 9 \times 0.75 \cr
+    & \tau = 6.75 \text{Nm anticlockwise} \cr
 \end{aligned}
 $$
 
@@ -128,9 +128,9 @@ Calculate the torque applied if the lever is compressed to $1cm$.
 
 $$
 \begin{aligned}
-    &  && \text{Knowns}  \newline
-    &  && \text{Unknowns} \newline
-    &  && \text{Formula} \newline
+    &  && \text{Knowns}  \cr
+    &  && \text{Unknowns} \cr
+    &  && \text{Formula} \cr
     &  && \text{Sub and Solve} 
 \end{aligned}
 $$
@@ -143,9 +143,9 @@ Calculate the torque applied if the lever is compressed to $1cm$.
 
 $$
 \begin{aligned}
-    & \tau = Fd_{\bot} \newline
-    & \tau = 9 \times 0.01 \newline
-    & \tau = 0.09 \text{Nm anticlockwise} \newline
+    & \tau = Fd_{\bot} \cr
+    & \tau = 9 \times 0.01 \cr
+    & \tau = 0.09 \text{Nm anticlockwise} \cr
 \end{aligned}
 $$
 

@@ -112,10 +112,10 @@ A ball is thrown upwards with an initial speed of $161.3kmh^{-1}$ ($44.8ms^{-1}$
 
 $$
 \begin{aligned}
-& \textbf{1. Knowns} &\cr
-& \textbf{2. Unknowns} &\cr
-& \textbf{3. Formula} &\cr
-& \textbf{4. Substitute} &\cr
+& \textbf{1. Knowns} \cr
+& \textbf{2. Unknowns} \cr
+& \textbf{3. Formula} \cr
+& \textbf{4. Substitute} \cr
 & \textbf{5. Solve}
 \end{aligned}
 $$
@@ -133,11 +133,11 @@ Lachie kicks a rugby ball straight upwards. It is in the air for $10.6s$ before 
 
 $$
 \begin{aligned}
-& \textbf{1. Knowns} &\cr
-& \textbf{2. Unknowns} &\cr
-& \textbf{3. Formula} &\cr
-& \textbf{4. Substitute} &\cr
-& \textbf{5. Solve} &\cr
+& \textbf{1. Knowns} \cr
+& \textbf{2. Unknowns} \cr
+& \textbf{3. Formula} \cr
+& \textbf{4. Substitute} \cr
+& \textbf{5. Solve} \cr
 \end{aligned}
 $$
 
@@ -156,11 +156,11 @@ Angus is going cliff diving. He jumps and falls for $3.4s$ before hitting the wa
 
 $$
 \begin{aligned}
-& \textbf{1. Knowns} &\cr
-& \textbf{2. Unknowns} &\cr
-& \textbf{3. Formula} &\cr
-& \textbf{4. Substitute} &\cr
-& \textbf{5. Solve} &\cr
+& \textbf{1. Knowns} \cr
+& \textbf{2. Unknowns} \cr
+& \textbf{3. Formula} \cr
+& \textbf{4. Substitute} \cr
+& \textbf{5. Solve} \cr
 \end{aligned}
 $$
 
