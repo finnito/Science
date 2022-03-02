@@ -5,6 +5,13 @@ subtitle: 12ESS - Meteorite Investigation
 weight: 5
 ---
 
+## Spellcheck & Proof Read
+
+1. Run a spellchecker on your report!
+2. Put your report in Grammarly.
+
+---
+
 ## Logbook
 
 - A logbook is __required__ to pass the assessment
