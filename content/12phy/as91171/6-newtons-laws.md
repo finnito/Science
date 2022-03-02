@@ -2,16 +2,7 @@
 title: Newton's Laws
 slug: newtons-laws
 subtitle: 12PHYS - AS91171
-author: Finn LeSueur
-date: 2020
-theme: finn
 weight: 6
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/9UKGPOwR-iw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

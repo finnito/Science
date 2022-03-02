@@ -1,17 +1,8 @@
 ---
 title: Circular Motion
-subtitle: 12PHYS - Mechanics
-author: Finn LeSueur
-date: 2021
-theme: finn
-text-align: center
+subtitle: 12PHY - Mechanics
 weight: 9
 slug: circular-motion
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
 ---
@@ -37,11 +28,13 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 
 ![](../assets/circle-diagram.png)
 
+$$
 \begin{aligned}
     & Radius = r \newline
     & Diameter = d \newline
     & Circumference = C
 \end{aligned}
+$$
 
 ---
 
@@ -134,9 +127,11 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 
 > An object undergoing circular motion is always accelerating towards the center of the circle. Therefore, because the direction is changing, the velocity is changing. Therefore the object is always accelerating, even if its speed is constant.
 
+$$
 \begin{aligned}
     & a_{c} = \frac{v^{2}}{r} \newline
 \end{aligned}
+$$
 
 ---
 
@@ -170,9 +165,11 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 
 ![](../assets/centripetal-force.png)
 
+$$
 \begin{aligned}
     & F_{c} = \frac{mv^{2}}{r}
 \end{aligned}
+$$
 
 - Centripetal force acts inwards towards the center of the circle, while the velocity acts along a tangent to the circle at all times.
 - Therefore, if the centripetal force is removed, the object will move in a straight line tangent to the circle
@@ -197,13 +194,14 @@ e.g. Satellites in orbit, car driving around a corner, discus thrower, cricket b
 
 ![](../assets/bucket-of-water.png)
 
+$$
 \begin{aligned}
     & v = 4ms^{-1}, r = 1m, m = 8kg && \text{(K)}  \newline
     & F_{c} = ? && \text{(U)} \newline
     & F_{c} = \frac{mv^{2}}{r} && \text{(F)} \newline
     & F_{c} = \frac{8 \times 4^{2}}{1} = 128N \text{ inwards} && \text{(S+S)} 
 \end{aligned}
-
+$$
 
 ---
 
@@ -225,6 +223,7 @@ NB: From 2:30 to 5:25.
 
 #### Whakatika
 
+$$
 \begin{aligned}
     & F_{c} = 350N, v = 10ms^{-1}, r = 2m && \text{(K)}  \newline
     & m = ? && \text{(U)} \newline
@@ -232,6 +231,7 @@ NB: From 2:30 to 5:25.
     & 350 = \frac{m \times 10^{2}}{2} && \text{(S+S)} \newline
     & \frac{350 \times 2}{10^{2}} = m = 7kg
 \end{aligned}
+$$
 
 ---
 

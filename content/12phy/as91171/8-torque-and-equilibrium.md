@@ -1,19 +1,8 @@
 ---
 title: Torque & Equilibrium
-subtitle: 12PHYS - Mechanics
-author: Finn LeSueur
-date: 2019
-theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
-weight: 8
 slug: torque-and-equilibrium
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
+subtitle: 12PHY - Mechanics
+weight: 8
 ---
 
 ---
@@ -35,12 +24,14 @@ For a car of __mass 1500kg__ which is accelerating at $3.7ms^{-2}$:
 
 1. What net force is needed to maintain this acceleration?
 
+$$
 \begin{aligned}
     &  && \text{Knowns}  \newline
     &  && \text{Unknowns} \newline
     &  && \text{Formula} \newline
     &  && \text{Sub and Solve} 
 \end{aligned}
+$$
 
 2. If the engine is producing $6000N$ of thrust, what is the difference and what happened to it?
 
@@ -51,11 +42,13 @@ For a car of __mass 1500kg__ which is accelerating at $3.7ms^{-2}$:
 Torque can be thought of as the __turning effect__ around a __pivot__.
 Torque is sometimes known as __moment__ or __leverage__.
 
+$$
 \begin{aligned}
     \tau &= Fd_{\bot} \newline
     torque &= Newtons \times metres \newline
     torque &= \text{Newton meters (Nm)}
 \end{aligned}
+$$
 
 - $F =$ force in Newtons 
 - $d_{\bot} =$ perpendicular distance of force from pivot
@@ -75,12 +68,14 @@ Torque is sometimes known as __moment__ or __leverage__.
 
 A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off a bottle of soft drink. Start by drawing a rough diagram. __Calculate the torque applied.__
 
+$$
 \begin{aligned}
     &  && \text{Knowns}  \newline
     &  && \text{Unknowns} \newline
     &  && \text{Formula} \newline
     &  && \text{Sub and Solve} 
 \end{aligned}
+$$
 
 ---
 
@@ -88,11 +83,13 @@ A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off 
 
 A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off a bottle of soft drink. __Calculate the torque applied.__
 
+$$
 \begin{aligned}
     & \tau = Fd_{\bot} \newline
     & \tau = 9 \times 0.1 \newline
     & \tau = 0.9 \text{Nm anticlockwise} \newline
 \end{aligned}
+$$
 
 ---
 
@@ -100,12 +97,14 @@ A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off 
 
 Calculate the torque applied if the lever is stretched to $75cm$.
 
+$$
 \begin{aligned}
     &  && \text{Knowns}  \newline
     &  && \text{Unknowns} \newline
     &  && \text{Formula} \newline
     &  && \text{Sub and Solve} 
 \end{aligned}
+$$
 
 ---
 
@@ -113,11 +112,13 @@ Calculate the torque applied if the lever is stretched to $75cm$.
 
 Calculate the torque applied if the lever is stretched to $75cm$.
 
+$$
 \begin{aligned}
     & \tau = Fd_{\bot} \newline
     & \tau = 9 \times 0.75 \newline
     & \tau = 6.75 \text{Nm anticlockwise} \newline
 \end{aligned}
+$$
 
 ---
 
@@ -125,12 +126,14 @@ Calculate the torque applied if the lever is stretched to $75cm$.
 
 Calculate the torque applied if the lever is compressed to $1cm$.
 
+$$
 \begin{aligned}
     &  && \text{Knowns}  \newline
     &  && \text{Unknowns} \newline
     &  && \text{Formula} \newline
     &  && \text{Sub and Solve} 
 \end{aligned}
+$$
 
 ---
 
@@ -138,11 +141,13 @@ Calculate the torque applied if the lever is compressed to $1cm$.
 
 Calculate the torque applied if the lever is compressed to $1cm$.
 
+$$
 \begin{aligned}
     & \tau = Fd_{\bot} \newline
     & \tau = 9 \times 0.01 \newline
     & \tau = 0.09 \text{Nm anticlockwise} \newline
 \end{aligned}
+$$
 
 ---
 
