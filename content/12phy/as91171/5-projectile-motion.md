@@ -178,7 +178,7 @@ $$
 A cannon ball is fired horizontally from the top of a hill. The velocity of the cannon ball is split into $x$ and $y$ components, which are independent of each other.
 
 1. Weight force is the only force acting.
-2. The cannonball accelerates in the y direction ($a_{y} = g = 9.2ms^{-2}$).
+2. The cannonball accelerates in the y direction ($a_{y} = g = 9.8ms^{-2}$).
 3. No forces are acting in the horizontal direction, so velocity is constant ($a_{x} = 0$).
 </div>
 
@@ -188,7 +188,15 @@ A cannon ball is fired horizontally from the top of a hill. The velocity of the 
 
 Read page 137-138 in your textbook for extra information. Add any extra information to your notes that you find useful!
 
-Try: Textbook Activity 12B (pg. 140) Q6
+---
+
+### Example / Tauria
+
+A javelin is thrown at $20ms^{-1}$ at an angle of $30^{\circ}$ to the horizontal.
+
+1. Calculate the initial horizontal and vertical velocities
+2. Calculate the javelin's time of flight
+3. Calculate the distance (range) of the javelin
 
 ---
 
@@ -213,3 +221,73 @@ Steps:
 ### Whakawai/Practise
 
 - Textbook Activity 12B (pg. 140) Q5
+
+---
+
+## Three Types of Projectile Motion
+
+![](../assets/types-of-parabolas.png)
+
+You need to be able to solve all three types for the exam! We have covered Half and full parabolas so far, now we will do __partial parabolas__!.
+
+---
+
+### Partial Parabolas
+
+- Always use kinematic equations, just like the other two types
+- Always split up your horizontal and vertical information and calculations
+- Very similar problem solving to the other types
+
+---
+
+### Tauria / Example: Tossing a Ball
+
+Ben throws a ball to Elias who is standing $12m$ away. Elias is $180cm$ tall, and the ball has an initial velocity of $7ms^{-1}$ at an angle of $37^{\circ}$ to the horizontal. __Does the ball travel over Elias' head, hit them, or fall short?__
+
+1. Calculate the x and y components of the initial velocity
+2. __Think Horizontal__: Calculate the time taking for the ball to reach Elias
+3. __Think Vertical__: What is the height (d) at time t (from above)?
+4. Turn your numerical answer into a sentence explaining what you found.
+
+---
+
+#### Whakatika
+
+1. Calculate the x and y components of the initial velocity
+
+$$
+\begin{aligned}
+v_{x} &= vcos(\theta) = 7cos(37) = 5.59ms^{-1} \cr
+v_{y} &= vsin(\theta) = 7sin(37) = 4.21ms^{-1}
+\end{aligned}
+$$
+
+---
+
+2. __Think Horizontal__: Calculate the time taking for the ball to reach Elias
+
+$$
+\begin{aligned}
+&\text{K:  } v_{xi} = 5.59ms^{-1}, a_{x} = 0ms^{-1}, d_{x} = 12m \cr
+&\text{U:  } t = ? \cr
+&\text{F:  } d = v_{i}t + \frac{1}{2}at^{2} \cr
+&\text{S:  } 12 = 5.59 \times t + \frac{1}{1} \times 0 \times t^{2} \cr
+&\text{S:  } \frac{12}{5.59} = t = 2.15s
+\end{aligned}
+$$
+
+---
+
+3. __Think Vertical__: What is the height (d) at time t (from above)?
+
+$$
+\begin{aligned}
+&\text{K: } v_{yi} = 4.21ms^{-1}, a = 9.8ms^{-2}, t = 2.15s \cr
+&\text{U: } d = ? \cr
+&\text{F: } d = v_{i}t + \frac{1}{2}at^{2} \cr
+&\text{S: } d = (4.21 \times 2.15) + (0.5 \times -9.8 \times 2.15^{2}) \cr
+&\text{S: } d = -13.60m
+\end{aligned}
+$$
+
+<mark>A height of $-13.60m$ indicates that it is lower than where it begin. This means that it fell short of Elias and hit the ground.</mark>
