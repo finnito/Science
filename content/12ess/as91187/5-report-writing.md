@@ -197,6 +197,8 @@ __Calculating an Average__: Add up all your trials and divide by the number of t
 
 ![[Source](https://serc.carleton.edu/mathyouneed/graphing/bestfit.html)](https://d32ogoqmya1dw8.cloudfront.net/images/mathyouneed/nafinalbfl2.jpg)
 
+<iframe width="1280" height="704" src="https://www.youtube.com/embed/Heik9qygJsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Conclusion
