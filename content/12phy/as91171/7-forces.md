@@ -2,16 +2,7 @@
 title: Forces
 slug: forces
 subtitle: 12PHYS - AS91171
-author: Finn LeSueur
-date: 2020
-theme: finn
 weight: 7
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
 ## Mahi Tuatahi: Draw a diagram indicating all the forces acting upon you
@@ -63,7 +54,7 @@ For each, calculate the acceleration that a $5kg$ object would experience.
 
 > A state of zero acceleration (constant velocity) due to $F_{net} = 0$.
 
-- When performing vector addition, equilibrium is seen by the vectors starting and ending at the same point.
+- When performing vector addition, <mark>equilibrium is seen by the vector diagram starting and ending at the same point</mark>.
 - Vector diagrams having different start and end points indicates disequilibrium, and thus $F_{net} \neq 0N$.
 
 ---
@@ -75,6 +66,10 @@ For each, calculate the acceleration that a $5kg$ object would experience.
 __TLDR__: The acceleration created by a force depends directly upon the mass of the object.
 
 ![[Source](http://gifexperiments.blogspot.com/2019/02/an-animated-gif-image-showing-motion-of.html)](https://3.bp.blogspot.com/-UsqgN2kZqUc/XFSl25TLN2I/AAAAAAAAAOw/G8RK0xt6WXgETzENoeZCiPyN1U2l_CdmwCLcBGAs/s1600/force.gif)
+
+---
+
+
 
 ---
 
@@ -142,10 +137,10 @@ __TLDR__: The acceleration created by a force depends directly upon the mass of 
 
 - If the surface is sufficiently strong, the support/normal force will always oppose the force acting upon it exactly
 - It will always act at $90\degree$ to the surface
+- <mark>❗️ Draw equal and opposite weight and normal forces on your diagram.</mark>
+- <mark>❗️ What would occur if the support force was less than the weight force?</mark>
 
 ![](../assets/support-force-flat.png)
-
-<p class="instruction">Draw equal and opposite weight and normal forces on your diagram.</p>
 
 ---
 
@@ -178,9 +173,8 @@ __TLDR__: The acceleration created by a force depends directly upon the mass of 
 
 ## Calculating a Missing Force
 
-- __If__ an object is in equilibrium, we can calculate a missing force by assuming $F_{net} = 0$.
-- Take the three forces acting upon the object and add them through __vector addition__
-- They should form a closed right-angled triangle, allowing you to find the unknown side.
+- <mark>__If__ an object is in equilibrium, we can calculate a missing force by assuming $F_{net} = 0$ and drawing a vector diagram</mark>
+- They _should_ form a closed right-angled triangle, allowing you to find the unknown side.
 
 ![](../assets/finding-unknown-force.png)
 

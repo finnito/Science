@@ -12,8 +12,8 @@ weight: 6
 ## Newton's First Law {.c2}
 
 > Every object persists in its state of rest or uniform motion in a straight line unless it is compelled to change that state by forces impressed on it.
-
-__TLDR__: A non-zero net force will induce a change in velocity (an acceleration).
+>
+> __TLDR__: A non-zero net force will induce a change in velocity (an acceleration).
 
 ![[Source](https://imgur.com/r/physicsgifs/DSz2wbg)](https://i.imgur.com/DSz2wbg.gif?1)
 
@@ -31,8 +31,8 @@ __TLDR__: A non-zero net force will induce a change in velocity (an acceleration
 ## Newton's Second Law {.c2}
 
 > Force is equal to the change in momentum per change in time. For a constant mass, force equals mass times acceleration. $F=m \times a$
-
-__TLDR__: The acceleration created by a force depends directly upon the mass of the object.
+> 
+> __TLDR__: The acceleration created by a force depends directly upon the mass of the object.
 
 ![[Source](https://app.emaze.com/@ACOZTCTZ)](https://userscontent2.emaze.com/images/40317562-a195-4290-9548-2be494a056d5/e53d44b5-412a-4189-856b-d3a2f2f5090b.gif)
 
@@ -51,8 +51,6 @@ __TLDR__: The acceleration created by a force depends directly upon the mass of 
 
 > For every action, there is an equal and opposite reaction.
 
-__TLDR__: Objects exert an opposite and equal force as a kind of _support_.
-
 ![[Source](https://www.pinterest.nz/pin/283163895306707037/)](https://i.pinimg.com/originals/91/65/53/91655338cb8e83a5173cf1fe230e6e84.jpg)
 
 ---
@@ -66,7 +64,7 @@ __TLDR__: Objects exert an opposite and equal force as a kind of _support_.
 
 ---
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/8yis7GzlXNM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="560" src="https://www.youtube.com/embed/8yis7GzlXNM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
