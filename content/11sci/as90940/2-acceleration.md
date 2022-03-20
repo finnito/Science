@@ -2,15 +2,7 @@
 title: Acceleration
 slug: acceleration
 subtitle: 11SCI - Mechanics
-author: Finn LeSueur
-date: 2020
-theme: finn
 weight: 2
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
 ## Mahi Tuatahi: Kahoot!
@@ -35,10 +27,12 @@ __e.g.__ A supercar will accelerate to 50km/hr faster than a cyclist. That is to
 
 ## Calculating Acceleration
 
+$$
 \begin{aligned}
-    acceleration &= \frac{\text{change in speed}}{\text{change in time}} \newline
-    a &= \frac{\Delta v}{\Delta t} \newline
+    acceleration &= \frac{\text{change in speed}}{\text{change in time}} \cr
+    a &= \frac{\Delta v}{\Delta t} \cr
 \end{aligned}
+$$
 
 - __Velocity__ ($v$) has units meters per second ($ms^{-1}$)
 - __Time__ ($t$) has units seconds ($s$)
@@ -46,26 +40,44 @@ __e.g.__ A supercar will accelerate to 50km/hr faster than a cyclist. That is to
 
 ---
 
+### Example
+
+$a = 2.5ms^{-2}$. A cyclist accelerates from rest. They will gain $2.5ms^{-1}$ of velocity every second!
+
+| **t (s)**   | 0 | 1   | 2 | 3   | 4  | 5    |
+|-------------|---|-----|---|-----|----|------|
+| **v (m/s)** | 0 | 2.5 | 5 | 7.5 | 10 | 12.5 |
+
+---
+
 ## Rearranging Equations
 
-\begin{aligned}
-    a &= \frac{\Delta v}{\Delta t} && \text{v is divided by t} \newline
-    a \times \Delta t &= \Delta v && \text{Undo the divide by multiplying} \newline
-    \Delta t &= \frac{\Delta v}{a} && \text{Undo the multiplication by dividing}
-\end{aligned}
+Work with a partner to rearrange $a=\frac{\Delta v}{\Delta t}$ in your book where $v$ and $t$ are the subject of the equation.
 
+---
 
+### Whakatika
+
+$$
 \begin{aligned}
-    v &= \frac{\Delta d}{\Delta t} && \text{d is divided by t} \newline
-    v \times \Delta t &= \Delta d && \text{Undo the divide by multiplying} \newline
-    \Delta t &= \frac{\Delta d}{v} && \text{Undo the multiplication by dividing}
+    a &= \frac{\Delta v}{\Delta t} && \text{d is divided by t} \cr
+    v \times \Delta t &= \Delta d && \text{Multiply both sides by t} \cr
 \end{aligned}
+$$
+
+$$
+\begin{aligned}
+    a &= \frac{\Delta v}{\Delta t} && \text{v is divided by t} \cr
+    a \times \Delta t &= \Delta v && \text{Multiply both sides by t} \cr
+    \Delta t &= \frac{\Delta v}{a} && \text{Divide both sides by a}
+\end{aligned}
+$$
 
 ---
 
 ## Question 1 {.c2}
 
-- A bee starts at rest and takes off from a flower and reaches a velocity of $0.75ms^{-1}$ in $0.5s$. Calculate it's acceleration.
+A bee starts at rest and takes off from a flower and reaches a velocity of $0.75ms^{-1}$ in $0.5s$. Calculate it's acceleration.
 
 ![](https://earthsky.org/upl/2020/05/bumblebee-face-e1590428185921.jpg)
 
@@ -113,11 +125,13 @@ A skydiver at rest jumps out of a plane. They accelerate at $9.8ms^{-2}$ until t
 2. __Unknowns:__ $\text{time (t)}$
 3. __Formula:__ $a = \frac{\Delta v}{\Delta t} = \frac{v_{f} - v_{i}}{\Delta t}$
 
+$$
 \begin{aligned}
-    9.8 &= \frac{54 - 0}{t} \newline
-    9.8 \times t &=  54 \newline
+    9.8 &= \frac{54 - 0}{t} \cr
+    9.8 \times t &=  54 \cr
     t &= \frac{54}{9.8} = 5.51s
 \end{aligned}
+$$
 
 ---
 
@@ -125,7 +139,7 @@ A skydiver at rest jumps out of a plane. They accelerate at $9.8ms^{-2}$ until t
 
 A runner is approaching the finish line, moving at $5.55ms^{-1}$ but needs to sprint to pass the person just in front of them to get 1st place. They accelerate for $3s$ to reach $6.3ms^{-1}$. What is their acceleration?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1pfrYC0vagk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="515" src="https://www.youtube.com/embed/1pfrYC0vagk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -135,16 +149,17 @@ A runner is approaching the finish line, moving at $5.55ms^{-1}$ but needs to sp
 2. __Unknowns:__ $\text{acceleration (a)}$
 3. __Formula:__ $a = \frac{\Delta v}{\Delta t} = \frac{v_{f} - v_{i}}{\Delta t}$
 
+$$
 \begin{aligned}
-    a &= \frac{6.3 - 5.55}{3} \newline
+    a &= \frac{6.3 - 5.55}{3} \cr
     a &= \frac{0.75}{3} =  0.25ms^{-2}
 \end{aligned}
+$$
 
 ---
 
-## Mahi Kāinga
+## Mahi Kāinga / Homework
 
-- Due Monday, August 24th: Mahi Kāinga Booklet Q2, Q3, Q1
-- Tutorials: Tuesday Lunchtime in A5
+- Due Monday, March 21st: Mahi Kāinga Booklet Q2, Q3, Q1
 - Ask me for help with your mahi kāinga at any time!
-- Do the work in your exercise book.
+- <mark>Do the work in your exercise book!</mark>

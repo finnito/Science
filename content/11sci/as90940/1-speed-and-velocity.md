@@ -2,15 +2,15 @@
 title: Speed, Velocity
 slug: speed-and-velocity
 subtitle: 11SCI - Mechanics
-author: Finn LeSueur
-date: 2020
-theme: finn
 weight: 1
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
+---
+
+## Textbook
+
+1. Collect a sciPad
+2. Name it
+3. Bring it to class (and home) every day in case of illness
+
 ---
 
 ## Ngā Whāinga Ako
@@ -23,17 +23,19 @@ header-includes:
 
 ## What is Speed?
 
+<mark>Head up "Speed" in your book"</mark>
+
 You know that someone who finishes a race in the shortest time is the fastest. That they have the highest speed.
 
-> __Speed is the amount of distance covered in some amount of time__.
+> <mark>__Speed is the amount of distance covered in some amount of time__.</mark>
 
 ---
 
-## What is Speed? {.c2}
+## Units of Speed {.c2}
 
 - Cars display their speed in _kilometers per hour_
-- In Physics we prefer to give speed in the __number of meters__ travelled in __one second__.
-- We call this _meters per second_.
+- In Physics we prefer to <mark>give speed in the __number of meters__ travelled in __one second__</mark>.
+- We call this <mark>_meters per second_</mark>.
 
 ![](https://images.idgesg.net/images/article/2017/08/7_faster-server-provisioning-100732913-large.jpg)
 
@@ -41,7 +43,7 @@ You know that someone who finishes a race in the shortest time is the fastest. T
 
 ## Calculating Speed
 
-In order to determine speed we need to know two things!
+To calculate speed we need to know two things!
 
 - __Distance__: has unit meters (m) and is represented by symbol $d$ in equations.
 - __Time__: has unit seconds (s) and is represented by symbol $t$ in equations.
@@ -60,10 +62,12 @@ In order to determine speed we need to know two things!
 ## How to Calculate Velocity
 
 <div>
+$$
 \begin{aligned}
     velocity &= \frac{\text{change in distance}}{\text{change in time}} \newline
     v &= \frac{\Delta d}{\Delta t} \newline
 \end{aligned}
+$$
 </div>
 
 It is measured in meters per second, also shown as $\frac{m}{s}$ or $ms^{-1}$.
@@ -133,12 +137,6 @@ A rock climber climbs 15 meters in 5.48 seconds. What velocity was he travelling
 3. __Formula:__ $v = \frac{\Delta d}{\Delta t}$
 4. __Substitute:__ $1.51 = \frac{d}{4691}$
 5. __Solve:__ $1.51 \times 4691 = d = 7083.41m$
-
----
-
-## Mahi Kāinga
-
-Due Monday, August 24th: Mahi Kāinga Booklet Q2, Q3, Q1
 
 ---
 
