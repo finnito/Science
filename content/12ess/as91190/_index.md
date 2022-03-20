@@ -16,7 +16,7 @@ menu:
 
 {{< slides >}}
 
-## Unit Plan _/ Mahere Kōwae_ 
+## Unit Plan _/ Mahere Kōwae_
 
 
 |        | Akoranga 1            | Akoranga 2               | Akoranga 3                | Akoranga 4        |
@@ -26,7 +26,7 @@ menu:
 | Week 3 | Humans in Antartctica |                          |                           |                   |
 | Week 4 | Case Study            | Case Study               | Start Assessment Research |                   |
 
-## Lesson Plans _/ Ngā Mahere Akoranga_ 
+## Lesson Plans _/ Ngā Mahere Akoranga_
 
 1. Introduction
     - Read through ngā kirita attached
