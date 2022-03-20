@@ -52,24 +52,9 @@ For each, calculate the acceleration that a $5kg$ object would experience.
 
 ### Equilibrium
 
-> A state of zero acceleration (constant velocity) due to $F_{net} = 0$.
+> A state of zero acceleration (constant velocity) due to $F_{net} = 0N$. E.g. vector diagram starts and ends at the same spot.
 
-- When performing vector addition, <mark>equilibrium is seen by the vector diagram starting and ending at the same point</mark>.
-- Vector diagrams having different start and end points indicates disequilibrium, and thus $F_{net} \neq 0N$.
-
----
-
-### Recall: Newton's Second Law {.c2}
-
-> Force is equal to the change in momentum per change in time. For a constant mass, force equals mass times acceleration. $F=m \times a$
-
-__TLDR__: The acceleration created by a force depends directly upon the mass of the object.
-
-![[Source](http://gifexperiments.blogspot.com/2019/02/an-animated-gif-image-showing-motion-of.html)](https://3.bp.blogspot.com/-UsqgN2kZqUc/XFSl25TLN2I/AAAAAAAAAOw/G8RK0xt6WXgETzENoeZCiPyN1U2l_CdmwCLcBGAs/s1600/force.gif)
-
----
-
-
+- Vector diagrams having different start and end points indicates disequilibrium, and thus $F_{net} \neq 0N$. 
 
 ---
 
@@ -81,10 +66,10 @@ __TLDR__: The acceleration created by a force depends directly upon the mass of 
 
 ![[Source]()](../assets/terminal-velocity.png)
 
-1. What is my net force? <br><br><br>
-2. What is my acceleration?<br><br><br>
-3. Why does it not equal $g$?<br><br><br>
-4. What is my drag and weight forces were balanced?<br><br><br>
+1. __What is my net force?__ <br><br><br>
+2. __What is my acceleration?__<br><br><br>
+3. __Why does it not equal $g$?__<br><br><br>
+4. __What if my drag and weight forces were balanced?__<br><br><br>
 
 ---
 
@@ -92,10 +77,10 @@ __TLDR__: The acceleration created by a force depends directly upon the mass of 
 
 ![[Source]()](../assets/terminal-velocity.png)
 
-1. What is my net force? <br>$620N$ down<br>
-2. What is my acceleration?<br>$F=ma, a=\frac{F}{m}=\frac{620}{72}=8.61ms^{-2}$<br>
-3. Why does it not equal $g$?<br>Because friction is acting against the weight force!<br>
-4. What if my drag and weight forces were balanced?<br>$F_{net}=0$ and therefore $a=0$ and I would be in equilibrium.<br>
+1. __What is my net force?__ <br>$620N$ down<br>
+2. __What is my acceleration?__<br>$F=ma, a=\frac{F}{m}=\frac{620}{72}=8.61ms^{-2}$<br>
+3. __Why does it not equal $g$?__<br>Because friction is acting against the weight force!<br>
+4. __What if my drag and weight forces were balanced?__<br>$F_{net}=0$ and therefore $a=0$ and I would be in equilibrium.<br>
 
 ---
 

@@ -47,6 +47,10 @@ weight: 6
 
 ---
 
+<iframe width="909" height="511" src="https://www.youtube.com/embed/On1CsbTwlDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ## Newton's Third Law {.c2}
 
 > For every action, there is an equal and opposite reaction.

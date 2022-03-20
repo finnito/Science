@@ -7,16 +7,18 @@ weight: 8
 
 ---
 
-# Mahi Tuatahi
+## Mahi Tuatahi
 
+$$
 \begin{aligned}
     F=ma
 \end{aligned}
+$$
 
 1. State what each letter stands for
 2. Give the units for each letter
 3. Rearrange the equation for $m$ and $a$
-4. Derive the SI units for F (not Newtons)
+4. Using the formula, what are the SI units for F (not Newtons)?
 
 ---
 
@@ -33,11 +35,11 @@ $$
 \end{aligned}
 $$
 
-2. If the engine is producing $6000N$ of thrust, what is the difference and what happened to it?
+2. If the engine is producing $6000N$ for the above acceleration, why is this $6000N$ different from your calculation?
 
 ---
 
-# Torque ($\tau$)
+## Torque ($\tau$) -- Tōpana Whakahuri
 
 Torque can be thought of as the __turning effect__ around a __pivot__.
 Torque is sometimes known as __moment__ or __leverage__.
@@ -55,16 +57,18 @@ $$
 
 ---
 
-# Torque ($\tau$)
+## Torque ($\tau$) -- Tōpana Whakahuri {.c2}
 
 - A small force at a small distance produces a small torque,
 - the same small force at a larger distance produces a larger torque.
+- <mark>The force is in a straight line</mark>
+- <mark>The torque is circular (CW or ACW)</mark>
 
-![](../assets/torque.gif){ width=50% }
+![](../assets/torque.gif)
 
 ---
 
-# Pātai 1
+### Pātai Tahi: Individual Torques
 
 A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off a bottle of soft drink. Start by drawing a rough diagram. __Calculate the torque applied.__
 
@@ -79,7 +83,7 @@ $$
 
 ---
 
-# Pātai 1: Whakatika
+#### Pātai Tahi: Whakatika
 
 A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off a bottle of soft drink. __Calculate the torque applied.__
 
@@ -93,7 +97,7 @@ $$
 
 ---
 
-# Pātai 2
+### Pātai Rua
 
 Calculate the torque applied if the lever is stretched to $75cm$.
 
@@ -108,7 +112,7 @@ $$
 
 ---
 
-# Pātai 2: Whakatika
+#### Pātai Rua: Whakatika
 
 Calculate the torque applied if the lever is stretched to $75cm$.
 
@@ -122,7 +126,7 @@ $$
 
 ---
 
-# Pātai 3
+### Pātai Toru
 
 Calculate the torque applied if the lever is compressed to $1cm$.
 
@@ -137,7 +141,7 @@ $$
 
 ---
 
-# Pātai 3: Whakatika
+#### Pātai Toru: Whakatika
 
 Calculate the torque applied if the lever is compressed to $1cm$.
 
@@ -151,11 +155,11 @@ $$
 
 ---
 
-![](../assets/torque-meme.png){ width=50% }
+![](../assets/torque-meme.png)
 
 ---
 
-# Question 4: Does torque have a direction?
+### Pātai Whā: Does torque have a direction?
 
 Yes, and you must always state which direction it is acting in.
 
@@ -171,69 +175,64 @@ __Clockwise or Anticlockwise__
 
 ---
 
-# Torque & Equilibrium
+## Torque & Equilibrium -- Tōpana Whakahuri me Taurite
 
-![](../assets/equilibrium-meme.gif){ width=75% }
+![](../assets/equilibrium-meme.gif)
 
 ---
 
-# But, What Is Equilibrium?
+## Equilibrium, Expanded
 
 _Newton's First Law_ tells us equilibrium is when an object is __at rest__ or __moving uniformly__.
 
-For this to occur we need two things:
+For this to occur we need two things to be true. <mark>You must state these assumptions when doing any equilibrium question.
 
-1. Sum of all forces to be 0
-2. Sum of all torques to be 0
-
----
-
-# Okay, So Where Do We Use It?
-
-Building bridges, setting up scaffolding, see-saws and more!
+1. Sum of all forces to be 0 ($\sum F = 0N$)
+2. Sum of all torques to be 0 ($\sum\tau = 0Nm$)
 
 ---
 
-# Question 1
+### Pātai Tahi {.c2}
 
-![](../assets/torque-balance.png){ width=50% }
+![](../assets/torque-balance.png)
 
-$m_{1}=2kg$, $d_{1}=15cm$, $m_{2}=1kg$, $d_{2}=30cm$
-
-1. Calculate the clockwise and anticlockwise torques
-2. Are they in balance?
-
----
-
-# Question 2
-
-![](../assets/torque-balance.png){ width=50% }
-
-$m_{1}=7kg$, $d_{1}=65cm$, $m_{2}=13kg$, $d_{2}=35cm$
-
-1. Calculate the clockwise and anticlockwise torques
-2. Are they in balance?
+- $m_{1}=2kg$, $d_{1}=15cm$, $m_{2}=1kg$, $d_{2}=30cm$
+- Calculate the clockwise and anticlockwise torques
+- Is the system in equilibrium?
 
 ---
 
-# Question 3
-![](../assets/torque-rock.png){ width=50% }
+### Pātai Rua {.c2}
+
+![](../assets/torque-balance.png)
+
+- $m_{1}=7kg$, $d_{1}=36cm$, $m_{2}=13kg$, $d_{2}=65cm$
+- Calculate the clockwise and anticlockwise torques
+- Is the system in equilibrium?
+
+---
+
+<!--### Pātai Toru {.c2}
+
+![](../assets/torque-rock.png)
 
 The rock has mass $1100kg$ and is at distance $50cm$ from the pivot. If Ash exerts $70N$ of downward force at a distance of $8m$ from the pivot can he move the rock?
 
 ---
 
+### Pātai Whā
+
 Archimedes once said: _"Give me a place to stand and I will move the world"_
 
 __Question__: Assuming the mass of the Earth is $5.972\times 10^{24} kg$ at a distance of 1km from the pivot and Archimedes' mass is $75kg$, how long would his lever have to be?
 
-![](../assets/archimedes.gif){ width=50% }
+![](../assets/archimedes.gif)
 
----
+----->
 
-# Mahi Tuatahi
+# Mahi Tuatahi {.c2}
 
-![](../assets/torque-mahi tuatahi.png){ width=50% }
+![](../assets/torque-starter.png)
 
 1. Calculate the clockwise torque
 2. Calculate the anticlockwise torque
@@ -241,41 +240,42 @@ __Question__: Assuming the mass of the Earth is $5.972\times 10^{24} kg$ at a di
 
 ---
 
-# Torque & Equilibrium
+## Torque & Equilibrium
 
 The plank may not be massless. You may need to take it into account.
 
-![](../assets/torque-balance.png){ width=50% }
+![](../assets/torque-due-to-plank.png)
 
 - The mass of the plank acts through its __center of gravity__
 - Because the plank is uniform, this is the middle of the plank
 
 ---
 
-# How To Solve A Torque Problem
+## How To Solve A Torque Problem
 
 1. Draw and label all forces on a diagram
 2. Draw and label the distances between all forces and the __pivot__
 3. Calculate all clockwise torque
 4. Calculate all anticlockwise torque
 5. Balance torques & forces
+6. Find the unknown value
 
 ---
 
-# Pātai {.c2}
+### Pātai: Balanced or Unbalanced? {.c2}
 
-![](../assets/torque-uneven.png){ width=50% }
+![](../assets/torque-uneven.png)
 
 - $d_{1}=30cm$, $d_{2}=70cm$, $m_{1}=900g$, $m_{2}=300g$, see-saw mass = $100g$.
 - Calculate the total anticlockwise moment
 - Calculate the total clockwise moment
-- Is it balanced?
+- Is the system in equilibrium?
 
 ---
 
-# Pātai: Case Study {.c2}
+### Pātai: Unknown Force {.c2}
 
-![](../assets/torque-uneven.png){ width=50% }
+![](../assets/torque-uneven.png)
 
 - Assume the system is in equilibrium ($\tau_{clockwise} = \tau_{anticlockwise}$)
 - $d_{1}=0.5m$, $d_{2}=1.5m$, $F_{1}=2.5N$, see-saw mass = $0.5kg$, $F_{2}=?$.
@@ -284,6 +284,87 @@ The plank may not be massless. You may need to take it into account.
 
 ---
 
+#### Whakatika
+
+$$
+\begin{aligned}
+\tau_{CW} &= \tau_{ACW} \cr
+\tau_{p} + \tau_{2} &= \tau_{1} \cr
+F_{p}d_{p} + F_{2}d_{2} &= F_{1}d_{1} \cr
+((0.5 \times 9.8)\times 0.5) + F_{2}\times 1.5 &= 2.5 \times 0.5 \cr
+2.45 + F_{2} \times 1.5 &= 1.25 \cr
+F_{2} &= \frac{1.25 - 2.45}{1.5} = -0.8N
+\end{aligned}
+$$
+
+This is an interesting answer - it implies that $F_{2}$ is actually acting __up__.
+
+---
+
+### Pātai: Finding the Supports {.c2}
+
+![](../assets/finding-supports-q.png)
+
+- Given that the bridge weighs $10,000kg$, find the support force provided by A and B.
+    + To find __A__, we make __B__ the pivot. We also ignore $F_{A}$ because it acting at the pivot and cannot provide any rotational forces.
+    + To find __B__, we make __A__ the pivot. We also ignore $F_{B}$ because it acting at the pivot and cannot provide any rotational forces.
+- Solve for each support independently.
+
+---
+
+#### Whakatika: Support A
+
+![](../assets/finding-supports-a.png)
+
+---
+
+<mark>_We are assuming the bridge is in equilibrium. This means that both net torque and net force are zero._</mark>
+
+$$
+\begin{aligned}
+\tau_{CW} &= \tau_{ACW} \cr
+\tau_{P} + \tau_{C} &= \tau_{A} \cr
+F_{P}d_{P} + F_{C}d_{C} &= F_{A}d_{A} \cr
+(m_{p}g)d_{p} + (m_{c}g)d_{C} &= F_{A}d_{A} \cr
+((10,000 \times 9.8) \times 25) + ((1,000 \times 9.8) \times 40) &= F_{A} \times 50 \cr
+2,450,000 + 392,000 &= F_{A} \times 50 \cr
+\frac{2,842,000}{50} &= F_{A} = 56,840N
+\end{aligned}
+$$
+
+---
+
+#### Whakatika: Support B
+
+![](../assets/finding-supports-b.png)
+
+---
+
+<mark>_We are assuming the bridge is in equilibrium. This means that both net torque and net force are zero._</mark>
+
+$$
+\begin{aligned}
+\tau_{CW} &= \tau_{ACW} \cr
+\tau_{B} &= \tau_{P} + \tau_{C} \cr
+F_{B}d_{B} &= F_{P}d_{P} + F_{C}d_{C} \cr
+F_{B}d_{B} &= (m_{P}g)d_{P} + (m_{C}g)d_{C} \cr
+F_{B} \times 50 &= (10,000 \times 9.8 \times 25) + (1,000 \times 9.8 \times 10) \cr
+F_{B} \times 50 &= 2450000 + 98000 \cr
+F_{B} &= \frac{2,548,000}{50} = 50,960N
+\end{aligned}
+$$
+
+---
+
+#### Ngā Whakaaro / Thoughts {.c2}
+
+![](../assets/finding-supports-thinking.png)
+
+Because the car is closer to support B, it makes logical sense that support B should feel more of the weight force. Therefore, it needs to provide more support force in order to stay in equilibrium.
+
+---
+
 ## Whakawai / Practise
 
 Textbook: Force, Equilibrium and Motion - Q7, 8, 10, 11, 12
+Homework: Q41, Q43
