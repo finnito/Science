@@ -37,6 +37,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Kēmu Patapatai__: Quiz
 - __Mahere Kōwae__: Unit Plan
 - __Mahi Kāinga__: Homework
+- __Mahi mo tenei ra__: Work for today
 - __Mahi Ngātahi__: Group Activity
 - __Mahi Tuatahi__: Do Now/Starter
 - __Matapaki__: Discussion
@@ -58,6 +59,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Te Reo__: Maori
 - __Te/Ngā__: The (singular)/the (plural)
 - __Tākaro__: Game
+- __Tuhi Tīpoka__: Note Taking
 - __Tūhura__: Investigation
 - __Whai Huarahi__: Opportunities
 - __Whāinga Whānui__: Aim
@@ -69,6 +71,20 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Whakapae__: Hypothesis
 - __Whakatika__: Answer
 - __Whakawai__: Practise
+
+## Pātai
+
+Wo wai koe?
+: Who are you?
+
+Ko Finn au
+: I am Finn
+
+Nō hea koe?
+: Where are you from?
+
+Nō Ōtautahi ahau
+: I am from Christchurch
 
 ## Praise
 
