@@ -25,7 +25,7 @@ weight: 3
 
 ![](../assets/mixture.png)
 
-> Matter made of multiple elements or compounds which are not joined (bonded) together is called a mixture.
+> Matter with multiple different elements/compounds mixed together is called a mixture.
 
 ---
 
