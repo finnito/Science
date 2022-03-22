@@ -2,6 +2,7 @@ public/
 *log
 out.txt
 changelog.txt
+*.pdf
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
