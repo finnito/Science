@@ -2,47 +2,34 @@
 title: Force
 slug: force
 subtitle: 11SCI - Mechanics
-author: Finn LeSueur
-date: 2019
-theme: finn
 weight: 5
-katex: true
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
-# Mahi Tuatahi
+## Mahi Tuatahi
 
 Brainstorm situations where force is involved, things that cause force and how it can be used in a __Physics__ context on the board!
 
 ---
 
-# Force
-
-Force has lots of applications in our world! Everything from cars, to aeroplanes, tug-of-war, sports and even bio-mechanics!
-
----
-
-<iframe width="1206" height="678" src="https://www.youtube.com/embed/OmOEnfQk3bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/OmOEnfQk3bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 ## Defining Force
 
-Force is a __push__ or a __pull__ and is measured in __Newtons (N)__.
+Force is __push__, __pull__, __friction__, __thrust__ etc. and is measured in __Newtons (N)__.
 
 Forces have a size (1, 2, 3, 4) and a direction (left, right, up, down, $40^{\circ}$).
 
+<mark>Glue your types of forces sheet into your book!</mark>
+
 ---
 
-## How Forces Act
+## Pātai: How Forces Act
 
-Consider you sitting on your seat. What forces are acting upon you?
+Consider sitting on your seat. What forces are acting upon you?
 
-Draw a box to represent yourself, with arrows coming out of the box to represent the forces. Make sure to label them!
+Draw a diagram and illustrate the forces acting upon you.
 
 ---
 
@@ -50,13 +37,27 @@ Draw a box to represent yourself, with arrows coming out of the box to represent
 
 ---
 
-## Force Diagram {.c2}
+## Force Diagrams
 
-- Longer arrows indicate __more force__, and vice versa
-- The arrow points in the direction the force is acting
-- Arrows should be labelled $F_{name}$
+- Represent yourself as a box. Always.
+- Label your center of mass as a dot.
+- Draw forces as arrows
+    + Longer arrows indicate __more force__
+    + Arrow should start from the center of mass
+    + Arrow points in the direction the force is acting
+- Arrows should be labelled. E.g. A push force might be $F_{p}$
+- Arrows should be labelled with their numerical value when known. E.g. $F_{p} = 120N$
+- Equally sized forces can be indicated with a _slash_ through the lines
 
-![](../assets/3-force-diagram.png)
+---
+
+## Pātai: How Forces Act - Improved!
+
+Draw an improved force diagram of all the forces acting upon you.
+
+---
+
+![](../assets/5-force-diagram-improved.png)
 
 ---
 

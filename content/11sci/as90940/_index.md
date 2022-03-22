@@ -20,28 +20,25 @@ TODO: Make worked solution videos for entire booklet
 TODO: Compile questions, mark schedule, worked video and hints into a big web page. Use HTML hidden elements, TOC, etc.
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 https://gohugo.io/templates/data-templates/
-TODO: Force arrows should start at the centre of mass and go outwards
-TODO: Label the centre of mass as a dot
-TODO: Arrow length should represent magnitude
 -->
 
 {{< slides >}}
 
 ## Mahi Kāinga Due Dates
 
-1. Monday, August 24th: Mahi Kāinga Booklet Q2, Q3, Q1
-2. Monday, August 31st: Mahi Kāinga Booklet Q5, Q6
-3. Monday, September 7th: 
-4. Monday, September 14th: Mahi Kāinga Booklet Q12, Q13, Q14
-5. Monday, September 21st: 
-6. Monday, October 12th: 
-7. Monday, October 19th: Q30, Q35
+1. Mahi Kāinga Booklet Q2, Q3, Q1
+2. Mahi Kāinga Booklet Q5, Q6
+3.  
+4. Mahi Kāinga Booklet Q12, Q13, Q14
+5.  
+6. 
+7. Mahi Kāinga Booklet Q30, Q35
 
-## Tutorials
+<!--## Tutorials
 
-Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go on exam leave! Bring something you are unsure about and get help!
+Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go on exam leave! Bring something you are unsure about and get help!-->
 
-## Learning Outcomes _/ Ngā Whāinga Ako_ 
+## Learning Outcomes _/ Ngā Whāinga Ako_
 
 1. __Motion__
     1. Name the metric units of __distance__, __time__ and __speed__ and give their symbols.
@@ -83,10 +80,10 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
     7. Name the unit of power and give its symbol.
     8. Calculate the power of a device from given data.
 
-## Unit Plan _/ Mahere Kōwae_ 
+## Unit Plan _/ Mahere Kōwae_
 
-|            | Akoranga 1 (Mon)                                          | Akoranga 2 (Wed)                            | Akoranga 3 (Thurs)                                        | Akoranga 4 (Fri)                                          |
-|:-----------|:----------------------------------------------------------|:--------------------------------------------|:----------------------------------------------------------|:----------------------------------------------------------|
+|            |                      Akoranga 1 (Mon)                     |               Akoranga 2 (Wed)              |                     Akoranga 3 (Thurs)                    |                      Akoranga 4 (Fri)                     |
+| ---------- | --------------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
 | __T3 W5__  | __Senior Exams__                                          | __Senior Exams__                            | 1. [Velocity](#velocity)                                  | 2. [Acceleration](#acceleration)                          |
 | __T3 W6__  | 3. [Distance-Time Graphs](#distance-time-graphs)          | 4. [Speed-Time Graphs](#speed-time-graphs)  | 5. []()                                                   | .6 []()                                                   |
 | __T3 W7__  | 7. []()                                                   | 8.                                          | 9. [Mid-Topic Test 1](#mid-topic-test-1)                  | 10. [Self Marking 1](#self-marking-1)                     |
@@ -96,7 +93,7 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 | __T4 W1__  | 23. [Energy Transformations 3](#energy-transformations-3) | 24. [Work 1](#work-1)                       | 25. [Work 2](#work-2)                                     | 26. [Power](#power)                                       |
 | __T4 W2__  | 27. [Revision 1](#revision-1)                             | 28. [Revision 2](#revision-2)               | 29. [Revision 3](#revision-3)                             | __End of Topic Test__                                     |
 
-### Lesson Plans _/ Ngā Mahere Akoranga_ 
+### Lesson Plans _/ Ngā Mahere Akoranga_
 
 1. #### Velocity
     - Intro to distance, speed and velocity with notes
@@ -120,8 +117,9 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
     - Distance-time graph warmup question
     - Notes on speed-time graphs
     - Practice question
-5. #### 
-6. #### 
+5. #### Whakamātau: People in Motion
+    - Then check homework
+6. #### Intro to Forces
 7. #### 
 8. #### 
 9. #### 
