@@ -88,15 +88,18 @@ Sitting on your chair, are the forces acting on you balanced or unbalanced? How 
 
 ---
 
-### Vertical and Horizontal Forces
+## Mahi Tuatahi
 
-- Vertical and horizontal forces are separate. They do not affect each other.
-- We can _balance_ them to find out the __net force__ in the vertical and horizontal directions.
-- If we compare them and they are the same, then forces are balanced. If they are different, forces are unbalanced.
+Sketch these diagrams in your book and find the _net force_ in the horizontal and vertical directions.
+
+![](../assets/xy-balanced-and-unbalanced.png)
 
 ---
 
-![](../assets/xy-balanced-and-unbalanced.png)
+### Vertical and Horizontal Forces
+
+- Vertical and horizontal forces are separate. They do not affect each other.
+- Forces can only cancel each other out when they are in _opposite_ directions.
 
 ---
 
@@ -104,44 +107,39 @@ Sitting on your chair, are the forces acting on you balanced or unbalanced? How 
 
 ---
 
-# sciPAD Page 33-35
+## sciPAD Page 33-35
+
+<mark>Use the sciPad answers on Google Classroom to check your work once done!</mark>
 
 ---
 
 ## Force & Weight {.c2}
 
+$$
 \begin{aligned}
-    Force = mass \times acceleration \newline
-    F = ma
+    Force &= mass \times accel. \cr
+    F &= m \times a \cr\cr
+     &= kg \times ms^{-2} \cr
+     &= kgms^{-2} \cr
+     & = N
 \end{aligned}
+$$
 
 - Force acting upon a mass will create an acceleration
-- An acceleration acting upon a mass is felt as a force
-- ^ Gravity (acceleration) acting upon mass (you) is felt as a force (weight)
-- Weight is a force
+    + Gravity (acceleration) acting upon mass (you) is felt as a force (weight)
+- Weight is a force. Gravity is an acceleration.
 
 ---
 
 ## Weight vs Mass
 
 
-| Mass                        | Weight                            |
-|:----------------------------|:----------------------------------|
-| Measured in $kgs$           | Measured in Newtons               |
-| Is constant                 | Changes with acceleration/gravity |
-| Cannot be measured directly | Can be measured using a scale     |
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DMKcO-T5Y4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-## Your Weight
-
-- The acceleration due to gravity on Earth is $10\frac{m}{s^{2}}$.
-- Calculate your weight on Earth using $F=ma$
-- Use this website to visualise your weight on other planets: https://exploratorium.edu/ronh/weight/
+|                Mass                |                 Weight                 |
+| :--------------------------------- | :------------------------------------- |
+| The amount of matter in something. | The force matter feels due to gravity. |
+| Measured in $kgs$                  | Measured in Newtons (N)                |
+| Is constant                        | Changes with acceleration/gravity      |
+| Cannot be measured directly        | Can be measured using a scale          |
 
 ---
 
@@ -151,30 +149,20 @@ Complete the questions on the last page of the worksheet from last period!
 
 ---
 
-## Types of Forces {.c2}
+## Your Weight
 
-- __Down__: Weight (due to gravity)
-- __Up__
-    - Lift (planes, birds, things with wings)
-    - Bouyancy (floating in water)
-    - Support (rigid physical connections)
-- __Faster__: Push/thrust forces (rockets, rugby)
-- __Slower__: Generally called _resistive_ forces
-    - Drag (water/air)
-    - Friction (hard materials)
+- The acceleration due to gravity on Earth is $10\frac{m}{s^{2}}$.
+    + Objects fall at different rates due to friction/drag. This reduces the net force, and thus acceleration experienced.
+- Calculate your weight on Earth using $F=ma$
+- Use this website to visualise your weight on other planets: https://exploratorium.edu/ronh/weight/
 
 ---
 
-## Force Diagrams
-
-- Equal and opposite forces should be the same length
-- Greater forces have longer arrows
-- Accelerating means unbalanced forces
-- Balanced (zero net force) means no acceleration (constant velocity)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMKcO-T5Y4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-![](http://sbt.blob.core.windows.net/storyboards/oliversmith/balanced-and-unbalanced-forces.png)
+<iframe width="790" height="444" src="https://www.youtube.com/embed/E43-CfukEgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -190,14 +178,6 @@ Complete the questions on the last page of the worksheet from last period!
 
 ---
 
-## Ngā Whāinga Ako
-
-1. Describe the relationship between mass and acceleration of an object which is acted upon by a given unbalanced force (called __net force__).
-2. Use the relationship $F = ma$ to calculate the net force, mass or acceleration of an object.
-3. Understand forces acting during terminal velocity
-
----
-
 ## Net Force
 
 - Net force is the resultant force in the x and y directions
@@ -207,7 +187,7 @@ Complete the questions on the last page of the worksheet from last period!
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dYw4meRWGd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="950" height="534" src="https://www.youtube.com/embed/qEWCRKxhEZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -225,7 +205,7 @@ Complete the questions on the last page of the worksheet from last period!
 
 - The object starts from rest at the top of the jump
 - Its velocity increases due to the acceleration due to gravity (weight force)
-- The friction force, drag, increases with velocity until they become balanced
+- The friction force (drag) increases with velocity until they become balanced
 - The velocity becomes constant
 
 ![Source: https://hardphysics13.wordpress.com/terminal-velocity/](https://i2.wp.com/www.bbc.co.uk/schools/gcsebitesize/science/images/add_aqa_phy_velocity_graph_falling_object.jpg)
@@ -234,7 +214,7 @@ Complete the questions on the last page of the worksheet from last period!
 
 ## Task
 
-Question 18 and then Question 17 from the mahi kāinga booklet
+[Question 18 and then Question 19 from the mahi kāinga booklet](https://docs.google.com/document/d/1bkneQc47Nl5w2a7EaORBRw_Ums-2IINa4ZEq_smG1YE/edit#heading=h.wnjqrqhzhzzu)
 
 ---
 

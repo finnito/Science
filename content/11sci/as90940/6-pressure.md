@@ -2,16 +2,7 @@
 title: Pressure
 slug: pressure
 subtitle: 11SCI - Mechanics
-author: Finn LeSueur
-date: 2020
-theme: finn
-katex: true
 weight: 6
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
 ## Ngā Whāinga Ako
@@ -23,34 +14,32 @@ Copy these learning outcomes and the date into your books!
 
 ---
 
-## L17 Mahi Tuatahi
+## Mahi Tuatahi
 
-Calculate the __net__ force acting upon these objects:
+1. Calculate the __net__ force acting upon these objects:
 
 ![](../assets/4-unbalanced-forces.png)
 
----
-
-## Pātai Tahi
-
-What does an unbalanced force do to the motion of an object?
+2. What does an unbalanced force do to the motion of an object?
 
 ---
 
-### Whakatika Tahi
+### Whakatika Rua
 
 It causes the object to accelerate (or de-accelerate).
 
 We know this because of the equation
 
+$$
 \begin{aligned}
-    force &= mass\times acceleration \newline
+    force &= mass\times acceleration \cr
     F &= m \times a
 \end{aligned}
+$$
 
 ---
 
-## Pātai Rua
+## Pātai Toru
 
 For the followig equation give the __name__ and __unit__ for each variable in the equation.
 
@@ -60,7 +49,7 @@ For the followig equation give the __name__ and __unit__ for each variable in th
 
 ---
 
-### Whakatika Rua
+### Whakatika Toru
 
 - F stands for __force__ and has units __Newtons (N)__
 - m stands for __mass__ and has units __kilograms (kg)__
@@ -68,122 +57,110 @@ For the followig equation give the __name__ and __unit__ for each variable in th
 
 ---
 
-## Pātai Toru
+## Pātai Whā
 
 - What do you think of when you think of pressure?
 - What affects the pressure exerted by an object?
 
 ---
 
-### Pātai Whā
+### Pātai Rima
 
 The most classic case of pressure is sharpening a knife. Why do we sharpen knives? What does sharpening a knife change about the knife?
 
 ---
 
-# Pressure / _Pēhanga_
+## Pressure / _Pēhanga_
 
-Pressure is defined as: _the amount of force per square meter_.
+> The amount of force per square meter
 
+$$
 \begin{aligned}
-    pressure &= \frac{force}{area} \newline
+    pressure &= \frac{force}{area} \cr
     P &= \frac{F}{A}
 \end{aligned}
+$$
 
-- Force is measured in __Newtons (N)__
-- Area is measured in __meters squared ($m^{2}$)__
+- Force (F) is measured in __Newtons (N)__
+- Area (A) is measured in __meters squared ($m^{2}$)__
 
 ---
 
+$$
 \begin{aligned}
-    & P = \frac{F}{A}
+    P &= \frac{F}{A} \cr
+    P &= \frac{Newtons}{m^{2}}
 \end{aligned}
+$$
 
 - Therefore, pressure is measured in Newtons per meters squared ($\frac{N}{m^{2}}$ OR $Nm^{-2}$)
-- This is also known as a Pascal (Pa): $Pa = \frac{N}{m^{2}} = Nm^{-2}$
+- This is also known as a <mark>Pascal (Pa): $Pa = \frac{N}{m^{2}} = Nm^{-2}$</mark>
+- You may use whichever unit you prefer.
 
 ---
 
 ## Calculating Pressure
 
+$$
 \begin{aligned}
-    & P = \frac{F}{A}
+    P = \frac{F}{A}
 \end{aligned}
+$$
 
 1. Calculate the __pressure__ created by a force of $3N$ with an area of $0.5m^{2}$
-2. Calculate the __pressure__ created by a force of $3N$ with an area of $0.25m^{2}$
-3. Calculate the __pressure__ created by a force of $3N$ with an area of $0.125m^{2}$
+2. Calculate the __area__  used by a force of $3N$ with pressure $7Pa$
+3. Calculate the __force__ created by a pressure of $5Nm^{-2}$ with an area of $0.125m^{2}$
 
 ---
 
-### Ngā Whakatika
+### Whakatika Tahi
 
+$$
 \begin{aligned}
-    P &= \frac{F}{A} \newline
-    \text{1. } &P = \frac{3}{0.5} = 6Pa \newline
-    \text{2. } &P = \frac{3}{0.25} = 12Pa \newline
-    \text{3. } &P = \frac{3}{0.125} = 24Pa
+    F&=3N, A=0.5m^{-2}, P=? \cr
+    P &= \frac{F}{A} \cr
+    P &= \frac{3}{0.5} \cr
+    P &= 6Nm^{-2} = 6Pa
 \end{aligned}
+$$
 
 ---
 
-## Calculating Area
+### Whakatika Rua
 
+$$
 \begin{aligned}
-    & P = \frac{F}{A}
+    F&=3N, P=7Pa, A=? \cr
+    P &= \frac{F}{A} \cr
+    A &= \frac{F}{P} \cr
+    A &= \frac{3}{7} \cr
+    A &= 0.43m^{-2}
 \end{aligned}
-
-4. Calculate the __area__ that a force ($5N$) is acting through if it has a pressure of $7Pa$
-5. Calculate the __area__ that a force ($7N$) is acting through if it has a pressure of $3Pa$
-6. Calculate the __area__ that a force ($10N$) is acting through if it has a pressure of $3Nm^{-2}$
+$$
 
 ---
 
-### Ngā Whakatika
+### Whakatika Toru
 
+$$
 \begin{aligned}
-    A &= \frac{F}{P} \newline
-    \text{4. } &A = \frac{5}{7} = 0.71m^{2} \newline
-    \text{5. } &A = \frac{7}{3} =  2.33m^{2} \newline
-    \text{6. } &A = \frac{10}{3} = 3.33m^{2}
+    P&=5Nm^{-2}, A=0.125m^{-2}, F=? \cr
+    P &= \frac{F}{A} \cr
+    F &= PA \cr
+    F &= 5 \times 0.125 \cr
+    F &= 0.625N
 \end{aligned}
-
----
-
-## Calculating Force
-
-\begin{aligned}
-    & P = \frac{F}{A}
-\end{aligned}
-
-7. Calculate the __force__ of an object with area $0.25m^{2}$ and pressure $5Pa$
-8. Calculate the __force__ of an object with area $0.5m^{2}$ and pressure $7Pa$
-9. Calculate the __force__ of an object with area $0.75m^{2}$ and pressure $10Pa$
-
----
-
-### Ngā Whakatika
-
-\begin{aligned}
-    F &= P \times A \newline
-    & \text{7. } F &= 0.25 \times 5 = 1.25N \newline
-    & \text{8. } F &= 0.5 \times 7 = 3.5N \newline
-    & \text{9. } F &= 0.75 \times 10 = 7.5N
-\end{aligned}
+$$
 
 ---
 
 ## Pressure Whakamātau
 
-We are going to:
-
-1. Calculate our weights
-2. Find the area of our feet
-3. Calculate the pressure we all exert on the ground!
+Open Google Classroom and find the Pressure Whakamātau document.
 
 ---
 
-## L18 Mahi Tuatahi (2018 Exam)
+## Mahi Tuatahi (2018 Exam)
 
 Jacob bikes down The Flying Nun. He and his bike have a mass of $82kg$ and he accelerates at $0.8ms^{-2}$.
 
@@ -203,17 +180,12 @@ Giovanni is running a 100m sprint. Each of his feet have a surface area of $200c
 
 Because __weight__ is a force, we know that we are looking for $F$.
 
+$$
 \begin{aligned}
-    P &= 13000Pa
-    A &= 0.02m^{2} \times 2 = 0.04m^{2} \newline
-    F &= P \times A \newline
-    F &= 13000 \times 0.04 \newline
+    P &= 13000Pa \cr
+    A &= 0.02m^{2} \times 2 = 0.04m^{2} \cr
+    F &= P \times A \cr
+    F &= 13000 \times 0.04 \cr
     F &= 520N
 \end{aligned}
-
----
-
-## Extra Work
-
-- __Homework:__ Education Perfect due Monday 29th 11:25am
-- sciPAD Page 46
+$$

@@ -24,16 +24,6 @@ https://gohugo.io/templates/data-templates/
 
 {{< slides >}}
 
-## Mahi Kāinga Due Dates
-
-1. Mahi Kāinga Booklet Q2, Q3, Q1
-2. Mahi Kāinga Booklet Q5, Q6
-3.  
-4. Mahi Kāinga Booklet Q12, Q13, Q14
-5.  
-6. 
-7. Mahi Kāinga Booklet Q30, Q35
-
 <!--## Tutorials
 
 Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go on exam leave! Bring something you are unsure about and get help!-->
@@ -120,9 +110,13 @@ Wednesday lunchtime in Pūtaiao breakout space upstairs, every week until you go
 5. #### Whakamātau: People in Motion
     - Then check homework
 6. #### Intro to Forces
-7. #### 
-8. #### 
-9. #### 
+7. #### Net Forces
+8. #### Force, Weight, Mass
+    - sciPad 33-35
+9. #### What can You do With a Newton?
+    - https://docs.google.com/document/d/1MAugSiWvqV5CDR6J25Ei_9C276uywrKt-cJBRz_AJpo
+    - https://www.riskassess.co.nz/risk_assessment/11361773
+    - 
 10. #### 
 11. #### Mass vs Weight 1
     - Quizlet to start: https://quizlet.com/nz/523302535/balanced-and-unbalanced-forces-forces-flash-cards/
