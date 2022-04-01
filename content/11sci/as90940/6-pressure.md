@@ -43,9 +43,11 @@ $$
 
 For the followig equation give the __name__ and __unit__ for each variable in the equation.
 
+$$
 \begin{aligned}
     & F = m \times a
 \end{aligned}
+$$
 
 ---
 
