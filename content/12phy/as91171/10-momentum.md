@@ -1,16 +1,8 @@
 ---
 title: Momentum & Impulse
 subtitle: 12PHYS - Mechanics
-author: Finn LeSueur
-date: 2021
-theme: finn
 weight: 10
 slug: momentum
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
 ---
@@ -162,7 +154,7 @@ $$
 $$
 
 - In 1D we can use this equation directly
-- In 2D we use this equation to help us draw a vector diagram, and then we use trigonometry
+<!-- - In 2D we use this equation to help us draw a vector diagram, and then we use trigonometry -->
 
 ---
 
@@ -190,7 +182,7 @@ $$
     & m=0.16kg, v_{i} = 25ms^{-1}, v_{f} = -35ms^{-1} && \text{(K)}  \cr
     & \Delta p = ? && \text{(U)} \cr
     & \Delta p = p_{f} - p_{i} = m_{f}v_{f} - m_{i}v_{i} && \text{(F)} \cr
-    & \Delta p = (0.16 \times -35) - (0.16 \times 25) = 9.6kgms^{-1} && \text{(S + S)} 
+    & \Delta p = (0.16 \times -35) - (0.16 \times 25) = -9.6kgms^{-1} && \text{(S + S)}
 \end{aligned}
 $$
 
@@ -198,13 +190,13 @@ $$
 
 ### Whakawai/Practise
 
-- Textbook Momentum & Impulse Q1-4
-    + New: pg. 130
-    + Old: pg. 123
+Textbook Momentum & Impulse Q1, Q2 pg. 130
+
+Check the answers in the back of the book once done!
 
 ---
 
-## Akoranga 33 Mahi Tuatahi: 2D $\Delta$ in Momentum
+<!-- ## Akoranga 33 Mahi Tuatahi: 2D $\Delta$ in Momentum
 
 An object with momentum $p=10kgms^{-1}$ impacts a surface at an angle of $45\degree$. It bounces off at an angle of $45\degree$ to the surface with a momentum of $p=7.5kgms^{-1}$.
 
@@ -222,28 +214,29 @@ An object with momentum $p=10kgms^{-1}$ impacts a surface at an angle of $45\deg
 - $\theta = \tan^{-1}(\frac{10}{7.5}) = 53\degree$
 - __Just__ like finding $\Delta v$!
 
----
+--- -->
 
-## Ngā Whāinga Ako
+## Te Whāinga Ako
 
-1. Be able to calculate $\Delta p$ in simple 2D situations
+<!-- 1. Be able to calculate $\Delta p$ in simple 2D situations -->
 2. Be able to use the impulse formula: $F \Delta t = \Delta p$
 
 <p class="instruction">Write the date and ngā whāinga ako in your book</p>
 
 ---
 
-## Impulse
+## Impulse {.c2}
 
-> In order to cause a change in momentum, a force must act upon an object for some amount of time. This is called __impulse__.
+> In order for momentum to change, a force must act upon an object for some amount of time. This is called __impulse__.
 
 $$
 \begin{aligned}
     & F = ma \cr
-    & F = m \frac{\Delta v}{\Delta t}  && \text{substituting for acceleration} \cr
-    & F = m \frac{(v_{f} - v_{i})}{\Delta t} && \text{expanding }\Delta v \cr
-    & F \Delta t = m (v_{f} - v_{i}) && \text{multiply by }\Delta t \cr
-    & F \Delta t = mv_{f} - mv_{i} && \text{expand brackets} \cr
+    & F = m \frac{\Delta v}{\Delta t} \cr
+    & F = m \frac{(v_{f} - v_{i})}{\Delta t} \cr
+    & F \Delta t = m (v_{f} - v_{i}) \cr
+    & F \Delta t = mv_{f} - mv_{i} \cr
+    & F \Delta t = p_{f} - p_{i} \cr
     & F \Delta t = \Delta p
 \end{aligned}
 $$
@@ -254,7 +247,7 @@ $$
 
 A satellite is in orbit. It weighs $300kg$ and it has a thruster which exerts a force of $1500N$. How long must the satellite fire its thruster for if it wants to increase its speed from $5000ms^{-1}$ to $6000ms^{-1}$?
 
-__Hint:__ Calculate $\Delta p$ first using the velocities, then use the impulse relationships.
+__Hint:__ Calculate $\Delta p$ first, then use the impulse equation $F\Delta t = \Delta p$.
 
 ---
 
@@ -278,7 +271,7 @@ $$
 \end{aligned}
 $$
 
----
+<!-- ---
 
 ### Pātai Waru (Q8): Cricket
 
@@ -293,17 +286,15 @@ A cricket ball of mass $120g$ is bowled at $30ms^{-1}$ towards a batsman. The ba
 
 #### Whakatika {.c2}
 
-![](/animations/AS91171/Batsman.gif)
+![](/animations/AS91171/Batsman.gif) -->
 
 ---
 
 ### Whakawai/Practise
 
-- Textbook Momentum and Impulse Q1-5
-    + New: pg. 130
-    + Old: pg. 123
+- Textbook Momentum and Impulse pg. 130 Q5
 
----
+<!-- ---
 
 ## Akoranga 34 Mahi Tuatahi
 
@@ -339,7 +330,7 @@ $$
 
 __Centripetal force__
 
-Centripetal force causes the bucket to accelerate because it acts as a tension force towards the center of the circle. The force acts at a right angle to the motion of the bucket, therefore causing it to change direction continuously towards the center of the circle.
+Centripetal force causes the bucket to accelerate because it acts as a tension force towards the center of the circle. The force acts at a right angle to the motion of the bucket, therefore causing it to change direction continuously towards the center of the circle. -->
 
 ---
 
@@ -382,12 +373,12 @@ Centripetal force causes the bucket to accelerate because it acts as a tension f
 
 ## Conservation of Momentum in 1D
 
-- The most straightforward problem you will see is conservation of momentum in 1-dimension. We will use subscript $1$ and $2$ to indicate object $1$ and $2$.
-- So that we do not get confused about the velocities, we will also use $u$ to indicate initial velocities and $v$ to indicate final velocities.
-- This is an equation representing a collision between two objects.
+- Use $1$ and $2$ to indicate object one and two.
+- We will use $i$ and $f$ to indicate initial and final.
 
 $$
 \begin{aligned}
+    \text{Assuming no external forces (momentum is conserved):}\cr
     p_{i} &= p_{f} \cr
     p_{1i} + p_{2i} &= p_{1f} + p_{2f} \cr
     m_{1}u_{1} + m_{2}u_{2} &= m_{1}v_{1} + m_{2}v_{2} \cr
@@ -398,11 +389,18 @@ $$
 
 ## Collisions: Elastic vs. Inelastic
 
-- __Q.__ Can we use energy to calculate collisions?
-- __A.__ No, because <mark>energy is lost due to friction, meaning that __total kinetic energy is not conserved__.</mark>
-- However, <mark>in __elastic collisions__ total kinetic energy is conserved.</mark>
-- \sum E_{ki} = \sum E_{kf}
-- __NB:__ If total kinetic energy is not conserved, the collision is __inelastic.__ <mark>Most collisions are inelastic.</mark>
+__Elastic__:
+
+- Energy is conserved.
+- $\sum E_{ki} = \sum E_{kf}$
+
+__Inelastic__:
+
+- Energy is not conserved.
+- Some energy is lost to heat/friction/etc.
+- $\sum E_{ki} \ne \sum E_{kf}$
+
+To tell which one a collision is, calculate the total energy before and after and see if they are equal!
 
 ---
 

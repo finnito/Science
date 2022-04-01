@@ -68,6 +68,15 @@ $$
 
 ---
 
+### Pātai {.c2}
+
+![](../assets/circle-gif.gif)
+
+1. Measure the period ($T$)
+2. Calculate the frequency ($f$)
+
+---
+
 ## Velocity on a Circle {.c2}
 
 ![](../assets/circle-gif.gif)
@@ -129,7 +138,7 @@ $$
 
 $$
 \begin{aligned}
-    & a_{c} = \frac{v^{2}}{r} \cr
+    a_{c} &= \frac{v^{2}}{r}
 \end{aligned}
 $$
 
@@ -153,11 +162,13 @@ $$
 
 ---
 
-### What Causes the Acceleration?
+### What Causes the Acceleration? {.c2}
 
-- Newton's Laws of Motion tell us that __an acceleration is always caused by an unbalanced force (non-zero net force).__
-- Therefore, centripetal (_center-seeking_) acceleration is caused by an unbalanced force which continuously pulls the object towards the center. __Centripetal (_center-seeking_) force__.
-- Net force and acceleration vectors point in the same direction.
+- Newton 2nd Law tells us via $F=ma$ that __an acceleration is caused by an unbalanced force.__
+- Therefore, centripetal (_center-seeking_) acceleration is caused by an unbalanced force which continuously pulls the object towards the center. __Centripetal force__.
+- Net force and acceleration are always in the same direction.
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstudy.com%2Fcimages%2Fmultimages%2F16%2F15347077899_79b06e1a21_o.jpg&f=1&nofb=1)
 
 ---
 
@@ -171,8 +182,8 @@ $$
 \end{aligned}
 $$
 
-- Centripetal force acts inwards towards the center of the circle, while the velocity acts along a tangent to the circle at all times.
-- Therefore, if the centripetal force is removed, the object will move in a straight line tangent to the circle
+- Centripetal force $\rightarrow$ centripetal acceleration $\rightarrow$ change direction of velocity $\rightarrow$ move in a circular path.
+- Therefore, if the centripetal force is removed, the object will move in a straight line tangent to the circle.
 
 ---
 
@@ -235,6 +246,7 @@ $$
 
 ---
 
-### Pātai Waru (Q8): Exam Question 26-28
+### Whakawai / Practice
 
-
+- Homework Booklet Q26
+- Mahi kainga (homework): Q28 due April 4th

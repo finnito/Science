@@ -12,12 +12,6 @@ menu:
         parent: "12PHY"
 ---
 
-## Homework _/ Mahi Kāinga_
-
-Homework is issued on a weekly basis. It should be completed in the back of your exercise book, __not in the homework booklet itself__.
-
-<mark>Tutorials are weekly in A3 on Tuesday and Thursday. Bring your lunch and your questions if you get stuck with the homework!</mark>
-
 {{< slides >}}
 
 ## Learning Outcomes _/ Ngā Whāinga Ako_
