@@ -347,8 +347,7 @@ Centripetal force causes the bucket to accelerate because it acts as a tension f
 
 - Momentum is conserved during collisions between objects and in explosions.
     + $p_{i} = p_{f}$
-- <mark>Conservation of momentum only occurs when __no external forces are present__</mark>.
-    + An external force would change the momentum ($F \Delta t = \Delta p$)!
+- <mark>Conservation of momentum only occurs when __no external forces are present__</mark> because an external force would change the momentum ($F \Delta t = \Delta p$)!
 - For example, gravity or friction either do not apply or have been cancelled by reaction forces.
 - <mark>__Conservation of momentum__ is the only way to solve collision problems</mark>
 - Energy is not usually conserved and therefore cannot be used.
@@ -375,13 +374,14 @@ Centripetal force causes the bucket to accelerate because it acts as a tension f
 
 - Use $1$ and $2$ to indicate object one and two.
 - We will use $i$ and $f$ to indicate initial and final.
+- Sometimes you may see $u$ and $v$ used to differentiate between initial and final velocities.
 
 $$
 \begin{aligned}
     \text{Assuming no external forces (momentum is conserved):}\cr
     p_{i} &= p_{f} \cr
     p_{1i} + p_{2i} &= p_{1f} + p_{2f} \cr
-    m_{1}u_{1} + m_{2}u_{2} &= m_{1}v_{1} + m_{2}v_{2} \cr
+    m_{1}v_{1i} + m_{2}v_{2i} &= m_{1}v_{1f} + m_{2}v_{2f} \cr
 \end{aligned}
 $$
 
