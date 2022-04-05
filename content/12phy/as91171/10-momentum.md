@@ -460,9 +460,9 @@ A moving car collides with a stationary van. The car has mass $950kg$ and the va
 
 ---
 
-#### Whakatika
+#### Pātai Tekau: Whakatika
 
-## 1. What quantity is conserved during the collision? __(A)__
+1. What quantity is conserved during the collision? __(A)__
 
 _Momentum is conserved_
 
