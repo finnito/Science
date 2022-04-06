@@ -2,36 +2,10 @@
 title: Kinetic Energy
 slug: kinetic-energy
 subtitle: 11SCI - Mechanics
-author: Finn LeSueur
-date: 2019
 weight: 8
-theme: finn
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
-# L20: Mahi Tuatahi (2016 Exam)
-
-- Rhiana is riding a horse along New Brighton Beach. __Each__ of the horse's hooves have a surface area of $0.0044m^{2}$ which sink into the sand when the horse stops. The horse exerts a total pressure of $200155Pa$.
-- __Calculate the weight of the horse.__
-    - Equation
-    - Substitute
-    - Solve
-
----
-
-## Te Whakatika
-
-A horse has four hooves, so the total surface area that the horse is exerting pressure through is $A = 0.0044 \times 4 = 0.0176m^{2}$
-
-\begin{aligned}
-    P &= \frac{F}{A} \newline
-    200155 &= \frac{F}{0.0176} \newline
-    200155 \times 0.0176 &= F = 3522.728N
-\end{aligned}
+## Mahi Tuatahi
 
 ---
 
@@ -40,31 +14,28 @@ A horse has four hooves, so the total surface area that the horse is exerting pr
 1. Give the symbols and units for kinetic energy
 2. $E_{k} = \frac{1}{2}mv^{2}$
 
-:::instruction
-Write the date, the learning outcomes and title "Kinetic Energy" in your books.
-:::
 ---
-
-# Kinetic Energy
 
 <iframe width="1206" height="678" src="https://www.youtube.com/embed/PWNs7i4rEWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-## What is Kinetic Energy?
+## Kinetic Energy?
 
 > Kinetic energy is the energy that an object possesses due to its __velocity__!
 
 ---
 
-## Calculating Kinetic Energy
+### Calculating Kinetic Energy
 
 Kinetic energy depends on the __mass__ and __velocity__ of an object.
 
+$$
 \begin{aligned}
-    E_{k} &= \frac{1}{2} \times mass \times \text{velocity squared} \newline
+    E_{k} &= \frac{1}{2} \times mass \times \text{velocity squared} \cr
     E_{k} &= \frac{1}{2} \times m \times v^{2}
 \end{aligned}
+$$
 
 ---
 
@@ -73,43 +44,76 @@ Kinetic energy depends on the __mass__ and __velocity__ of an object.
 - It means $v \times v$
 - This means we can also write the equation like this, if you find it easier:
 
+$$
 \begin{aligned}
-    & E_{k} = \frac{1}{2} \times m \times v \times v
+    E_{k} &= \frac{1}{2} \times m \times v \times v
 \end{aligned}
+$$
 
 ---
 
-### Pātai Tahi
+### Ngā Pātai {.c2}
 
-Mr LeSueur rides his bike to work at $32km/h$ ($8.89ms^{-1}$). Both he and his bike have a combined mass of $80kg$. __Calculate his kinetic energy__.
+1. Mr LeSueur rides his bike to work at $32km/h$ ($8.89ms^{-1}$). Both he and his bike have a combined mass of $78kg$. __Calculate his kinetic energy__.
+2. A dog with mass $22kg$ sprints across a field with a kinetic energy of $1100J$. __Calculate it's velocity.__
+3. A ball is bowled with energy $39.2J$ and velocity $28ms^{-1}$. __Calculate its mass__.
+
+$$
+\begin{aligned}
+    K:& \cr
+    U:& \cr
+    F:& \cr
+    S+S:& 
+\end{aligned}
+$$
 
 ---
 
 #### Whakatika Tahi
 
-We know $m=80kg$ and $v=8.89ms^{-1}$, and we are looking for $E_{k}$.
+Mr LeSueur rides his bike to work at $32km/h$ ($8.89ms^{-1}$). Both he and his bike have a combined mass of $78kg$. __Calculate his kinetic energy__.
 
+$$
 \begin{aligned}
-    E_{k} = \frac{1}{2} \times 80 \times 8.89^{2} \newline
-    E_{k} = 3161.284J
+    m&=78kg, v=8.89ms^{-1}                          && \text{(K)} \cr
+    E_{k} &= ?                                      && \text{(U)} \cr
+    E_{k} &=\frac{1}{2}mv^{2}                       && \text{(F)} \cr
+    E_{k} &= \frac{1}{2} \times 78 \times 8.89^{2}  && \text{(S)} \cr
+          &= 3082.3J                                && \text{(S)} 
 \end{aligned}
+$$
 
 ---
 
-### Pātai Rua
+#### Whakatika Rua
 
-Sophie is skiing down Upper Fascination at Mt Hutt, and is trying to go really fast. Her combined mass is $60kg$ and she is moving at $60km/h$ ($16.67ms^{-1}$). __Calculate her kinetic energy__.
+A dog with mass $22kg$ sprints across a field with a kinetic energy of $1100J$. __Calculate it's velocity.__
+
+$$
+\begin{aligned}
+    m&=22kg, E_{k}=1100J                                && \text{(K)} \cr
+    v &= ?                                              && \text{(U)} \cr
+    E_{k} &=\frac{1}{2}mv^{2}                           && \text{(F)} \cr
+    1100 &= \frac{1}{2} \times 22 \times v^{2}          && \text{(S)} \cr
+    \sqrt{\frac{1100 \times 2}{22}} &= v = 10ms^{-1}    && \text{(S)} 
+\end{aligned}
+$$
 
 ---
 
-#### Whakatika Tua
+#### Whakatika Toru
 
-We know $m=60kg$ and $v=16.67ms^{-1}$, and we are looking for $E_{k}$.
+A ball is bowled with energy $39.2J$ and velocity $28ms^{-1}$. __Calculate its mass__.
 
+$$
 \begin{aligned}
-    E_{k} = \frac{1}{2} \times 60 \times 16.67^{2} \newline
-    E_{k} = 8336.667J
+    E_{k}&=39.2J, v=28ms^{-2}                        && \text{(K)} \cr
+    m &= ?                                          && \text{(U)} \cr
+    E_{k} &=\frac{1}{2}mv^{2}                       && \text{(F)} \cr
+    39.2 &= \frac{1}{2} \times m \times 28^{2}      && \text{(S)} \cr
+    \sqrt{\frac{39.2 \times 2}{784}} &= m = 0.1kg   && \text{(S)} 
 \end{aligned}
+$$
 
 ---
 
@@ -119,7 +123,6 @@ Open the whakamātau document on Google Classroom!
 
 ---
 
-## Extra Work
+## Whakawai
 
-- __Homework:__ Education Perfect due Monday 29th 11:25am
-- sciPAD Page 46
+- sciPAD Pages 58, 60-61
