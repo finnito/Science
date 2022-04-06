@@ -2,177 +2,107 @@
 title: Gravitational Potential Energy
 slug: gravitational-potential-energy
 subtitle: 11SCI - Mechanics
-author: Finn LeSueur
-date: 2020
-theme: finn
 weight: 7
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
-## Mahi Tuatahi
-
-1. Write the date and "__Gravitational Potential Energy__" in your books
-2. Complete the crossword on page 47 of your sciPAD!
-
----
-
-<iframe width="1137" height="640" src="https://www.youtube.com/embed/E43-CfukEgs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="950" height="534" src="https://www.youtube.com/embed/rNS-W7k0jts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 ## Ngā Whāinga Ako
 
 1. Give the symbols and units for potential energy.
-2. Use the equation $E_{p} = mgh$
-
-:::instruction
-Write these in your book
-:::
+2. Use the equation $E_{p} = m\times g \times \Delta h$
 
 ---
 
 ## Gravitational Potential Energy / _Pūngao Tō Ā-Papa_
 
-> The potential an object has to transfer energy (do work), due to being at a particular position in a gravitational field.
+> The potential an object has due to being at a particular position in a gravitational field.
 
 __AKA__: The potential a mass has to fall due to being lifted up!
 
 ---
 
-- Energy is __always__ measured in Joules
+- All types of energy are measured in __Joules__
 - Joules are given the shorthand unit: __J__
 
+$$
 \begin{aligned}
-    E_{p} &= mass \times gravity \times height \newline
-    E_{p} &= m \times g \times h
+    E_{p} &= mass \times gravity \times height \cr
+    E_{p} &= m \times g \times \Delta h
 \end{aligned}
+$$
 
 ---
 
-## Pātai Tahi
+## Ngā Pātai {.c2}
 
-__Calculate the gravitational potential energy__ of a ball with mass, $0.5kg$ kicked onto a roof which is $3m$ high.
+1. __Calculate the gravitational potential energy__ of a ball with mass, $0.5kg$ kicked onto a roof which is $3m$ high.
+2. __Calculate the height__ of a $100kg$ barbell that gained $1800J$ of gravitational potential energy.
+3. __Calculate the mass__ of a cat that climbed $5m$ into a tree and gained $400J$ of gravitational potential energy.
 
-- Formula
-- Substitution
-- Answer
+$$
+\begin{aligned}
+    K:& \cr
+    U:& \cr
+    F:& \cr
+    S+S:& 
+\end{aligned}
+$$
 
 ---
 
 ## Whakatika Tahi
 
+__Calculate the gravitational potential energy__ of a ball with mass, $0.5kg$ kicked onto a roof which is $3m$ high.
+
+$$
 \begin{aligned}
-    E_{p} &= m \times g \times h \newline
-    &= 0.5 \times 10 \times 3 \newline
-    &= 15J
+    m&=0.5kg, \Delta h = 3m, g=10ms^{-2}    && \text{(K)} \cr
+    E_{p} &= ?                              && \text{(U)}\cr
+    E_{p} &= mg\Delta h                     && \text{(F)}\cr
+    E_{p} &= 0.5 \times 10 \times 3         && \text{(S)}\cr
+    E_{p} &= 15J                            && \text{(S)}
 \end{aligned}
-
----
-
-## Pātai Rua
-
-__Calculate the gravitational potential energy__ of a weightlifter who lifts a $100kg$ barbell from the floor to a height of $2m$.
-
-- Formula
-- Substitution
-- Answer
+$$
 
 ---
 
 ## Whakatika Rua
 
+__Calculate the height__ of a $100kg$ barbell that gained $1800J$ of gravitational potential energy.
+
+$$
 \begin{aligned}
-    E_{p} &= m \times g \times h \newline
-    &= 100 \times 10 \times 2 \newline
-    &= 2000J
+    m&=100kg, E_{p}=1800J                   && \text{(K)} \cr
+    \Delta h&= ?                            && \text{(U)} \cr
+    E_{p}&=mg\Delta h                       && \text{(F)} \cr
+    1800 &= 100 \times 10 \times \Delta h   && \text{(S)} \cr
+    \Delta h &= \frac{1800}{1000} = 1.8     && \text{(S)} 
 \end{aligned}
-
----
-
-## Pātai Toru
-
-__Calculate the gravitational potential energy__ of a cat with mass $4kg$ who has climbed a tree to a height of $5m$.
-
-- Formula
-- Substitution
-- Answer
+$$
 
 ---
 
 ## Whakatika Toru
 
+__Calculate the mass__ of a cat that climbed $5m$ into a tree and gained $400J$ of gravitational potential energy.
+
+$$
 \begin{aligned}
-    E_{p} &= m \times g \times h \newline
-    &= 4 \times 10 \times 5 \newline
-    &= 200J
+    \Delta h&=5m, E_{p} = 400J              && \text{(K)} \cr
+    m &= ?                                  && \text{(U)}\cr
+    E_{p} &= mg\Delta h                     && \text{(F)}\cr
+    400 &= m \times 10 \times 5             && \text{(S)}\cr
+    m &= \frac{400}{50} = 8kg               && \text{(S)}
 \end{aligned}
+$$
 
 ---
 
-## Pātai Wha
+### Whakawai / Practice
 
-__Calculate the gravitational potential energy__ of a bird with mass $300g$ that flies up to a power line at $4m$ higher than its current position.
-
-- Formula
-- Substitution
-- Answer
-
----
-
-## Whakatika Wha
-
-\begin{aligned}
-    E_{p} &= m \times g \times h \newline
-    &= 0.3 \times 10 \times 4 \newline
-    &= 12J
-\end{aligned}
-
----
-
-## Pātai Rimu
-
-__Calculate the height__ of Mr Le Sueur, mass $71kg$, who ran up a hill and gained $142,000J$ of energy!
-
-- Formula
-- Substitution
-- Answer
-
----
-
-## Whakatika Rimu
-
-\begin{aligned}
-    E_{p} &= m \times g \times h \newline
-    142,000 &= 71 \times 10 \times h \newline
-    142,000 &= 710 \times h \newline
-    \frac{142,000}{710} &= h \newline
-    200m = h
-\end{aligned}
-
----
-
-## Pātai Ono
-
-__Calculate the mass__ a dog who climbed a $2.5m$ obstacle at the dog park and gained $625J$ of energy.
-
-- Formula
-- Substitution
-- Answer
-
----
-
-## Whakatika Ono
-
-\begin{aligned}
-    E_{p} &= m \times g \times h \newline
-    625 &= m \times 10 \times 2.5 \newline
-    625 &= m \times 25 \newline
-    \frac{625}{25} &= m \newline
-    25kg = m
-\end{aligned}
+- sciPad pg. 57
+- Homework Booklet Q40a
+- Fast Finishers: sciPad pg. 47 crossword 
