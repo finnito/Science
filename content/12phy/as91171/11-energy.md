@@ -166,6 +166,10 @@ $$
 
 ---
 
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.springsfast.com%2Fwp-content%2Fuploads%2F2020%2F07%2FHookes-Law.jpg&f=1&nofb=1)
+
+---
+
 ## Elastic Potential Energy
 
 > A spring displaced from equilibrium will store some potential energy (to return to equilibrium).
@@ -312,15 +316,14 @@ $$
 ### Whakawai/Practise
 
 - Homework Booklet: 47-48
-- Textbook: 
 
 ---
 
-## Akoranga 39 Mahi Tuatahi
+## Mahi Tuatahi
 
 1. Give the equations for kinetic, gravitational potential and elastic potential energy.
 2. Give the name and formula for the law that you can use to relate __force, spring constant and displacement__.
-3. Lachie is going to football in the weekend. The van he rides in with some of his teammates has suspension on each wheel. Lachie and his teammates weight $357kg$ in total and their weight is spread evenly across all four springs. The springs have a spring constant of $2.26 \times 10^{4}Nm^{-1}$. Calculate how much the car __sinks down__ when they get into the car. __(E)__
+3. Lachie goes to a football game in a van with some of his teammates. It has suspension on each wheel. Lachie and his teammates weight $357kg$ in total and their weight is spread evenly across all four springs. The springs have a spring constant of $2.26 \times 10^{4}Nm^{-1}$. Calculate how much the car __sinks down__ when they get into the car. __(E)__
 4. How much energy is stored in each spring if car sinks $0.12m$? __(A)__
 
 ---
@@ -357,6 +360,8 @@ $$
     & F = 874.65N
 \end{aligned}
 $$
+
+---
 
 Step 2: Displacement
 
@@ -396,8 +401,6 @@ $$
 
 > The amount of energy transferred/transformed (Joules, J).
 
-One joule of work is done when a force of one newton moves an object one meter.
-
 $$
 \begin{aligned}
     & W = Fd \cr
@@ -414,7 +417,7 @@ $$
 \begin{aligned}
     W &= F_{w}d \cr
     W &= (m \times g) d \cr
-    W &= mgh!
+    W &= mgh
 \end{aligned}
 $$
 
@@ -485,4 +488,3 @@ $$
 ### Whakawai/Practise
 
 - Homework Booklet: 65, 66b, 69, 68
-- Textbook: 
