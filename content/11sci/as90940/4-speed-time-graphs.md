@@ -70,6 +70,10 @@ $$
 
 ---
 
+![](../assets/speed-time-combined-labelled.png)
+
+---
+
 ## Questions
 
 sciPAD Pages 18-21
