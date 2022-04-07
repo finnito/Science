@@ -16,7 +16,7 @@ weight: 8
 
 ---
 
-<iframe width="1206" height="678" src="https://www.youtube.com/embed/PWNs7i4rEWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="950" height="534" src="https://www.youtube.com/embed/WrFCHt21kVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -55,8 +55,8 @@ $$
 ### Ngā Pātai {.c2}
 
 1. Mr LeSueur rides his bike to work at $32km/h$ ($8.89ms^{-1}$). Both he and his bike have a combined mass of $78kg$. __Calculate his kinetic energy__.
-2. A dog with mass $22kg$ sprints across a field with a kinetic energy of $1100J$. __Calculate it's velocity.__
-3. A ball is bowled with energy $39.2J$ and velocity $28ms^{-1}$. __Calculate its mass__.
+2. A ball is bowled with energy $39.2J$ and velocity $28ms^{-1}$. __Calculate its mass__.
+3. A dog with mass $22kg$ sprints across a field with a kinetic energy of $1100J$. __Calculate it's velocity.__
 
 $$
 \begin{aligned}
@@ -87,22 +87,6 @@ $$
 
 #### Whakatika Rua
 
-A dog with mass $22kg$ sprints across a field with a kinetic energy of $1100J$. __Calculate it's velocity.__
-
-$$
-\begin{aligned}
-    m&=22kg, E_{k}=1100J                                && \text{(K)} \cr
-    v &= ?                                              && \text{(U)} \cr
-    E_{k} &=\frac{1}{2}mv^{2}                           && \text{(F)} \cr
-    1100 &= \frac{1}{2} \times 22 \times v^{2}          && \text{(S)} \cr
-    \sqrt{\frac{1100 \times 2}{22}} &= v = 10ms^{-1}    && \text{(S)} 
-\end{aligned}
-$$
-
----
-
-#### Whakatika Toru
-
 A ball is bowled with energy $39.2J$ and velocity $28ms^{-1}$. __Calculate its mass__.
 
 $$
@@ -117,12 +101,42 @@ $$
 
 ---
 
+#### Whakatika Toru
+
+A dog with mass $22kg$ sprints across a field with a kinetic energy of $1100J$. __Calculate it's velocity.__
+
+$$
+\begin{aligned}
+    m&=22kg, E_{k}=1100J                                && \text{(K)} \cr
+    v &= ?                                              && \text{(U)} \cr
+    E_{k} &=\frac{1}{2}mv^{2}                           && \text{(F)} \cr
+    1100 &= \frac{1}{2} \times 22 \times v^{2}          && \text{(S)} \cr
+    \sqrt{\frac{1100 \times 2}{22}} &= v = 10ms^{-1}    && \text{(S)} 
+\end{aligned}
+$$
+
+---
+
+Alternatively, you can rearrange the formula first, and then substitute in the numbers.
+
+$$
+\begin{aligned}
+    m&=22kg, E_{k}=1100J, v=? \cr
+    E_{k} &= \frac{1}{2}mv^{2} \cr
+    2E_{k} &= mv^{2} \cr
+    \frac{2E_{k}}{m} &= v^{2} \cr
+    \sqrt{\frac{2E_{k}}{m}} &= v = \sqrt{\frac{2 \times 1100}{22}} = 10ms^{-1}
+\end{aligned}
+$$
+
+---
+
 ## Whakamātau: Finding Your Kinetic Energy
 
 Open the whakamātau document on Google Classroom!
 
 ---
 
-## Whakawai
+## Whakawai / Practice
 
 - sciPAD Pages 58, 60-61
