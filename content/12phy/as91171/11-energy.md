@@ -5,51 +5,6 @@ slug: energy
 weight: 11
 ---
 
----
-
-## Akoranga 37 Mahi Tuatahi
-
-A ball is thrown upwards with an initial speed of $161.3km/hr$ ($44.8ms^{-1}$).
-
-1. How long does it take for the ball to reach its highest point?
-2. How high does the ball rise?
-
-__Remember:__ Knowns, Unknowns, Formula, Substitute, Solve
-
----
-
-### Whakatika 1
-
-__How long does it take for the ball to reach its highest point?__<br>Think in the $y-direction$!
-
-$$
-\begin{aligned}
-    & v_{i} = 44.8ms^{-1}, v_{f} = 0ms^{-1}, a = -9.8ms^{-2} && \text{(K)}  \cr
-    & t = ? && \text{(U)} \cr
-    & v_{f} = v_{i} + at && \text{(F)} \cr
-    & 0 = 44.8 + (-9.8)t && \text{(S+S)} \cr
-    & \frac{-44.8}{-9.8} = t = 4.57s
-\end{aligned}
-$$
-
----
-
-### Whakatika 2
-
-__How high does the ball rise?__<br>Think in the $y-direction$!
-
-$$
-\begin{aligned}
-    & v_{i} = 44.8ms^{-1}, v_{f} = 0ms^{-1}, a = -9.8ms^{-2} && \text{(K)}  \cr
-    & d = ? && \text{(U)} \cr
-    & v_{f}^{2} = v_{i}^{2} + 2ad && \text{(F)} \cr
-    & 0^{2} = 44.8^{2} + 2(-9.8)d && \text{(S+S)} \cr
-    & \frac{-2007.04}{2\times-9.8} = d = 102.4m
-\end{aligned}
-$$
-
----
-
 ## Ngā Whāinga Ako
 
 1. Be able to calculate gravitational potential energy ($E_{p} = mgh$)
@@ -66,6 +21,8 @@ $$
 
 - __Pātai__: What is energy measured in?
 - __Whakatika__: Joules (J)
+
+> Work is the amount of energy trasferred or transformed (J).
 
 ---
 
@@ -88,7 +45,7 @@ $$
 
 > Energy can neither be created nor destroyed, it can only be __transformed__ or __transferred__.
 
-<mark>This tells us that: __the total energy in the system is always conserved__.</mark> The system might be a collision/explosion, a beaker, Earth or the whole Universe!
+<mark>This tells us that: __the total energy in a system is always conserved__.</mark> The system might be a collision/explosion, a beaker, Earth or the whole Universe!
 
 ---
 
@@ -104,11 +61,7 @@ $$
 
 ---
 
-### What Energy Do We Care About?
-
-- Kinetic
-- Gravitational potential
-- Elastic potential
+<iframe width="1206" height="678" src="https://www.youtube.com/embed/PWNs7i4rEWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -143,31 +96,32 @@ $$
 
 ## Combining Gravitational and Kinetic Energy
 
-When an object falls from a height, its __gravitational potential energy__ is transformed into __kinetic energy__, but the total energy in the system is __constant__.
+When an object falls from a height, its __gravitational potential energy__ is transformed into __kinetic energy__, but, the total energy in the system is __constant__.
 
-In the real world some energy is lost due to friction as heat, light or sound. In the ideal world 100% of the energy is transformed.
+_In the real world some energy is lost due to friction as heat, light or sound. In the ideal world 100% of the energy is transformed._
 
-Therefore when comparing an object at the top of its fall, to the bottom of its fall we can say:
+In an __ideal__ world we say:
 
 $$
 \begin{aligned}
-    & E_{total} = E_{k} + E_{p} \cr
-    & E_{k} = E_{p} && \text{they are equal} \cr
-    & \frac{1}{2}mv^{2} = m g \Delta h && \text{substitute in the equations} \cr
+    E_{total} &= E_{k} + E_{p} \cr
+    E_{k} &= E_{p} && \text{they are equal} \cr
+    \frac{1}{2}mv^{2} &= m g \Delta h && \text{substitute in the equations} \cr
 \end{aligned}
 $$
 
 ---
 
-### Pātai Tahi (Q1): The Sandbag
+### Pātai: The Sandbag
 
 A bullet of mass $30g$ is fired with a speed of $400ms^{-1}$ into a sandbag. The sandbag has a mass of $10kg$ and is suspended by a rope so that it can swing.
 
-Calculate the maximum height that the sandbag rises as it recoils with the bullet lodged inside.
+1. Find the kinetic energy of the bullet
+2. Find the height that the sandbag + bullet could rise
 
 ---
 
-#### Whakatika Tahi
+#### Te Whakatika
 
 __Step 1.__ Find kinetic energy of the bullet
 
@@ -188,7 +142,7 @@ $$
     E_{total} &= E_{k} + E_{p} \cr
     E_{k} &= E_{p} && \text{they are equal} \cr
     E_{k} &= m g \Delta h \cr
-    2400 &= 10.03 \times 9.8 \times h && \text{substitute values} \cr
+    2400 &= 10.03 \times 9.8 \times \Delta h && \text{substitute values} \cr
     2400 &= 98.294h \cr
     \Delta h &= \frac{2400}{98.294} \cr
     \Delta h &= 24.41m
@@ -199,28 +153,7 @@ $$
 
 ### Whakawai/Practise
 
-- Homework Booklet: Q70, Q66a, Q67a
-- Textbook: 
-
----
-
-## Akoranga 38 Mahi Tuatahi {.c2}
-
-![](../assets/hw-q30-a.png)
-
-- What force do we know is __not__ acting due to the cars movement?<br><br>
-- Therefore, what three forces __are__ acting?<br><br>
-- Draw a force diagram illustrating these forces and their relative magnitude. Ensure you label them!
-
----
-
-### Whakatika {.c2}
-
-![](../assets/hw-q30-a-answers.png)
-
-- What force do we know is __not__ acting due to the cars movement?<br>_Thrust, because it is not accelerating._<br><br>
-- Therefore, what three forces __are__ acting?<br>_Weight, friction and support._<br><br>
-- Draw a force diagram illustrating these forces and their relative magnitude. Ensure you label them!
+- Homework Booklet: Q67a, Q70
 
 ---
 
@@ -247,9 +180,7 @@ $$
 
 <!-- TODO: Add gif of spring extension/compression -->
 
-- The spring constant is a measure of the stiffness of the spring.
-- Low constant $\rightarrow$ easy to displace
-- High constant $\rightarrow$ difficult to displace
+The spring constant (k) is a measure of the stiffness of the spring.
 
 ---
 
@@ -260,12 +191,12 @@ We can relate the displacement of a spring to its spring constant and the force 
 $$
 \begin{aligned}
     F &= -kx && \text{Force exerted by spring} \cr
-    F &= kx && \text{Force creating the displacement} \cr
 \end{aligned}
 $$
 
 <!-- TODO: Make diagram illustrating these forces -->
 
+- The $-$ indicates that the restoring force and the displacement are in opposite directions.
 - $F$: the force displacing the spring (Newtons)
 - $x$: the displacement of the spring (meters)
 - $k$: the spring constant ($Nm^{-1}$)
@@ -342,7 +273,9 @@ $$
     & x = \frac{0.9 \times 9.8}{15.31} \cr
     & x = 0.576m
 \end{aligned}
+$$
 
+$$
 \begin{aligned}
     & E_{p} = \frac{1}{2}kx^{2} \cr
     & E_{p} = \frac{1}{2} \times 15.31 \times 0.576^{2} \cr
