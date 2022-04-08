@@ -56,11 +56,11 @@ In each state of matter the particles are arranged differently because they have
 
 ---
 
-### Kinetic Model
+### In Summary!
 
-- A high energy means high speed $\rightarrow$ gas
-- A low energy means low speed $\rightarrow$ liquid
-- Very low energy means no speed, vibration only $\rightarrow$ solid
+- A high energy $\rightarrow$ high speed $\rightarrow$ gas
+- A low energy $\rightarrow$ low speed $\rightarrow$ liquid
+- Very low energy $\rightarrow$ no speed, vibration only $\rightarrow$ solid
 
 ---
 
@@ -80,6 +80,10 @@ In each state of matter the particles are arranged differently because they have
 ---
 
 ![[Source](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkidspressmagazine.com%2Fwp-content%2Fuploads%2F2014%2F05%2Fdreamstimelarge_347721552.jpg&f=1&nofb=1)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkidspressmagazine.com%2Fwp-content%2Fuploads%2F2014%2F05%2Fdreamstimelarge_347721552.jpg&f=1&nofb=1)
+
+---
+
+<iframe width="950" height="534" src="https://www.youtube.com/embed/AqhnZz17amw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
