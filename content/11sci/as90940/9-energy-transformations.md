@@ -2,16 +2,7 @@
 title: Energy Transformations
 slug: energy-transformations
 subtitle: 11SCI - Mechanics
-author: Finn LeSueur
-date: 2020
 weight: 9
-theme: finn
-katex: true
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
 ## Akoranga 21: Mahi Tuatahi:
@@ -24,8 +15,7 @@ header-includes:
 ## Ngā Whāinga Ako
 
 1. Identify energy changes.
-2. Use $E_{k} = \frac{1}{2}mv^{2}$
-3. Explain the conservation of mechanical energy in free fall situations (e.g. ball sports)
+2. Explain the conservation of mechanical energy in free fall situations (e.g. ball sports)
 
 ---
 
@@ -58,10 +48,12 @@ header-includes:
 
 Written as an equation, this can mean:
 
+$$
 \begin{aligned}
-    E_{k} &= E_{p} \newline
-    \frac{1}{2}mv^{2} &= mgh
+    E_{k} &= E_{p} \cr
+    \frac{1}{2} \times m \times v^{2} &= m \times g \times \Delta h
 \end{aligned}
+$$
 
 In fact, we can make any two energy equations equal to each other! E.g. Spring potential energy and kinetic.
 
@@ -72,36 +64,26 @@ In fact, we can make any two energy equations equal to each other! E.g. Spring p
 
 ---
 
+<iframe src="https://phet.colorado.edu/sims/html/energy-skate-park/latest/energy-skate-park_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
+---
+
+<iframe width="1206" height="678" src="https://www.youtube.com/embed/PWNs7i4rEWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ### Pātai
 
-Mr Le Sueur has mass 71kg and has climbed a tree 4.5m tall to jump into a lake. How fast will he be traveling when he hits the water?
+Mr Le Sueur has mass 71kg and has climbed a tree 4.5m tall to jump into a lake.
 
-- Starts with $E_{p}$, so calculate it
-- Then transformed all to $E_{k}$, so put known values into $E_{k}=\frac{1}{2}mv^{2}$
-
----
-
-#### Whakatika
-
-\begin{aligned}
-    E_{p} &= mgh = 71 \times 10 \times 4.5 = 3195J \newline
-    E_{k} &= E_{p} \newline
-    E_{k} &= \frac{1}{2}mv^{2} \newline
-    3195 &= \frac{1}{2} \times 71 \times v^{2} \newline
-    \frac{3195 \times 2}{71} = 90 &= v^{2} \newline
-    \sqrt{90} = 9.49ms^{-1} &= v
-\end{aligned}
+1. Describe the type of energy at the top, the middle and bottom of the fall.
+2. Calculate the potential energy at the top.
+3. Calculate his maximum speed. At what position does he have this speed?
+4. Calculate his speed half way down the fall.
 
 ---
 
-## Tūhura: Marble Drop
-
-1. Come over to the demo bench to see the setup
-2. Open Google Classroom and do the tūhura!
-
----
-
-# Akoranga 22 Mahi Tuatahi
+### Whakawai / Practice
 
 Read page 55 and 56 of your sciPAD to remind yourself of some types of energy and how it is transformed between different types.
 
@@ -117,49 +99,16 @@ It means that 100% of gravitational potential energy is converted into kinetic e
 
 ---
 
-# Akoranga 23 Mahi Tuatahi:
+## Tūhura: Marble Drop
 
-1. Write the date in your books
-2. Open the Quizlet on Google Classroom and complete "Match" three times
-3. Get ready to play the Quizlet Live
-
----
-
-
-## Ngā Whāinga Ako
-
-1. Identify energy changes.
-2. Use $E_{k} = \frac{1}{2}mv^{2}$
-3. Explain the conservation of mechanical energy in free fall situations (e.g. ball sports)
-
-<p class="instruction">Write ngā whāinga ako in your books</p>
+1. Come over to the demo bench to see the setup
+2. Open Google Classroom and do the tūhura!
 
 ---
 
-## Pātai: Do you recall the law of conservation of energy?
+### Whakawai / Practice
 
----
-
-## Conservation of Energy
-
-> Energy cannot be created or destroyed, only transformed
-
-We investigated this last term by calculating the __gravitational potential energy__ of a marble at the top of a tube and predicting how fast it would be moving at the bottom of the tube if __all__ of the $E_{p}$ was transformed into kinetic energy $E_{k}$.
-
----
-
-> Energy cannot be created or destroyed, only transformed
-
-- This means that we can say $E_{k} = E_{p}$
-- In words, all kinetic energy is transformed into potential energy, or vice versa.
-
----
-
-### Pātai: Mahi Kāinga Booklet Q40
-
-- Open mahi kāinga booklet 40
-- 40a is an achieved level question
-- 40b is an excellence level question
-    - start by identifying the change in energy
-    - then use it to calculate the speed if all of that energy is transformed into kinetic energy
+- sciPad 62-63
+- Mahi kāinga booklet Q40
+- Mahi kāinga booklet Q41
  

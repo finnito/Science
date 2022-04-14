@@ -2,16 +2,7 @@
 title: Work & Power
 slug: work
 subtitle: 11SCI - Mechanics
-author: Finn LeSueur
-date: 2020
 weight: 10
-theme: finn
-katex: true
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
 ---
 
 # Akoranga 24 Mahi Tuatahi
