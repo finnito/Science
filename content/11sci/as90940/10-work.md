@@ -5,7 +5,7 @@ subtitle: 11SCI - Mechanics
 weight: 10
 ---
 
-# Akoranga 24 Mahi Tuatahi
+## Mahi Tuatahi
 
 1. Write the date in your books
 2. Discuss with the person next to you:
@@ -20,19 +20,17 @@ weight: 10
 2. Name the unit of work and give its symbol.
 3. Use $W = Fd$.
 
-<p class="instruction">Write ngā whāinga ako in your book</p>
-
 ---
 
 ## Work
 
-> The amount of energy transferred/transformed.
+> The amount of energy transferred/transformed (gained/lost).
 
 E.g. When you lift your backpack off the ground you are transferring some __chemical potential energy__ in your muscles into __gravitational potential energy__ in the backpack. You are doing __work__ on your backpack.
 
 ---
 
-Work has the formula
+Work has the formula:
 
 $$
 \begin{aligned}
@@ -41,29 +39,49 @@ $$
 \end{aligned}
 $$
 
+and is measured in Joules (J) because it is defined as __the amount of energy__ transferred/transformed.
+
+
 ---
 
-### Pātai Tahi: What is work measured in?
+### Pātai
+
+Rearrange the formula $W=F \times d$ to:
+
+1. Make $F$ the subject
+2. Make $d$ the subject
+
+---
+
+#### Ngā Whakatika
+
+$$
+\begin{aligned}
+    W &= F \times d \newline
+    F &= \frac{W}{d} \newline
+    d &= \frac{W}{F}
+\end{aligned}
+$$
+
+---
+
+### Pātai {.c2}
+
+1. Sam does a deadlift and raises $20kg$ by $1m$. Calculate the work done.
+2. Sarah hikes up Avalanche Peak. They have a mass of $55kg$, they start at $733m$ and do $605,000J$ to reach the top. How high did they climb?.
+
+$$
+\begin{aligned}
+    K:& \cr
+    U:& \cr
+    F:& \cr
+    S+S:& 
+\end{aligned}
+$$
 
 ---
 
 #### Whakatika Tahi
-
-Work is measured in Joules (J) because it is defined as __the amount of energy transferred/transformed__.
-
----
-
-### Pātai Rua
-
-Sam has decided to take up weight lifting and starts by dead-lifting a $20kg$ mass from the ground to a height of $1m$. Calculate the work done for Sam to lift the weight.
-
-- Formula
-- Substitution
-- Answer
-
----
-
-#### Whakatika Rua
 
 $$
 \begin{aligned}
@@ -75,37 +93,33 @@ $$
 
 ---
 
-### Pātai Toru
-
-Jack has gone hiking up Avalanche Peak. He has a mass of $55kg$ and reaches a height of $1833m$, starting from $733m$. How much work has Jack done to reach the top?
-
-- Formula
-- Substitution
-- Answer
-
----
-
-#### Whakatika Toru
+#### Whakatika Rua
 
 $$
 \begin{aligned}
     W &= F \times d \newline
     W &= (m \times g) \times d \newline
-    W &= (55 \times 10) \times (1833-733) = 605,000J
+    605,000 &= (55 \times 10) \times d \newline
+    \frac{605000}{55 \times 10} = d = 1100m
 \end{aligned}
 $$
 
 ---
 
-### Pātai Whā
+### Pātai Whā {.c2}
 
 1. Get your mahi kāinga booklet and open it to Q31.
 2. Complete Q31
 3. What do you notice about the _distance_ value used? Is it horizontal or vertical? Why do you think that is?
 
-- Formula
-- Substitution
-- Answer
+$$
+\begin{aligned}
+    K:& \cr
+    U:& \cr
+    F:& \cr
+    S+S:& 
+\end{aligned}
+$$
 
 ---
 
@@ -120,29 +134,6 @@ $$
 $$
 
 We use the vertical distance, not the horizontal distance. Energy is not transferred/transformed when moving horizontally!
-
----
-
-### Homework / _Mahi Kāinga_
-
-- Due Monday, October 19th
-- Mahi Kāinga Booklet Q30, Q35
-
----
-
-# Akoranga 25 Mahi Tuatahi {.c2}
-
-Recall that __work is the amount of energy transferred/transformed__. Two skiers ride the 6-chair. One descends to base via Jan's Face and the other via Fascination/Broadway. Describe the change in their energies and how they are similar/different.
-
-![[Source](https://www.snow-forecast.com/resorts/Mount-Hutt/pistemap)](https://www.snow-forecast.com/pistemaps/Mount-Hutt_pistemap.jpg?1601557032)
-
----
-
-## Te Whāinga Ako
-
-1. Use $W = Fd$ and $Ep = mgh$ to determine amounts of energy transfer.
-
-<p class="instruction">Write te whāinga ako in your book</p>
 
 ---
 
