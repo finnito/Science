@@ -11,6 +11,7 @@ weight: 10
 2. Discuss with the person next to you:
     1. What does the law of conservation of energy state?
     2. What unit is energy measured in?
+3. Write your joint conclusion in your books!
 
 ---
 
@@ -68,7 +69,7 @@ $$
 ### Pātai {.c2}
 
 1. Sam does a deadlift and raises $20kg$ by $1m$. Calculate the work done.
-2. Sarah hikes up Avalanche Peak. They have a mass of $55kg$, they start at $733m$ and do $605,000J$ to reach the top. How high did they climb?.
+2. Sarah hikes up Avalanche Peak. They have a mass of $55kg$, they start at $733m$ and do $605,000J$ of work to reach the top. How high did they climb?.
 
 $$
 \begin{aligned}
@@ -100,16 +101,38 @@ $$
     W &= F \times d \newline
     W &= (m \times g) \times d \newline
     605,000 &= (55 \times 10) \times d \newline
-    \frac{605000}{55 \times 10} = d = 1100m
+    \frac{605000}{55 \times 10} &= d = 1100m
 \end{aligned}
 $$
 
 ---
 
-### Pātai Whā {.c2}
+### Whakawai / Practice
+
+- sciPad pg. 66 Q1
+- sciPad pg. 67 Q1-4
+
+Complete and mark!
+
+---
+
+### Matapaki/Discussion
+
+Compare and contrast these formula with the person sitting next to you. Write your thoughts in your book.
+
+$$
+\begin{aligned}
+    W &= F \times d \newline
+    E_{p} &= m \times g \times h
+\end{aligned}
+$$
+
+---
+
+### Pātai {.c2}
 
 1. Get your mahi kāinga booklet and open it to Q31.
-2. Complete Q31
+2. Complete and mark Q31
 3. What do you notice about the _distance_ value used? Is it horizontal or vertical? Why do you think that is?
 
 $$
@@ -137,20 +160,6 @@ We use the vertical distance, not the horizontal distance. Energy is not transfe
 
 ---
 
-### Matapaki: How are these two formula similar/different?
-
-$$$
-\begin{aligned}
-    W &= F \times d
-\end{aligned}
-
-\begin{aligned}
-    E_{p} &= m \times g \times h
-\end{aligned}
-$$
-
----
-
 ### Whakatika
 
 - Work is __the amount of energy transferred/transformed__
@@ -160,17 +169,28 @@ $$
 
 ---
 
-### Pātai Tahi
+### Tākaro / Game
 
-A rocket is launched with an acceleration of $90ms^{-2}$. It has a mass of $5kg$ and it reaches a height of 2000m. __How much work did the rocket do to get the rocket to this height?__
-
-- Formula
-- Substitution
-- Answer
+Get ready to [Kahoot](https://create.kahoot.it/v2/details/34b75563-b84d-4694-9318-f0012ffdb8e3)!
 
 ---
 
-#### Whakatika Tahi
+### Pātai: Rocket {.c2}
+
+A rocket is launched with an acceleration of $90ms^{-2}$. It has a mass of $5kg$ and it reaches a height of 2000m. __How much work did the rocket do to get the rocket to this height?__
+
+$$
+\begin{aligned}
+    K:& \cr
+    U:& \cr
+    F:& \cr
+    S+S:& 
+\end{aligned}
+$$
+
+---
+
+#### Whakatika
 
 All energy is transformed from chemical potential __to gravitational potential__.
 
@@ -183,17 +203,22 @@ $$
 
 ---
 
-### Pātai Rua
+### Whakawai / Practice
 
-Open your mahi kāinga booklet to Q33 about Ian and Chris on a diving platform.
+Complete Q33 from your homework booklet.
 
-- Formula
-- Substitution
-- Answer
+$$
+\begin{aligned}
+    K:& \cr
+    U:& \cr
+    F:& \cr
+    S+S:& 
+\end{aligned}
+$$
 
 ---
 
-#### Whakatika Rua
+#### Whakatika
 
 a) _How much work does Chris (48 kg) do when he climbs up the stairs to the 2m diving platform?_
 
@@ -216,12 +241,6 @@ $$
     &= 52 \times 10 \times 5 = 2600J
 \end{aligned}
 $$
-
----
-
-# Akoranga 26 Mahi Tuatahi
-
-Get ready to [Kahoot](https://create.kahoot.it/v2/details/34b75563-b84d-4694-9318-f0012ffdb8e3)!
 
 ---
 
