@@ -19,7 +19,8 @@ katex: true
 
 <!-- TODO: Make 2021 unit plan -->
 
-## Unit Plan _/ Mahere Kōwae_ 
+<!--
+## Unit Plan _/ Mahere Kōwae_
 
 |           |                   Akoranga 1                   |                          Akoranga 2                          |                                  Akoranga 3                                 |                         Akoranga 4                         |
 |-----------|------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------|
@@ -31,6 +32,7 @@ katex: true
 | __T2 W6__ | 21. ~~Queens Birthday~~                        | 22.                                                          | 23.                                                                         | 24.                                                        |
 | __T2 W7__ | 25.                                            | 26.                                                          | 27.                                                                         | 28.                                                        |
 | __T2 W8__ | 29. Revision 1                                 | 30. Revision 2                                               | 31. __TEST__                                                                | 32. ~~Teacher Only Day~~                                   |
+-->
 
 <!--
 2020
@@ -49,7 +51,7 @@ katex: true
 -->
 
 <!-- TODO: Make new lesson plan sequence -->
-
+<!-- 
 ### Ngā Mahere Akoranga: _Lesson Plans_
 
 1. #### Statics Intro
@@ -311,6 +313,8 @@ katex: true
 31. #### TEST
 
 32. #### Teacher Only Day
+
+ -->
 
 <!--## AS91173 Ngā Mahere Akoranga
 
