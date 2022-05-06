@@ -216,6 +216,8 @@ $$
 \end{aligned}
 $$
 
+__Extra: Q28__
+
 ---
 
 #### Whakatika
@@ -248,18 +250,15 @@ $$
 
 1. Define __power__.
 2. Name the unit of power and give its symbol.
-3. Calculate the power of a device from given data.
-
-<p class="instruction">Write the date and ngā whāinga ako in your book</p>
+3. Be able to do a variety of power calculations.
 
 ---
 
 ## Power
 
 > The rate at which energy is transferred/transformed.
-
-- A higher power means more energy is transferred each second.
-- A lower power means less energy is transferred each second.
+> 
+> The rate at which work is done.
 
 ---
 
@@ -272,15 +271,23 @@ $$
 \end{aligned}
 $$
 
+Write this formula so that $W$ and $t$ are the subject.
+
 ---
 
-### Pātai Tahi
+### Pātai {.c2}
 
-You go to school but leave the light in your bedroom on all day. The lightbulb uses $1,134,000J$ of energy while you are away at school for 7 hours. Calculate the __power__ of the bulb.
+1. You leave your bedroom light on day. It uses $1,134,000J$ while you are at school for 7 hours. __Calculate the power of the bulb__.
+2. Chris ($48kg$) climbs a $2m$ staircase with a power of $192W$. __Calculate how long it took him to climb the stairs.__
 
-- Formula
-- Substitution
-- Answer
+$$
+\begin{aligned}
+    K:& \cr
+    U:& \cr
+    F:& \cr
+    S+S:& 
+\end{aligned}
+$$
 
 ---
 
@@ -296,45 +303,46 @@ $$
 
 ---
 
-### Pātai Rua
-
-Chris (48 kg) climbs 2m up some stairs to a diving board. He completes the climb in 5s. __What is Chris' power?__ _Hint: find work first, and then power._
-
-- Formula
-- Substitution
-- Answer
-
----
-
-#### Whakatika Rua
+#### Whakatika Rua {.c2}
 
 $$
 \begin{aligned}
     W &= F \times d \newline
-    &= (48 \times 10) \times 2 = 960J
+    W &= m \times g \times h
 \end{aligned}
 $$
 
 $$
 \begin{aligned}
-    P & = \frac{W}{t} \newline
-    &= \frac{960}{5} = 192Js^{-1} = 192\frac{J}{s} = 192W
+    P &= \frac{W}{t} \newline
+    P &= \frac{m \times g \times h}{t} \newline
+    192 &= \frac{48 \times 10 \times 2}{t} \newline
+    t &= \frac{48 \times 10 \times 2}{192} = 5s
 \end{aligned}
 $$
 
 ---
 
-### Pātai Toru
-
-Mahi Kāinga booklet Q36. _Hint: find work first, and then power._
-
-- Formula
-- Substitution
-- Answer
+<iframe width="950" height="534" src="https://www.youtube.com/embed/S4O5voOCqAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-#### Whakatika Toru
+### Whakawai {.c2}
+
+Complete and mark Q36 from your Mahi Kāinga booklet. _Hint: find work first, and then power._
+
+$$
+\begin{aligned}
+    K:& \cr
+    U:& \cr
+    F:& \cr
+    S+S:& 
+\end{aligned}
+$$
+
+---
+
+#### Whakatika
 
 $$
 \begin{aligned}
