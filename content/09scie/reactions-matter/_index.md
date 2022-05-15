@@ -29,7 +29,7 @@ weight: 2
 12. Describe what a solution is and how it is made
 13. Identify appropriate indicators of chemical reactions 
 14. Write word equation for simple reactions showing reactants and products
-15. Carry out test for common laboratory gases, H2, O2, CO2
+15. Carry out test for common laboratory gases, $H_{2}$, $O_{2}$, $CO_{2}$
 
 ## Unit Plan _/Mahere Kōwae_
 
@@ -94,7 +94,7 @@ weight: 2
     - __Task/Ngohe__
         +
 
-5. ####
+5. #### Elements, Compounds and Mixtures
     - __Whakaritenga__
         +
     - __Te Whāinga Ako__
@@ -104,16 +104,12 @@ weight: 2
     - __Task/Ngohe__
         +
 
-6. ####
+6. #### Elements, Compounds and Mixtures
     - __Whakaritenga__
-        +
-    - __Te Whāinga Ako__
-        1.
-    - __Notes__
-        + Slides:
+        + Print [Name the Compounds](https://drive.google.com/drive/folders/1YZ9OeBP7i1aZApHWQS028atZvf_EbgkR)
     - __Task/Ngohe__
-        +
-
+        + Worksheet: [Name the Compounds](https://drive.google.com/drive/folders/1YZ9OeBP7i1aZApHWQS028atZvf_EbgkR)
+        + [Kahoot](https://create.kahoot.it/details/d1cae674-f19a-4eea-b9a2-201a4fbc49e7)
 7. ####
     - __Whakaritenga__
         +
