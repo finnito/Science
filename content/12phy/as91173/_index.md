@@ -13,11 +13,7 @@ menu:
 katex: true
 ---
 
-<!-- TODO: Re-order slides -->
-
 {{< slides >}}
-
-<!-- TODO: Make 2021 unit plan -->
 
 <!--
 ## Unit Plan _/ Mahere Kōwae_
@@ -50,7 +46,6 @@ katex: true
 | T2 W12 | Revision        | __TEST__               |                            | _Hand Back_             |
 -->
 
-<!-- TODO: Make new lesson plan sequence -->
 <!-- 
 ### Ngā Mahere Akoranga: _Lesson Plans_
 
