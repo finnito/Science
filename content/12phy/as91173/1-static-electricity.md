@@ -217,40 +217,6 @@ Worksheet One Q1-4
 
 ---
 
-## Ngā Whāinga Ako
-
-1. Be able to define current
-2. Be able to calculate current using charge and time
-3. Recall the properties of conductors and insulators
-
-<p class="instruction">Write the date and ngā whāinga ako in your book</p>
-
----
-
-## Charge and Current
-
-- Current is movement of energy via electrons
-- Like a river, current is the amount of charge passing a point each second
-- Therefore we can simply give an equation relating the three like this:
-
-$$
-\begin{aligned}
-    current &= \frac{charge}{time} \newline
-    I &= \frac{q}{t} \newline
-    A &= \frac{C}{s}
-\end{aligned}
-$$
-
-Alternative definition of a Coulomb:
-
-> A current of $1A$ will carry $1C$ of charge past a point in $1s$.
-
----
-
-![[Source](https://sound.education/electric-plumbing-analogy-static-electricity/)](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsound.education%2Fwp-content%2Fuploads%2F2015%2F03%2Fwater-analogy.png&f=1&nofb=1)
-
----
-
 ## Conductors
 
 - A conductor is a material through which charge can move freely
@@ -269,7 +235,7 @@ Alternative definition of a Coulomb:
 
 ---
 
-<iframe width="1714" height="818" src="https://www.youtube.com/embed/RPvYjrSWCUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="952" height="536" src="https://www.youtube.com/embed/-n1pSHzdahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

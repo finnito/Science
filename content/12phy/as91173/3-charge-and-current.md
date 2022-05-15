@@ -9,6 +9,31 @@ theme: finn
 
 ---
 
+<!-- 
+
+## Charge and Current
+
+- Current is movement of energy via electrons
+- Like a river, current is the amount of charge passing a point each second
+- Therefore we can simply give an equation relating the three like this:
+
+$$
+\begin{aligned}
+    current &= \frac{charge}{time} \newline
+    I &= \frac{q}{t} \newline
+    A &= \frac{C}{s}
+\end{aligned}
+$$
+
+Alternative definition of a Coulomb:
+
+> A current of $1A$ will carry $1C$ of charge past a point in $1s$.
+
+---
+
+![[Source](https://sound.education/electric-plumbing-analogy-static-electricity/)](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsound.education%2Fwp-content%2Fuploads%2F2015%2F03%2Fwater-analogy.png&f=1&nofb=1)
+ -->
+
 ## Akoranga 11 Mahi Tuatahi
 
 1. What are some common carriers of charge?
