@@ -1,17 +1,8 @@
 ---
 title: Conservation of Energy
 slug: conservation-of-energy
-weight: 2
 subtitle: 9SCIE - Energy for Life
-author: Finn LeSueur
-date: 2020
-theme: finn
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
+weight: 2
 ---
 
 ## Ngā Whāinga Ako
