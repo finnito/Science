@@ -10,7 +10,7 @@ menu:
 
 <!-- NOTE: Improve intestines/villi -->
 
-## Learning Outcomes _/ Ngā Whāinga Ako_ 
+## Learning Outcomes _/ Ngā Whāinga Ako_
 
 1. Identify different forms of energy,
 2. Distinguish between active and potential forms of energy,
@@ -27,7 +27,7 @@ menu:
 
 {{< slides >}}
 
-## Unit Plan _/ Mahere Kōwae_ 
+## Unit Plan _/ Mahere Kōwae_
 
 |        | Akoranga 1                  | Akoranga 2               | Akoranga 3           |
 |:-------|:----------------------------|:-------------------------|:---------------------|
@@ -37,7 +37,7 @@ menu:
 | Week 4 | _Queen's B-Day_             | __Prac:__ Nutrient Tests | Digestion System     |
 | Week 5 | Absorption of Nutrients     | Glucose & Respiration    | __TEST__             |
 
-## Lesson Plans _/ Ngā Mahere Akoranga_ 
+## Lesson Plans _/ Ngā Mahere Akoranga_
 
 1. Identify and describe different forms of energy
     - Go through slides on energy, make notes & answer questions
