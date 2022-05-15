@@ -171,7 +171,7 @@ We use the vertical distance, not the horizontal distance. Energy is not transfe
 
 ### Tākaro / Game
 
-Get ready to [Kahoot](https://create.kahoot.it/v2/details/34b75563-b84d-4694-9318-f0012ffdb8e3)!
+Get ready to [Kahoot](https://create.kahoot.it/details/49ad0496-ebb9-4932-a476-429df7ff42ac)!
 
 ---
 
