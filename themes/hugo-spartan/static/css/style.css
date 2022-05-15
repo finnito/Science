@@ -341,6 +341,10 @@ a:visited {
   color: var(--blue-dark);
 }
 
+.whakatauki {
+  width: 100%;
+}
+
 .whakatauki p {
   background-color: rgba(250, 211, 144, 0.25);
   border-radius: 0.25rem;
