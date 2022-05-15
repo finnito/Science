@@ -66,6 +66,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Whakakite__: Demonstration
 - __Whakamātau__: Experiment
 - __Whakamātau Tika__: Fair Test / Experiment
+- __Whakamātau Whakaaro__:Thought Experiment
 - __Whakamātautau__: Examination
 - __Whakaritenga__: Preparation
 - __Whakapae__: Hypothesis
