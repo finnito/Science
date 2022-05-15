@@ -78,6 +78,7 @@ menu:
     - Some brief notes on fungi
 
 3. #### Fungi
+    - Issue The Hot Zone reading
     - __Whakaritenga__
         + [Print fungi worksheet](https://docs.google.com/document/d/1M2ugGAyu1vVzu3e0ozd4RdcUmgrsRoAeEzODeu0dNsk/edit#)
     - __Te Whāinga Ako__
