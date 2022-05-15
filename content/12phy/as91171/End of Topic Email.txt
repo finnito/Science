@@ -1,0 +1,22 @@
+Kia ora {{First}}!
+
+You have recently completed your Mechanics End of Topic Test for Year 12 Physics. It was a big unit with a lot of learning. Some students in the class will be pleased with their results, others may not be - it is up to you how you feel!
+
+We have gone through the marking schedule and you made a list of topics that you struggled with during the test. For each question that you got incorrect, I want to you attend one tutorial to get some help in writing a better answer! Tutorials are Wednesday & Friday at lunchtime in A3. You can eat food in that lab.
+
+GOAL: By the end of the term, you should be able to show me a test paper with much improved answers.
+
+Here is some data that may correlate to your test result. It may give you some guidance on how to improve your grade for the Electricity and Magnetism unit that we are currently doing.
+
+Mechanics Test Score: {{Score}}/24
+Mechanics Test Grade: {{Grade}}
+Mechanics Homework Completed: {{Homework}}/7
+Term 1 Tutorials Attended: {{Tutorials}}
+
+Don't ever be afraid to seek help or to focus and work hard in class, even if your peers want to chat. Hard work will prevail in the end, so keep it up!
+
+> He iti te mokoroa, nāna i kati te kahikatea
+> The grub may be small, but it cuts through the kahikatea
+
+Kia angitu (be successful),
+Mr Le Sueur
