@@ -1,12 +1,8 @@
 ---
 title: Charge & Current
-subtitle: 12PHYS - Electricity
-author: Finn LeSueur
-date: 2019
-weight: 3
 slug: charge-and-current
-theme: finn
-
+subtitle: 12PHYS - Electricity
+weight: 3
 ---
 
 <!-- 
@@ -69,7 +65,7 @@ Alternative definition of a Coulomb:
 
 ---
 
-<iframe width="1241" height="698" src="https://www.youtube.com/embed/1jhqZg8UBJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="790" height="444" src="https://www.youtube.com/embed/-n1pSHzdahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -99,21 +95,88 @@ Alternative definition of a Coulomb:
 
 ---
 
+$$
 \begin{aligned}
     & I = \frac{q}{t} \newline
     & \text{I = current measured in what?} \newline
     & \text{q = charge measure in what?} \newline
     & \text{t = time measured in what?}
 \end{aligned}
+$$
 
 ---
 
-### Pātai
+### Pātai {.c2}
 
 1. If $10A$ flows through a wire, how much charge passes a point in $5s$?
 2. A total charge of $0.12C$ passes a point in $5s$. What is the current?
- 4. $0.02C$ of charge passed through a resistor in 1 minute. What was the current?
-5. If the current is $0.3A$, how much charge will pass a point in 10 minutes?
+3. $0.02C$ of charge passed through a resistor in 1 minute. What was the current?
+4. If the current is $0.3A$, how much charge will pass a point in 10 minutes?
+
+$$
+\begin{aligned}
+    &  && \text{(K)} \newline
+    &  && \text{(U)} \newline
+    &  && \text{(F)} \newline
+    &  && \text{(S+S)} 
+\end{aligned}
+$$
+
+---
+
+#### Whakatika Tahi
+
+$$
+\begin{aligned}
+    I &= 10A, t=5s      && \text{(K)} \newline
+    q &= ?              && \text{(U)} \newline
+    I &= \frac{q}{t}    && \text{(F)} \newline
+    10 &= \frac{q}{5}   && \text{(S+S)} \newline
+    q &= 10 \times 5 = 50C
+\end{aligned}
+$$
+
+---
+
+#### Whakatika Rua
+
+$$
+\begin{aligned}
+    q &= 0.12C, t=5s    && \text{(K)} \newline
+    I &= ?              && \text{(U)} \newline
+    I &= \frac{q}{t}    && \text{(F)} \newline
+    I &= \frac{0.12}{5} && \text{(S+S)} \newline
+    I &= 0.024A
+\end{aligned}
+$$
+
+---
+
+#### Whakatika Toru
+
+$$
+\begin{aligned}
+    q &= 0.02C, t=60s       && \text{(K)} \newline
+    I &= ?                  && \text{(U)} \newline
+    I &= \frac{q}{t}        && \text{(F)} \newline
+    I &= \frac{0.02}{60}    && \text{(S+S)} \newline
+    I &= 0.00033A
+\end{aligned}
+$$
+
+---
+
+#### Whakatika Whā
+
+$$
+\begin{aligned}
+    I &= 0.3A, t=600s       && \text{(K)} \newline
+    q &= ?                  && \text{(U)} \newline
+    I &= \frac{q}{t}        && \text{(F)} \newline
+    0.3 &= \frac{q}{600}    && \text{(S+S)} \newline
+    q &= 0.3 \times 600 = 180C
+\end{aligned}
+$$
 
 ---
 

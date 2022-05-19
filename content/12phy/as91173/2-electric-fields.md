@@ -347,7 +347,7 @@ __Pātai in your Books:__
 
 ### Task/Ngohe
 
-- Worksheet 1: Q6a-b, Q11a-b,d
+- Worksheet 1: Q6a, 6bb, Q11a, 11b, 11d
 - Textbook: Electric Fields Q7-8
     + <mark>New: pg. 192</mark>
     + Old: pg. 177
@@ -361,8 +361,8 @@ An object with charge $25 \times 10^{-6}C$ is placed in an electric field with s
 1. Define _electric field_
 2. Calculate the force experienced by the object inside the electric field, and indicate direction
 3. Draw a diagram illustrating the situation
-
-Textbook: Electric Fields Q7-8 pg. 192
+4. Worksheet 1: Q6a, 6bb, Q11a, 11b, 11d
+5. Textbook: Electric Fields Q7-8 pg. 192
 
 ---
 
@@ -441,9 +441,11 @@ $$
 
 ### Mahi Tuatahi Continued
 
-An object with charge $-25 \times 10^{-6}C$ is placed in an electric field with strength $3000NC^{-1}$.
+An object with charge $25 \times 10^{-6}C$ is placed in an electric field with strength $3000NC^{-1}$.
 
 3. In the object moves __against__ the field by $2m$, does it gain or lose electric potential energy? And how much?
+
+Textbook page 193 Q9
 
 ---
 
@@ -518,8 +520,8 @@ __(d) Hamish then adds another 6.0 V battery in series AND shortens the wire to 
 ![[Source](https://en.wikipedia.org/wiki/Oil_drop_experiment)](https://upload.wikimedia.org/wikipedia/commons/a/a6/Robert-millikan2.jpg)
 
 - In the early 1900s we did not know what the charge of the electron was
-- Millikan figured that if the force exerted by an electric field was strong enough, it could _balance_ the weight force due to gravity
-- By measuring the field strength needed to balance many different droplets of charged oil, he figured out that the charges were multiples of $1.5924(17)\times10^{−19}C$!
+- Millikan figured that <mark>if the force exerted by an electric field was strong enough, it could _balance_ the weight force due to gravity</mark>
+- <mark>By measuring the field strength needed to balance many different droplets of charged oil, he figured out that the charges were multiples of $1.5924(17)\times10^{−19}C$!</mark>
 
 ---
 
@@ -653,3 +655,19 @@ Excellence: Explain that the electrical force must be upwards to balance the dow
 ## Task/Ngohe
 
 Working independently, complete Mahi Kāinga/Homework Q6
+
+---
+
+## Last Period of Fields
+
+This is your opportunity to practice, get stuck and get help!
+
+$$
+E = \frac{V}{d}\hspace{0.5cm} F=Eq \hspace{0.5cm} E_{p}=Eqd \hspace{0.5cm} V=\frac{\Delta E}{q}
+$$
+
+- Complete Homework Booklet Q6
+- Complete Worksheet #1
+- Complete Textbook Activity 17A (pg. 192-194)
+
+<mark>At 2:00pm we will stop work and set up the lab for Parent-Teacher Interviews!</mark>
