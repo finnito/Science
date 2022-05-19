@@ -189,6 +189,7 @@ __Calculating an Average__: Add up all your trials and divide by the number of t
 - A graph should have the following:
   + Independent (thing you are changing) on the x-axis
   + Dependent (thing you are measuring) on the y-axis
+  + __Plot the averages__
 	+ A title
 	+ X and Y axis labels + units
 	+ Data points indicated with crosses
