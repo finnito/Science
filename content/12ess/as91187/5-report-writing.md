@@ -187,6 +187,8 @@ __Calculating an Average__: Add up all your trials and divide by the number of t
 - You should also create a graph to help interpret your results.
 - You can draw the graph by hand or produce it on Google Sheets / Excel.
 - A graph should have the following:
+  + Independent (thing you are changing) on the x-axis
+  + Dependent (thing you are measuring) on the y-axis
 	+ A title
 	+ X and Y axis labels + units
 	+ Data points indicated with crosses
@@ -230,6 +232,66 @@ __Calculating an Average__: Add up all your trials and divide by the number of t
 - __How does it relate to validity?__ A reliable measurement is not always valid: the results might be reproducible, but they’re not necessarily correct.
 
 > e.g. Looking at our results we can see that each trial of the different increments of our independent variable are similar to each other. This means that our dependent variable is well controlled. These results should therefore be reproducible by other scientists. However, this does not indicate that these results are _correct or valid_.
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-7btt" colspan="4">Radius of Impact Crater (m)</th>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Mass of Impactor</td>
+    <td class="tg-fymr">Trial 2</td>
+    <td class="tg-fymr">Trial 2</td>
+    <td class="tg-fymr">Trial 3</td>
+    <td class="tg-fymr">Average</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fymr">0.25kg</td>
+    <td class="tg-0pky">0.07</td>
+    <td class="tg-0pky">0.08</td>
+    <td class="tg-0pky">0.07</td>
+    <td class="tg-0pky">0.06</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">0.50kg</td>
+    <td class="tg-0pky">0.12</td>
+    <td class="tg-0pky">0.05</td>
+    <td class="tg-0pky">0.20</td>
+    <td class="tg-0pky">0.015</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">0.75kg</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">1.00kg</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">2.00kg</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
+
+For the above table:
+
+- The 0.25kg trials __look quite reliable__ because they are all __similar__
+- The 0.5kg trials __do not look very reliable__ because there is a __wide variety__ in the diameters
+
+If you are getting a wide variety in results, you may need to re-work your method by adding further control variables or clearer instructions so the results are closer together.
 
 ---
 
