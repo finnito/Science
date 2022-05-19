@@ -12,7 +12,6 @@
     <a class="skip-main" href="#main">Skip to main content</a>
     <nav>
       <div class="koru"></div>
-      <div class="whakatauki"></div>
       <div class="desktop top-buttons">{{ partial "buttons.html" . }}</div>
       <h1><a href="/" title="Home">{{ if isset .Params "emoji" }}{{ .Params.emoji }}{{ else }}🧬{{ end }} {{ .Site.Title }}</a></h1>
       <input class="toggle mobile" type="checkbox" title="Toggle mobile menu"/>
@@ -56,3 +55,4 @@
       </li>
       {{ end }}
     </nav>
+    <div class="whakatauki"></div>
