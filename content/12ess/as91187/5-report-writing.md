@@ -228,9 +228,12 @@ __Calculating an Average__: Add up all your trials and divide by the number of t
 
 ## Reliability
 
-- __What does it tell you?__ The extent to which the __results can be reproduced__ when the research is repeated under the same conditions.
-- __How is it assessed?__ By checking the __consistency of results__ between each trial of the increments of the independent variable.
-- __How does it relate to validity?__ A reliable measurement is not always valid: the results might be reproducible, but they’re not necessarily correct.
+- __What does it tell you?__ 
+  + The extent to which the __results can be reproduced__ when the research is repeated under the same conditions.
+- __How is it assessed?__
+  + By checking the __consistency of results__ between each trial of the increments of the independent variable.
+- __How does it relate to validity?__
+  + A reliable measurement is not always valid: the results might be reproducible, but they’re not necessarily correct.
 
 > e.g. Looking at our results we can see that each trial of the different increments of our independent variable are similar to each other. This means that our dependent variable is well controlled. These results should therefore be reproducible by other scientists. However, this does not indicate that these results are _correct or valid_.
 
@@ -254,35 +257,14 @@ __Calculating an Average__: Add up all your trials and divide by the number of t
     <td class="tg-0pky">0.07</td>
     <td class="tg-0pky">0.08</td>
     <td class="tg-0pky">0.07</td>
-    <td class="tg-0pky">0.06</td>
+    <td class="tg-0pky">0.0733</td>
   </tr>
   <tr>
     <td class="tg-fymr">0.50kg</td>
     <td class="tg-0pky">0.12</td>
     <td class="tg-0pky">0.05</td>
     <td class="tg-0pky">0.20</td>
-    <td class="tg-0pky">0.015</td>
-  </tr>
-  <tr>
-    <td class="tg-fymr">0.75kg</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-fymr">1.00kg</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-fymr">2.00kg</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">0.123</td>
   </tr>
 </tbody>
 </table>
@@ -298,8 +280,11 @@ If you are getting a wide variety in results, you may need to re-work your metho
 
 ## Validity
 
-- __What does it tell you?__ The extent to which the results really measure what they are supposed to measure (model vs real world).
-- __How is it assessed?__ By checking __how well the results correspond to established theories__ and other measures of the same concept. Do your results match previous research?
-- __How does it relate to reliability?__ A valid measurement is generally reliable: if a test produces accurate results, they should be reproducible.
+- __What does it tell you?__
+  + The extent to which the results really measure what they are supposed to measure (model vs real world).
+- __How is it assessed?__
+  + By checking __how well the results correspond to established theories__ and other measures of the same concept. Do your results match previous research?
+- __How does it relate to reliability?__
+  + A valid measurement is generally reliable: if a test produces accurate results, they should be reproducible.
 
 > e.g. Research shows that past experiments and theories indicate that an increase in impact velocity will result in a large diameter impact crater. Our data shows the same trend. This indicates that our experiment is sufficiently controlled and that we are _actually_ measuring the influence of [_your independent variable_] on [_your depenedent variable_].
