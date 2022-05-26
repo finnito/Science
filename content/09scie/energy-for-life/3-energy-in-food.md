@@ -1,46 +1,30 @@
 ---
 title: Energy in Food
 slug: energy-in-food
-weight: 3
 subtitle: 9SCIE - Energy for Life
-author: Finn LeSueur
-date: 2020
-theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
-- \usepackage{wrapfig}
+weight: 3
 ---
 
-## Ngā Whāinga Ako
+## Energy {.c2}
 
-- Be able to give the unit for energy
-- Be able to find the energy content of a food on a label
-- Be able to relate the energy in food to exercise
-
----
-
-## Energy
-
-- Energy is measured in the Scientific unit, Joules
+- Energy is measured in the scientific unit, __Joules__
 - As a shorthand we write Joules as __J__
 - It is named after James Joule, an English physicist (1818-1889)
 
-![](../assets/energy_in_food-joule.jpg){width=25%}
+![](../assets/energy_in_food-joule.jpg)
 
 ---
 
-### Energy in Food
+### Energy in Food {.c2}
 
-When we are talking about food, energy is the chemical potential energy stored in the food. By eating the food we can break down the bonds in the food and gain energy!
+- Food contains __chemical potential energy__, which is stored in the bonds between atoms and molecules.
+- When we eat the food, we break the bonds and get energy!
 
 ![](../assets/energy_in_food-nutritional-information.png)
+
+---
+
+<iframe width="806" height="453" src="https://www.youtube.com/embed/xyQY8a-ng6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -60,7 +44,7 @@ You may hear energy referred to by calories.
  
 ---
 
-#### Task: Your Lunch
+### Ngohe: Your Lunch
 
 Look in your bag for some food in a wrapper with a nutritional label. __How many Joules of energy does your snack contain?__ Make a note of it in your book.
 
@@ -68,25 +52,13 @@ __Hint:__ kJ means kilojoules or 1,000J. So 120kJ means 120,000J.
 
 ---
 
-It takes you approximately $147J$ to jump $0.3m$ off the ground. How many jumps do you have to do to burn off the energy from your snack?
+It takes you approximately $147J$ to do a starjump $0.3m$ off the ground. How many jumps do you have to do to burn off the energy from your snack?
+
+e.g. $120,000/147=816$ jumps!
 
  ---
  
  ![](../assets/energy_in_food-kilojoules-in-food.jpg)
- 
- ---
- 
- In fact, we can find the amount of energy in a food in the lab! We will do this whakamātau later in this unit.
- 
- Before we start, recall that it takes $1J$ to warm $1ml$ of water by 1 degree C.
- 
- ---
- 
- 1. Measure 10ml of water in a boiling tube
- 2. Place that boiling tube in a clamp above a tripod with gauze mat
- 3. Light your food (peanut) on fire using the bunsen burner
- 4. Place the peanut on the gauze mat
- 5. Record how much warmed the water gets!
 
 ---
 
@@ -97,3 +69,18 @@ It takes you approximately $147J$ to jump $0.3m$ off the ground. How many jumps 
 Kahoot Time!
 
 [https://create.kahoot.it/details/fast-food-guess-calories-1/3effdea3-1a35-4f0e-aa2d-ef18e3837d98](https://create.kahoot.it/details/fast-food-guess-calories-1/3effdea3-1a35-4f0e-aa2d-ef18e3837d98)
+
+---
+ 
+ In fact, we can find the amount of energy in a food in the lab! We will do this whakamātau later in this unit.
+ 
+ Before we start, recall that it takes $1J$ to warm $1ml$ of water by 1 degree C.
+ 
+---
+ 
+ 1. Measure 10ml of water in a boiling tube
+ 2. Place that boiling tube in a clamp above a tripod with gauze mat
+ 3. Light your food (peanut) on fire using the bunsen burner
+ 4. Place the peanut on the gauze mat
+ 5. Record how much warmed the water gets!
+ 
