@@ -1,21 +1,13 @@
 ---
 title: Series & Parallel Circuits
-subtitle: 12PHYS - Electricity
-author: Finn LeSueur
-date: 2019
-weight: 5
 slug: series-and-parallel-circuits
-theme: finn
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
+subtitle: 12PHYS - Electricity
+weight: 5
 ---
 
-# Mahi Tuatahi
+## Mahi Tuatahi
 
-A circuit has current $1.2A$ and voltage of 12V and has a single bulb.
+A circuit has current $1.2A$ and voltage of $12V$ and has a single bulb.
 
 1. Draw the circuit and indicate current and conventional current directions.
 2. How many Coulombs of electrical charge flow through a point in every second?
@@ -24,19 +16,23 @@ A circuit has current $1.2A$ and voltage of 12V and has a single bulb.
 
 ---
 
-# Series Circuits
+## Series Circuits {.c2}
 
 - The current has only one path to flow around
 - The current is constant around the circuit
 - The voltage is shared between the components in the loop
 
+![[Source](http://alevelphysicsnotes.com/electricity/charge_and_current.html)](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Falevelphysicsnotes.com%2Felectricity%2Fimages%2Fcurrent%2520around%2520a%2520series%2520circuit.svg&f=1&nofb=1)
+
 ---
 
-# Parallel Circuits
+## Parallel Circuits {.c2}
 
 - The current has multiple paths to flow around
-- The current is shared between paths
+- The current is shared between paths (like a river)
 - The voltage is shared between components on each separate path
+
+![[Source](https://rsdacademy.net/textbooks/dcelectronics/Part4/PageSetup.php?Page=35&FileName=KirchhoffsCurrentLaw&ReferingPage=)](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frsdacademy.net%2Ftextbooks%2Fdcelectronics%2FPart4%2FParallelCircuitCurrentFlow.png&f=1&nofb=1)
 
 ---
 
@@ -50,10 +46,11 @@ Use the [PhET simulation](https://phet.colorado.edu/sims/html/circuit-constructi
 
 ---
 
-## Resistance in Circuits
+## Total Resistance in Circuits
 
-- When you add resistors in series, the resistance __increases__
-- When you add resistors in parallel the total resistance __decreases__
+- When you add resistors in series, the total resistance __increases__
+- When you add resistors in parallel the total total resistance __decreases__
+    + Because there are more paths for the current to flow through.
 
 ---
 
@@ -61,25 +58,29 @@ Use the [PhET simulation](https://phet.colorado.edu/sims/html/circuit-constructi
 
 In series we can use this equation:
 
+$$
 \begin{aligned}
-    & R_{T} = R_{1} + R_{2} + R_{3} + ...
+    R_{T} &= R_{1} + R_{2} + R_{3} + ...
 \end{aligned}
+$$
 
 In parallel we can use this equation:
 
+$$
 \begin{aligned}
-    & \frac{1}{R_{t}} = \frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}} + ...
+    \frac{1}{R_{t}} &= \frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}} + ...
 \end{aligned}
+$$
 
 ---
 
-### Question 1
+### Pātai Tahi
 
 ![](../assets/7-resistance-parallel-1.png)
 
 ---
 
-### Question 2
+### Pātai Rua
 
 ![](../assets/7-resistance-parallel-2.png)
 
@@ -87,30 +88,40 @@ In parallel we can use this equation:
 
 Calculate the values for each voltmeter, ammeter, as well as the total resistance of the circuit.
 
-![](../assets/7-dc-1.png){width=75%}
+![](../assets/7-dc-1.png)
 
 ---
 
-![](../assets/7-dc-2.png){width=75%}
+Calculate the values for each voltmeter, ammeter, as well as the total resistance of the circuit.
+
+![](../assets/7-dc-2.png)
 
 ---
 
-![](../assets/7-dc-3.png){width=75%}
+Calculate the values for each voltmeter, ammeter, as well as the total resistance of the circuit.
+
+![](../assets/7-dc-3.png)
 
 ---
 
-![](../assets/7-dc-4.png){width=75%}
+Calculate the values for each voltmeter, ammeter, as well as the total resistance of the circuit.
+
+![](../assets/7-dc-4.png)
 
 ---
 
-![](../assets/7-dc-5.png){width=75%}
+Calculate the values for each voltmeter, ammeter, as well as the total resistance of the circuit.
+
+![](../assets/7-dc-5.png)
 
 ---
 
-![](../assets/7-dc-6.png){width=75%}
+Calculate the values for each voltmeter, ammeter, as well as the total resistance of the circuit.
+
+![](../assets/7-dc-6.png)
 
 ---
 
-![](../assets/7-dc-answers.png){width=75%}
+Calculate the values for each voltmeter, ammeter, as well as the total resistance of the circuit.
 
----
+![](../assets/7-dc-answers.png)
