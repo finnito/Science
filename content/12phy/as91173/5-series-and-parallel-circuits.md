@@ -22,7 +22,7 @@ A circuit has current $1.2A$ and voltage of $12V$ and has a single bulb.
 - The current is constant around the circuit
 - The voltage is shared between the components in the loop
 
-![[Source](http://alevelphysicsnotes.com/electricity/charge_and_current.html)](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Falevelphysicsnotes.com%2Felectricity%2Fimages%2Fcurrent%2520around%2520a%2520series%2520circuit.svg&f=1&nofb=1)
+![[Source](http://alevelphysicsnotes.com/electricity/charge_and_current.html)](http://alevelphysicsnotes.com/electricity/images/current%20around%20a%20series%20circuit.svg)
 
 ---
 
@@ -68,7 +68,7 @@ In parallel we can use this equation:
 
 $$
 \begin{aligned}
-    \frac{1}{R_{t}} &= \frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}} + ...
+    \frac{1}{R_{T}} &= \frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}} + ...
 \end{aligned}
 $$
 
@@ -76,11 +76,15 @@ $$
 
 ### Pātai Tahi
 
+Find $R_{T}$ for this group of resistors.
+
 ![](../assets/7-resistance-parallel-1.png)
 
 ---
 
 ### Pātai Rua
+
+Find $R_{T}$ for this group of resistors.
 
 ![](../assets/7-resistance-parallel-2.png)
 
