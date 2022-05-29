@@ -12,16 +12,16 @@ menu:
         parent: "11SCI"
 ---
 
-## Learning Outcomes _/ Ngā Whāinga Ako_ 
-
+<!-- ## Learning Outcomes _/ Ngā Whāinga Ako_
+ -->
 {{< slides >}}
 
-## Unit Plan _/ Mahere Kōwae_ 
+<!-- ## Unit Plan _/ Mahere Kōwae_
 
-|           | Akoranga 1 (Mon)                  | Akoranga 2 (Tues)     | Akoranga 3 (Thurs)      | Akoranga 4 (Fri)        |
-|:----------|:----------------------------------|:----------------------|:------------------------|:------------------------|
-| __T1 W7__ | __Genetics Test__                 | Rates of Reaction     | Rates of Reaction       | Collision Theory        |
-| __T1 W8__ | Effect of Temperature             | Effect of Temperature | Effect of Concentration | Effect of Concentration |
-| __T2 W7__ |                                   |                       | Planning an Tūhura      | Passing the Tūhura      |
-| __T2 W8__ | __Queen's B-Day__                 | Practice Test         | Practice Test           | Feedback                |
-| __T2 W9__ | Changing Concentration & Revision | __Group Whakamātau__  | __Individual Write-Up__ | __Individual Write-Up__ |
+|        |             Akoranga 2            |       Akoranga 2      |        Akoranga 3       |        Akoranga 4       |       Akoranga 5       |
+| :----- | :-------------------------------- | :-------------------- | :---------------------- | :---------------------- | ---------------------- |
+| __W1__ | __Mechanics Test__                | Collision Theory      | Collision Theory        | __TOD__                 | Rates of Reaction      |
+| __W2__ | Effect of Concentration           | Effect of Temperature | Effect of Concentration | Effect of Concentration | Effect of Surface Area |
+| __W3__ | Effect of Surface Area            |                       | Planning an Tūhura      | Passing the Tūhura      |                        |
+| __W4__ | __Queen's B-Day__                 | Practice Test         | Practice Test           | Feedback                |                        |
+| __W5__ | Changing Concentration & Revision | __Group Whakamātau__  | __Individual Write-Up__ | __Individual Write-Up__ |                        | -->
