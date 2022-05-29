@@ -266,3 +266,5 @@ If you are getting a wide variety in results, you may need to re-work your metho
   + A valid measurement is generally reliable: if a test produces accurate results, they should be reproducible.
 
 > e.g. Theories, research and past experiments show that when the surface area of a reactant is increased, the rate of reaction is also increased. Our data shows the same trend. This indicates that our experiment is sufficiently controlled and that we are _actually_ measuring the influence of surface area on the rate of reaction.
+> 
+> This experiment is actually measuring the rate of reaction because we controlled the other factors that can impact the rate of reaction (concentration, temperature, and presence of a catalyst). We can be relatively certain that surface area was the main influence on the rate of reaction in our experiment.
