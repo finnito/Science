@@ -15,6 +15,7 @@ header-includes:
 - \usepackage{lmodern}
 - \usepackage{amsmath}
 - \usepackage{textcomp}
+draft: true
 ---
 
 ## Practice Assessment
