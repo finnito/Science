@@ -49,7 +49,7 @@
                 {{ $url = path.Join  "https://github.com/finnito/Science/commits/master/data/" $page.File.Dir }}
             {{ else }}
                 {{ if eq .File.LogicalName "_index.md" }}
-                    {{ $url = path.Join "https://github.com/finnito/Science/commits/master/content/" .Path }}
+                    {{ $url = path.Join "https://github.com/finnito/Science/commits/master/content/" .File.Dir }}
                 {{ else }}
                     {{ $url = path.Join "https://github.com/finnito/Science/commits/master/content/" .File.Dir .LogicalName }}
                 {{ end }}
