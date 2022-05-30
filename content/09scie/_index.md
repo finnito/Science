@@ -13,21 +13,21 @@ weight: 2
 
 ## 2022 Year Planner
 
-|         | Term 1         |                         | Term 2        |                  | Term 3       |           | Term 4       |                  |
-|:--------|:---------------|:------------------------|:--------------|:-----------------|:-------------|:----------|:-------------|:-----------------|
-| Week 1  | __Jan 31st__   | Introduction to Pūtaiao | __May 2nd__   |                  | __Jul 25th__ |           | __Oct 17th__ |                  |
-| Week 2  | __Feb 7th__    | Introduction to Pūtaiao | __May 9th__   |                  | __Aug 1st__  |           | __Oct 24th__ |                  |
-| Week 3  | __Feb 14th__   | Introduction to Pūtaiao | __May 16th__  |                  | __Aug 8th__  |           | __Oct 31st__ |                  |
-| Week 4  | __Feb 21st__   | Introduction to Pūtaiao | __May 23rd__  |                  | __Aug 15th__ |           | __Nov 7th__  |                  |
-| Week 5  | __Feb 28th__   | Introduction to Pūtaiao | __May 30th__  |                  | __Aug 22nd__ |           | __Nov 14th__ |                  |
-| Week 6  | __March 7th__  | Reactions Matter        | __June 6th__  |                  | __Aug 29th__ |           | __Nov 21st__ |                  |
-| Week 7  | __March 14th__ | Reactions Matter        | __June 13th__ |                  | __Sep 5th__  |           | __Nov 28th__ |                  |
-| Week 8  | __March 21st__ | Reactions Matter        | __June 20th__ |                  | __Sep 12th__ |           | __Dec 5th__  |                  |
-| Week 9  | __March 28th__ | Reactions Matter        | __June 27th__ |                  | __Sep 19th__ |           | __Dec 12th__ |                  |
-| Week 10 | __April 4th__  | Reactions Matter        | __July 4th__  |                  | __Sep 26th__ |           |              |                  |
-| Week 11 | __April 11th__ | Reactions Matter        |               |                  |              |           |              |                  |
+|         |     Term 1     |                         |     Term 2    |                    |    Term 3    |              |    Term 4    |              |
+| :------ | :------------- | :---------------------- | :------------ | :----------------- | :----------- | :----------- | :----------- | :----------- |
+| Week 1  | __Jan 31st__   | Introduction to Pūtaiao | __May 2nd__   | Reactions Matter   | __Jul 25th__ | Science Fair | __Oct 17th__ | Radiation    |
+| Week 2  | __Feb 7th__    | Introduction to Pūtaiao | __May 9th__   | Reactions Matter   | __Aug 1st__  | Plants       | __Oct 24th__ | Radiation    |
+| Week 3  | __Feb 14th__   | Introduction to Pūtaiao | __May 16th__  | Energy for Life    | __Aug 8th__  | Plants       | __Oct 31st__ | Radiation    |
+| Week 4  | __Feb 21st__   | Introduction to Pūtaiao | __May 23rd__  | Energy for Life    | __Aug 15th__ | Plants       | __Nov 7th__  | Revision     |
+| Week 5  | __Feb 28th__   | Introduction to Pūtaiao | __May 30th__  | Energy for Life    | __Aug 22nd__ | Plants       | __Nov 14th__ | Junior Exams |
+| Week 6  | __March 7th__  | Reactions Matter        | __June 6th__  | Energy for Life    | __Aug 29th__ | Space        | __Nov 21st__ | ?            |
+| Week 7  | __March 14th__ | Reactions Matter        | __June 13th__ | Energy for Life    | __Sep 5th__  | Space        | __Nov 28th__ | ?            |
+| Week 8  | __March 21st__ | Reactions Matter        | __June 20th__ | Test / Scienc Fair | __Sep 12th__ | Space        | __Dec 5th__  | ?            |
+| Week 9  | __March 28th__ | Reactions Matter        | __June 27th__ | Science Fair       | __Sep 19th__ | Space        |              |              |
+| Week 10 | __April 4th__  | Reactions Matter        | __July 4th__  | Science Fair       | __Sep 26th__ | Radiation    |              |              |
+| Week 11 | __April 11th__ | Reactions Matter        |               |                    |              |              |              |              |
 
-## 2022 Year Planner LS
+<!-- ## 2022 Year Planner LS
 
 |         | Term 1         |                         | Term 2        |                  | Term 3       |           | Term 4       |                  |
 |:--------|:---------------|:------------------------|:--------------|:-----------------|:-------------|:----------|:-------------|:-----------------|
@@ -41,7 +41,7 @@ weight: 2
 | Week 8  | __March 21st__ | Reactions Matter        | __June 20th__ |                  | __Sep 12th__ |           | __Dec 5th__  |                  |
 | Week 9  | __March 28th__ |                         | __June 27th__ |                  | __Sep 19th__ |           | __Dec 12th__ |                  |
 | Week 10 | __April 4th__  | Science Fair            | __July 4th__  |                  | __Sep 26th__ |           |              |                  |
-| Week 11 | __April 11th__ | Science Fair            |               |                  |              |           |              |                  |
+| Week 11 | __April 11th__ | Science Fair            |               |                  |              |           |              |                  | -->
 
 
 <!--## 2020 Year Planner
