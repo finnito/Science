@@ -129,3 +129,45 @@ Calculate the values for each voltmeter, ammeter, as well as the total resistanc
 Calculate the values for each voltmeter, ammeter, as well as the total resistance of the circuit.
 
 ![](../assets/7-dc-answers.png)
+
+---
+
+## Kirchoff's Laws: Current {.c2}
+
+<div>
+These laws were first determined experimentally, but we now know them as __conservation of charge__.
+
+> The sum of current flowing into a junction is equal to the sum of current flowing out of it.
+
+In this circuit, $A_{1} = A_{2} + A_{3} + A_{4}$.
+</div>
+<div>
+
+![](../assets/kirchoffs-current-law.jpg)
+
+</div>
+
+---
+
+## Kirchoff's Laws: Voltage {.c2}
+
+<div>
+
+> The sum of of the potential differences (voltages) in any closed loop is zero.
+
+That is to say, over a loop, the full voltage (energy) of the power supply must be consumed.
+
+</div>
+<div>
+
+![](../assets/kirchoffs-voltage-law.jpg)
+
+</div>
+
+---
+
+### Whakawai / Practice
+
+1. Complete the worksheet on parallel and series circuits
+2. Complete and mark Homework Booklet Q7
+3. Textbook Page 218 Q5-6
