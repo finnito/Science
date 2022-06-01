@@ -29,7 +29,7 @@ __Pātai__: What is the third variable that we are missing?
 - Resistance is the idea of a _friction_ that the __current__ encounters that reduces the current able to flow, and causes energy to be lost/used as heat/light.
 - In reality, everything is _a little bit_ of a resistor.
 
-![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.sparkfun.com%2Fassets%2Fd%2F8%2Fe%2F8%2Fb%2F5114247dce395f1e7e000008.png&f=1&nofb=1)
+![[Source](https://www.webassign.net/question_assets/eraucolphysmechl1/lab_7_2_intro/manual.html)](https://www.webassign.net/question_assets/eraucolphysmechl1/lab_7_2_intro/images/figure7-2-intro-2.png)
 
 ---
 
