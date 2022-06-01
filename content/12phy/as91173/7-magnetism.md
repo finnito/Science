@@ -1,61 +1,51 @@
 ---
 title: Magnetism
-subtitle: 12PHYS - Electricity
-author: Finn LeSueur
-date: 2019
-theme: finn
-weight: 7
 slug: magnetism
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-katex: true
+subtitle: 12PHYS - Electricity
+weight: 7
 ---
 
-## Mahi Tuatahi 1
+## Mahi Tuatahi
 
-If an object has a charge of $0.03C$, how many electrons has it lost?
-
-__Hint:__ Charge of one electron $=-1.6\times10^{-19}C$
+1. If an object has a charge of $0.03C$, how many electrons has it lost?
+2. There is $80mA$ of current flowing through a $2k\Omega$ resistor. How many electrons are going through the resistor in one second?
+3. What is the power output of the resistor?
 
 ---
 
-## Mahi Tuatahi 1 Answer
+### Whakatika Tahi
 
+$$
 \begin{aligned}
     & n = \frac{0.03}{1.6\times10^{-19}} \newline
     & n = 1.875\times10^{17}
 \end{aligned}
+$$
 
 ---
 
-## Mahi Tuatahi 2
+### Whakatika Rua
 
-There is $80mA$ of current flowing through a $2k\Omega$ resistor.
-
-1. How many electrons are going through the resistor in one second?
-2. What is the power output of the resistor?
-
----
-
-## Mahi Tuatahi 2 Answer
-
+$$
 \begin{aligned}
     & I = \frac{q}{t} \newline
     & It = q \newline
     & q = 0.08 \times 1 = 0.08C \newline
     & n = \frac{0.08}{1.6\times^{-19}} = 5\times10^{17}
 \end{aligned}
+$$
 
 ---
 
+### Whakatika Toru
+
+$$
 \begin{aligned}
     & P = IV, V = IR\newline
     & P = I^{2}R \newline
     & P = 0.08^{2} \times 2000 = 12.8W (Js^{-1})
 \end{aligned}
+$$
 
 ---
 
@@ -83,9 +73,11 @@ The force ($F$) that the charge experiences as it moves through the field depend
 - Charge of the object ($q$, measured in Coulombs ($C$))
 - Velocity of the object ($v$, measured in $ms^{-1}$)
 
+$$
 \begin{aligned}
     F = Bqv
 \end{aligned}
+$$
 
 ---
 
@@ -97,7 +89,7 @@ __Magnetic Field:__ A region in which a moving charged object experiences a forc
 
 ---
 
-### Why Do Fields Form? {.c2}
+### Why Do Magnetic Fields Form? {.c2}
 
 - _A model that will help us understand is as follows_:
 - The valence electrons of each atom have some small magnetic component to them
@@ -120,7 +112,7 @@ __Magnetic Field:__ A region in which a moving charged object experiences a forc
 
 ---
 
-### Question
+### Pātai
 
 A narrow beam of protons ($1.6\times10^{-19}C$) moving at a speed of $2.0\times10^{-6}ms^{-1}$, enters a uniform magnetic field of strength $0.20T$.
 
@@ -128,21 +120,15 @@ Calculate the magnetic force applied on each proton.
 
 ---
 
-#### Answer
+#### Whakatika
 
+$$
 \begin{aligned}
     & F = Bqv \newline
     & F = 0.2 \times 1.6\times10^{-19} \times 2.0\times10^{-6} \newline
     & F = 6.4 \times 10^{-26}N
 \end{aligned}
-
-__Pātai:__ Is force a scalar or vector? How do we know the direcito of the force?
-
----
-
-## Right Hand Rules
-
-<p class="instruction">Collect and glue in your sheet of right hand rules somewhere you can find it. These are very important and useful!</p>
+$$
 
 ---
 
@@ -158,11 +144,32 @@ __Pātai:__ Is force a scalar or vector? How do we know the direcito of the forc
 
 > Thumb in the direction of __NEGATIVE__ charge velocity, finger-tips indicate the $B$ field strength, and the __back of the hand__ shows the direction of force on the __NEGATIVE__ charge.
 
+By default we use the +ve charge rule because we tend to think about __conventional current__ (the flow of +ve charge).
+
 ---
 
-## Pātai
+### Pātai
 
-A charged object ($q=1.6\times10^{-19}C$) moves to the left across a magnetic field (out of the page) with a speed of $4.0\times10^{3}ms^{-1}$. The magnetic field strength is $12T$.
+__For each of these four situations, apply the RH rule and figure out what direction the current feels a force.__ Fingers go in direction of field and thumb in direction of current.
+
+![](../assets/rh-slap-rule-patai.png)
+
+A cross means current going into the page down a wire; a dot means current coming out of the page.
+
+---
+
+#### Whakatika
+
+1. Force out of the page
+2. Force into the page
+3. Force down
+4. Force up
+
+---
+
+### Pātai
+
+A charged object ($q=1.6\times10^{-19}C$) moves to the left across a magnetic field (going bottom to top of the page) with a speed of $4.0\times10^{3}ms^{-1}$. The magnetic field strength is $12T$.
 
 1. Draw a diagram and illustrate the magnetic field lines
 2. Calculate the force applied to the charged object
@@ -170,13 +177,9 @@ A charged object ($q=1.6\times10^{-19}C$) moves to the left across a magnetic fi
 
 ---
 
-## Whakakite: Cathode Ray Tube
+### Whakawai
 
-![](../assets/9-cathode-ray-tube.png){width=75%}
-
----
-
-- Worksheet 1 & 3
+Textbook page 235 Q1-2
 
 ---
 
@@ -184,10 +187,12 @@ A charged object ($q=1.6\times10^{-19}C$) moves to the left across a magnetic fi
 
 Instead of thinking about the velocity of the moving charges, we can think about the current and length of wire in the magnetic field.
 
+$$
 \begin{aligned}
     Force &= B Field \times Current \times Length \newline
     F &= BIL
 \end{aligned}
+$$
 
 ---
 
