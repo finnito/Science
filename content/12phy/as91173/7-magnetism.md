@@ -183,20 +183,28 @@ Textbook page 235 Q1-2
 
 ---
 
+## Mahi Tuatai
+
+Homework Booklet Q16
+
+---
+
 ## Formula: F=BIL
 
-Instead of thinking about the velocity of the moving charges, we can think about the current and length of wire in the magnetic field.
+Instead of thinking about the velocity of the moving charges, we can also think about the current and length of wire in the magnetic field.
 
 $$
 \begin{aligned}
-    Force &= B Field \times Current \times Length \newline
+    Force &= B-Field \times Current \times Length \newline
     F &= BIL
 \end{aligned}
 $$
 
 ---
 
-- Mahi Kāinga booklet Q16, Q17
+## Electromagnetism
+
+Electric and magnetic fields are different sides of the same coin, and one can create the other. Here are two examples.
 
 ---
 
@@ -217,7 +225,7 @@ $$
 - Use the solenoid right hand rule to determine the direction of the field
     + Your fingers curl in the direction of flow of positive charge! Thumb indicates the N end of the solenoid
 
-![[Source](https://en.wikipedia.org/wiki/Solenoid)](https://upload.wikimedia.org/wikipedia/commons/4/45/Solenoid-1.png)
+![[Source](https://en.wikipedia.org/wiki/Solenoid)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Coil_right-hand_rule.svg/330px-Coil_right-hand_rule.svg.png)
 
 ---
 
@@ -227,9 +235,9 @@ $$
 
 ## Individual Quiet Practise
 
-1. Homework Booklet Q18 (__M__)
-2. Magnetism Worksheet #7
-    - Collect from the front
-    - A good overall review
-3. Homework Booklet Q15 (__M__)
+1. Textbook Q1-2 on page 229-230
+2. Magnetism Worksheet #7 (Classroom)
+3. Homework Booklet Q17
+3. Homework Booklet Q18 (__M__)
+4. Homework Booklet Q15 (__M__)
     - A more conceptually difficult problem, but not using more difficult Physics.
