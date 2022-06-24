@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd /srv/science.lesueur.nz/
+cd /srv/putaiao.nz/
 git stash
 git pull origin master
 git checkout master
