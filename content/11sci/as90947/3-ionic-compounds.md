@@ -2,32 +2,14 @@
 title: Ionic Compounds
 slug: ionic-compounds
 subtitle: 11SCI - Chemical Reactions
-author: Finn LeSueur
-date: 2020
-theme: finn
 weight: 3
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
-## Mahi Tuatahi
+## Mahi Tuatahi / Do Now
 
-Open your book to your __table of ions__. In groups (below), use your devices to find out the names of the __ions__ of your column, and write the names on the board.
-
-Copy the names of the ions into your book from the other groups!
-
-![](../assets/ionic_compounds-groups.png){width=75%}
-
----
-
-![](../assets/ionic_compounds-table-of-ions.png)
+1. Complete another element quiz!
+2. You can move onto the next question set if you score 30/30 two days in a row!
+3. Record your score on your scoresheet
 
 ---
 
@@ -43,7 +25,7 @@ Ions are atoms that have __gained__ or __lost__ electrons in order to have a ful
 
 This is an oxygen atom. Copy the diagram into your book and give the electron shell configuration _e.g. [2,3]_
 
-![](../assets/ionic_compounds-oxygen-atom.png){width=50%}
+![](../assets/ionic_compounds-oxygen-atom.png)
 
 ---
 
@@ -59,7 +41,7 @@ Think again about the oxygen atom and answer these questions:
 1. Will it prefer to gain or lose electrons?
 2. How many electrons will it need to gain/lose to have a full outer shell?
 
-![](../assets/ionic_compounds-oxygen-atom.png){width=30%}
+![](../assets/ionic_compounds-oxygen-atom.png)
 
 ---
 
@@ -89,9 +71,11 @@ Copy this table into your own book and work in pairs to complete it.
 - The charge goes in a superscript <sup>like this</sup>.
 - The number goes before the charge.
 
+$$
 \begin{aligned}
     O^{2-}
 \end{aligned}
+$$
 
 ---
 
@@ -100,204 +84,62 @@ Copy this table into your own book and work in pairs to complete it.
 - To make ionic compounds we need the numbers in the superscript to balance to zero.
 - To use more than one of an ion you use a subscript <sub>like this</sub>
 
+$$
 \begin{aligned}
-    Na^{+} + Cl^{-} \rightarrow NaCl \newline
-    Cu^{2+} + 2OH^{-} \rightarrow Cu(OH)_{2}
+    Na^{+} + Cl^{-} &\rightarrow NaCl \newline
+    Cu^{2+} + 2OH^{-} &\rightarrow Cu(OH)_{2}
 \end{aligned}
+$$
 
 ---
 
-## Game!
-
-- Form into your table groups with a whiteboard. We are going to make some ionic compounds. It's a race!
-
-Your answer is simply to give the compound like this:
-
-\begin{aligned}
-    NaOH
-\end{aligned}
+![[Source](https://courses.lumenlearning.com/boundless-chemistry/chapter/the-covalent-bond/)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fcourses-images%2Fwp-content%2Fuploads%2Fsites%2F1941%2F2017%2F05%2F30162111%2Fnaf.gif&f=1&nofb=1)
 
 ---
 
-### Compound One
+## Electron Transfer
 
-Sodium iodide
+Ionic compounds form because:
 
----
+- some atoms want to give away electrons to get a full valence shell (become positive)
+- some atoms want to receive electrons to get a full valence shell (become negative)
 
-### Compound One
-
-Sodium iodide: $NaI$
-
----
-
-### Compound Two
-
-Silver iodide
+By giving/receiving electrons they form an __ion__  becoming positive or negatively charged. Once they have a charge they are elecrostatically attracted together and make a __neutral compound__.
 
 ---
 
-### Compound Two
+## Tākaro / Game!
 
-Silver iodide: $AgI$
+- Form into your table groups/pairs with a whiteboard. We are going to make some ionic compounds. Most points wins!
 
----
-
-### Compound Three
-
-Lithium fluoride
+Your answer is simply to give the compound like this: $NaOH$
 
 ---
 
-### Compound Three
+## {.c2}
 
-Lithium fluoride: $LiF$
-
----
-
-### Compound Four
-
-Ammonium chloride
-
----
-
-### Compound Four
-
-Ammonium chloride: $NH_{4}CL$
-
----
-
-### Compound Five
-
-Magnesium oxide
-
----
-
-### Compound Five
-
-Magnesium oxide: $MgO$
+<div>
+1. Sodium iodide
+2. Silver iodide
+3. Lithium fluoride
+4. Ammonium chloride
+5. Magnesium oxide
+6. Lead sulfate
+7. Barium carbonate
+</div><div>
+8. Zinc iodide
+9. Aluminium chloride
+10. Aluminium nitrate
+11. Aluminium sulfate
+12. Iron (II) oxide
+13. Iron (III) oxide
+14. Sodium bicarbonate
+15. Lead bicarbonate
+</div>
 
 ---
 
-### Compound Six
-
-Lead sulfate
-
----
-
-### Compound Six
-
-Lead sulfate: $PbSO_{4}$
-
----
-
-### Compound Seven
-
-Barium carbonate
-
----
-
-### Compound Seven
-
-Barium carbonate: $BaCO_{3}$
-
----
-
-### Compound Eight
-
-Zinc iodide
-
----
-
-### Compound Eight
-
-Zinc iodide: $ZnI_{2}$
-
----
-
-### Compound Nine
-
-Aluminium chloride
-
----
-
-### Compound Nine
-
-Aluminium chloride: $AlCl_{3}$
-
----
-
-### Compound Ten
-
-Aluminium nitrate
-
----
-
-### Compound Ten
-
-Aluminium nitrate: $Al(NO_{3})_{3}$
----
-
-### Compound Eleven
-
-Aluminium sulfate
-
----
-
-### Compound Eleven
-
-Aluminium sulfate: $Al_{2}(SO_{4})_{3}$
-
----
-
-### Compound Twelve
-
-Iron (II) oxide
-
----
-
-Compound Twelve
-
-Iron (II) oxide: $FeO$
-
----
-
-### Compound Thirteen
-
-Iron (III) oxide
-
----
-
-### Compound Thirteen
-
-Iron (III) oxide: $Fe_{2}O_{3}$
-
----
-
-### Compound Fourteen
-
-Sodium bicarbonate
-
----
-
-### Compound Fourteen
-
-Sodium bicarbonate: $NaHCO_{3}$
-
----
-
-### Compound Fifteen
-
-Lead bicarbonate
-
----
-
-### Compound Fifteen
-
-Lead bicarbonate: $Pb(HCO_{3})_{2}$
----
-
-## Game Answers
+### Whakatika
 
 | 1-5        | 6-10             | 11-15                |
 |:-----------|:-----------------|:---------------------|
@@ -316,14 +158,3 @@ Lead bicarbonate: $Pb(HCO_{3})_{2}$
 ---
 
 <iframe width="862" height="485" src="https://www.youtube.com/embed/kShlfIsvWbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-## Electron Transfer
-
-Ionic compounds form because:
-
-- some atoms want to give away electrons to get a full valence shell (become positive)
-- some atoms want to receive electrons to get a full valence shell (become negative)
-
-By giving/receiving electrons they form an __ionic bond__ (electrostatic forces) and make a __neutral compound__.
