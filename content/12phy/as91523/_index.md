@@ -15,7 +15,7 @@ katex: true
 
 {{< slides >}}
 
-## Learning Outcomes _/ Ngā Whāinga Ako_ 
+## Learning Outcomes _/ Ngā Whāinga Ako_
 
 1. Demonstrate the appropriate use of significant figures
 2. Use $v=f \lambda$ and $f = \frac{1}{T}$ to calculate the wavelength, time period, frequency and velocity of a wave
@@ -41,7 +41,7 @@ katex: true
 6. Term 3, Week 8 (Mon Sept 7th): 
 7. Term 3, Week 9 (Mon Sept 14th): Interference Q18, Q19   -->
 
-## 2021 Post-Lockdown Plan
+<!-- ## 2021 Post-Lockdown Plan
 
 | __Week__    | __Content__                                                        |
 |:------------|:-------------------------------------------------------------------|
@@ -50,7 +50,7 @@ katex: true
 | __Week 9__  | P1 Hand back waves test; 3x periods exam revision                  |
 | __Week 10__ | P1 Mechanics Exam, P2 Electricity Exam, 2x Nuclear Physics Periods |
 
-## Unit Plan _/ Mahere Kōwae_ 
+## Unit Plan _/ Mahere Kōwae_
 
 |            | Akoranga 1 (Mon/Tues)                             | Akoranga 2 (Wed)                             | Akoranga 3 (Thurs)                        | Akoranga 4 (Fri)                          |
 |:-----------|:--------------------------------------------------|:---------------------------------------------|:------------------------------------------|:------------------------------------------|
@@ -67,7 +67,7 @@ katex: true
 | __T3 W9__  | Hand Back Waves                                   | Mech & Elec Revision                         | Mech & Elec Revision                      | Mech & Elec Revision                      |
 | __T3 W10__ | __Mechanics Exam__                                | __Electricity Exam__                         | 1. Nuclear Physics Internal               | 2. Nuclear Physics Internal               |
 
-### Lesson Plans _/ Ngā Mahere Akoranga_ 
+### Lesson Plans _/ Ngā Mahere Akoranga_
 
 1. #### Intro to Waves
     - Transverse waves & longitudinal waves
@@ -129,4 +129,4 @@ katex: true
     - "Diffraction of Laser Light" Lab document
     - Recap of diffraction gratings notes
 24. #### Diffraction Gratings
-    - Mahi Kāinga booklet Q20. Work quietly from the start of the class and then go through the question in detail talking about x/y diffraction.
+    - Mahi Kāinga booklet Q20. Work quietly from the start of the class and then go through the question in detail talking about x/y diffraction. -->
