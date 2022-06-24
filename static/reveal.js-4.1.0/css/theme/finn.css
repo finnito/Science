@@ -11,6 +11,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 
+.reveal input {
+  font-size: 1.5rem;
+}
+
 .whakatauki {
   background-color: rgba(250, 211, 144, 0.25);
   border-radius: 0.25rem;
