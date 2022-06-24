@@ -120,10 +120,10 @@ tidyFolders() {
     for filename in *.zip; do
         rm -f filename
     done
-    if [[ -d pdfs ]]; then
-        rm -fr pdfs
-        echo "    Removed the 'pdfs' directory"
-    fi
+    # if [[ -d pdfs ]]; then
+    #     rm -fr pdfs
+    #     echo "    Removed the 'pdfs' directory"
+    # fi
     if [ ! $dev ] ; then
         if rm -fr slides/*; then
             echo "    Emptied the 'slides' directory"
@@ -141,9 +141,6 @@ createSlides() {
         name=$(getFilename "$filename")
         numberlessName=$(getNumberlessFilename "$filename")
         callPandoc "$name" "$numberlessName"
-        if [ $? == 0 ]; then
-            echo "    Built ${name}.md --> slides/${numberlessName}.html"
-        fi
     done
 }
 
@@ -191,6 +188,18 @@ callPandoc() {
         --variable=author:"Finn Le Sueur" \
         --variable=dev:"$dev" \
         --variable=liveReloadPort:1313
+    if [ $? == 0 ]; then
+        echo "    Built ${name}.md --> slides/${numberlessName}.html"
+    fi
+
+    pandoc "${name}.md" \
+        --to=pdf \
+        --output="pdfs/${numberlessName}.pdf" \
+        --metadata=classoption:fleqn \
+        --resource-path=.:assets
+    if [ $? == 0 ]; then
+        echo "    Built ${name}.md --> pdfs/${numberlessName}.pdf"
+    fi
 }
 
 runHugo() {
