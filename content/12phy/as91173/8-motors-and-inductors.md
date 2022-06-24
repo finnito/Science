@@ -1,38 +1,39 @@
 ---
 title: Motors & Inductors
-subtitle: 12PHYS - Electricity
-author: Finn LeSueur
-date: 2021
-theme: finn
-weight: 8
 slug: motors-and-inductors
+subtitle: 12PHYS - Electricity
+weight: 8
 ---
 
 ## Mahi Tuatahi
 
-1. What is a magnetic field?
+1. Define a magnetic field
 2. What is the symbol and unit for magnetic field?
-3. What formula is used to calculate the size of the force?
-4. How can you determine the direction of the force?
+3. What formula is used to calculate the size of the force experienced by a particle in a magnetic field?
+4. How can you determine the direction of the force? Draw and explain an example in your book
 
 ---
 
+$$
 \begin{aligned}
-    & F = BIL
+    F &= BIL
 \end{aligned}
+$$
 
 Force on a current carrying wire in a magnetic field is given by this equation.
 
-- Write what each letter stands for and its unit
+5. Write what each letter stands for and its unit
 
 ---
 
-1. What direction is the force on this current carrying wire?
-2. What is the force if the field is $0.02T$, the current $2A$ and the length of wire $10cm$?
+6. What direction is the force on this current carrying wire?
+7. What is the force if the field is $0.02T$, the current $2A$ and the length of wire $10cm$?
 
 ![](../assets/10-current-wire.png)
 
 ---
+
+## Wires on an Angle
 
 What do you think happens to the force if the wire is on an angle?
 
@@ -40,9 +41,11 @@ What do you think happens to the force if the wire is on an angle?
 
 ---
 
+$$
 \begin{aligned}
-    & F = BILsin(\theta)
+    F &= BILsin(\theta)
 \end{aligned}
+$$
 
 - $\theta$ is the angle between the current and the magnetic field
 - <mark>Force is maximum when perpendicular to the magnetic field ($sin(90) = 1$)</mark>
@@ -96,6 +99,12 @@ What direction is the magnetic force in these examples?
 
 ---
 
+## Whakawai / Practice
+
+Homework Booklet Q17
+
+---
+
 ### Mahi Tuatahi Answers
 
 Up, down, into the board, out of the board
@@ -121,7 +130,7 @@ Up, down, into the board, out of the board
 
 ---
 
-### Summary
+### Inductors Summary
 
 > Moving charges through a magnetic field will cause them to feel a force (due to the magnetic field). Thus creating an __induced voltage__.
 
@@ -133,9 +142,11 @@ Up, down, into the board, out of the board
 
 > Exists in a conductor moving through a magnetic field in a perpendicular direction.
 
+$$
 \begin{aligned}
     & V=BvL
 \end{aligned}
+$$
 
 - $V$ is the induced voltage (V, Volts)
 - $B$ is the magnetic field strength (T, Tesla)
@@ -157,17 +168,21 @@ A metal rod is moved in a magnetic field. The rod is $24cm$ long and moves at $8
 
 #### Whakatika
 
+$$
 \begin{aligned}
     & V = BvL \newline
     & V = 0.7 \times 8 \times 0.24 \newline
     & V = 1.344V
 \end{aligned}
+$$
 
+$$
 \begin{aligned}
     & V = IR \newline
     & I = \frac{V}{R} \newline
     & I = \frac{1.344}{10} = 0.1344A
 \end{aligned}
+$$
 
 ---
 
