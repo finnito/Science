@@ -192,14 +192,14 @@ callPandoc() {
         echo "    Built ${name}.md --> slides/${numberlessName}.html"
     fi
 
-    pandoc "${name}.md" \
-        --to=pdf \
-        --output="pdfs/${numberlessName}.pdf" \
-        --metadata=classoption:fleqn \
-        --resource-path=.:assets
-    if [ $? == 0 ]; then
-        echo "    Built ${name}.md --> pdfs/${numberlessName}.pdf"
-    fi
+    # pandoc "${name}.md" \
+    #     --to=pdf \
+    #     --output="pdfs/${numberlessName}.pdf" \
+    #     --metadata=classoption:fleqn \
+    #     --resource-path=.:assets
+    # if [ $? == 0 ]; then
+    #     echo "    Built ${name}.md --> pdfs/${numberlessName}.pdf"
+    # fi
 }
 
 runHugo() {
