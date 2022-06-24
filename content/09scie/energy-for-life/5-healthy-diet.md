@@ -3,19 +3,6 @@ title: Healthy Diet
 slug: healthy-diet
 weight: 5
 subtitle: 9SCIE - Energy for Life
-author: Finn LeSueur
-date: 2020
-theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
-- \usepackage{wrapfig}
 ---
 
 ## Mahi Tuatahi
@@ -67,3 +54,39 @@ Use a full page of your book to make a poster explaining a special diet you have
 - Perhaps a food pyramid
 - The type of nutrients being focussed on in the diet
 - Example meal plans
+
+---
+
+## Calories and Fat
+
+- Kilojoules in food: <input type="number" id="kJ" placeholder="230"/>
+- Kilojoules per week: <span class="kJ-num"></span>kJ x 7 = <span id="kJ-per-week"></span>kJ
+- Kilojoules per year: <span class="kJ-num"></span>kJ x 365 = <span class="kJ-per-year"></span>kJ
+- 37.7kJ will turn into 1 gram of fat, therefore
+- Fat per year: <span class="kJ-per-year"></span>kJ / 37.7 = <span id="grams-per-year"></span>g = <span id="kg-per-year"></span>kg
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+	document.querySelector("input#kJ").addEventListener("input", function(e) {
+
+		var kJ = e.target.value;
+		
+		// Update kJ numbers
+		document.querySelectorAll(".kJ-num").forEach(function(el) {
+			el.innerText = kJ;
+		});
+
+		// Calculate kJ per week
+		document.querySelector("#kJ-per-week").innerText = kJ * 7;
+
+		// Calculate kJ per year
+		document.querySelectorAll(".kJ-per-year").forEach(function(el) {
+			el.innerText = kJ * 365;
+		});
+
+		// Calculate fat per year
+		document.querySelector("#grams-per-year").innerText = Math.round((kJ * 365) / 37.7);
+		document.querySelector("#kg-per-year").innerText = Math.round((kJ * 365) / 37700);
+	});
+});
+</script>

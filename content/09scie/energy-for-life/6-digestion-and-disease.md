@@ -3,19 +3,6 @@ title: Digestion and Disease
 slug: digestion-and-disease
 weight: 6
 subtitle: 9SCIE - Energy for Life
-author: Finn LeSueur
-date: 2020
-theme: finn
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
-- \usepackage{wrapfig}
 ---
 
 ## Mahi Tuatahi
@@ -23,6 +10,10 @@ header-includes:
 1. Name a machine that transforms gravitational potential energy to electrical energy
 2. What is the chemical element, __K__, and what food is a good source of it? 
 3. What vitamin is used in building eyes?
+
+---
+
+<iframe width="790" height="444" src="https://www.youtube.com/embed/yAJrsd0jW6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -58,6 +49,10 @@ The digestive system is essentially a very long tube, going from your mouth to y
 - Small food molecules can pass through the walls of the small intestine and then dissolve into the blood stream. Large food molecules cannot do this.
 
 > __Insoluble__: adjective - means that it cannot dissolve in water (e.g. oil)
+
+---
+
+![](https://i.imgflip.com/6i1226.jpg)
 
 ---
 
