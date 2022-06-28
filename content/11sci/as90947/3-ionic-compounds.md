@@ -110,9 +110,9 @@ By giving/receiving electrons they form an __ion__  becoming positive or negativ
 
 ## Tākaro / Game!
 
-- Form into your table groups/pairs with a whiteboard. We are going to make some ionic compounds. Most points wins!
+- Form into pairs with a whiteboard/back of your book. We are going to make some ionic compounds. Most points wins!
 
-Your answer is simply to give the compound like this: $NaOH$
+Your answer is simply to give the compound like this: $NaOH$ which has 1x $Na^{+}$ ion and 1x $OH^{-1}$ ion.
 
 ---
 
