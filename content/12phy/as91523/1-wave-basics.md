@@ -1,11 +1,8 @@
 ---
 title: Wave Basics
-subtitle: 12PHYS - Wave Systems
-author: Finn LeSueur
-date: 2021
-weight: 1
-theme: finn
 slug: wave-basics
+subtitle: 12PHYS - Wave Systems
+weight: 1
 ---
 
 ## About the Unit
@@ -22,7 +19,7 @@ To start this unit off we are going to spend a week doing some learning about th
 
 ---
 
-## What is a wave?
+## Pātai: What is a wave?
 
 Energy can be transferred from one place to another through either kinetic or electromagnetic waves.
 
@@ -75,9 +72,6 @@ __Task:__ Sketch this unlabelled wave into your book on the axis.
 - __Trough:__ The lowest point on a wave
 - __Amplitude (A):__ The distance of greatest displacement from rest on the wave (midpoint to peak, midpoint to trough) (in $m$)
 - __Wavelength $\lambda$:__ The distance (in $m$) between consecutive points of idential displacement on the wave (peak to peak, trough to trough, midpoint to midpoint etc.)
-
----
-
 - __Compression:__ The point where the particles are most squished together
 - __Expansion:__ The point where the particles are most spread out
 - __Velocity $v$:__ The velocity (in $ms^{-1}$) of the wave shape
@@ -101,30 +95,50 @@ __Task:__ Sketch this unlabelled wave into your book on the axis.
 
 ---
 
-The period is very closely linked to the frequency as you can see from their definitions. There is a very simple formula for converting between them:
+### Ngohe/Task: Period vs Frequency
 
-\begin{aligned}
-    & T = \frac{1}{f} \newline
-    & f = \frac{1}{T}
-\end{aligned}
+Collect a sheet each, follow the instructions to sort the statement about period and frequency into columns. Be ready to glue them in!
 
 ---
+
+The period is very closely linked to the frequency as you can see from their definitions. There is a very simple formula for converting between them:
+
+$$
+\begin{aligned}
+    T &= \frac{1}{f} \newline
+    f &= \frac{1}{T}
+\end{aligned}
+$$
+
+---
+
+## The Wave Equation
 
 We can also relate the __velocity__, __frequency__, and __wavelength__ with the __wave equation__:
 
+$$
 \begin{aligned}
-v = f\lambda
+    v &= f\lambda
 \end{aligned}
+$$
+
+<p class="ins">Label each part of this equation with its name and unit.</p>
 
 ---
 
-### Pātai Tahi
+### Pātai
 
-Mathieu is surfing at Taylors Mistake and decides to count the waves. He notices that 3 waves pass him 60s.
+Mathieu is surfing at Taylors Mistake and decides to count the waves. He notices that 3 waves pass him over 60s.
 
 1. What is the frequency of the waves?
 2. What is the period of the waves?
 3. A lifeguard measures the velocity of the waves to $300cms^{-1}$. What is their wavelength?
+
+---
+
+### Ngohe / Task
+
+Worksheet!
 
 ---
 
@@ -154,8 +168,10 @@ Red light has a wavelength of approximately $400nm$ and travels at approximately
 
 ### Nodes and Anti-Nodes
 
-- A __node__ (think: no amplitude) is a place of _minimum_ amplitude
-- An __anti-node__ is a place of _maximum_ amplitude
+When waves interfere, they combine!
+
+- A __node__ (think: no amplitude) is a place of _minimum_ amplitude (destructive)
+- An __anti-node__ is a place of _maximum_ amplitude (constructive)
 
 ![](../assets/nodes-antinodes.png "")
 
