@@ -118,11 +118,11 @@ $$
 
 ---
 
-#### Ngohe/Task: Write a symbol equation for this reaction
+#### Ngohe/Task: Write a word and symbol equation for this reaction
 
 Jake adds 1ml of copper sulfate to 1ml of sodium hydroxide and predicts that copper hydroxide and sodium sulfate will be produced.
 
-<!-- <iframe width="1280" height="720" src="https://www.youtube.com/embed/bo3K6zALi_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="720" height="300" src="https://www.youtube.com/embed/bo3K6zALi_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -217,5 +217,5 @@ Balanced!
 
 ### Mahi / Work
 
-- Worksheet
+- Worksheet (work together to make sure you get it right!)
 - sciPad page 30, 31 and 29.
