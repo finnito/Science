@@ -124,17 +124,25 @@ iframe { display: block; margin: auto; }
 }
 
 .reveal .instruction,
+.reveal .ins,
+.reveal .patai,
 mark {
   background-color: rgba(246, 229, 141, 0.75);
   padding: 0 0.25rem;
   border-radius: 0.25rem;
 }
 
-.reveal .instruction::before {
+.reveal .instruction::before,
+.reveal .ins::before {
   content: "❗️";
 }
 
-.reveal .instruction p {
+.reveal .patai::before {
+  content:  "❓";
+}
+
+.reveal .instruction p,
+.reveal .ins p {
   display: inline-block;
   margin: 0;
 }
