@@ -142,7 +142,7 @@ Worksheet!
 
 ---
 
-### Akoranga 3 Mahi Tuatahi
+### Mahi Tuatahi
 
 Red light has a wavelength of approximately $400nm$ and travels at approximately $3\times10^{8}ms^{-1}$.
 
@@ -210,14 +210,26 @@ When waves interfere, they combine!
 - Wavelength is compressed in dense mediums, and expanded in faster mediums.
 - <mark>Frequency is __constant__ across mediums</mark>
 
+$$
 \begin{aligned}
     f_{thick} &= f_{thin} && \text{Substitute $v=f\lambda$} \newline
     \frac{v_{thick}}{\lambda_{thick}} &= \frac{v_{thin}}{\lambda_{thin}}
 \end{aligned}
+$$
 
 ---
 
 <iframe width="958" height="766" src="https://www.youtube.com/embed/jUQkG1A0_Sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Frequency and Sound
+
+- The frequency of a sound wave determines the _pitch_ that you hear
+- A low frequency is a low pitch (low note)
+- A high frequency is a high pitch (high note)
+
+https://www.onlinetonegenerator.com/hearingtest.html
 
 ---
 
