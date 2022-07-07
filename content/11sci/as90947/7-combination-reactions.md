@@ -137,3 +137,19 @@ $$
 | **Achieved**                                       | **Merit**                                                                                          | **Excellence**                                                                                                                                                                                  |
 |----------------------------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Reaction ONE is combination with some description. | Reaction type explained for reaction one __OR__ reaction two PLUS one unbalanced reaction correct. | Comprehensive answer including justification of __both__ reaction types, reference to electron transfer during combination, reference to solubility and balanced equation for __ONE__ reaction. |
+
+---
+
+## Mahi Tuatahi
+
+1. Quiz on elements/ions/compounds
+2. Describe a combination reaction, give a _generic_ formula and explain what observations would indicate to you that one has occurred.
+
+---
+
+## Anions and Cations
+
+- __Anion__: A negatively charged ion
+    + Form when a non-metal atom gains an electron from a metal $O^{2-}$
+- __Cation__: A positively charged ion
+    + Typically metals form cations e.g $Mg^{2+}$
