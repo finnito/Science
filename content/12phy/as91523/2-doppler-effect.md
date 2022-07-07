@@ -1,10 +1,7 @@
 ---
 title: Doppler Effect
 subtitle: 12PHYS - Wave Systems
-author: Finn LeSueur
-date: 2021
 weight: 2
-theme: finn
 slug: doppler-effect
 ---
 
@@ -47,13 +44,32 @@ Bodgan is observing a star through a telescope, and it appears to be orange. He 
 
 ---
 
+## {.c2}
+
+![](../assets/doppler-stationary-diagram.jpg)
+
+![](../assets/doppler-moving-diagram.jpg)
+
+---
+
 ### A Diagram {.c2}
 
 ![](../assets/doppler-effect.png)
 
+- <mark>Describe the wavelength and thus the frequency (pitch) in each location.</mark>
 - __In Front__:<br><br>
 - __Behind__:<br><br>
 - __Perpendicular__:<br><br>
+
+---
+
+### A Diagram {.c2}
+
+![](../assets/doppler-effect.png)
+
+- __In Front__:<br>The wavelength is compressed: a higher frequency (pitch) is heard.<br>
+- __Behind__:<br>The wavelength is expanded/rarefacted: a lower frequency (pitch) is heard.<br>
+- __Perpendicular__:<br>The object is neither moving away or towards so the wavelength is not changed, so the wavelength is not changed and the original frequency is heard.<br>
 
 ---
 
@@ -73,10 +89,12 @@ Bodgan is observing a star through a telescope, and it appears to be orange. He 
 - To work with the __Doppler effect__ we will need to be confident using the equations we learned last week!
 - If you do not have these equations in your book, copy them down and include the units for each variable.
 
+$$
 \begin{aligned}
     v &= f\lambda \newline
     f &= \frac{1}{T}
 \end{aligned}
+$$
 
 ---
 
@@ -90,7 +108,7 @@ Police can use radar guns to measure the amount of compression or expansion of t
 
 ---
 
-## Mahi Tuatahi
+## Converting Units
 
 1. Convert $1000m$ into $Mm$
 2. Convert $1000m$ into $mm$
@@ -104,24 +122,26 @@ Police can use radar guns to measure the amount of compression or expansion of t
 
 ### Doppler Equation
 
+$$
 \begin{aligned}
     & f' = f\frac{v_{w}}{v_{w} \pm v_{s}}
 \end{aligned}
+$$
 
-- $v_{w}$: the velocity of the wave in the medium
-- $v_{s}$: the velocity of the source
-- $f$: the __actual__ frequency of the wave produced by the source ($Hz$)
+- $v_{w}$: the velocity of the wave in the medium ($ms^{-1}$)
+- $v_{s}$: the velocity of the source ($ms^{-1}$)
+- $f$: the __actual emitted__ frequency of the wave produced by the source ($Hz$)
 - $f'$: the __observed__ frequency of the wave ($Hz$)
 
 ---
 
 #### Pātai: What is the $\pm$ symbol?
 
-- Literally: plus or minus
+- Literally: plus OR minus
 - In words: $v_{w} \pm v_{s}$ means __the velocity of the wave relative to the source__
-- __Approaching__: $-$ because the wave and source are moving in the same direction, <mark>the wave appears to be moving slower relative to the source</mark>
+- __Approaching__: $f' = f\frac{v_{w}}{v_{w} - v_{s}}$ because the wave and source are moving in the same direction, <mark>the wave appears to be moving slower relative to the source</mark>
     + Wavefront is compressed, wavelength is shorter, frequency is higher, pitch is higher
-- __Receding__: $+$ because the wave and source are moving in opposite directions, <mark>the wave appears to be moving faster relative to the source</mark>
+- __Receding__: $f' = f\frac{v_{w}}{v_{w} + v_{s}}$ because the wave and source are moving in opposite directions, <mark>the wave appears to be moving faster relative to the source</mark>
     + Wavefront is expanded, wavelength is longer, frequency is less, pitch is lower
 
 ---
@@ -179,7 +199,35 @@ Cameron is watching a plane by the airport. Its engines emit sound at $2000Hz$; 
 
 ---
 
-#### Textbook Activity 6A Q1-2: The Doppler Effect
+#### Textbook Activity 6A Q1-3: The Doppler Effect
+
+---
+
+## Calculating Source Velocity
+
+- If you know both $f$, $f'$, and $v_{w}$ you choose the correct version of $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$ and solve ✅
+- If you do not know $f$, but know $f_{approaching}$ and $f_{receeding}$ then you need to substitute it out
+- Unfortunately $f$ is not the midpoint being $f_{r}$ and $f_{r}$ for the same reason that the average of 1/4 and 1/6 is __not__ 1/5.
+
+$$
+\begin{aligned}
+    f' &= f\frac{v_{w}}{v_{w} \pm v_{s}}
+\end{aligned}
+$$
+
+---
+
+To solve, rearrange the dopper formula to make $f$ the subject and then set $f_{approaching} = f_{receeding}$.
+
+$$
+\begin{aligned}
+    f' &= f\frac{v_{w}}{v_{w} \pm v_{s}} \newline
+    f &= f' \frac{v_{w} \pm v_{s}}{v_{w}} \newline\newline
+    f_{approaching} &= f_{receeding} \newline
+    f_{a} \frac{v_{w} - v_{s}}{v_{w}} &= f_{r} \frac{v_{w} + v_{s}}{v_{w}} \newline
+    \text{substitute and solve...}
+\end{aligned}
+$$
 
 ---
 

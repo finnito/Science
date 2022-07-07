@@ -183,6 +183,16 @@ When waves interfere, they combine!
 
 ---
 
+## Mahi Tuatahi
+
+You have 15min max!
+
+1. Collect a handout
+2. Glue it in
+3. Complete Q1-6 in the Waves Calculations section
+
+---
+
 ## Pulses & Reflection {.c2}
 
 - Wave pulses that travel down a medium can be reflected by a _fixed point_ (e.g. wall).
@@ -223,16 +233,35 @@ $$
 
 ---
 
+### Task / Ngohe
+
+1. Collect a sheet.
+2. Use your notes to help you write a paragraph to describe each wave situation.
+
+---
+
+#### Whakatika Tahi
+
+As the wave impacts the wall its energy is reflected. Because the wall is a fixed point, the wave is inverted. In this case, we can see that no energy is lost (ideal world) because the amplitude has not changed. As it is travelling in the same medium the speed is the same, and given a constant frequency, the wavelength is also the same.
+
+---
+
+#### Whakatika Rua
+
+As the incident pulse encounters the change in medium most of the energy is transmitted, but some is reflected. This reflected pulse is not inverted. The transmitted pulse therefore has less energy and less amplitude. In the less dense medium it travels faster, but due to constant frequency it must have a longer wavelength which we can see.
+
+---
+
 ## Frequency and Sound
 
 - The frequency of a sound wave determines the _pitch_ that you hear
 - A low frequency is a low pitch (low note)
 - A high frequency is a high pitch (high note)
 
-https://www.onlinetonegenerator.com/hearingtest.html
+[https://www.onlinetonegenerator.com/hearingtest.html](https://www.onlinetonegenerator.com/hearingtest.html)
 
 ---
 
 #### Task/Ngohe
 
-Homework Booklet Q5!
+Homework Booklet Q6!
