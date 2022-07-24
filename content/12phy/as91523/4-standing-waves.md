@@ -37,15 +37,6 @@ Most musical instruments produce sound through vibration of __standing waves__ i
 
 ---
 
-## Nodes & Antinodes
-
-- __Node__: A point of __no__ displacement from equilibrium
-- __Antinode__: A point of maximum displacement from equilibrium
-
-![](https://cdn.kastatic.org/ka-perseus-images/2f2b6c53066b589674b9fec84b60d4c3d9248cce.png "")
-
----
-
 ## Producing Standing Waves
 
 - Because both ends of the string have to be nodes, only certain frequencies will be able to produce standing waves (certain multiples of the wavelength).
@@ -70,31 +61,46 @@ Most musical instruments produce sound through vibration of __standing waves__ i
 
 - The length of the string is defined as $L$
 - The frequency with the longest wavelength that fits into the string/pipe is called the __fundamental__ (resonant frequency) or __1st harmonic__
-- On a string, the fundamental has $\lambda = 2L$
+- On a string, the fundamental has $\lambda = 2L$ but generally it is given by $\lambda = \frac{2L}{n}$
 
 ![](https://www.a-levelphysicstutor.com/images/waves/strings-diag-fund.jpg)
 
 ---
 
-## Question 1
+## Pātai Tahi
 
-Calculate the fundamental frequency of a string with length 25cm, where the speed of sound is $330ms^{-1}$.
+A string has length $0.25m$ and speed of sound $330ms^{-1}$.
+
+1. Calculate the fundamental frequency
+2. Calculate the 3rd harmonic
 
 ---
 
+### Whakatika Tahi
+
+1st Harmonic (Fundamental) Frequency:
+
 $$
 \begin{aligned}
-    \lambda &= \frac{1}{2} \times 0.25m = 0.125m\newline
-    f &= v \times \lambda \newline
-    f &= 330 \times 0.125 = 41.25Hz
+    \lambda_{1} &= \frac{2L}{n} = \frac{2 \times 0.25}{1} = 0.5m \newline
+    f_{1} &= \frac{v}{\lambda_{1}} \newline
+    f_{1} &= \frac{330}{0.5} = 660Hz
 \end{aligned}
 $$
 
 ---
 
-## Question 2
+### Whakatika Rua
 
-Calculate the 3rd harmonic for a string with length 25cm where the speed of sound is $330ms^{-1}$.
+3rd Harmonic Frequency:
+
+$$
+\begin{aligned}
+    \lambda_{3} &= \frac{2L}{n} = \frac{2 \times 0.25}{3} = 0.167m \newline
+    f_{3} &= \frac{v}{\lambda_{3}} \newline
+    f_{3} &= \frac{330}{0.167} = 1976Hz
+\end{aligned}
+$$
 
 ---
 

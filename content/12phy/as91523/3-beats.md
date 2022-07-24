@@ -24,27 +24,21 @@ slug: beats
 
 ---
 
-### Nodes and Anti-Nodes
+### Recall: Doppler Shift {.c2}
 
-- A __node__ (think: no amplitude) is a place of _minimum_ amplitude
-- An __anti-node__ is a place of _maximum_ amplitude
+- __A change in wave frequency due to the motion of emitter or observer__
+- Moving towards gives a higher frequency, and away a lower frequency
 
-![](../assets/nodes-antinodes.png "")
-
----
-
-<iframe width="657" height="370" src="https://www.youtube.com/embed/uKrvTA4SKVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-<iframe width="1920" height="800" src="https://www.youtube.com/embed/yia8spG8OmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](../assets/doppler-effect.png)
 
 ---
 
 ## Beats
 
+> A periodic change in __loudness__ of a sound.
+
+- Produced when waves with similar frequencies interfere.
 - Waves with different frequencies will slowly change their alignment (phase) over time, thus causing the interference to change.
-- This changing interference _can_ give rise to periodic changes in volume (amplitude)
 
 ---
 
@@ -65,7 +59,7 @@ For beats to occur we need:
 
 $$
 \begin{aligned}
-    & f_{b} = |f_{2} - f_{1}|
+    f_{b} &= |f_{2} - f_{1}|
 \end{aligned}
 $$
 
@@ -83,12 +77,13 @@ __Calculate the frequency of the beats observed by them both.__
 
 #### Whakatika Tahi
 
-This equation $f_{b} = |f_{2} - f_{1}|$ mainly tells us that the beat frequency is the difference between the two frequencies.
+This equation $f_{b} = |f_{2} - f_{1}|$ mainly tells us that the beat frequency is the __absolute__ difference between the two frequencies.
 
 $$
 \begin{aligned}
-    & f_{b} = f_{b} = |f_{2} - f_{1}| \newline
-    & f_{b} = 107 - 100 = 7Hz
+    f_{b} &= f_{b} = |f_{2} - f_{1}| \newline
+    f_{b} &= |100 - 107| = 7Hz \newline
+    f_{b} &= |107 - 100| = 7Hz
 \end{aligned}
 $$
 
@@ -98,7 +93,7 @@ $$
 
 Jules is tuning the middle C key on a piano. He is using a tuning fork which produces a frequency of $257Hz$ as a reference. The key is slightly out of tune and a beat frequency of $4Hz$ is heard.
 
-__Calculate the frequency of the out of tune key.__ Note any considerations you need to have regarding this calculation.
+__Calculate the frequency of the out of tune key.__ Note any stumbling blocks you encounter!
 
 ---
 
@@ -106,13 +101,13 @@ __Calculate the frequency of the out of tune key.__ Note any considerations you 
 
 $$
 \begin{aligned}
-    f_{b} &= f_{b} = |f_{2} - f_{1}| \newline
+    f_{b} &= |f_{2} - f_{1}| \newline
     4 &= 256 - f_{k} = 252Hz \newline
     4 &= 256 + f_{k} = 260Hz
 \end{aligned}
 $$
 
-On paper we cannot tell which of the frequencies the key should have. In person, with a good musical ear, a person could tell if the key is sharp (high) or flat (low).
+On paper we cannot tell which of the frequencies the key should have. In person, someone with a good musical ear could tell if the key is sharp (high) or flat (low).
 
 ---
 
@@ -123,22 +118,27 @@ On paper we cannot tell which of the frequencies the key should have. In person,
 
 ---
 
-### Pātai Toru 
+### Pātai Toru
 
 Both Josh and Zak are holding identical devices emitting a frequency of $100Hz$. Josh walks away from him again while Zak listens. Zak observes a beat frequency of $3Hz$. The speed of sound is $343ms^{-1}$.
 
-1. __How fast is Josh walking ($v_{s}$)?__
-    a. __Step 1__: Calculate $f'$ that Zak is observing from Josh's device ($f_{b} = |f_{2} - f_{1}|$)
-    b. __Step 2__: Use this value to find $v_{s}$ in $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$
+1. How fast is Josh walking ($v_{s}$)?
+
+Hint:
+
+a. __Step 1__: Calculate $f'$ that Zak is observing from Josh's device ($f_{b} = |f_{2} - f_{1}|$)
+b. __Step 2__: Use this value to find $v_{s}$ in $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$
 
 ---
 
 #### Whakatika Toru a)
 
+$$
 \begin{aligned}
     f_{b} &= |f_{2} - f_{1}| \newline
     f &= 103 \text{ or } 97
 \end{aligned}
+$$
 
 Because Josh is walking __away__, the frequency should be lower, so $90Hz$.
 
@@ -146,6 +146,7 @@ Because Josh is walking __away__, the frequency should be lower, so $90Hz$.
 
 #### Whakatika Toru b)
 
+$$
 \begin{aligned}
     f' &= f \frac{v_{w}}{v_{w} \pm v_{s}} \text{(+ because away)} \newline
     97 &= 100 \frac{343}{343 + v_{s}} \newline
@@ -154,6 +155,7 @@ Because Josh is walking __away__, the frequency should be lower, so $90Hz$.
     343 + v_{s} &= \frac{343}{0.97} \newline
     v_{s} &= \frac{343}{0.97} - 343 = 10.6ms^{-1}
 \end{aligned}
+$$
 
 ---
 
@@ -174,15 +176,18 @@ Josh is back holding his device. It is now emitting a frequency of $125Hz$, and 
 
 ### Te Whakatika
 
+$$
 \begin{aligned}
     f_{b} &= f' - f \newline
     f_{b} - f &= f' = 130.5Hz \text{ OR } 119.5Hz
 \end{aligned}
+$$
 
 Because Zak is running __away__, the frequency should be decreased: $f' = 119.5Hz$
 
 ---
 
+$$
 \begin{aligned}
     f' &= f\frac{v_{w}}{v_{w} \pm v_{s}}\newline
     119.5 &= 125 \frac{343}{343 + v_{s}} \newline
@@ -191,6 +196,7 @@ Because Zak is running __away__, the frequency should be decreased: $f' = 119.5H
     v_{s} &= \frac{343}{0.956} - 343 \newline
     &= 15.7ms^{-1}
 \end{aligned}
+$$
 
 ---
 
@@ -207,4 +213,3 @@ Because Zak is running __away__, the frequency should be decreased: $f' = 119.5H
 ## Mahi Kāinga
 
 - Mahi Kāinga Booklet Question 8, due Monday August 3rd
-- Tutorials Tuesday & Friday lunchtime in A3
