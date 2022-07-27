@@ -146,7 +146,7 @@ $$
 
 ---
 
-#### Pātai Rua: The Ambulance
+#### Pātai Rua: The Ambulance (Finding $f'$)
 
 A doctor at the hospital hears an ambulance leave the hospital at $30km/h$ and return 15 minutes later at a speed of $35km/h$. Both times its siren is sounding at a frequency of $400Hz$. Sound waves travel at $343ms^{-1}$ in the atmosphere.
 
@@ -177,7 +177,7 @@ A doctor at the hospital hears an ambulance leave the hospital at $30km/h$ and r
 
 ---
 
-### Pātai Toru: The Airport
+### Pātai Toru: The Airport (finding $v_{s}$)
 
 Cameron is watching a plane by the airport. Its engines emit sound at $2000Hz$; the speed of sound in air is $330ms^{-1}$.
 
@@ -199,11 +199,42 @@ Cameron is watching a plane by the airport. Its engines emit sound at $2000Hz$; 
 
 ---
 
+#### Pātai Rima: [52-hertz Whale](https://en.wikipedia.org/wiki/52-hertz_whale) (finding $v_{w}$)
+
+Since the 1980s a single whale has been observed making calls at a frequency of $52Hz$. The whale itself has never been sighted -- only observed through hydrophones. One hydrophone recorded a frequency of $50.11267Hz$.
+
+<audio controls>
+    <source src="https://en.wikipedia.org/wiki/File:Ak52_10x.ogg" type="audio/ogg">
+</audio>
+This recording has been sped up 10x to a frequency of approximately $520Hz$.
+
+1. Was the whale moving towards or away from the hydrophone? Justify your answer.
+2. Calculate the speed of sound in the water, given a whale feeding speed of approximately $3.35ms^{-1}$
+
+---
+
+##### Whakatika
+
+$$
+\begin{aligned}
+    f&=50Hz, f'=50.11267Hz, v_{s}=3.35ms^{-1} \newline
+    f' &= f \frac{v_{w}}{v_{w} - v_{s}} \newline
+    50.11267 &= 50 \frac{v_{w}}{v_{w} - 3.35} \newline
+    1.0022534 \times (v_{w} - 3.35) &= v_{w} \newline
+    1.0022534v_{w} - 3.35754889 &= v_{w} \newline
+    1.0022534v_{w} - v_{w} &= 3.35754889 \newline
+    v_{w}(1.0022534 - 1) &= 3.35754889 \newline
+    v_{w} &= \frac{3.35754889}{1.0022534 - 1} = 1489.99ms^{-1}
+\end{aligned}
+$$
+
+---
+
 #### Textbook Activity 6A Q1-3: The Doppler Effect
 
 ---
 
-## Calculating Source Velocity
+## Calculating $v_{s}$ without $f$
 
 - If you know both $f$, $f'$, and $v_{w}$ you choose the correct version of $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$ and solve ✅
 - If you do not know $f$, but know $f_{approaching}$ and $f_{receeding}$ then you need to substitute it out
@@ -228,6 +259,22 @@ $$
     \text{substitute and solve...}
 \end{aligned}
 $$
+
+---
+
+## Describing Doppler at Different Distances
+
+---
+
+## Ngā Pūkenga / Skills
+
+I can:
+
+1. Calculate $f'$
+2. Calculate $v_{s}$
+3. Calculate $v_{w}$
+4. Calculate $v_{s}$ without knowing $f$
+5. Explain how doppler is affected by the distance at which the object passes
 
 ---
 
