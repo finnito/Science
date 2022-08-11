@@ -1,8 +1,8 @@
 ---
 title: Standing Waves
+slug: standing-waves
 subtitle: 12PHYS - Wave Systems
 weight: 4
-slug: standing-waves
 ---
 
 ## Ngā Whāinga Ako
@@ -15,55 +15,74 @@ Explain the basic structure and wavelength of a standing wave
 
 Most musical instruments produce sound through vibration of __standing waves__ in strings or columns of air.
 
-<iframe width="1920" height="800" src="https://www.youtube.com/embed/RNt8d6vJj8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000" height="420" src="https://www.youtube.com/embed/RNt8d6vJj8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-## Waves in a String
+## Recall: Waves in a String {.c2}
 
 1. The particles oscillate perpendicular to the direction of the wave,
 2. the wave _appears_ to move along the string,
-3. the wave is reflected and can travel back and forth
+3. the wave is reflected and can travel back and forth.
 
 ![](../assets/wave-in-a-string.gif "")
 
 ---
 
-- When two identical waves travelling in opposite directions interfere, they can form a standing (stationary) wave.
-- No energy is transferred in a standing wave, because the particles are oscillating around a point of equilibrium.
+
+- <mark>When the wave reflects at the fixed point, it is inverted and will interfere with other waves.</mark>
 - Peaks and troughs are points of maximum potential energy, and the line of equilibrium is a point of maximum kinetic energy.
+- <mark>Most waves that interfere this way will having moving nodes and antinodes (non-standing waves).</mark>
+
+![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ophysics.com%2Fwaves%2Fimages%2Fpulses.gif&f=1&nofb=1)
+
+---
+
+## Producing Standing Waves {.c2}
+
+- For a string that is _fixed_ at both ends, only waves with the correct wavelength to put a __node__ at each end will form a standing wave.
+- Waves that do not 'fit' will not form a standing wave.
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FMeIrH28tcxlLO%2Fgiphy.gif&f=1&nofb=1)
+
+---
+
+## {.c2}
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FMeIrH28tcxlLO%2Fgiphy.gif&f=1&nofb=1)
 
 ![](../assets/standing_waves_on_a_string.gif "")
 
 ---
 
-## Producing Standing Waves
-
-- Because both ends of the string have to be nodes, only certain frequencies will be able to produce standing waves (certain multiples of the wavelength).
-
-![](../assets/standing_waves_on_a_string.gif "")
+<iframe width="1000" height="420" src="https://www.youtube.com/embed/O1-CRFcX980" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-<iframe width="1920" height="800" src="https://www.youtube.com/embed/O1-CRFcX980" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000" height="420" src="https://www.youtube.com/embed/LT7MOirwZdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-<iframe width="1920" height="800" src="https://www.youtube.com/embed/LT7MOirwZdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-<iframe width="1920" height="800" src="https://www.youtube.com/embed/2awbKQ2DLRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000" height="420" src="https://www.youtube.com/embed/2awbKQ2DLRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 ## Standing Waves {.c2}
 
-- The length of the string is defined as $L$
-- The frequency with the longest wavelength that fits into the string/pipe is called the __fundamental__ (resonant frequency) or __1st harmonic__
-- On a string, the fundamental has $\lambda = 2L$ but generally it is given by $\lambda = \frac{2L}{n}$
+- The length of the oscillator is defined as $L$
+- The frequency with the longest wavelength that fits into the string/pipe is called the __fundamental resonant frequency__ or __1st harmonic__
+- On a string, resonant wavelengths are given by $\lambda = \frac{2L}{n}$ where $n$ is the _number resonant frequency_.
 
 ![](https://www.a-levelphysicstutor.com/images/waves/strings-diag-fund.jpg)
+
+---
+
+### Impact of $L$ on $f$ {.c2}
+
+- Using $\lambda = \frac{2L}{n}$ for a string, we can see the longer the oscillator, the longer the fundamental wavelength.
+- Then using $f = \frac{v}{\lambda}$ we can see that this leads to a lower fundamental frequency (lower pitch).
+
+![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ultimatesongwriting.com%2Fwp-content%2Fuploads%2F2017%2F01%2Ftypes_of_saxophones.jpg&f=1&nofb=1)
 
 ---
 
@@ -120,9 +139,10 @@ Quinn strums a ukulele string such that is oscillates at the 3rd harmonic. The s
 
 ## Timbre {.c2}
 
-- Different instruments playing the same frequency will produce a different set of harmonics, causing the quality of the note to be quite different.
+- An instrument will vibrate at multiple different resonant frequencies (overtones), but the loudest frequency is the _note_ that is heard.
+- Different instruments playing the same note will produce a different set of harmonics (overtones), causing the quality of the note to be quite different.
 
-![](https://p7.hiclipart.com/preview/99/177/124/wavetable-synthesis-additive-synthesis-sound-synthesizers-waveform-timbre-waveform.jpg)
+![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F_mRHX7TPXcLg%2FS-_v7PfZhzI%2FAAAAAAAAAu8%2FJYwmIncvlEI%2Fw1200-h630-p-k-no-nu%2FScreen%2Bshot%2B2010-05-16%2Bat%2B12.52.27.png&f=1&nofb=1)
 
 ---
 
@@ -155,7 +175,7 @@ Quizziz: https://quizizz.com/admin/quiz/5a7d8747b69214001faec0e9/standing-waves
 ## Musical Wind Instruments
 
 - In order to produce different frequencies in a wind instrument, wind is generally sent past a sharp lip.
-- This sharp lip will create a large number of frequencies, but only specific ones will produce standing waves and therefore resonant frequencies.
+- Air moving past this sharp lip will create a large number of frequencies, but only specific ones will produce standing waves and therefore resonant frequencies.
 
 ![](../assets/sharp-lip.png)
 

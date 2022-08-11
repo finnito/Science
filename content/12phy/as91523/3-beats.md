@@ -1,11 +1,8 @@
 ---
 title: Beats
-subtitle: 12PHYS - Wave Systems
-author: Finn LeSueur
-date: 2021
-weight: 3
-theme: finn
 slug: beats
+subtitle: 12PHYS - Wave Systems
+weight: 3
 ---
 
 ## Ngā Whāinga Ako
@@ -63,7 +60,7 @@ $$
 \end{aligned}
 $$
 
-<mark>This equation is not given to your in your formula sheet.</mark>
+<mark>This equation is not given on your your formula sheet.</mark>
 
 ---
 
@@ -102,8 +99,8 @@ __Calculate the frequency of the out of tune key.__ Note any stumbling blocks yo
 $$
 \begin{aligned}
     f_{b} &= |f_{2} - f_{1}| \newline
-    4 &= 256 - f_{k} = 252Hz \newline
-    4 &= 256 + f_{k} = 260Hz
+    4 &= 257 - f_{k} = 253Hz \newline
+    4 &= f_{k} - 257 = 261Hz
 \end{aligned}
 $$
 
@@ -122,12 +119,11 @@ On paper we cannot tell which of the frequencies the key should have. In person,
 
 Both Josh and Zak are holding identical devices emitting a frequency of $100Hz$. Josh walks away from him again while Zak listens. Zak observes a beat frequency of $3Hz$. The speed of sound is $343ms^{-1}$.
 
-1. How fast is Josh walking ($v_{s}$)?
+__SHOW that Josh is walking at a speed of $v_{s} = 10.6ms^{-1}$.__
 
-Hint:
+__Step 1__: Calculate $f'$ that Zak is observing from Josh's device ($f_{b} = |f_{2} - f_{1}|$)
 
-a. __Step 1__: Calculate $f'$ that Zak is observing from Josh's device ($f_{b} = |f_{2} - f_{1}|$)
-b. __Step 2__: Use this value to find $v_{s}$ in $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$
+__Step 2__: Use this value to find $v_{s}$ in $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$
 
 ---
 
@@ -162,41 +158,6 @@ $$
 ## Mahi Kāinga
 
 - Mahi Kāinga Booklet Question 8, due Monday August 2nd/3rd
-
----
-
-## Mahi Tuatahi
-
-Josh is back holding his device. It is now emitting a frequency of $125Hz$, and Zak is running past him. He hears a beat frequency of $5.5Hz$.
-
-1. Calculate the frequency of Zak's device that Josh observes ($f_{b} = f' - f$)
-2. Use your answer to calculate how fast Zak is running. ($f' = f \frac{v_{w}}{v_{w} \pm v_{s}}$)
-
----
-
-### Te Whakatika
-
-$$
-\begin{aligned}
-    f_{b} &= f' - f \newline
-    f_{b} - f &= f' = 130.5Hz \text{ OR } 119.5Hz
-\end{aligned}
-$$
-
-Because Zak is running __away__, the frequency should be decreased: $f' = 119.5Hz$
-
----
-
-$$
-\begin{aligned}
-    f' &= f\frac{v_{w}}{v_{w} \pm v_{s}}\newline
-    119.5 &= 125 \frac{343}{343 + v_{s}} \newline
-    \frac{119.5}{125} &= \frac{343}{343 + v_{s}} \newline
-    343 + v_{s} &= \frac{343}{0.956} \newline
-    v_{s} &= \frac{343}{0.956} - 343 \newline
-    &= 15.7ms^{-1}
-\end{aligned}
-$$
 
 ---
 

@@ -9,7 +9,7 @@ slug: doppler-effect
 
 Bodgan is observing a star through a telescope, and it appears to be orange. He looks up the wavelength of orange light and finds it to be around $600nm$.
 
-1. What is the frequency of orange light, given than the speed of light is $c=3 \times 10^{8}ms^{-1}$?
+1. What is the frequency of orange light, given than the speed of light is $c=3 \times 10^{8}ms^{-1}$
 2. Using your value for frequency, what is the period of the orange light?
 3. Sketch a wave for this orange light, labelling the wavelength and an arrow indicating the velocity.
 
@@ -201,7 +201,7 @@ Cameron is watching a plane by the airport. Its engines emit sound at $2000Hz$; 
 
 #### Pātai Rima: [52-hertz Whale](https://en.wikipedia.org/wiki/52-hertz_whale) (finding $v_{w}$)
 
-Since the 1980s a single whale has been observed making calls at a frequency of $52Hz$. The whale itself has never been sighted -- only observed through hydrophones. One hydrophone recorded a frequency of $50.11267Hz$.
+Since the 1980s a single whale has been observed making calls at a frequency of $52Hz$. The whale itself has never been sighted -- only observed through hydrophones. One hydrophone recorded a frequency of $52.1171762Hz$.
 
 <audio controls>
     <source src="https://en.wikipedia.org/wiki/File:Ak52_10x.ogg" type="audio/ogg">
@@ -217,14 +217,14 @@ This recording has been sped up 10x to a frequency of approximately $520Hz$.
 
 $$
 \begin{aligned}
-    f&=50Hz, f'=50.11267Hz, v_{s}=3.35ms^{-1} \newline
+    f&=52Hz, f'=52.1171762Hz, v_{s}=3.35ms^{-1} \newline
     f' &= f \frac{v_{w}}{v_{w} - v_{s}} \newline
-    50.11267 &= 50 \frac{v_{w}}{v_{w} - 3.35} \newline
+    52.1171762 &= 52 \frac{v_{w}}{v_{w} - 3.35} \newline
     1.0022534 \times (v_{w} - 3.35) &= v_{w} \newline
     1.0022534v_{w} - 3.35754889 &= v_{w} \newline
     1.0022534v_{w} - v_{w} &= 3.35754889 \newline
     v_{w}(1.0022534 - 1) &= 3.35754889 \newline
-    v_{w} &= \frac{3.35754889}{1.0022534 - 1} = 1489.99ms^{-1}
+    v_{w} &= \frac{3.35754889}{0.0022534} = 1489.99ms^{-1}
 \end{aligned}
 $$
 
@@ -262,7 +262,7 @@ $$
 
 ---
 
-## Describing Doppler at Different Distances
+## Calcuating $v_{s}$ without $f$: Homework Q9c
 
 ---
 
