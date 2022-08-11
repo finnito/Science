@@ -47,6 +47,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Ngā Kirita__: Slides
 - __Ngā Mahere Akoranga__: Lesson Plans
 - __Ngā Whāinga Ako__: Learning Outcomes
+- __Ohia Manomano__: Brainstorm
 - __Pātai__: Question
 - __Pitopito Kōrero__: Snippet of Information (Notes)
 - __Rangahau__: Research
