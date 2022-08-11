@@ -324,10 +324,12 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 
 ![Vector Decomposition](../assets/1-vector-decomposition.png)
 
+$$
 \begin{aligned}
     v_{x} &= v \times cos(\theta) && \text{Horizontal} \cr
     v_{y} &= v \times sin(\theta) && \text{Vertical}
 \end{aligned}
+$$
 
 ---
 
