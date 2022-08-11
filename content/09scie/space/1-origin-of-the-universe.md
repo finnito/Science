@@ -2,19 +2,7 @@
 title: Origin of the Universe
 slug: origin-of-the-universe
 subtitle: 9SCIE - Space
-author: Finn LeSueur
-date: 2020
-theme: finn
 weight: 1
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
 <iframe width="803" height="452" src="https://www.youtube.com/embed/wNDGgL73ihY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
