@@ -18,7 +18,7 @@ weight: 4
 ## The Seasons {.c2}
 
 - __MISCONCEPTION__: They __are not__ caused by our distance from the sun changing
-- They __are__ caused by Earth's axial tilt of 27.5 degrees!
+- They __are__ caused by Earth's axial tilt of 23.5 degrees!
 
 ![](https://magazine.scienceconnected.org/wp-content/uploads/2016/12/seasons-solstice-diagram-e1481496428917.png)
 
