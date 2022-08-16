@@ -77,7 +77,7 @@ window.Whakatauki = window.Whakatauki || {
                 "Mā te huruhuru ka rere te manu",
                 "Adorn the bird with feathers so it may soar",
             ],[
-                "I hea koe i te ao of te kōwhai?",
+                "I hea koe i te ao te kōwhai?",
                 "Where were you at the time of the kōwhai?",
             ]
         ];
