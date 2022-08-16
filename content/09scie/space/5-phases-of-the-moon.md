@@ -19,8 +19,8 @@ weight: 5
 ## Phases of the Moon {.c2}
 
 - Write the title above and glue in your diagram.
-- As the moon orbits Earth, different sides of it are exposed to sunlight throughout the month.
-- From our view on Earth, this causes different amounts of the moon in view to be lit up.
+- <mark>As the moon orbits Earth, different sides of it are exposed to sunlight throughout the month.</mark>
+- <mark>From our view on Earth, this causes different amounts of the moon in view to be lit up.</mark>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6a/Moon_Phase_Diagram_for_Simple_English_Wikipedia.GIF)
 
@@ -33,8 +33,11 @@ weight: 5
 - A waxing moon is one that is growing illumination
 - A waning moon is one that is lessening illumination
 - The moon is always 50% illuminated
-- It has phases because the illuminated part shifts over 27 days
-- It takes 27 days for the moon to complete one cycle
+- It has phases because the illuminated part moves on a 29.5 day cycle
+
+---
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.thehungryjpeg.com%2Fthumbs%2F800_3785382_9edox4ba1j9s5rn3lhde3nvoki4hqw4cq4i3sehk.jpg&f=1&nofb=1)
 
 ---
 
