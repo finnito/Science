@@ -2,7 +2,7 @@
 
 source ~/.zshrc
 
-dest=~/Sites/public.putaiao.nz/
+dest="$HOME/Sites/public.putaiao.nz/"
 
 hugo server \
 	--disableFastRender \
