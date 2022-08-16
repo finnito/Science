@@ -8,7 +8,7 @@
 # the new RevealJS HTML file can be created
 # using Pandoc.
 
-source ~/.profile
+source ~/.zshrc
 
 terminal-notifier \
         -group "com.finnlesueur.science" \
