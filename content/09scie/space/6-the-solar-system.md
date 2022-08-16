@@ -3,6 +3,7 @@ title: The Solar System
 slug: the-solar-system
 subtitle: 9SCI - Space
 weight: 6
+draft: true
 ---
 
 ## Mahi Tuatahi
