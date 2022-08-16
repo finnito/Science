@@ -44,6 +44,9 @@ def main():
             # and rebuild.
             pass
 
+        if "lessons" in event["path"]:
+            return
+
         elif event["path"].endswith(".md"):
             # Here a slide file has been altered, so we need
             # to build that specific slide and run Hugo.
