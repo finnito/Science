@@ -61,8 +61,6 @@ MODULES=(
 )
 
 main() {
-    : > error.log
-    : > stdout.log
 
     # This script may be called in a dev (-d flag) environment
     # in which it should only do a partial build.
