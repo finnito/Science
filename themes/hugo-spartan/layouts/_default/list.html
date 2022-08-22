@@ -2,14 +2,10 @@
     <main>
         <div class="article-meta">
             <h2 class="title">
-                {{ with .Params.emoji }}{{ . }}{{ end }} 
                 {{ .Title | markdownify }}
                 {{ with .Params.te_reo }}
                     <em> / {{ . }}</em>
                 {{ end }} 
-                {{ with .Params.emoji }}
-                    {{ . }}
-                {{ end }}
             </h2>
             {{ if isset .Params "nzqa" }}
             <ul>
@@ -54,7 +50,7 @@
                     {{ $url = path.Join "https://github.com/finnito/Science/commits/master/content/" .File.Dir .LogicalName }}
                 {{ end }}
             {{ end }}
-        <a class="button yellow" title="Edit {{$.Title}} on Github" target="_blank" href="{{ $url }}">View the Changelog</a>
+        <a class="button yellow" title="View changes for {{$.Title}} on Github" target="_blank" href="{{ $url }}">View the Changelog</a>
         {{ end }}
     </main>
 {{ partial "footer.html" . }}
