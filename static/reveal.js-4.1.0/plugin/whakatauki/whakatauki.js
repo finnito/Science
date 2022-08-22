@@ -1,7 +1,7 @@
 /**
  * Adds a whakatauki to each slide.
  *
- * @author Fin LeSueur (https://finn.lesueur.nz)
+ * @author Finn LeSueur (https://finn.lesueur.nz)
  **/
 window.Whakatauki = window.Whakatauki || {
     id: 'Whakatakui',
