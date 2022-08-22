@@ -94,6 +94,7 @@ $body$
   <script src="$revealjs-url$/plugin/back/back.js"></script>
   <script src="$revealjs-url$/plugin/clock/clock.js"></script>
   <script src="$revealjs-url$/plugin/whakatauki/whakatauki.js"></script>
+  <script src="$revealjs-url$/plugin/timer/timer.js"></script>
   <script>
 
       // Full list of configuration options available at:
@@ -352,6 +353,7 @@ $endif$
           EquationFragments,
           RevealNotes,
           Whakatauki,
+          Timer
         ]
       });
     </script>

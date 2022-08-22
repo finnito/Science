@@ -174,7 +174,7 @@ callPandoc() {
         --variable=progress:true \
         --variable=showSlideNumber:all \
         --variable=transition:slide \
-        --variable=plugins:GoBack,Clock \
+        --variable=plugins:GoBack,Clock,Timer \
         --variable=revealjs-url:/reveal.js-4.1.0 \
         --variable=embedded:false \
         --variable=showNotes:false \
