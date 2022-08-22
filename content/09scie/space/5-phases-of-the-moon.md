@@ -41,4 +41,13 @@ weight: 5
 
 ---
 
+## Ngohe / Task {.c2}
+
+1. Collect a phases of the moon worksheet.
+2. Start by drawing the missing moons, and then answering the other questions.
+
+<div class="timer" data-time="15"></div>
+
+---
+
 <iframe width="1152" height="648" src="https://www.youtube.com/embed/Ks8WH3xUo_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
