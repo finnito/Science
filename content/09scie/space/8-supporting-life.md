@@ -11,6 +11,10 @@ Answer the last set of questions on your Reading Tables sheet.
 
 ---
 
+<iframe width="934" height="525" src="https://www.youtube.com/embed/EUU0-ZpFoK4" title="Exoplanets 101 | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ## Exoplanets {.c2}
 
 - Glue in your exoplanets sheet.
