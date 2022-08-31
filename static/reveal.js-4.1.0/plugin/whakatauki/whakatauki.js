@@ -122,28 +122,29 @@ window.Whakatauki = window.Whakatauki || {
             case 31: i = 21; break;
             case 32: i = 22; break;
             case 33: i = 23; break;
-            case 34: i = 24; break;
-            case 35: i = 25; break;
-            case 36: i = 26; break;
-            case 37: i = 27; break;
-            case 38: i = 28; break;
-            case 39: i = 29; break;
+            // case 34: i = 24; break;
+            // case 35: i = 25; break;
+            // case 36: i = 26; break;
+            // case 37: i = 27; break;
+            // case 38: i = 28; break;
+            // case 39: i = 29; break;
 
-            // Term 4
-            case 43: i = 30; break;
-            case 44: i = 31; break;
-            case 45: i = 32; break;
-            case 46: i = 33; break;
-            case 47: i = 34; break;
-            case 48: i = 35; break;
-            case 49: i = 36; break;
-            case 50: i = 37; break;
+            // // Term 4
+            // case 43: i = 30; break;
+            // case 44: i = 31; break;
+            // case 45: i = 32; break;
+            // case 46: i = 33; break;
+            // case 47: i = 34; break;
+            // case 48: i = 35; break;
+            // case 49: i = 36; break;
+            // case 50: i = 37; break;
 
             default: i = 0; break;
         }
         // var date = new Date();
         // var i = date.getDate();
         // var i = Math.floor(Math.random() * whakatauki.length);
+        console.log(i, whakatauki);
         var reveal = document.querySelector(".reveal");
         reveal.innerHTML = "<p class='whakatauki'>" + whakatauki[i][0] + "<br/><em>" + whakatauki[i][1] + "</em></p>" + reveal.innerHTML;
     }
