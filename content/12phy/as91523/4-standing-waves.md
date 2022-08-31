@@ -186,3 +186,53 @@ Quizziz: https://quizizz.com/admin/quiz/5a7d8747b69214001faec0e9/standing-waves
 ---
 
 ## Mahi Kāinga Booklet Q13
+
+---
+
+## See One, Do One, Teach One
+
+- This method is also known as __I do, we do, you do__ and it is a good way to guide students through a new skill.
+- It gets used everywhere from primary school, to Physics class and to doctors in operating theaters.
+
+---
+
+### Step 1: See One {.c2}
+
+![](../assets/flute.png)
+
+- Some police forces have used whistles that have two chambers of different lengths.
+- On the above diagram, draw the fundamental standing wave in the shorter chamber, AND label any displacement nodes and antinodes. The fundamental frequencies for the two chambers are 2136 Hz and 1904 Hz. The speed of sound in air is 343 m s–1.
+- Calculate the length of the longer chamber.
+- Explain how a standing wave is produced in a pipe that is closed at one end.
+
+---
+
+### Step 2: Do One
+
+- You have been put into either Group A or Group B - the groups have different questions.
+- Your task is to complete your question, using your notes to help you write a good answer.
+- Once done, go and check the answers around the room. Use this information to help improve your answer!
+
+<mark>You have seen how to do a question and are now doing some vital practice to become an expert.</mark>
+
+---
+
+### Step 3: Teach One
+
+- In this task, you are now the expert and will be letting someone else __See One__
+- Find someone who is the opposite group to you and use your __second blank question__ to show your partner how to do the question.
+- In return, that person can demonstrate how to do their question, to you.
+
+<mark>The act of explaining the question in detail to someone else will help you better understand and retain how to do it!</mark>
+
+---
+
+### Mahi
+
+- __Now__:
+    + Textbook Activity 5A Q5-6
+-  __Mahi Kāinga / Homework__:
+    + Standing Waves Q11 from the Homework Booklet due on Monday.
+    + This must be completed and marked in your exercise book.
+
+

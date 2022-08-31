@@ -24,7 +24,7 @@ slug: interference
 
 ---
 
-## Diffraction {.c2}
+## {.c2}
 
 - __Barriers__: Longer wavelengths diffract best around barriers e.g. AM radio has a longer wavelength than FM and can be better heard in the mountains
 - Notice that the wavelength does not change when diffraction occurs.
@@ -38,6 +38,7 @@ slug: interference
 - Recall the following:
     - __In phase__ waves constructively interfere
     - __Out of phase (180deg)__ waves destructively interfere
+    - Waves not exactly (180deg) out of phase partially interfere
 
 ![](https://www.physics-and-radio-electronics.com/physics/images/constructiveanddestructiveinterference.png)
 
@@ -62,41 +63,29 @@ slug: interference
     - Waves of the same frequency
     - Waves with the same amplitude
     - Waves with a stable phase relationship (__coherent__)
-
-<!-- ![](https://www.simply.science/images/content/physics/waves_optics/interference_diffraction/Concept_map/interference1.gif) -->
-
----
-
-## Interference of Light {.c2}
-
-- To interfere light, we usually take a source that produces a single wavelength and pass it through two small slits
+* This is usually achieved by passing light from a single source through two _very_ narrow and close slits.
 
 ![](../assets/light-interference.jpg)
 
 ---
 
-## Path Difference
+## Path Difference {.c2}
+
+- Moving away from the centre point, the distance each travels becomes unequal
+- This means the waves will not keep a constant phase relationship
+- We call the difference in the distances that they travel the __path difference__
 
 ![](../assets/path-difference.jpeg)
 
 ---
 
-## Path Difference
+### Worksheet
 
-- Moving away from the centre point, the distance each wave travels changes
-- This changing difference means that the waves will not keep a constant phase relationship
-- We call the difference in the distance they travel the __path difference__
-
----
-
-## {.c2}
-
-![](../assets/IMG_1265.jpg)
-
-1. Label the nodal and antinodal lines</li>
-2. Determine which of P1, P2, P3 and P4 are nodes and antinodes</li>
-3. Count the number of wavelengths that P1, P2, P3, and P4 are from each source</li>
-4. Try and determine a general rule for the path difference of notes and antinodes
+- Collect a worksheet
+- Fill out the table by counting the number of wavelengths to each point
+- Use the table to determine the path difference for each of the anti-nodal lines
+- Highlight the statements in the two boxes on the second page
+- Finish the rest of the questions on the sheet
 
 ---
 
@@ -107,16 +96,6 @@ slug: interference
 - __Nodal Lines__: $pd = (n - \frac{1}{2})\lambda$
 
 ![](../assets/IMG_1265.jpg)
-
----
-
-## Calculations {.c2}
-
-![](../assets/IMG_1265.jpg)
-
-1. Draw P5 and P6 on a node an antinode
-2. Determine whether they are nodes or antinodes
-3. Calculate, using the equations, the path difference
 
 ---
 
@@ -143,25 +122,10 @@ slug: interference
  -->
 <!-- ## Interference Formula {.c2} -->
 
-$$
-\begin{aligned}
-    \theta &= \frac{x}{L} \text{only for small angles} \newline
-    L \theta &= x \newline
-    L \frac{pd}{d} &= x \newline
-    L pd &= dx \newline
-    pd &= \frac{dx}{L} \text{end result}
-\end{aligned}
-$$
+<div>
+<mark>__Assumption__: The angle $\theta$ is small, therefore $\theta \approx \frac{x}{L}$</mark>
 
-<!-- ![](../assets/interference-formulation.png) -->
-
-<aside class="notes">
-$pd = n\lambda$ OR $pd = (n - \frac{1}{2})\lambda$
-</aside>
-
----
-
-## Interference Formula {.c2}
+This assumption lets us formulate this equation which we can use to calculate a variety of things:
 
 $$
 \begin{aligned}
@@ -169,30 +133,42 @@ $$
 \end{aligned}
 $$
 
-- $pd$ is path difference (m)
-- $d$ is source separation (m)
-- $x$ is fringe separation (m)
-- $L$ is distance from source to screen (m)
+pd = path difference<br/>
+d = distance between the slits<br/>
+x = distance of the fringe (bright spot) from the center<br/>
+L = distance between slits and screen
+</div>
 
 ---
 
-## Interference Formula {.c2}
+### What does it tell us?
 
 $$
 \begin{aligned}
-    x = \frac{pdL}{d}
+    pd &= \frac{dx}{L} \newline
+    \text{Rearranging for x and substiting $pd = n\lambda$:} \newline
+    x &= \frac{n\lambda L}{d}
 \end{aligned}
 $$
 
-- as wavelength increases, so does the spacing (x)
-- as L increases, so does the spacing (x)
-- as separation increases, the spacing decreases
+- as wavelength ($\lambda$) increases, so does the fringe spacing (x)
+- as screen distance (L) increases, so does the fringe spacing (x)
+- as slit separation (d) increases, the fringe spacing decreases
 
 ---
 
 ## Interference Formula {.c2}
 
-- Since $d sin(\theta) = pd$
-- $pd = n\lambda$ AND $pd = (n - \frac{1}{2})\lambda$
-- $d sin(\theta) = n\lambda$ for antinodes
-- $d sin(\theta) = (n-\frac{1}{2})\lambda$ for nodes
+All this futzing leaves us with a series of formula:
+
+$$
+\begin{aligned}
+    pd &= n\lambda \text{ antinodes} \newline
+    pd &= (n- \frac{1}{2})\lambda \text{ nodes} \newline
+    pd &= \frac{dx}{L} \newline
+    \text{OR} \newline
+    pd &= dsin(\theta) \newline
+    &\text{ \^ assumes } \theta \approx \theta '
+\end{aligned}
+$$
+    
