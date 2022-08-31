@@ -171,4 +171,10 @@ $$
     &\text{ \^ assumes } \theta \approx \theta '
 \end{aligned}
 $$
-    
+
+---
+
+### Practice
+
+- Take some time to try the questions from Textbook Activity 4B
+- Check your answers or find some help from the answers on Classroom
