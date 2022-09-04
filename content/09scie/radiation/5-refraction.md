@@ -2,56 +2,36 @@
 title: Refraction
 slug: refraction
 subtitle: 9SCIE - Radiation and the Human Body
-author: Finn LeSueur
-date: 2020
-theme: finn
 weight: 5
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
-## Akoranga 9 Mahi Tuatahi: Tūhura/Investigation
+## Mahi Tuatahi
 
-1. Put a splint in an empty beaker
-    - Look at it from different angles. What do you observe?
-2. Half fill the beaker with water
-    - Look at it from different angles. What do you observe?
-
-Write your observations in your book.
+[Blooket](https://dashboard.blooket.com/set/63140f9834eb055f80a08825)
 
 ---
 
 ## Ngā Whāinga Ako
 
-1. I can explain what refraction is
-2. I have made observations on the behaviour of light rays when they move from air to glass/water
-3. I can explain why a coin will disappear in a cup when we pour water into it
+1. I can explain what refraction is.
 
 <p class="instruction">Write the date and ngā whāinga ako in your book</p>
 
 ---
 
-## Tūhura: Refraction of Light
+## Refraction
 
-1. Come up to the front an observe the experiment set-up
-2. Open up Google Classroom and set up your own version of the experiment
+The bending of light when it changes speed as it enters a new medium.
+
+__Medium__: Any type of matter that radiation can travel through. E.g. air, water, glass.
 
 ---
 
-## Law of Refraction/_Hakoko o te Aho_
+## Law of Refraction {.c2}
 
 > When light travels into a more dense medium it _slows down_ and bends towards the normal. When it moves into a less dense medium, it speeds up and bends away from the normal.
-
----
-
-### Refraction in Practice
+>  
+> The normal is a 90 degree angle to the surface.
 
 ![](../assets/refraction.png)
 
@@ -65,8 +45,11 @@ Write your observations in your book.
 
 ---
 
-
 ![[Source](http://munnscience.weebly.com/refraction-lab.html)](http://munnscience.weebly.com/uploads/3/8/0/6/38066171/158235059_1.jpg)
+
+---
+
+<iframe width="1077" height="606" src="https://www.youtube.com/embed/xUJ3_FNvDZY" title="Atlatl Spear Fishing - Dealing with Refraction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -78,9 +61,30 @@ Write your observations in your book.
 
 ---
 
-## Tūhura
+### Cloze {.c2}
 
-1. Put a coin in an empty cup
-2. Move the cup forwards so that the coin _just_ disappears
-3. Keep your eye at the same height and have your partner fill up the cup with water
-4. What do you observe?!
+![](https://res.cloudinary.com/dctkncnc5/image/upload/v1644589395/examples-of-refraction-of-light-min_it2qmf.png)
+
+<div>
+Copy this diagram and paragraph into your book. Fill in these missplaced words: <mark>speeds up, eye, Sun, less, reflects, away</mark>.
+
+As the fish ________ light from the ______, some rays will enter your ___ and you will therefore see a fish. When the light leaves the water, it enters air which is a _____ dense medium. The light therefore __________ and bends ________ from the normal. This means that the fish _appears_ to be higher in the water than it actually is, and the fisherperson may miss.
+
+</div>
+
+---
+
+## Refraction and Colour {.c2}
+
+- Not all light refracts equally. Some do it better than others!
+- <mark>Red light refracts the worst, while purple refracts the best</mark>
+- Using this principle, light that appears "white" which comes from the Sun, can be split up into a rainbow!
+- This is how rainbows work with rain droplets
+
+<iframe width="1077" height="606" src="https://www.youtube.com/embed/hsr4PmeEocE?list=RDhsr4PmeEocE" title="The D̲ark S̲ide of the Mo̲o̲n (Full Album)1973" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Task
+
+Complete the rainbow questions in your booklet on page 7.
