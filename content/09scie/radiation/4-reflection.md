@@ -125,4 +125,6 @@ The internet uses fibre optic cables across the bottom of the ocean to connect c
 
 ![[Source](https://www.submarinecablemap.com/#/)](../assets/undersea-cables.png)
 
+---
+
 <iframe width="1077" height="606" src="https://www.youtube.com/embed/pUwVZUOSTvk" title="What Happens to Lasers Underwater? (Total internal reflection) - Smarter Every Day 219" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
