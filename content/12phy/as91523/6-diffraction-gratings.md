@@ -70,7 +70,7 @@ And here you can see how the pattern changes progressivly as more slits are adde
 
 ## Doing Calculations
 
-- We can still use our equations from before using $n\lambda = dsin(\theta)$
+- We can still use our equations from before $n\lambda = dsin(\theta)$
 - However, diffraction gratings are typically described like this: _"2000 lines per cm"_. <mark>We need to calculate $d$, slit separation, from this number.</mark>
 
 ---
@@ -105,9 +105,11 @@ Calculate the slit separation for a grating with 120,000 lines per $2.5cm$.
 
 #### Whakatika
 
+<div class="answers">
 $$
 \begin{aligned}
     d &= \frac{2.5cm}{120000 lines} \newline
     d &= 2.083\times10^{-5}cm
 \end{aligned}
 $$
+</div>
