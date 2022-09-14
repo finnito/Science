@@ -58,7 +58,7 @@
 %% Real-time switching
 \DeclareRobustCommand{\showanswers}{\setboolean{@answer}{true}}
 \DeclareRobustCommand{\noshowanswers}{\setboolean{@answer}{false}}
-\noshowanswers
+\showanswers
 
 %% Fill in blanks
 \DeclareRobustCommand{\fillinunderline}[1]{%
@@ -172,7 +172,10 @@
 \maketitle
 
 \newpage
+% \addcontentsline{toc}{chapter}{Periodic Table of Elements} 
+\includepdf[angle=90,pages=-,trim=35mm 10mm 15mm 15mm,width=\textwidth]{assets/AS91172-standard-information.pdf}
 
+\newpage
 \setcounter{tocdepth}{1}
 \tableofcontents
 
@@ -248,10 +251,10 @@ The number of protons in an atom (i.e. the atomic number) defines which type of 
 \cline{2-7}
 \hline
                    & \textbf{Protons}  & \textbf{Electrons}  & \textbf{Neutrons} & \textbf{Nucleons} & \bfseries{\makecell{Atomic \\ \#}} & \bfseries{\makecell{Mass \\ \#}} \\ \hline
-\textbf{Oxygen}    & \fillinunderline{8}   & \fillinunderline{8}     & \fillinunderline{8}   & \fillinunderline{16}  & \fillinunderline{8}                       &                                     \\ \hline
-\textbf{Sodium}    & \fillinunderline{11}  & \fillinunderline{11}    & \fillinunderline{12}  & \fillinunderline{23}  & \fillinunderline{11}                      &                                     \\ \hline
-\textbf{Aluminium} & \fillinunderline{13}  & \fillinunderline{13}    & \fillinunderline{14}  & \fillinunderline{27}  & \fillinunderline{13}                      &                                     \\ \hline
-\textbf{Copper}    & \fillinunderline{29}  & \fillinunderline{29}    & \fillinunderline{35}  & \fillinunderline{64}  & \fillinunderline{29}                      &                                     \\ \hline
+\textbf{Oxygen}    & \fillinspace{8}   & \fillinspace{8}     & \fillinspace{8}   & \fillinspace{16}  & \fillinspace{8}                       &                                     \\ \hline
+\textbf{Sodium}    & \fillinspace{11}  & \fillinspace{11}    & \fillinspace{12}  & \fillinspace{23}  & \fillinspace{11}                      &                                     \\ \hline
+\textbf{Aluminium} & \fillinspace{13}  & \fillinspace{13}    & \fillinspace{14}  & \fillinspace{27}  & \fillinspace{13}                      &                                     \\ \hline
+\textbf{Copper}    & \fillinspace{29}  & \fillinspace{29}    & \fillinspace{35}  & \fillinspace{64}  & \fillinspace{29}                      &                                     \\ \hline
 \end{tabular}
 \end{table}
 
@@ -294,15 +297,15 @@ For Carbon-12, Carbon-13 and Carbon-14, complete the table below.
 \begin{tabular}{l|l|l|l|l|l|l|}
 \cline{2-7}
                                          & \textbf{Protons} & \textbf{Electrons} & \textbf{Neutrons} & \textbf{Nucleons} & \bfseries{\makecell{Atomic \\ \#}} & \bfseries{\makecell{Mass \\ \#}} \\ \hline
-\multicolumn{1}{|l|}{\textbf{Carbon-12}} &                  &                    &                   &                   &                        &                      \\ \hline
-\multicolumn{1}{|l|}{\textbf{Carbon-13}} &                  &                    &                   &                   &                        &                      \\ \hline
-\multicolumn{1}{|l|}{\textbf{Carbon-14}} &                  &                    &                   &                   &                        &                      \\ \hline
+\multicolumn{1}{|l|}{\textbf{Carbon-12}} & \fillinspace{6}  & \fillinspace{6}    & \fillinspace{6}   & \fillinspace{12}  & \fillinspace{6}                    & \fillinspace{12}                 \\ \hline
+\multicolumn{1}{|l|}{\textbf{Carbon-13}} & \fillinspace{6}  & \fillinspace{6}    & \fillinspace{7}   & \fillinspace{13}  & \fillinspace{6}                    & \fillinspace{13}                 \\ \hline
+\multicolumn{1}{|l|}{\textbf{Carbon-14}} & \fillinspace{6}  & \fillinspace{6}    & \fillinspace{8}   & \fillinspace{14}  & \fillinspace{6}                    & \fillinspace{14}                 \\ \hline
 \end{tabular}
 \end{table}
 
 \section{Whakawai: Atomic Structure}
 
-Atoms are made of a central dense part called the \fillinunderline{nucleus} surrounded by a 	moving cloud of 	\fillinunderline{electrons}. The particles in the central region are called nucleons and are either protons or \fillinunderline{neutrons}. The charge on protons is \fillinunderline{positive}.
+Atoms are made of a central dense part called the \fillinunderline{nucleus} surrounded by a moving cloud of \fillinunderline{electrons}. The particles in the central region are called nucleons and are either protons or \fillinunderline{neutrons}. The charge on protons is \fillinunderline{positive}.
 
 The nucleons are attracted strongly to each other by a force called the \fillinunderline{nuclear} force. The protons however, repel each other, because they have similar charges. This repulsion force between the protons is an \fillinunderline{electrostatic} force. As a result of these forces in the nucleus, most nuclei are stable. However, if nuclei are disrupted by nuclear reactions enormous amounts of \fillinunderline{energy} may be released. The reason for this is that the \fillinunderline{forces} in the nucleus are very strong.
 
@@ -340,10 +343,10 @@ John Dalton was an English chemist who introduced \textit{atomic theory} into ch
 
 \begin{itemize}
     \item Elements are made of extremely small particles called atoms
-    \item Atoms of a given element are \fillinunderline{identical in size}, \fillinunderline{mass} and other properties
-    \item Atoms cannot be \fillinunderline{subdivided, created or destroyed}
+    \item Atoms of a given element are \fillinunderline{identical in size}, \fillinunderline{mass}, and other properties
+    \item Atoms cannot be \fillinunderline{subdivided, created or destroyed}.
     \item Atoms of different elements combine in simple whole-number ratios to form chemical compounds. E.g. $MgCl_{c}$.
-    \item In chemical reactions, atoms are combined, separated or rearranged
+    \item In chemical reactions, atoms are combined, separated or rearranged.
 \end{itemize}
 
 He was not able to ascertain the weight of any elements, but did attempt to order them by \textit{relative weight}. It was with John Dalton when \textit{atomos} from the Greeks became \textit{atoms}.
@@ -361,7 +364,7 @@ He was not able to ascertain the weight of any elements, but did attempt to orde
 
 Joseph Thomson was a British physicist who did a lot of work with cathode rays (\fillinunderline{streams of electrons}) and who was awarded the Nobel Laureate in Physics for discovering the electron. This was the first subatomic particle to be discovered! He is also credited with finding the first scientific evidence of \fillinunderline{isotopes}.
 
-At the time of his research they were not originally aware that cathode rays were streams of "electrons". He only knew that they were negatively charged and had \fillinunderline{a very small mass}. He hypothesised that the electrons were emitted from the atoms inside the cathode ray tube, and thus concluded \fillinunderline{that atoms were in fact divisible}.
+At the time of his research he was not originally aware that cathode rays were streams of "electrons". He only knew that they were negatively charged and had \fillinunderline{a very small mass}. He hypothesised that the electrons were emitted from the atoms inside the cathode ray tube, and thus concluded \fillinunderline{that atoms were in fact divisible}.
 
 If the electrons were inside the atoms, and an atom was neutral, the electrons would have to be evenly distributed throughout, and the atom itself made of some positive material.
 
@@ -402,16 +405,17 @@ His work on the atom revolved around something called \fillinunderline{The Gold 
 
 \begin{enumerate}
 	\item \textbf{Observation 1}: Most alpha particles were found to go straight through the foil.\\
-	\textbf{Conclusion:}\vspace{1cm}
+	\textbf{Conclusion:} \fillinspace{The atom consists of mostly empty space}\vspace{1cm}
 	%\textbf{Conclusion}: The atom consists of mostly empty space.
 	\item \textbf{Observation 2}: Some alpha particles experienced a small angle of deflection. \\
-	\textbf{Conclusion:}\vspace{1cm}
+	\textbf{Conclusion:} \fillinspace{There is a positively 
+	charged mass within the nucleus that can deflect particles at a small angle if they pass nearby.}\vspace{1cm}
 	%\textbf{Conclusion 2}: There is a charged mass within the nucleus that can deflect particles at a small angle if they pass nearby.
 	\item \textbf{Observation 3}: Very few alpha particles were deflected. \\
-	\textbf{Conclusion:}\vspace{1cm}
+	\textbf{Conclusion:} \fillinspace{The charged mass has a very small volume}\vspace{1cm}
 	%\textbf{Conclusion}: The charged mass has a very small volume.
 	\item \textbf{Observation 4}: Some particles were deflected at a very large angle. \\
-	\textbf{Conclusion:}\vspace{1cm}
+	\textbf{Conclusion:} \fillinspace{The charged mass is very dense}\vspace{1cm}
 	%\textbf{Conclusion}: The charged mass is very dense
 	\item Explain why the gold foil experiment had to be carried out in a vacuum.\vspace{2cm}
 	\item Explain why it was necessary for the gold foil to be a few atoms thick.\vspace{2cm}
