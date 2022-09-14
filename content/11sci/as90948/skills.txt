@@ -1,0 +1,23 @@
+https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber=90948
+
+2021
+Q1a) Punnett square of sex inheritance (percentages, gametes)
+Q1b) Explain sex determinism (fertilisation, fusion)
+Q1c) Explain probability of next offspring being female (separate event, percentages
+Q1d) Explain somatic vs. gametic diseases (environmental, somatic, not affecting gametes)
+Q2a) Relationship between DNA, genes, alleles, phenotype (define and link)
+Q2b) Discuss mutation helpfulness, passing onto next generation (helps survival, passed on through gametes, reduction in disease --> more change to reproduce and pass genes along, increase in number of people with allele/phenotype)
+Q3a) How sexual reproduction causes variation (gamete formation, fertilisation, meiosis, crossing over, independent assortment, random)
+Q3b) New combinations of genes (genetic variation, given rise to combinations of genes which better allow survival in environment)
+
+2020
+Q1a) Allele combinations
+Q1b) How alleles form phenotypes (phenotype, genotype, DNA coding)
+Q1c) Relationship between DNA, genes, alleles, mutations and phenotype (code for a trait, different form of a gene)
+Q2a) Punnet square (pedigree chart)
+Q2b) Pedigree charts
+Q2c) Determining genotype from pedigree charts (alleles, heterozygous, homozygous, recessive, dominant)
+Q2d) Somatic vs gametic infection/disease (gametes, genetics, environment)
+Q3a) Define genetic variation (DNA, genes, alleles, ability to fight disease)
+Q3b) Sexual reproduction and variation (meiosis, gametes, fertilisation, random assortment, crossing over)
+Q3c) Variation and survival (alleles, genes, favourable traits, passing on)
