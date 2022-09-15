@@ -37,7 +37,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Kēmu Patapatai__: Quiz
 - __Mahere Kōwae__: Unit Plan
 - __Mahi Kāinga__: Homework
-- __Mahi mo tenei ra__: Work for today
+- __Mahi mō tēnei rā__: Work for today
 - __Mahi Ngātahi__: Group Activity
 - __Mahi Tuatahi__: Do Now/Starter
 - __Matapaki__: Discussion
