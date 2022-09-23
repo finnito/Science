@@ -2,54 +2,30 @@
 title: Types of Variation
 slug: variation
 subtitle: 11SCI - Genetics
-author: Finn LeSueur
-date: 2019
-theme: finn
-colortheme: dolphin
 weight: 5
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
 ---
 
-# Ngā Whāinga Ako
-
-- Understand variation in terms of it being continuous or not continuous
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/VjlE5Qzl1S0" title="GCSE Biology - Variation and Evolution  #68" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-1. Select one colour bead to represent the dominant allele and the other the recessive allele.
-2. Place 20 (10 of each )two different colours into a beaker.
-3. Take turns closing your eyes and picking two beads at random.
-4. Write down what alleles you got and what colour eyes the offspring have.
-5. Add your results to the board when you are done!
+## Ngā Whāinga Ako
+
+- Understand the importance of variation
 
 ---
 
-Eye colour is one way that we vary as humans. What are some other ways that we vary?
-
-__Come write them on the board!__
+## Brainstorm: Variation<br/>What are some ways that humans vary?
 
 ---
 
-## Continuous vs Discontinuous
+## Continuous vs Discontinuous {.c2}
 
-- We can split variation up into two different groups. Continuous and discontinuous.
-- Continuous implies that it exists on a smooth continuum.
-- Discontinuous distributions are split into distinct groups.
+- We can split variation up into two different groups: continuous and discontinuous.
+- Continuous is a spectrum like height or hair colour
+- Discontinuous is things like attached or dangling earlobes
 
----
-
-![](../assets/4-distributions.png){width=80%}
-
----
-
-### Split our example traits from earlier into continuous and discontinuous groups.
+![](../assets/4-distributions.png)
 
 ---
 
@@ -57,7 +33,7 @@ __Come write them on the board!__
 
 ---
 
-## Where Does Variation Come From?
+## Sources of Variation
 
 There are four main sources of variation that we are interested in:
 
@@ -68,24 +44,27 @@ There are four main sources of variation that we are interested in:
 
 ---
 
-### Mutation
+### Mutation {.c2}
 
 - Random changes in the base sequence of DNA that may result in a new allele forming.
 - Many things can cause mutations: think radiation (e.g. UV & skin cancer)
 
-![](../assets/4-hulk.jpg){width=40%}
+![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ftisserandinstitute.org%2Fwp-content%2Fuploads%2F2017%2F01%2FDNA_UV_mutation-2.png&f=1&nofb=1)
 
 ---
 
-### Sexual Reproduction
+### Sexual Reproduction (Meiosis) {.c2}
 
-- Our bodies produce our sex cells (sperm and ova) through a process called _meiosis_. It results in unique combinations of alleles over time.
+- Meiosis is the process through which your body produces gametes (sex cells). These are sperm and ova in humans.
+- It produces cells that have only one allele for each gene (23 chromosomes) so that when it combines with the opposite gamete, a full 46 chromosomes are made.
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd1j63owfs0b5j3.cloudfront.net%2Fterm%2Fimages%2F1529-1523390294812.png&f=1&nofb=1)
 
 ---
 
 ### Fertilisation
 
-- When sperm and ova meet there it is essentially random which ones meet. There are millions of sperm which might meet the ova, so there is a lot of variation created.
+- When sperm and ova fuse, it is a random event. So, the final combination is random chance.
 
 ---
 
@@ -95,17 +74,18 @@ There are four main sources of variation that we are interested in:
 
 ---
 
-## Meiosis
-
-- Meiosis is the process through which your body produces gametes (sex cells). These are sperm and ova in humans.
-- It has a few key differences from __mitosis__: it produces four daughter cells, the cells are unique, and the cells contain half the original number of chromosomes (haploid).
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/_4Z-iJgWL6c" title="Protecting Genetic Diversity: Conservation and Evolution Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-![](../assets/4-meiosis.png){width=100%}
+## Natural Selection
+
+- The biological imperative for any organism is to __pass along its genes__.
+- The better you are able to this, the more fit (biologically speaking) you are.
+- Therefore, natural selection is about environmental pressures that cause some individuals to die, while others survive due to a slightly different phenotype!
+- We can see that variation is key to surviving change.
 
 ---
 
-- Read page 55 and complete page 55, 56 and 57.
-- Read page 58 and complete page 58.
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/6Vc2bM2aQsw" title="The Genes We Lost Along the Way" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
