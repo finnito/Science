@@ -58,7 +58,11 @@
 %% Real-time switching
 \DeclareRobustCommand{\showanswers}{\setboolean{@answer}{true}}
 \DeclareRobustCommand{\noshowanswers}{\setboolean{@answer}{false}}
-\showanswers
+\noshowanswers
+
+\DeclareRobustCommand{\StudentVSpace}[1]{%
+	\ifthenelse{\boolean{@answer}}{}{\vspace{#1}}
+}
 
 %% Fill in blanks
 \DeclareRobustCommand{\fillinunderline}[1]{%
@@ -399,31 +403,61 @@ His work on the atom revolved around something called \fillinunderline{The Gold 
 	\begin{subfigure}{.5\textwidth}
 		\centering
 		% Source: https://cnx.org/contents/LxK68dbM@4.9:67SLu9dU@4/Structure-of-an-Atom
-		\includegraphics[width=\linewidth]{assets/atom-model-comparison.png}
+		\ifthenelse{\boolean{@answer}}
+			{\includegraphics[width=\linewidth]{assets/atom-model-comparison-answer.png}}
+			{\includegraphics[width=\linewidth]{assets/atom-model-comparison.png}}
 	\end{subfigure}
 \end{figure}
 
 \begin{enumerate}
 	\item \textbf{Observation 1}: Most alpha particles were found to go straight through the foil.\\
-	\textbf{Conclusion:} \fillinspace{The atom consists of mostly empty space}\vspace{1cm}
-	%\textbf{Conclusion}: The atom consists of mostly empty space.
+	\textbf{Conclusion:}
+	\fillinspace{The atom consists of mostly empty space.}
+	\StudentVSpace{1cm}
+
 	\item \textbf{Observation 2}: Some alpha particles experienced a small angle of deflection. \\
-	\textbf{Conclusion:} \fillinspace{There is a positively 
-	charged mass within the nucleus that can deflect particles at a small angle if they pass nearby.}\vspace{1cm}
-	%\textbf{Conclusion 2}: There is a charged mass within the nucleus that can deflect particles at a small angle if they pass nearby.
+	\textbf{Conclusion:}
+	\fillinspace{There is a positively charged mass within the nucleus that can deflect particles at a small angle if they pass nearby.}
+	\StudentVSpace{1cm}
+	
 	\item \textbf{Observation 3}: Very few alpha particles were deflected. \\
-	\textbf{Conclusion:} \fillinspace{The charged mass has a very small volume}\vspace{1cm}
-	%\textbf{Conclusion}: The charged mass has a very small volume.
+	\textbf{Conclusion:} \fillinspace{The charged mass has a very small volume.}
+	\StudentVSpace{1cm}
+	
 	\item \textbf{Observation 4}: Some particles were deflected at a very large angle. \\
-	\textbf{Conclusion:} \fillinspace{The charged mass is very dense}\vspace{1cm}
-	%\textbf{Conclusion}: The charged mass is very dense
-	\item Explain why the gold foil experiment had to be carried out in a vacuum.\vspace{2cm}
-	\item Explain why it was necessary for the gold foil to be a few atoms thick.\vspace{2cm}
-	\item Describe one way in which Thomson's and Rutherford's models of the atom were similar.\vspace{1.5cm}
-	\item Describe the key difference between Thomson's and Rutherford's model of the atom.\vspace{1.5cm}
-	\item In front of the alpha emitter is a lead screen with a narrow slit cut in it. What function does this lead screen serve?\vspace{2cm}
-	\item What would Rutherford have seen if Thomson's model of the atom was correct?\vspace{2cm}
-	\item What would have been observed if Rutherford used a beta emitter instead of an alpha emitter?\vspace{2cm}
+	\textbf{Conclusion:} \fillinspace{The charged mass is very dense.}
+	\StudentVSpace{1cm}
+	
+	\item Explain why the gold foil experiment had to be carried out in a vacuum.
+	\fillinspace{So that the path of the alpha particles could not be affected by air molecules. This way we can be sure that any deviations are due to the gold atoms.}
+	\StudentVSpace{2cm}
+	
+	\item Explain why it was necessary for the gold foil to be a few atoms thick.
+	\fillinspace{So that the alpha particles are able to pass through. Thicker gold would stop all alpha particles and not allow any measurements to be made.}
+	\StudentVSpace{2cm}
+	
+	\item Describe one way in which Thomson's and Rutherford's models of the atom were similar.
+	\fillinspace{They both have positive and negative parts.\\The negative parts are small.}
+	\StudentVSpace{1.5cm}
+	
+	\item Describe the key difference between Thomson's and Rutherford's model of the atom.
+	\fillinspace{
+	The positive matter is condensed in the nucleus for Rutherford, and spread out for Thompson.\\
+	There exists very little mass around the nucleus for Rutherford.
+	}
+	\StudentVSpace{1.5cm}
+	
+	\item In front of the alpha emitter is a lead screen with a narrow slit cut in it. What function does this lead screen serve?
+	\fillinspace{It stops all alpha particles except those moving in a very straight line towards the gold foil, from passing out of the box. Therefore eliminating any false detections on an angle.}
+	\StudentVSpace{2cm}
+	
+	\item What would Rutherford have seen if Thomson's model of the atom was correct?
+	\fillinspace{There would not have been any deviation of alpha particle path due to the lack of dense positive material.}
+	\StudentVSpace{2cm}
+	
+	\item What would have been observed if Rutherford used a beta emitter instead of an alpha emitter?
+	\fillinspace{The electrons will be more easily scattered because they have a low mass.}
+	\StudentVSpace{2cm}
 \end{enumerate}
 
 % =========================
@@ -475,10 +509,10 @@ Adding nucleons increases the volume of the nucleus, and thereby diluting the st
 Recall the Law of Conservation of Energy. Similar laws apply to nuclear equations and these four properties are also conserved:
 
 \begin{itemize}
-	\item \fillinunderline{Energy}
-	\item \fillinunderline{Momentum (linear and angular)}
-	\item \fillinunderline{Electric and Magnetic Charge}
-	\item \fillinunderline{Nucleon (mass) Number}
+	\item \fillinspace{Energy}
+	\item \fillinspace{Momentum (linear and angular)}
+	\item \fillinspace{Electric and Magnetic Charge}
+	\item \fillinspace{Nucleon (mass) Number}
 \end{itemize}
 
 \noindent\href{https://www.youtube.com/watch?v=TJgc28csgV0}{Video: https://www.youtube.com/watch?v=TJgc28csgV0}
@@ -554,15 +588,18 @@ Draw an arrow from each type of radiation, stopping the arrow at the material th
 \centering
 \begin{tabular}{l|l|l|p{2cm}|l|}
 \cline{2-5}
-                                              & \textbf{Mass \#} & \textbf{Charge} & \textbf{Speed} & \textbf{Ionising Ability} \\ \hline
-\multicolumn{1}{|l|}{\textbf{Alpha Particle}} &               &                 &                &                           \\ \hline
-\multicolumn{1}{|l|}{\textbf{Beta Minus Particle}}  &               &                 &                &                           \\ \hline
-\multicolumn{1}{|l|}{\textbf{Gamma Ray}}      &               &                 &                &                           \\ \hline
+                                              		& \textbf{Mass \#} 		& \textbf{Charge} 		& \textbf{Speed} 				& \textbf{Ionising Ability} \\ \hline
+\multicolumn{1}{|l|}{\textbf{Alpha Particle}} 		& \fillinblank{Large}   & \fillinblank{+2}      & \fillinblank{10\% of light}   & \fillinblank{High} 		\\ \hline
+\multicolumn{1}{|l|}{\textbf{Beta Minus Particle}}  & \fillinblank{Small}   & \fillinblank{-1}      & \fillinblank{90\% of light}   & \fillinblank{Medium} 		\\ \hline
+\multicolumn{1}{|l|}{\textbf{Gamma Ray}}      		& \fillinblank{None}    & \fillinblank{None}    & \fillinblank{speef of light}  & \fillinblank{Low} 		\\ \hline
 \end{tabular}
 \end{table}
 
 \begin{enumerate}
-	\item State which elements tend to be naturally radioactive and explain why.\vspace{3cm}
+	\item State which elements tend to be naturally radioactive and explain why.
+	\fillinblank{Elements where the strong nuclear force that binds nucleons together is not strong enough to overcome the electromagnetic repulsive force between protons. This is 83 and up.}
+	\StudentVSpace{3cm}
+	
 	\item Identify which of the three types of radiation is being described below.
 	\begin{enumerate}
 		\item It can only travel a few cm in air.\\ \fillinspace{Alpha radiation}
