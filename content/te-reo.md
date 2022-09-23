@@ -64,6 +64,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Tūhura__: Investigation
 - __Whai Huarahi__: Opportunities
 - __Whāinga Whānui__: Aim
+- __Whaka__: Cause to happen
 - __Whakakite__: Demonstration
 - __Whakamātau__: Experiment
 - __Whakamātau Tika__: Fair Test / Experiment
@@ -73,6 +74,9 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 - __Whakapae__: Hypothesis
 - __Whakatika__: Answer
 - __Whakawai__: Practise
+- __Whakawhanaungtanga__: The act of building relationships
+- __Whanauga__: Someone you are related to
+- __Whānau__: Family
 
 ## Pātai
 
@@ -230,11 +234,3 @@ Ka mau te wehi!
 
 Mere Kirihimete
 : Merry Christmas
-
-- Whānau: family
-- Whanauga: someone you are related to
-- Whaka: cause to happen
-- Whakawhanaungtanga: The act of building relationships
-
-
-
