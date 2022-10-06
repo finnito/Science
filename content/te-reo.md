@@ -12,7 +12,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 | Rātu       | Hui-tanguru        | Rua       |
 | Rāapa      | Poutū-te-rangi     | Toru      |
 | Rāpare     | Paenga-whāwhā      | Whā       |
-| Rāmere     | Haratua            | Rimu      |
+| Rāmere     | Haratua            | Rima      |
 | Rāhoroi    | Pipiri             | Ono       |
 | Rātapu     | Hōngongoi          | Whitu     |
 |            | Here-turi-kōkā     | Waru      |
