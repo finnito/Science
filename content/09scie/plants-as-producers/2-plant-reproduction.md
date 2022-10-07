@@ -2,51 +2,44 @@
 title: Plant Reproduction
 slug: plant-reproduction
 subtitle: 9SCIE - Plants as Producers
-author: Finn LeSueur
-date: 2020
-theme: finn
 weight: 2
-colortheme: dolphin
-font-size: 35px
-text-align: center
-header-includes:
-- \usepackage{graphicx}
-- \usepackage[T1]{fontenc}
-- \usepackage{lmodern}
-- \usepackage{amsmath}
-- \usepackage{textcomp}
----
-
-## Ngā Whāinga Ako
-
-- Describe plant growth, reproduction, dispersal and why bees are so important.
-
 ---
 
 ## Mahi Tuatahi
 
+Write the date in your book and then answer the following two questions.
+
 1. What are some organelles that only __plant__ cells have?
-2. What are some organelles that both __plant__ and __animal__ cells have?
+2. What is an organelle that plant root cells have? What does it do?
 
 ---
 
-Plants, like animals, need to reproduce to survive. Without reproduction there would be no more plants.
+## Ngā Whāinga Ako
 
-But how do they do it?!
+- Describe plant reproduction, dispersal and understand why bees are so important.
+
+<mark>Write this learning outcome in your book.</mark>
 
 ---
 
-### Reproductive Cycle
+## Reproductive Cycle
+
+You have been given a timeline of plat reproduction, but it is out of order.
+
+1. Put a heading "__Plant Reproduction__" in your book
+2. Cut up the timeline
+3. Work with the person next to you to put them into order
+4. Be ready to check and then glue them into your book
+
+---
+
+### Whakatika
 
 1. Plants produce pollen
 2. This pollen can be carried away from the plant by animals, wind or rain
 3. Once on a different plant, this pollen can fertilise the flower by landing on its stigma
 4. The pollen may _germinate_ (grow down into) the ovule of the plant
 5. This can result in the growth of seeds or fruit
-
----
-
-The seeds from the fruit can then grow through mitosis once in the ground to form new plants!
 
 ---
 
@@ -59,40 +52,51 @@ The seeds from the fruit can then grow through mitosis once in the ground to for
 
 ### Task
 
-1. Glue in your flower diagram
-2. Glue in your reproductive cycle diagram
+Yesterday during the dissection you drew a diagram of a flower in your book and labelled the parts.
+
+If you were away or your drawing was incomplete, collect and glue in a diagram.
+
+![](../assets/unlabelled-flower-diagram.png)
 
 ---
 
-- __Anther__: The top of the stamen where the pollen is stored "male" reproductive parts
-- __Filament__: Supports the anther
-- __Stamen__: The appendage containing anther and filament
+## The "Male" Parts {.c2}
 
 ![](../assets/flower-diagram.png)
 
+- __Stamen__: The appendage containing anther and filament
+- __Anther__: The top of the stamen where the pollen is stored "male" reproductive parts
+- __Filament__: Supports the anther
+
 ---
+
+## The "Female" Parts {.c2}
+
+![](../assets/flower-diagram.png)
+
+- __Stigma__: Receives (captures) pollen to be used in reproduction
+- __Style__: A hollow tube through which pollen can grow to reach the ovary
+- __Ovary__: Contains the ovules (eggs; female reproductive parts). It becomes fruit.
+- __Ovules__: Become seeds to grow new plants.
+
+
+---
+
+## Other Parts {.c2}
+
+![](../assets/flower-diagram.png)
 
 - __Petal__: The aesthetic part of a flower; attracts pollinators
 - __Sepal__: Protects the flower when not in bloom; supports the petals when in bloom
 
-![](../assets/flower-diagram.png)
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/SZrTndD1H10" title="This Vibrating Bumblebee Unlocks a Flower's Hidden Treasure |  Deep Look" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-- __Stigma__: Receives (captures) pollen to be used in reproduction
-- __Style__: A hollow tube through which pollen can grow to reach the ovary
-- __Ovary__: Contains the ovules (eggs; female reproductive parts)
-
-![](../assets/flower-diagram.png)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/GqA42M4RtxE" title="The Death Of Bees Explained – Parasites, Poison and Humans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-![](../assets/flower-reproductive-cycle.png)
-
----
-
-### Task
-
-1. Watch the video linked on Google Classroom.
-2. Pause the video to answer the questions on the associated document __in your book__.
-	- The questions follow the order of the video.
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/thOifuHs6eY" title="Hexagons are the Bestagons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
