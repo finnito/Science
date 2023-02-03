@@ -1,4 +1,4 @@
- ---
+---
 title: Introduction to Microbes
 slug: introduction
 subtitle: 11SCI - Microbes
@@ -32,7 +32,6 @@ weight: 1
 
 - Internal assessment
 - 4 credits
-- Due Friday of week 6; March 11th
 - 3 weeks of learning
 - 3 weeks to complete on the assessment
 	+ Research (1.5 weeks)

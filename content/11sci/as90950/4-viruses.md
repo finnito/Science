@@ -16,6 +16,7 @@ weight: 4
 - Glue the diagram into the centre of a page
 - We will make notes around the outside
 - A <mark>bacteriophage is a virus that infects bacteria</mark>, specifically
+- Other viruses infect normal body (somatic) cells
 
 ---
 
@@ -59,7 +60,7 @@ weight: 4
 ### Reproduction {.c2}
 
 - Viruses <mark>do not perform binary fission or any other type of reproduction</mark>
-- They <mark>infect a host cell with their own DNA or RNA</mark>
+- <mark>They infect a host cell with their own DNA or RNA</mark>
 - This <mark>genetic material hijacks the cell, causing it to build more viruses</mark>
 - The <mark>host cell then dies</mark>
 

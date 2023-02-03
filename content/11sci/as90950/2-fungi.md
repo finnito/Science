@@ -30,7 +30,7 @@ They are sometimes <mark>unicellular (made of one cell), or multicellular (many 
 - Both!
 - They <mark>can cause disease</mark> (looking at you, SARS-CoV-2 virus)
 	+ <mark>Disease causing microbes are called __pathogens__</mark>
-- They <mark>can be used to make food (yoghurt, ginger beer, mushrooms)</mark>
+- They <mark>can be used to make food (yoghurt, ginger beer, mushroomsm, bread, etc.)</mark>
 
 ![[Source](https://www.theguardian.com/news/2018/mar/26/the-human-microbiome-why-our-microbes-could-be-key-to-our-health)](https://i.guim.co.uk/img/media/113a665de9715e2824a6d6383bcf9d3b3893e1e7/563_0_13047_7829/master/13047.jpg?width=1020&quality=45&auto=format&fit=max&dpr=2&s=63f19a7030d0978dd1478b8c24bbc759)
 
@@ -53,10 +53,12 @@ They are sometimes <mark>unicellular (made of one cell), or multicellular (many 
 
 ---
 
-#### Function of Fungi
+#### Function of Fungi {.c2}
 
 -  Fungi exist in ecosystems to <mark>break down (decay) dead organic matter into small molecules</mark> that are able to be be used by other living things
 -  This is <mark>so that energy and nutrients can be reused</mark>!
+
+![[Source](https://wildlifeinformer.com/types-of-decomposers/)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwildlifeinformer.com%2Fwp-content%2Fuploads%2F2021%2F04%2Ffood-chain-diagram.jpg&f=1&nofb=1&ipt=6e10b7201473ddb1afacc5a86e50d43e7f610b9e763768e9b87dffc2345ee21f&ipo=images)
 
 ---
 
