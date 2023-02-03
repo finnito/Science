@@ -12,7 +12,7 @@ menu:
         parent: "11SCI"
 ---
 
-## Learning Outcomes _/ Ngā Whāinga Ako_ 
+## Learning Outcomes _/ Ngā Whāinga Ako_
 
 1. Understand the relationship between cells, nuclei, chromosomes, genes, alleles and DNA.
 2. Understand the role DNA plays in carrying instructions to the next generation and determining phenotype.
@@ -38,7 +38,7 @@ menu:
 
 {{< slides >}}
 
-## Unit Plan _/ Mahere Kōwae_ 
+## Unit Plan _/ Mahere Kōwae_
 
 |        | Akoranga 1                                         | Akoranga 2                  | Akoranga 3                         | Akoranga 4                    |
 |:-------|:---------------------------------------------------|:----------------------------|:-----------------------------------|:------------------------------|

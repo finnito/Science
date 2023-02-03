@@ -21,10 +21,10 @@ weight: 8
 
 ### Fertalisation & Punnett Squares {.c2}
 
-- In humans we need to fuse a sperm and an egg into a fertalised zygote.
+- <mark>In humans we need to fuse a sperm and an egg into a fertalised zygote.</mark>
 - Therefore, we can visualise sex determination with a Punnett square.
 - Complete this Punnett square and describe the genotypic and phenotypic ratios.
-- Does the probability of a particular sex change with each fertalisation? Why / why not?
+- __Pātai:__ Does the probability of a particular sex change with each fertalisation? Why / why not?
 
 ![](../assets/5-punnet-square.jpg)
 
@@ -42,7 +42,7 @@ weight: 8
 
 ### Task / Ngohe
 
-1. Open https://scipadonline.co.nz/lesson/193-lessons
+1. Open [https://scipadonline.co.nz/lesson/193-lessons](https://scipadonline.co.nz/lesson/193-lessons)
 	- Join the class with code __QWPR5__ if first time.
 2. Complete the lesson on variation.
 
