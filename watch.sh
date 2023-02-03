@@ -16,12 +16,8 @@ terminal-notifier \
         -message "fswatch started!" \
         -appIcon http://localhost:1313/favicon.png
 
-fswatch --print0 \
-        --event-flags \
+fswatch --event-flags \
         --recursive \
-        --exclude=".*" \
-        --include="\\.md$" \
-        --include="\\.html$" \
-        --include="\\.css$" \
-        ./content/ \
-        | xargs -0 -n 1 python3 sparse-build.py -d
+        --verbose \
+        -0 \
+        content/ | xargs -0 -I{} python3 sparse-build.py -d {}
