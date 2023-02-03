@@ -9,7 +9,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 | Weekdays   | Months             | Numbers   |
 | :--------- | :----------------- | :-------- |
 | Rāhina     | Kohi-tātea         | Tahi      |
-| Rātu       | Hui-tanguru        | Rua       |
+| Rātū       | Hui-tanguru        | Rua       |
 | Rāapa      | Poutū-te-rangi     | Toru      |
 | Rāpare     | Paenga-whāwhā      | Whā       |
 | Rāmere     | Haratua            | Rima      |
@@ -23,7 +23,7 @@ A simple cheatsheet of teaching-related language to use in the classroom or on n
 
 ## Planning & Classroom Vocabulary
 
-- __Akonga__: Student
+- __Ākonga__: Student
 - __Akoranga__: Lesson
 - __Angitu__: Success
 - __Aorakitanga__: Excellence
@@ -214,10 +214,10 @@ Aroha mai
 Kei te pēhea koe?
 : How are you? (one person)
 
-Kei to pēhea kōrua?
+Kei te pēhea kōrua?
 : How are you? (two people)
 
-Kei to pēhea koutou?
+Kei te pēhea koutou?
 : How are you? (three or more people)
 
 Kei te pai
