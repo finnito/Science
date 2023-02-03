@@ -1,32 +1,21 @@
 ---
 title: Speed & Acceleration
-subtitle: 12PHYS - Mechanics
-author: Finn Le Sueur
-date: 2021
-theme: finn
-weight: 2
 slug: speed-and-acceleration
-header-includes:
-- \usepackage{amsmath}
+subtitle: 12PHYS - Mechanics
+weight: 2
 ---
 
-## Te Whāinga Ako
+## Te Whāinga Ako / Learning Outcome
 
 1. Review basic speed and acceleration calculations.
 
-<p class="instruction">Write the date and te whāinga ako in your book</p>
+<p class="instruction">Head up your book a bold title "Speed and Acceleration" and write the date and te whāinga ako below.</p>
 
 ---
 
 ## Pātai Tahi: Who is the fastest?
 
-- Andy can run $100m$ in $11.9$ seconds
-- Bob can run $100m$ in $10.8$ seconds
-- Chris can run $100m$ in $12.4$ seconds
-
----
-
-### Whakatika
+__In pairs with your whiteboard write down your answer and get ready to hold it up!__
 
 - Andy can run $100m$ in $11.9$ seconds
 - Bob can run $100m$ in $10.8$ seconds
@@ -42,19 +31,11 @@ header-includes:
 - Billy can run $510m$ in $1 minute$
 - Cameron can run $452m$ in $1 minute$
 
----
-
-### Whakatika
-
-- Aaron can run $534m$ in $1 minute$
-- Billy can run $510m$ in $1 minute$
-- Cameron can run $452m$ in $1 minute$
-
 > Aaron because he ran the furthest in $1 minute$.
 
 ---
 
-## Who is the fastest?
+## Pātai Toru: Who is the fastest?
 
 - Ash can run $0.3km$ in $45 seconds$
 - Bailey can run $420m$ in $1 minute$
@@ -68,10 +49,10 @@ header-includes:
 
 $$
 \begin{aligned}
-    & v = \frac{d}{t} \cr
-    & d = \text{total distance travelled} \cr
-    & t = \text{time} \cr
-    & v = \text{speed}
+    v &= \frac{\Delta d}{\Delta t} \cr
+    d &= \text{total distance travelled (meters)} \cr
+    t &= \text{time (seconds)} \cr
+    v &= \text{speed}
 \end{aligned}
 $$
 
@@ -84,7 +65,7 @@ $$
 - $ms^{-1}$
 - It stands for __meters per second__
 - E.g. the speed of sound is $343ms^{-1}$
-- _Sound travels $330m$ in one second_
+- _Sound travels $343m$ in one second_
 
 ---
 
@@ -92,11 +73,14 @@ $$
 
 Ash runs $315m$ in $45s$. Calculate his average speed in __meters per second__.
 
-1. __Knowns:__ 
-2. __Unknowns:__ 
-3. __Formula:__ 
-4. __Substitute:__ 
-5. __Solve:__ 
+$$
+\begin{aligned}
+    &  && \text{Knowns}  \cr
+    &  && \text{Unknowns} \cr
+    &  && \text{Formula} \cr
+    &  && \text{Sub and Solve} 
+\end{aligned}
+$$
 
 ---
 
@@ -106,11 +90,11 @@ Ash runs $315m$ in $45s$. Calculate his average speed in __meters per second__.
 
 $$
 \begin{aligned}
-    & d = 315m, t = 45s \cr
-    & v = ? \cr
-    & v = \frac{d}{t} \cr
-    & v = \frac{315}{45} \cr
-    & v = 7ms^{-1}
+    d &= 315m, t = 45s \cr
+    v &= ? \cr
+    v &= \frac{\Delta d}{\Delta t} \cr
+    v &= \frac{315}{45} \cr
+    v &= 7ms^{-1}
 \end{aligned}
 $$
 
@@ -122,7 +106,7 @@ $$
 - A handgun bullet = $660ms^{-1}$
 - A car on the road = $50km/hr$
 - A flying airplane = $1100kmh^{-1}$
-- Light = $300,000,000$
+- Light = $300,000,000ms^{-1}$
 
 <p class="instruction">Pātai: In pairs, convert the speed of an airplane to meters per second.</p>
 
@@ -140,47 +124,39 @@ $$
 
 ---
 
-### Pātai
+### Two Pātai
 
-A car is moving at a speed of $10ms^{-1}$. How far does the car travel in $12s$?
+1. A car is moving at a speed of $10ms^{-1}$. How far does the car travel in $12s$?
+2. A man is running at a speed of $4ms^{-1}$. How long does he take to run $100m$?
 
-1. __Knowns:__ 
-2. __Unknowns:__ 
-3. __Formula:__ 
-4. __Substitute:__ 
-5. __Solve:__ 
+$$
+\begin{aligned}
+    &  && \text{Knowns}  \cr
+    &  && \text{Unknowns} \cr
+    &  && \text{Formula} \cr
+    &  && \text{Sub and Solve} 
+\end{aligned}
+$$
 
 ---
 
-#### Whakatika
+#### Whakatika Tahi
 
 A car is moving at a speed of $10ms^{-1}$. How far does the car travel in $12s$?
 
 $$
 \begin{aligned}
-    v &= 10ms^{-1}, t=12s \cr
-    d &= ? \cr
-    v &= \frac{d}{t} \cr
-    10 &= \frac{d}{12} \cr
+    v &= 10ms^{-1}, t=12s   && \text{Knowns}  \cr
+    d &= ?                  && \text{Unknowns} \cr
+    v &= \frac{d}{t}        && \text{Formula} \cr
+    10 &= \frac{d}{12}      && \text{Sub and Solve} \cr
     10 \times 12 &= d = 120m
 \end{aligned}
 $$
 
 ---
 
-### Pātai
-
-A man is running at a speed of $4ms^{-1}$. How long does he take to run $100m$?
-
-1. __Knowns:__ 
-2. __Unknowns:__ 
-3. __Formula:__ 
-4. __Substitute:__ 
-5. __Solve:__ 
-
----
-
-#### Whakatika
+#### Whakatika Rua
 
 A man is running at a speed of $4ms^{-1}$. How long does he take to run $100m$?
 
@@ -203,14 +179,7 @@ Velocity may refer to __average velocity__ or __instantaneous velocity__.
 
 The formula $v = \frac{d}{t}$ can only be used to calculate __average velocity__ or when __the velocity is constant__.
 
----
-
-## Ngā Whāinga Ako
-
-1. Review basic acceleration calculations.
-2. Cover a basic introduction vectors.
-
-<p class="instruction">Write the date and ngā whāinga ako in your book</p>
+To find the __instantaneous velocity__ you must use calculus. This is __not__ something we learn in PHY201.
 
 ---
 
@@ -220,17 +189,12 @@ The formula $v = \frac{d}{t}$ can only be used to calculate __average velocity__
 
 $$
 \begin{aligned}
-    & a = \frac{\Delta v}{t} \cr
-    & \Delta v = \text{ change in speed} \cr
-    & t = \text{ time} \cr
-    & a = \text{ acceleration}
+    a &= \frac{\Delta v}{\Delta t} \cr
+    \Delta v &= \text{ change in speed} \cr
+    t &= \text{ time (s)} \cr
+    a &= \text{ acceleration}
 \end{aligned}
 $$
-
-<aside class="notes">
-    Ask class for units for each variable in the equation.
-    Make note that these are Standard International units and should be used at all times.
-</aside>
 
 ---
 
@@ -239,6 +203,10 @@ $$
 > _meters per second squared OR meters per second per second_
 
 For example, $a=12ms^{-2}$ means that the velocity is increased by $12ms^{-1}$ every second.
+
+|  t (s)  |  0  |  1  |  2  |  3  |
+|---------|-----|-----|-----|-----|
+| v (m/s) |   0 |  12 |  24 |  36 |
 
 ---
 
@@ -257,7 +225,7 @@ $$
 
 ### Pātai
 
-A man initially walking at $2.0ms^{-1}$ notices that his house is on fire so he speeds up to $11ms^{-1}$ in $1.3s$.
+A man initially walking at $2.0ms^{-1}$ notices that his house is on fire so he speeds up to $4ms^{-1}$ in $1.3s$.
 
 1. Calculate the change in speed
 2. Calculate his acceleration
@@ -268,10 +236,10 @@ A man initially walking at $2.0ms^{-1}$ notices that his house is on fire so he 
 
 $$
 \begin{aligned}
-    & v_{f} = 11ms^{-1}, v_{i} = 2ms^{-1} && \text{Knowns}\cr
+    & v_{f} = 4ms^{-1}, v_{i} = 2ms^{-1} && \text{Knowns}\cr
     & \Delta v = ? && \text{Unknowns}\cr
     & \Delta v = v_{f} - v_{i} && \text{Formula}\cr
-    & \Delta v = 11 - 2 = 9ms^{-1} && \text{Sub and Solve}
+    & \Delta v = 4 - 2 =2ms^{-1} && \text{Sub and Solve}
 \end{aligned}
 $$
 
@@ -281,10 +249,10 @@ $$
 
 $$
 \begin{aligned}
-    & \Delta v = 9ms^{-1}, t = 1.3s && \text{Knowns}  \cr
+    & \Delta v = 2ms^{-1}, t = 1.3s && \text{Knowns}  \cr
     & a = ? && \text{Unknowns} \cr
     & a = \frac{\Delta v }{t} && \text{Formula} \cr
-    & a = \frac{9}{1.3} = 6.9ms^{-2} && \text{Sub and Solve} 
+    & a = \frac{2}{1.3} = 1.54ms^{-2} && \text{Sub and Solve} 
 \end{aligned}
 $$
 

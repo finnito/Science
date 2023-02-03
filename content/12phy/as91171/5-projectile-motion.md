@@ -9,7 +9,7 @@ weight: 5
 
 1. Yssy travels 30km south and then 20km west. Draw a vector diagram to show her total __displacement (resultant)__.
 2. Max and Lena are pushing a box. Max is pushing it with force 500N to the right, and Lena is pushing it with force 400N up. Draw a vector diagram to show the __net (resultant) force__.
-3. Phoebe is flying at $7ms^{-1}$ east. Phoebe changes direction so she flying at $7ms^{-1}$ south. Draw a vector diagram to show her __change in velocity__.
+3. Phoebe is flying at $7ms^{-1}$ east. Phoebe changes direction so she flying at $7ms^{-1}$ south. Draw a vector diagram and calclate her __change in velocity__.
 
 ---
 
@@ -34,36 +34,23 @@ weight: 5
 
 ## Projectile Motion
 
-> Motion under gravity. Friction forces are ignored. Gravity is the only force acting. Motion up and motion down are symmetrical.
+> Parabolic motion due to gravity. Friction forces are ignored. Gravity is the only force acting. Motion up and motion down are symmetrical.
 
 ![](../assets/ideal-world-meme.jpg)
 
 ---
 
-## Mahi Tuatahi
+### Describing Velocity
 
-1. Calculate the height that your ball reached yesterday in your experiment
-2. Complete the calculation at the bottom of yesterday's worksheet
+We need to be able to describe the _velocity_ and _acceleration_ of an object in projectile motion.
 
----
-
-### Pātai: Describing Velocity
-
-We first need to correctly describe the _velocity_ and _acceleration_ of an object in motion.
-
-A ball is thrown vertically upwards. __In pairs on a whiteboard, draw two diagrams and indicate the direction of the ball's velocity and acceleration when:__
-
-1. It is going up,
-2. it is going down,
-3. it is at the highest point.
+__Pātai__<br/>A ball is thrown vertically upwards.<br/>For each of the three points below, draw a vector showing the direction of it's velocity and acceleration.
 
 ---
 
-#### Whakatika {.c2}
+#### Whakatika
 
-![Velocity](../assets/projectile-motion.jpg)
-
-![Acceleration](../assets/projectile-motion.jpg)
+![](../assets/projectile-motion-labels.png)
 
 ---
 
@@ -92,12 +79,13 @@ $$
 
 ---
 
-### 1D Projectile Motion: In Summary
+### Projectile Motion: In Summary
 
 - An object that moves through the air __without its own power source__;
 - the only force acting upon it is the __weight force__;
 - it is always experiencing __downward acceleration of $9.8ms^{-2}$__;
 - motion up/down is symmetrical.
+- The path is follows is in the shape of a parabola.
 
 ---
 
@@ -168,7 +156,7 @@ $$
 
 ### Whakawai/Practise
 
-- Textbook Page 137: Activity 12A Q1, Q3, Q4
+- Textbook Page 137: Activity 12A Q1, Q3
 
 ---
 
@@ -183,10 +171,6 @@ A cannon ball is fired horizontally from the top of a hill. The velocity of the 
 </div>
 
 ![[Source](https://www.texasgateway.org/resource/53-projectile-motion)](https://d1yqpar94jqbqm.cloudfront.net/styles/media_full/s3/images/598c9cdae7991341071f858a98f8ed29b02a04fd.jpg?itok=aKgosno9)
-
----
-
-Read page 137-138 in your textbook for extra information. Add any extra information to your notes that you find useful!
 
 ---
 
@@ -229,14 +213,6 @@ Steps:
 ![](../assets/types-of-parabolas.png)
 
 You need to be able to solve all three types for the exam! We have covered Half and full parabolas so far, now we will do __partial parabolas__!.
-
----
-
-### Partial Parabolas
-
-- Always use kinematic equations, just like the other two types
-- Always split up your horizontal and vertical information and calculations
-- Very similar problem solving to the other types
 
 ---
 
@@ -291,3 +267,12 @@ $$
 $$
 
 <mark>A height of $-13.60m$ indicates that it is lower than where it begin. This means that it fell short of Elias and hit the ground.</mark>
+
+---
+
+## Practice Your Parabolas!
+
+![](../assets/types-of-parabolas.png)
+
+You need to be able to solve all three types for the exam! We have covered Half and full parabolas so far, now we will do __partial parabolas__!.
+

@@ -35,18 +35,11 @@ weight: 7
 
 ### Pātai: Vector Reminder
 
-On your whiteboards, add these vectors (head to tail) to find the resultant (net) force acting.
+1. Draw a vector diagram for each situation.
+2. Illustrate and label the _resultant_ force.
+3. Calculate the acceleration each experiences given $m=5kg$.
 
 ![](../assets/vector-addition-reminder.png)
-
----
-
-### Pātai: Acceleration
-
-For each, calculate the acceleration that a $5kg$ object would experience.
-
-![](../assets/vector-addition-reminder.png)
-
 
 ---
 
@@ -147,7 +140,7 @@ For each, calculate the acceleration that a $5kg$ object would experience.
 
 ## {.c2}
 
-- It instead is __equal and opposite to the component of the weight force perpendicular to the surface__.
+- __ Support is equal and opposite to the component of the weight force perpendicular to the surface__.
 - We can find it using the right triangle that is formed between the weight force exerted on the plane, and the total net force.
 - $F_{n} = F_{w}cos(\theta)$
 - The angle inside this triangle is the same as the angle of the incline.
@@ -158,8 +151,8 @@ For each, calculate the acceleration that a $5kg$ object would experience.
 
 ## Calculating a Missing Force
 
-- <mark>__If__ an object is in equilibrium, we can calculate a missing force by assuming $F_{net} = 0$ and drawing a vector diagram</mark>
-- They _should_ form a closed right-angled triangle, allowing you to find the unknown side.
+- <mark>__If__ an object is in equilibrium, we can calculate a missing force by knowing $F_{net} = 0$ and drawing a vector diagram</mark>
+- They _should_ form a closed right-angled triangle, allowing you to find the unknown side with Pythag/trig.
 
 ![](../assets/finding-unknown-force.png)
 

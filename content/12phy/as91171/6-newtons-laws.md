@@ -62,7 +62,7 @@ weight: 6
 ### Examples {.c2}
 
 - __Rockets__: Gas is ignited causing it to heat and expand. It is expelled out a narrow nozzel at a high velocity. An equal and opposite force is exerted on the spacecraft causing it to move forwards.
-- __Bouncing Balls__: A ball thrown on the ground exerts a force on contact, the ground exerts an equal and opposite force which causes the ball to bounce.
+- __Bouncing Balls__: A ball thrown on the ground exerts a force on contact. The ground exerts an equal and opposite force which causes the ball to bounce.
 
 ![[Source](https://giphy.com/gifs/space-astronomy-tXLpxypfSXvUc)](https://media1.giphy.com/media/tXLpxypfSXvUc/giphy.gif?cid=ecf05e47z4jcc36qopxemoaw7ktazp5350nz8c2n0f4xz86h&rid=giphy.gif)
 
@@ -82,8 +82,9 @@ With the person next to you, write a paragraph describing how Newton's 1st and 2
 
 - Newton's 1st Law
     + __A non-zero net force will induce a change in velocity (an acceleration)__
-    + In the x-direction there are no forces acting (friction is negligible), and in the y-direction there is only the weight force of the object. This means the resultant force is in the downwards direction.
-    + An acceleration is therefore induced in the downwards direction (constant).
+    + In the x-direction there are no forces acting (friction is negligible).
+    + In the y-direction there is only the weight force of the object. This means the resultant force is in the downwards direction.
+    + An constant acceleration is therefore induced in the downwards direction at all times.
 
 ---
 

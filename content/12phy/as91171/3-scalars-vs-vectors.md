@@ -10,7 +10,7 @@ slug: scalars-vs-vectors
 In pairs, think about and discuss the similarities and differences between these two questions:
 
 - Mr Chu puts 40 apples inside a box, except Miss Nam eats two of them. What is the total number of apples inside the box?
-- Mrs Carpenter lifts a plant off her desk with a force of $15N$ in the upwards direction, while the plant has a weight force of $5N$ acting down. What is the total force applied on the plant?
+- Ms Carpenter lifts a plant off her desk with a force of $15N$ in the upwards direction, while the plant has a weight force of $5N$ acting down. What is the total force applied on the plant?
 
 ---
 
@@ -40,7 +40,7 @@ In pairs, think about and discuss the similarities and differences between these
 
 ### Pātai
 
-Ella drives to Sumner beach in the weekend because it is far too hot. She drives $5km$ south and $10km$ west to get there.
+Ella drives to Sumner beach in the weekend because it is nice and hot outside. She drives $5km$ south and $10km$ west to get there.
 
 - What is the total distance travelled by Ella?
 - What is the total displacement of Ella?
@@ -64,7 +64,9 @@ Ella drives to Sumner beach in the weekend because it is far too hot. She drives
 
 ---
 
-### Scalar or Vector?
+### Scalar or Vector? {.c2}
+
+<div>
 
 - Distance
 - Displacement
@@ -73,7 +75,8 @@ Ella drives to Sumner beach in the weekend because it is far too hot. She drives
 - Acceleration
 - Momentum
 
----
+</div>
+<div>
 
 - Energy
 - Force
@@ -82,26 +85,32 @@ Ella drives to Sumner beach in the weekend because it is far too hot. She drives
 - Work
 - Power
 
+</div>
 ---
 
 When dealing with problems which involve vector quantities (e.g. calculating velocity, force, etc.), you must consider the size and direction.
 
-Which means: __YOU MUST USE VECTOR DIAGRAMS__ (trigonometry).
+Which means: __YOU MUST USE VECTOR DIAGRAMS__ (trigonometry) when working in two dimensions!
 
 ---
 
-## Vectors
+## Vectors {.c2}
+
+<div>
 
 - Have both __direction__ and __magnitude__
 - Drawn as an arrow
 - Drawn with a ruler
 - Drawn to scale (on a grid, typically)
 
----
+</div>
+<div>
 
 - Drawn head-to-tail
 - Can be added an subtracted
 - Use Pythagoras and SOH CAH TOA to find values
+
+</div>
 
 ---
 
@@ -115,13 +124,7 @@ Which means: __YOU MUST USE VECTOR DIAGRAMS__ (trigonometry).
 
 ---
 
-### Vectors Worksheet
-
-![[Source](http://reepingdavid.weebly.com/2-adding-vectors.html)](http://reepingdavid.weebly.com/uploads/2/7/2/3/27230509/243940_orig.gif)
-
----
-
-## Vector Addition Pātai Tahi
+## Vector Addition Example
 
 A car is driven 3 km east for 200 seconds, then 4 km south for 250 seconds, then 3 km west for 150 seconds.
 
@@ -139,6 +142,12 @@ $$
 
 ---
 
+### Vectors Worksheet
+
+![[Source](http://reepingdavid.weebly.com/2-adding-vectors.html)](http://reepingdavid.weebly.com/uploads/2/7/2/3/27230509/243940_orig.gif)
+
+---
+
 ## Mahi Tuatahi
 
 1. [https://quizlet.com/au/566254686/vectors-and-scalars-flash-cards/](https://quizlet.com/au/566254686/vectors-and-scalars-flash-cards/)
@@ -153,14 +162,6 @@ $$
 
 <p class="instruction">Write the date and ngā whāinga ako in your book</p>
 
-
----
-
-## Vector Addition Pātai Rua
-
-1. A bird flies $3km$ to the east and then $4km$ to the south. Find the resultant __displacement__ of the bird.
-2. The bird takes $35min$ to complete the flight. Calculate its average __speed__ and __velocity__ in meters per second.
-
 ---
 
 ### Vector Subtraction
@@ -174,18 +175,17 @@ Consider acceleration:
 
 ---
 
-![Vector Subtraction](../assets/1-vector-subtraction.gif)
+![](../assets/vector-subtraction-1.jpg)
 
-This works because of algebra:
+---
 
-$$
-\begin{aligned}
-    & a - b = a + (-b) \cr
-    & 1 - 4 = 1 + (-4) = -3
-\end{aligned}
-$$
+![](../assets/vector-subtraction-2.jpg)
 
-> Vector subtraction is simply vector addition, where the subtracted vectors have their directions inverted.
+---
+
+![](../assets/vector-subtraction-3.jpg)
+
+__Summary__: Vector subtraction is simply vector addition, where the subtracted vectors have their directions inverted.
 
 ---
 
@@ -195,11 +195,11 @@ Velocity is a vector and a change ($\Delta$) is calculated like this:
 
 $$
 \begin{aligned}
-    & \Delta v = v_{f} - v_{i} \cr
+    \Delta v &= v_{f} - v_{i} \cr
 \end{aligned}
 $$
 
-Pātai: Can we turn this into __vector addition__?
+__Pātai__: Looks like vector subraction to me. Can we turn it into addition?
 
 $$
 \begin{aligned}
@@ -210,7 +210,7 @@ $$
 
 ---
 
-#### Example / _Tauria Tahi_
+#### Example / _Tauria_
 
 A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebounds at $4ms^{-1}$ in the opposite direction away from the crossbar. 
 
@@ -220,18 +220,17 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 
 ---
 
-## Ngā Whāinga Ako
+#### Practice / _Whakawai_
 
-1. Practice Vector Addition and Subtraction
-2. Use trigonometry to give vector bearings in degrees
+- ESA Activity 9A Q11-14
+- Course Manual handout page 3-4
 
-<p class="instruction">Write the date and ngā whāinga ako in your book</p>
 
 ---
 
 ## Mahi Tuatahi {.c2}
 
-1. Mr Le Sueur walked his dog up Mt Barossa on Sunday. He first walked 1.5km East (30min) and then 2.5km North (1hr 15min). __Draw a vector diagram__
+1. Mr Le Sueur walked his dog up Mt Barossa. He first walked 1.5km East (30min) and then 2.5km North (1hr 15min). __Draw a vector diagram__
 2. Calculate his __average speed__
 3. Calculate his __average velocity__
 4. Give the __direction__ he travelled using an angle and a cardinal direction (e.g. 10 deg north of west).
@@ -259,22 +258,30 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 
 ---
 
-## Akoranga 6 Mahi Tuatahi {.c2}
+## Mahi Tuatahi {.c2}
 
 ![](../assets/a6-mt.png)
 
 1. Sarah passes the soccer ball to Kya at a speed of $15ms^{-1}$. Kya then passes it off to Atua at a speed of $5ms^{-1}$. __Draw a vector diagram for this change in velocity__.
-2. Calculate the change in velocity
-3. Calculate the angle of the change
+2. Calculate the change in velocity (remember Pythagoras)
+3. Calculate the angle of the change (remember SOH-CAH-TOA)
 
 ---
 
-## Akoranga 6 Mahi Tuatahi Rua {.c2}
+### Answer / Whakatika {.c2}
 
-![](../assets/6-mt2.png)
+![](../assets/delta-v-mahi-tuatahi.png)
 
-1. A cyclist is heading down a hill at $14ms^{-1}$ S, before going around a sharp $90\degree$ bend, after which they are going $29ms^{-1}$ W. Draw the vectors $v_{f}$, $v_{i}$, $-v_{f}$ and $-v_{i}$
-2. Calculate their change in velocity (including direction) using a vector diagram, Pythagoreas theorem and trigonometry. 
+$$
+\begin{aligned}
+    \Delta v^{2} &= v_{f}^{2} + v_{i}^{2}       \cr
+    \Delta v &= \sqrt{v_{f}^{2} + v_{i}^{2}}    \cr
+    \Delta v &= \sqrt{15^{2} + 5^{2}}           \cr
+    \Delta v &= \sqrt{250} = 15.81ms^{-1}       \cr\cr
+    tan(\theta) &= \frac{opp}{adj}              \cr
+    \theta &= tan^{-1}(\frac{15}{5}) = 75.6\degree
+\end{aligned}
+$$
 
 ---
 
@@ -289,7 +296,7 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 ## Vector Components {.c2}
 
 - Similarly to how we create a _resultant vector_ by adding two vectors, we can decompose a vector on an angle into its horizontal and vertical components.
-- __Pātai__: Draw two vectors which _result_ in $\vec{C}$ and form a __right-angled triangle__.
+- __Pātai__: Draw two vectors which add together to _result_ in $\vec{C}$  (right-angled triangle).
 
 ![](../assets/vector-components-1.png)
 
@@ -304,7 +311,7 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 ---
 
 - This is an important skill because the __x__ and __y__ components of a vector are __independent__.
-- This means they do not influence each other, and often experience different accelerations
+- This means they do not influence each other (e.g. in projectile motion)
 
 ![Vector Decomposition](../assets/1-vector-decomposition.png)
 
@@ -314,9 +321,9 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 
 ![Vector Decomposition](../assets/1-vector-decomposition.png)
 
-1. Mr Le Sueur tosses a ball across the classroom with an initial velocity of $4ms^{-1}$ (hypotenuse), on an angle of $40\degree$. __Draw a labelled vector diagram__
-2. Write an equation to find the horizontal component of the velocity
-3. Write an equation to find the vertical component of the velocity
+1. Mr Le Sueur tosses a ball across the classroom with an initial velocity of $v=4ms^{-1}$ (hypotenuse), on an angle of $40\degree$. __Draw a labelled vector diagram__
+2. Calculate the horizontal component of the velocity
+3. Calculate the vertical component of the velocity
 
 ---
 

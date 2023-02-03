@@ -5,7 +5,10 @@ subtitle: 12PHYS - Mechanics
 weight: 4
 ---
 
+
 ## Mahi Tuatahi
+
+<p class="instruction">__Head up your book with the title:__ Kinematics</p>
 
 Try and solve this problem:
 
@@ -27,21 +30,21 @@ Five variables - five equations!
 
 $$
 \begin{aligned}
-    & v_{f} = v_{i} + at \cr
-    & d = \frac{v_{i} + v_{f}}{2}t \cr
-    & v_{f}^{2} = v_{i}^{2} + 2ad \cr
-    & d = v_{i}t + \frac{1}{2}at^{2} \cr
-    & d = v_{f}t - \frac{1}{2}at^{2}
+    v_{f}       &= v_{i} + at                   \cr
+    d           &= \frac{v_{i} + v_{f}}{2}t     \cr
+    v_{f}^{2}   &= v_{i}^{2} + 2ad              \cr
+    d           &= v_{i}t + \frac{1}{2}at^{2}   \cr
+    d           &= v_{f}t - \frac{1}{2}at^{2}
 \end{aligned}
 $$
 
-<p class="instruction">In your book, using a page in landscape, re-arrange each equation for each different variable!</p>
+<p class="instruction">On your whiteboard re-arrange each equation for each different variable, the add the manipulated form to your sheet!</p>
 
 ---
 
-## Pātai Tahi:
+## Pātai Tahi
 
-A car initially travelling at $13ms^{-1}$ rolls down a straight slope, accelerating at $0.6 ms^{-2}$ for $10 s$. How far does the car travel in this time?
+Let's try that starter question again. A car initially travelling at $13ms^{-1}$ rolls down a straight slope, accelerating at $0.6 ms^{-2}$ for $10 s$. How far does the car travel in this time?
 
 $$
 \begin{aligned}
@@ -58,7 +61,14 @@ __Step One – “knowns”__
 
 A car initially travelling at $13ms^{-1}$ rolls down a straight slope, accelerating at $0.6 ms^{-2}$ for $10 s$. How far does the car travel in this time?
 
-$v_{i} = 13ms^{-1}, a=0.6ms^{-2}, t=10s$
+$$
+\begin{aligned}
+    v_{i} &= 13ms^{-1}, a=0.6ms^{-2}, t=10s  && \text{Knowns}  \cr
+    &  && \text{Unknowns} \cr
+    &  && \text{Formula} \cr
+    &  && \text{Sub and Solve} 
+\end{aligned}
+$$
 
 ---
 
@@ -66,13 +76,29 @@ __Step Two – "unknowns"__
 
 A car initially travelling at $13ms^{-1}$ rolls down a straight slope, accelerating at $0.6 ms^{-2}$ for $10 s$. How far does the car travel in this time?
 
-$d = ?, v_{f} = \text{ not needed}$
+$$
+\begin{aligned}
+    v_{i} &= 13ms^{-1}, a=0.6ms^{-2}, t=10s  && \text{Knowns}  \cr
+    d &= ?                                   && \text{Unknowns} \cr
+    &  && \text{Formula} \cr
+    &  && \text{Sub and Solve} 
+\end{aligned}
+$$
 
 ---
 
 __Step Three – "formula"__
 
-Which formula does not include $v_{f}$?
+Which formula includes the three knowns and one unknown?
+
+$$
+\begin{aligned}
+    v_{i} &= 13ms^{-1}, a=0.6ms^{-2}, t=10s  && \text{Knowns}  \cr
+    d &= ?                                   && \text{Unknowns} \cr
+    d &= v_{i}t + \frac{1}{2}at^{2}          && \text{Formula} \cr
+    &  && \text{Sub and Solve} 
+\end{aligned}
+$$
 
 ---
 
@@ -80,8 +106,10 @@ __Step Four - "substitute"__
 
 $$
 \begin{aligned}
-    & d = v_{f}t + \frac{1}{2}at^{2} \cr
-    & d = (13 \times 10) + (\frac{1}{2} \times 0.6 \times 10^{2}) \cr
+    v_{i} &= 13ms^{-1}, a=0.6ms^{-2}, t=10s  && \text{Knowns}  \cr
+    d &= ?                                   && \text{Unknowns} \cr
+    d &= v_{i}t + \frac{1}{2}at^{2}          && \text{Formula} \cr
+    d &= 13 \times 10 + \frac{1}{2} \times 0.6 \times 10^{2}  && \text{Sub}
 \end{aligned}
 $$
 
@@ -91,17 +119,20 @@ __Step Five - "solve"__
 
 $$
 \begin{aligned}
-    & d = v_{f}t + \frac{1}{2}at^{2} \cr
-    & d = (13 \times 10) + (\frac{1}{2} \times 0.6 \times 10^{2}) \cr
-    & d = 130 + 30 = 160m
+    v_{i} &= 13ms^{-1}, a=0.6ms^{-2}, t=10s  && \text{Knowns}  \cr
+    d &= ?                                   && \text{Unknowns} \cr
+    d &= v_{i}t + \frac{1}{2}at^{2}          && \text{Formula} \cr
+    d &= 13 \times 10 + \frac{1}{2} \times 0.6 \times 10^{2}  && \text{Sub} \cr
+    d &= 130 + 30 = 160m
 \end{aligned}
 $$
 
 ---
 
-## Pātai Rua
+## Practice / Whakawai
 
-A windsurfer initially travelling at $3 ms^{-1}$ is accelerated by a strong wind gust, at $0.08 ms^{-2}$. What would be the windsurfer’s speed when he has travelled $100 m$ since the wind gust started?
+2. A windsurfer initially travelling at $3 ms^{-1}$ is accelerated by a strong wind gust, at $0.08 ms^{-2}$. What would be the windsurfer’s speed when he has travelled $100 m$ since the wind gust started?
+3. What time does it take for an airplane to decelerate uniformly from $120 ms^{-1}$ to a stop if the distance covered along the runway is $1500 m$?
 
 $$
 \begin{aligned}
@@ -114,24 +145,32 @@ $$
 
 ---
 
-## Pātai Toru
-
-What time does it take for an airplane to decelerate uniformly from $120 ms^{-1}$ to a stop if the distance covered along the runway is $1500 m$?
+### Whakatika Rua
 
 $$
 \begin{aligned}
-    &  && \text{Knowns}  \cr
-    &  && \text{Unknowns} \cr
-    &  && \text{Formula} \cr
-    &  && \text{Sub and Solve} 
+    v_{i} &= 3ms^{-1}, a=0.8ms^{-2}, d=100m  && \text{Knowns}  \cr
+    v_{f} &= ?  && \text{Unknowns} \cr
+    v_{f}^{2} &= v_{i}^{2} + 2ad  && \text{Formula} \cr
+    v_{f}^{2} &= 3^{2} + 2\times0.08\times100  && \text{Sub and Solve} \cr
+    v_{f} &= \sqrt{144} = 12ms^{-1}
 \end{aligned}
 $$
 
 ---
 
-## Mahi Kāinga
+### Whakatika Toru
 
-Kinematics Question 1, due Monday 22nd/Tuesday 23rd
+$$
+\begin{aligned}
+    v_{i} &= 120ms^{-1}, v_{f} = 0ms^{-1}, d=1500m  && \text{Knowns}  \cr
+    t &= ? && \text{Unknowns} \cr
+    d &= \frac{v_{i} + v_{f}}{2}t && \text{Formula} \cr
+    1500 &= \frac{120 + 0}{2}t  && \text{Sub and Solve} \cr
+    1500 &= 60t \cr
+    t &= \frac{1500}{60} = 25s
+\end{aligned}
+$$
 
 ---
 
