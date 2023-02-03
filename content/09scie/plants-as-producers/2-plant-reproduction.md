@@ -40,6 +40,7 @@ You have been given a timeline of plat reproduction, but it is out of order.
 3. Once on a different plant, this pollen can fertilise the flower by landing on its stigma
 4. The pollen may _germinate_ (grow down into) the ovule of the plant
 5. This can result in the growth of seeds or fruit
+6. These seeds can be carried away from the plan by animals, wind, or rain
 
 ---
 
@@ -60,25 +61,45 @@ If you were away or your drawing was incomplete, collect and glue in a diagram.
 
 ---
 
-## The "Male" Parts {.c2}
-
 ![](../assets/flower-diagram.png)
 
-- __Stamen__: The appendage containing anther and filament
-- __Anther__: The top of the stamen where the pollen is stored "male" reproductive parts
-- __Filament__: Supports the anther
+__Stamen__: The appendage containing anther and filament
 
 ---
 
-## The "Female" Parts {.c2}
+![](../assets/flower-diagram.png)
+
+__Anther__: The top of the stamen where the pollen is stored "male" reproductive parts
+
+---
 
 ![](../assets/flower-diagram.png)
 
-- __Stigma__: Receives (captures) pollen to be used in reproduction
-- __Style__: A hollow tube through which pollen can grow to reach the ovary
-- __Ovary__: Contains the ovules (eggs; female reproductive parts). It becomes fruit.
-- __Ovules__: Become seeds to grow new plants.
+__Filament__: Supports the anther
 
+---
+
+![](../assets/flower-diagram.png)
+
+__Stigma__: Receives (captures) pollen to be used in reproduction
+
+---
+
+![](../assets/flower-diagram.png)
+
+__Style__: A hollow tube through which pollen can grow to reach the ovary
+
+---
+
+![](../assets/flower-diagram.png)
+
+__Ovary__: Contains the ovules (eggs; female reproductive parts). It becomes fruit.
+
+---
+
+![](../assets/flower-diagram.png)
+
+__Ovules__: Become seeds to grow new plants.
 
 ---
 
