@@ -27,7 +27,7 @@ In pairs, think about and discuss the similarities and differences between these
 
 ---
 
-## Distance vs Displacement
+## Example: Distance vs Displacement
 
 - __Distance__ is the amount an object has moved
     + It is a scalar
@@ -53,14 +53,6 @@ Ella drives to Sumner beach in the weekend because it is nice and hot outside. S
 - Displacement: ?
 
 ![[Source]()](../assets/displacement-diagram.png)
-
----
-
-## Vector Addition: Te Whāinga Ako
-
-1. Introduce vector addition
-
-<p class="instruction">Write the date and te whāinga ako in your book</p>
 
 ---
 
@@ -118,9 +110,22 @@ Which means: __YOU MUST USE VECTOR DIAGRAMS__ (trigonometry) when working in two
 
 - To add vectors, we simply draw a the next vector from the _arrowhead_ of the previous one.
 - Draw the resultant vector from start to finish in a separate colour.
-- Important: The resultant vector should be pointing from start position to finish position
+- __Important__: The resultant vector should be pointing from start position to finish position
 
 ![Vector Addition](../assets/1-vector-addition.gif)
+
+---
+
+#### Why can't we add vectors algebraically? {.c2}
+
+<div>
+You help lift a box with a friend. You both apply 5N of force to lift it. What is the resultant force?
+![](../assets/1D-forces.png)
+</div>
+<div>
+With a second box your friend pushes sideways with 5N of force while you apply 5N up. What is the resultant force? Which direction is it going? What is it's size?
+![](../assets/2D-forces.png)
+</div>
 
 ---
 
