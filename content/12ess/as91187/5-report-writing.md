@@ -47,7 +47,7 @@ An aim describes what you will be investigating (the purpose of the experiment).
 - Remember, you can only have one independent variable, but you can _measure_ more than one variable.
 
 > e.g. I think that [_your dependent variable here_] will [_increase/decrease_] when the [_your independent variable here_] is [increased/descreased].
-    
+
 ---
 
 ## Independent Variable
@@ -80,9 +80,11 @@ Be specific about what you will measure and the units of measurement of the depe
 
 Control variables are extremely important because they are what keep a trial fair and let you __draw a causal relationship between your independent and dependent variable__. Without control variables you cannot say for sure what the influence of your independent variable was.
 
-Include __at least four control variables__ in your report and __explain how you will control them__.
+Include __at least four control variables__ in your report and __explain how you will control them__. [Examples](https://www.scribbr.com/methodology/control-variable/).
 
-[Examples](https://www.scribbr.com/methodology/control-variable/) 
+> The same impact surface will be used throughout the experiment.
+> We will control it by smoothing out the surface after each impact.
+> It is important to control this because an uneven surface will lead to inconsistent and hard to measure craters. This will affect the reliability of our results.
 
 ---
 
