@@ -52,7 +52,7 @@ weight: 2
 	- If you break a flask, let Mr Le Sueur know
 	- Don't put your hands on your face until you wash them at the end of the period!
 2. Collect a connical flask and a sheet of aluminium foil
-3. Roughly up the foil in 2cm by 2cm chunks
+3. Roughly tear up the foil into 2cm by 2cm squares
 4. Place all the foil in the connical flask
 
 ![[Source](https://www.quora.com/How-can-I-make-enough-hydrogen-at-home-to-fill-up-a-6-inch-diameter-balloon)](https://qph.fs.quoracdn.net/main-qimg-2d13005c51fd8254e4d512e47a9fbcc8-lq)
