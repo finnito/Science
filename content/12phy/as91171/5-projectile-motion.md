@@ -40,38 +40,38 @@ weight: 5
 
 ---
 
-### Describing Velocity
+### Describing Velocity {.c2}
 
 We need to be able to describe the _velocity_ and _acceleration_ of an object in projectile motion.
-
-__Pātai__<br/>A ball is thrown vertically upwards.<br/>For each of the three points below, draw a vector showing the direction of it's velocity and acceleration.
-
----
-
-#### Whakatika
 
 ![](../assets/projectile-motion-labels.png)
 
 ---
 
-### Forces on Projectiles
+### Forces on Projectiles {.c2}
 
 - We assume that friction force is negligible (we ignore it).
-- Therefore, _the only force_ acting upon the ball while in the air is the __weight force__.
-- Weight force acts in the vertical direction only ($a_{y} = g = 9.8ms^{-2}, v \ne const.$)
-- No forces act in the horizontal ($a_{x} = 0, v=const.$)
+- <mark>Therefore, _the only force_ acting upon the ball while in the air is the __weight force__.</mark>
+- Weight force acts in the vertical direction only ($a_{y} = g = 9.8ms^{-2}, v_{y} \ne const.$)
+- <mark>No forces act in the horizontal ($a_{x} = 0, v_{x}=const.$)</mark>
+
+![](../assets/projectile-motion-labels.png)
 
 ---
 
 ### Acceleration Due to Gravity
 
+<div>
 $$
 \begin{aligned}
 	a = g = 9.8ms^{-2} \text{ (down)}
 \end{aligned}
 $$
 
-> The acceleration of any object in the air without any external forces acting on it.
+> Has the same magnitude at all points ($9.8ms^{-2}$) and always points downwards.
+</div>
+
+![](../assets/projectile-motion-labels.png)
 
 ---
 
@@ -89,7 +89,7 @@ $$
 
 ---
 
-### Mahi Tuatahi: Pātai Tahi {.c2}
+## Half-Projectile Motion: Pātai Tahi {.c2}
 
 <div>
 A ball is thrown upwards with an initial speed of $161.3kmh^{-1}$ ($44.8ms^{-1}$).
@@ -160,7 +160,7 @@ $$
 
 ---
 
-## 2-D Projectile Motion: The Cannon Ball {.c2}
+## Full Projectile Motion {.c2}
 
 <div>
 A cannon ball is fired horizontally from the top of a hill. The velocity of the cannon ball is split into $x$ and $y$ components, which are independent of each other.
@@ -174,13 +174,17 @@ A cannon ball is fired horizontally from the top of a hill. The velocity of the 
 
 ---
 
-### Example / Tauria
+### Example / Tauria {.c2}
 
-A javelin is thrown at $20ms^{-1}$ at an angle of $30^{\circ}$ to the horizontal.
+<div>
+A javelin is thrown at $20ms^{-1}$ at an angle of $30^{\circ}$ to the horizontal. What is it's range?
 
-1. Calculate the initial horizontal and vertical velocities
-2. Calculate the javelin's time of flight
-3. Calculate the distance (range) of the javelin
+1. First, __using trig__, calculate the initial horizontal ($v_{x}$) and vertical ($v_{y}$) velocities
+2. Second, __using vertical values__, calculate the javelin's time of flight
+3. Thirdly, __using horizontal values__, calculate the distance (range) of the javelin
+</div>
+
+![[Source](https://sciencing.com/vector-components-how-to-separate-into-components-w-diagrams-13720222.html)](https://s3-us-west-1.amazonaws.com/contentlab.studiod/1/29/05fce2569d0041b698c62d0123d5d941.png)
 
 ---
 
@@ -188,8 +192,6 @@ A javelin is thrown at $20ms^{-1}$ at an angle of $30^{\circ}$ to the horizontal
 
 <div>
 Hume throws a hammer as far as he can during the Highland Games. It has an initial velocity of $12ms^{-1}$ on an angle of $40^{\circ}$ to the ground. __How far does it go?__
-
-Steps:
 
 1. Separate the x and y values that you know.
 2. Calculate the x and y initial velocities (use a diagram).
@@ -204,7 +206,7 @@ Steps:
 
 ### Whakawai/Practise
 
-- Textbook Activity 12B (pg. 140) Q5
+- Worksheet #6 Projectiles
 
 ---
 
@@ -218,7 +220,7 @@ You need to be able to solve all three types for the exam! We have covered Half 
 
 ### Tauria / Example: Tossing a Ball
 
-Ben throws a ball to Elias who is standing $12m$ away. Elias is $180cm$ tall, and the ball has an initial velocity of $7ms^{-1}$ at an angle of $37^{\circ}$ to the horizontal. __Does the ball travel over Elias' head, hit them, or fall short?__
+Ben kicks a ball to Elias who is standing $12m$ away. Elias is $180cm$ tall, and the ball has an initial velocity of $7ms^{-1}$ at an angle of $37^{\circ}$ to the horizontal. __Does the ball travel over Elias' head, hit them, or fall short?__
 
 1. Calculate the x and y components of the initial velocity
 2. __Think Horizontal__: Calculate the time taking for the ball to reach Elias

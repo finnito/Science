@@ -235,10 +235,10 @@ A soccer ball collides with the crossbar of a goalpost at $5ms^{-1}$. It rebound
 
 ## Mahi Tuatahi {.c2}
 
-1. Mr Le Sueur walked his dog up Mt Barossa. He first walked 1.5km East (30min) and then 2.5km North (1hr 15min). __Draw a vector diagram__
+1. Mr Le Sueur walked his dog up Mt Barossa. He first walked 1.5km East in 30min and then 2.5km North in 1hr 15min. __Draw a vector diagram of his displacement.__
 2. Calculate his __average speed__
 3. Calculate his __average velocity__
-4. Give the __direction__ he travelled using an angle and a cardinal direction (e.g. 10 deg north of west).
+4. Give the __direction of his displacement__ using an angle and a cardinal direction (e.g. 10 deg north of west).
 
 ![](../assets/IMG_1836.jpeg)
 

@@ -34,7 +34,7 @@ weight: 6
 > 
 > __TLDR__: The acceleration created by a force depends directly upon the mass of the object.
 
-![[Source](https://app.emaze.com/@ACOZTCTZ)](https://userscontent2.emaze.com/images/40317562-a195-4290-9548-2be494a056d5/e53d44b5-412a-4189-856b-d3a2f2f5090b.gif)
+![[Source](https://studiousguy.com/newtons-second-law-of-motion-examples/comment-page-1/)](https://studiousguy.com/wp-content/uploads/2021/04/Newtons-Second-Law-of-Motion.jpg)
 
 ---
 
