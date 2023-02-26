@@ -27,6 +27,22 @@ weight: 5
 - Copying whole paragraphs from the internet to use in your report is plagarism (cheating), and will result in a __NA__ and further consequences.
 - References should be APA formatted. You can do this by using https://www.citethisforme.com.
 
+For example your report might look like this:
+
+> ...
+> 
+> In our experiment we used a shotput ball as an analogue for an iron meteorite, because they are similar in composition and density. Other meteorite types are stony and stony-iron.[1] Iron meteorites are typically 90-95% iron and come from the asteroid belt where some asteroids are thought to have had molten cores in the early days of the solar system. The iron would have formed here.[2]
+> 
+> ...
+> 
+> References
+> 
+> [1]: NASA. (2020, May 11). In depth. NASA. Retrieved February 9, 2023, from https://solarsystem.nasa.gov/asteroids-comets-and-meteors/meteors-and-meteorites/in-depth/ 
+> 
+> 
+> [2]: Iron meteorites. Geology. (n.d.). Retrieved February 9, 2023, from https://geology.com/meteorites/iron-meteorites.shtml
+
+
 ---
 
 ## The Aim
