@@ -5,7 +5,7 @@ subtitle: 11SCI - Microbes
 weight: 4
 ---
 
-## Viruses Brainstorm
+### Viruses Brainstorm
 
 ---
 
@@ -83,6 +83,10 @@ weight: 4
 - They do not need food <mark>because they do not do respiration (for growth and reproduction)</mark>
 
 ![](../assets/virus-diagram.jpg)
+
+---
+
+<iframe width="806" height="453" src="https://www.youtube.com/embed/QHHrph7zDLw" title="How do Viruses Reproduce?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
