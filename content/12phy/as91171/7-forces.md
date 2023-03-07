@@ -5,7 +5,9 @@ subtitle: 12PHYS - AS91171
 weight: 7
 ---
 
-## Mahi Tuatahi: Draw a diagram indicating all the forces acting upon you
+## Mahi Tuatahi
+
+Draw a diagram indicating all the forces acting upon you
 
 ---
 
@@ -140,7 +142,7 @@ weight: 7
 
 ## {.c2}
 
-- __ Support is equal and opposite to the component of the weight force perpendicular to the surface__.
+- __Support is equal and opposite to the component of the weight force perpendicular to the surface__.
 - We can find it using the right triangle that is formed between the weight force exerted on the plane, and the total net force.
 - $F_{n} = F_{w}cos(\theta)$
 - The angle inside this triangle is the same as the angle of the incline.
@@ -208,7 +210,7 @@ Worksheet - everything up to but not including the __Work__ section.
 ![](../assets/hw-q30-b-answers.png)
 
 - What do we know about the motion of the car?<br>_It is stationary (constant velocity)._<br><br>
-- Therefore, what can we say about its acceleration, forces and state of equilibrium?<br>_$a = 0, F_{net} = 0$ and is therefore __in equilibrium__._<br><br>
+- Therefore, what can we say about its acceleration, forces and state of equilibrium?<br> $a=0, F_{net}=0$ and is therefore __in equilibrium__.<br><br>
 - Therefore, what do we know the vector diagram will look like?<br>_The vectors will form a closed loop._ <br><br>
 - Draw a diagram.
 
@@ -246,7 +248,7 @@ Worksheet - everything up to but not including the __Work__ section.
 ![](../assets/hw-q30-c-answers-2.png)
 
 - Calculate the normal force. Hint: $F_{n} = F_{w}cos(\theta)$.<br>$F_{n} = 14700 cos(12) = 14378N$<br>
-- Calculate $F_{f}$ using EITHER Pythagoras OR trigonometry to find the frictional side of the triangle.<br>$F_{f} = F_{w}sin(\theta) = 14700sin(12) = 3056N$<br>OR<br>$F_{f} = \sqrt(F_{w}^{2} - F_{n}^{2}) = 3056N$.
+- Calculate $F_{f}$ using EITHER Pythagoras OR trigonometry to find the frictional side of the triangle.<br>$F_{f} = F_{w}sin(\theta) = 14700sin(12) = 3056N$<br>OR<br>$F_{f} = \sqrt{F_{w}^{2} - F_{n}^{2}} = 3056N$.
 
 ---
 
