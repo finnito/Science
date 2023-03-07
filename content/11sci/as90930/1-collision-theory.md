@@ -15,8 +15,8 @@ weight: 1
 - Experiment & written assessment
 - 5 Weeks
 	+ 3 weeks learning
-	+ 1 week practice assessment (?May 30 - June 3)
-	+ 1 week real assessment (?June 7-10)
+	+ 1 week practice assessment
+	+ 1 week real assessment
 
 ---
 
@@ -31,7 +31,7 @@ weight: 1
 ## Reactions, Particles and Collisions {.c2}
 
 - Particles in liquids and gases can move freely which allows them to _react_ easily.
-- Reactions _can_ take place when particles collide.
+- A reaction _can_ take place when particles collide.
 
 ![[Source](http://www.dynamicscience.com.au/tester/solutions1/chemistry/particletheory.htm)](http://www.dynamicscience.com.au/tester/solutions1/chemistry/heatingofsolidtogas.gif)
 
@@ -39,12 +39,20 @@ weight: 1
 
 The number of reactions that occur depends on:
 
-- the __frequency__ of collisions (with correct orientation) between particles,
+- the __frequency__ of successful collisions (with correct orientation) between particles,
 - and the __energy__ with which particles collide.
 
 If particles collide with less energy than the _activation energy_, they will not react. The particles will just bounce off each other.
 
 Similarly, if they collide with the wrong orientation they will not react.
+
+---
+
+## Activation Energy {.c2}
+
+The kinetic energies of the two colliding particles are added. If the sum of their energy is greater than the activation energy, the collision is successful and a reaction takes place.
+
+![[Source](http://as-bio-and-chem.blogspot.com/2010/09/recapping-rates-of-reaction-kinetics.html)](http://4.bp.blogspot.com/_uzrWbt2ZlyE/TInsf-GBK8I/AAAAAAAAAGQ/nuRopXPltaI/s1600/energy-level-diagram-activation-energy.jpg)
 
 ---
 
