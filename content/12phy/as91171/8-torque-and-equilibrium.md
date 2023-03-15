@@ -68,38 +68,15 @@ $$
 
 ---
 
-### Pātai Tahi: Individual Torques
+### Pātai: Individual Torques {.c2}
 
-A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off a bottle of soft drink. Start by drawing a rough diagram. __Calculate the torque applied.__
+<div>
 
-$$
-\begin{aligned}
-    &  && \text{Knowns}  \cr
-    &  && \text{Unknowns} \cr
-    &  && \text{Formula} \cr
-    &  && \text{Sub and Solve} 
-\end{aligned}
-$$
+1. $9N$ acting up at a distance of $10cm$ is needed to lift the top off a bottle of soft drink. __Calculate the torque applied.__
+2. Calculate the torque applied if the lever is stretched to $75cm$.
+3. Calculate the torque applied if the lever is compressed to $1cm$.
 
----
-
-#### Pātai Tahi: Whakatika
-
-A force of $9N$ acting up at a distance of $10cm$ is needed to lift the top off a bottle of soft drink. __Calculate the torque applied.__
-
-$$
-\begin{aligned}
-    & \tau = Fd_{\bot} \cr
-    & \tau = 9 \times 0.1 \cr
-    & \tau = 0.9 \text{Nm anticlockwise} \cr
-\end{aligned}
-$$
-
----
-
-### Pātai Rua
-
-Calculate the torque applied if the lever is stretched to $75cm$.
+</div>
 
 $$
 \begin{aligned}
@@ -109,53 +86,6 @@ $$
     &  && \text{Sub and Solve} 
 \end{aligned}
 $$
-
----
-
-#### Pātai Rua: Whakatika
-
-Calculate the torque applied if the lever is stretched to $75cm$.
-
-$$
-\begin{aligned}
-    & \tau = Fd_{\bot} \cr
-    & \tau = 9 \times 0.75 \cr
-    & \tau = 6.75 \text{Nm anticlockwise} \cr
-\end{aligned}
-$$
-
----
-
-### Pātai Toru
-
-Calculate the torque applied if the lever is compressed to $1cm$.
-
-$$
-\begin{aligned}
-    &  && \text{Knowns}  \cr
-    &  && \text{Unknowns} \cr
-    &  && \text{Formula} \cr
-    &  && \text{Sub and Solve} 
-\end{aligned}
-$$
-
----
-
-#### Pātai Toru: Whakatika
-
-Calculate the torque applied if the lever is compressed to $1cm$.
-
-$$
-\begin{aligned}
-    & \tau = Fd_{\bot} \cr
-    & \tau = 9 \times 0.01 \cr
-    & \tau = 0.09 \text{Nm anticlockwise} \cr
-\end{aligned}
-$$
-
----
-
-![](../assets/torque-meme.png)
 
 ---
 
@@ -175,7 +105,7 @@ __Clockwise or Anticlockwise__
 
 ---
 
-## Torque & Equilibrium -- Tōpana Whakahuri me Taurite
+## Torque & Equilibrium
 
 ![](../assets/equilibrium-meme.gif)
 
@@ -185,7 +115,7 @@ __Clockwise or Anticlockwise__
 
 _Newton's First Law_ tells us equilibrium is when an object is __at rest__ or __moving uniformly__.
 
-For this to occur we need two things to be true. <mark>You must state these assumptions when doing any equilibrium question.
+For this to occur we need two things to be true. <mark>You must state these assumptions when doing any equilibrium question.</mark>
 
 1. Sum of all forces to be 0 ($\sum F = 0N$)
 2. Sum of all torques to be 0 ($\sum\tau = 0Nm$)
@@ -266,10 +196,11 @@ The plank may not be massless. You may need to take it into account.
 
 ![](../assets/torque-uneven.png)
 
-- $d_{1}=30cm$, $d_{2}=70cm$, $m_{1}=900g$, $m_{2}=300g$, see-saw mass = $100g$.
-- Calculate the total anticlockwise moment
-- Calculate the total clockwise moment
-- Is the system in equilibrium?
+- $d_{1}=30cm$, $d_{2}=70cm$, $m_{1}=900g$, $m_{2}=300g$, \cr see-saw mass = $100g$.
+- __Is the system in equilibrium?__
+- Step 1: calculate the total anticlockwise moment
+- Step 2: Calculate the total clockwise moment
+- Check if they are balanced.
 
 ---
 
@@ -306,8 +237,8 @@ This is an interesting answer - it implies that $F_{2}$ is actually acting __up_
 ![](../assets/finding-supports-q.png)
 
 - Given that the bridge weighs $10,000kg$, find the support force provided by A and B.
-    + To find __A__, we make __B__ the pivot. We also ignore $F_{A}$ because it acting at the pivot and cannot provide any rotational forces.
-    + To find __B__, we make __A__ the pivot. We also ignore $F_{B}$ because it acting at the pivot and cannot provide any rotational forces.
+    + To find __A__, we make __B__ the pivot. We also ignore $F_{B}$ because it acting at the pivot and cannot provide any rotational forces.
+    + To find __B__, we make __A__ the pivot. We also ignore $F_{A}$ because it acting at the pivot and cannot provide any rotational forces.
 - Solve for each support independently.
 
 ---

@@ -24,7 +24,7 @@ An aim describes what you will be investigating (the purpose of the experiment).
 - It should be __specific__ and __testable__
 - It must make a prediction about the effect of your _independent variable_ on your _dependent variable_.
 
-> e.g. I think that [_your dependent variable here_] will [_increase/decrease_] when the [_your independent variable here_] is [increased/descreased].
+> e.g. I think that __[your dependent variable here]__ will __[increase/decrease]__ when the __[your independent variable here]__ is __[increased/descreased]__.
 > 
 > I think that the rate of reaction will be highest with calcium carbonate powder. For example, the time taken to produce 10ml of gas will be the lowest with calcium carbonate powder.
 
@@ -47,8 +47,9 @@ An aim describes what you will be investigating (the purpose of the experiment).
 > The variable being measured.
 
 - It should have a well-defined endpoint (e.g. 10ml of gas)
-- It is a way to indirectly measure the rate of reaction.
-- Be specific.
+- Include the equipment used to measure it.
+- Include a unit.
+- _It is a way to indirectly measure the rate of reaction._ The more quickly the endpoint is reached, the higher the rate of reaction.
 
 > e.g. We will measure the time taken to produce $10ml$ of carbon dioxide gas as an indirect measure of the rate of reaction.
 
@@ -59,23 +60,17 @@ An aim describes what you will be investigating (the purpose of the experiment).
 > Things that you are keeping __constant__ in between trials.
 
 - Control variables allow a test to be fair
-- Control variables allow a method to be __reliable__
-- Control variables should mean that results are consistent
-- They allow you to draw a casual relationship between the thing you are changing (independent) and the thing that you are measuring (dependent).
-- <mark>Without control variables, you cannot be sure that the thing you are changing was the __sole__ influence on your measurements.</mark>
-- Include __at least four control variables__ in your report and __explain how you will control them__.
-- It is important to include an explanation when possible.
+- Control variables allow a method to be __reliable__ (consistent)
+- <mark>Without control variables, you cannot be sure that the thing you are changing was the __sole__ influence on your measurements.</mark> There may have been other influences.
+- Include __at least four control variables__ in your report and __explain how__ you will control them and __how they would influence your measurements if not controlled__.
+
+---
 
 For example:
 
-- We will use the same volume of hydrochloric acid each time, measured with a measuring cylinder.
-  + If the volume of acid used each time was different there would be a different number of hydrochloric acid molecules available to react. This would affect the number of possible collisions and therefore the rate of reaction.
-- We will use the same concentration of hydrochloric acid each time (provided by school).
-  + If the concentration of hydrochloric acid changed, there would be a different number of hydrochloric acid molecules available to react. This would affect the number of possible collisions and therefore the rate of reaction.
-- We will use the same temperature of hydrochloric acid each time (measured with a thermometer).
-  + If the temperature of the hydrochloric acid changed, the molecules would have different kinetic energies. This means that the probability that a particle has enough energy to surpass the activation energy would be affected. This in turn would affect the rate of reaction.
-- We will use the same mass of calcium carbonate each time (measured with a balance).
-  + If the mass of calcium carbonate were to change, there would be a different number of calcium carbonate particles available to react. This would change the number of possible collisions and therefore the rate of reaction.
+- We will use the same volume of hydrochloric acid each time.
+  + __How:__ We will measure it with a measuring cylinder (in mls).
+  + __Why:__ If the volume of acid used each time was different there would be a different number of hydrochloric acid molecules available to react. This would affect the number and frequency of of possible collisions and therefore the rate of reaction.
 
 ---
 
@@ -86,7 +81,7 @@ For example:
 - Give a list of necessary equipment (be specific about beaker sizes etc.)
 - Use numbered, short, steps
 - Give directions as commands.
-	+ Measure 3g of calcium carbonate powder with a balance into a beaker."
+	+ "Measure 3g of calcium carbonate powder with a balance into a beaker."
 - Some steps may be repeated while the independent variable is changed.
 	+ "Repeat steps 3-7 three times for each of large chips, small chips and powder of calcium carbonate."
 - Indicate when something is to be recorded and how to calculate the relevant average.
@@ -154,8 +149,6 @@ __Calculating an Average__: Add up all your trials and divide by the number of t
 ---
 
 ## Graphs {.c2}
-
-Graphs are an important tool to help visualise patterns in data.
 
 - You will draw a graph by hand in the test.
 - A graph should have the following:

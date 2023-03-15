@@ -116,8 +116,8 @@ $$
 
 ![](../assets/circle-gif.gif)
 
-- Is speed constant?
-- Is velocity constant?
+- Is speed constant? Explain.
+- Is velocity constant? Explain.
 
 ---
 
