@@ -13,7 +13,7 @@ weight: 3
 
 - Concentration is easily thought of like raro - the more raro particles you add to your drink, the stronger it is!
 - The more particles there are, the higher the chance there is of particles bumping into each other
-- The more bumps there are, the greater number of collisions
+- The more bumps there are, the greater number of reactions
 - __It does not increase the probability of successful collisions__
 
 ---
@@ -38,11 +38,11 @@ Think of the two things required for a reaction to occur!
 
 #### Whakatika
 
-Because it does not change:
+Changing temperature does not affect the probability of a successful reaction because it does not change:
 
 - the __activation energy__,
-- the energy of the particles (temperature/speed),
-- or the likelihood that they collide in the correct orientation
+- the kinetic energy of the particles (temperature/speed),
+- or the likelihood that they collide in the correct orientation.
 
 ---
 
