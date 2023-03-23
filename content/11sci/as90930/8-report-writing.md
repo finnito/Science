@@ -156,6 +156,7 @@ __Calculating an Average__: Add up all your trials and divide by the number of t
   + Dependent (thing you are measuring) on the y-axis
   + __Plot the averages__
   + A title
+    * Describe the aim of the experiment. E.g. _"Relationship between Surface Area and Rate of Reaction with Antacid Tablets"_
   + X and Y axis labels + units
   + Data points indicated with crosses
   + A smoooth line of best fit
@@ -254,7 +255,8 @@ If you are getting a wide variety in results, you may need to re-work your metho
 - __What does it tell you?__
   + The extent to which the results really measure what they are supposed to measure (model vs real world).
 - __How is it assessed?__
-  + By checking __how well the results correspond to established theories__ and other measures of the same concept. Do your results match previous research?
+  + By checking __how well the results correspond to established theories__ and other measures of the same concept. Do your results match previous research/experiments? Do they match the theory you learned about in class?
+  + By checking that you have sufficient control variables that you are confident the only thing that could have affected the rate of reaction was your independent variable.
 - __How does it relate to reliability?__
   + A valid measurement is generally reliable: if a test produces accurate results, they should be reproducible.
 
