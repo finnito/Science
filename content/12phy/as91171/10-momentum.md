@@ -400,7 +400,7 @@ __Inelastic__:
 - Some energy is lost to heat/friction/etc.
 - $\sum E_{ki} \ne \sum E_{kf}$
 
-To tell which one a collision is, calculate the total energy before and after and see if they are equal!
+To tell which one a collision is, calculate the total energy before and after and see if they are equal! __You will not be asked to perform calculations, but may be asked what you should do to differentiate between them.__
 
 ---
 
