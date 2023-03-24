@@ -172,7 +172,7 @@ callPandoc() {
         --incremental \
         --variable=controls:true \
         --variable=progress:true \
-        --variable=showSlideNumber:all \
+        --variable=slideNumber:true \
         --variable=transition:slide \
         --variable=plugins:GoBack,Clock,Timer \
         --variable=revealjs-url:/reveal.js-4.1.0 \
