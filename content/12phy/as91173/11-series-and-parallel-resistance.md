@@ -1,8 +1,8 @@
 ---
-title: Series & Parallel Circuits
-slug: series-and-parallel-circuits
+title: Series & Parallel Resistance
+slug: series-and-parallel-resistance
 subtitle: 12PHYS - Electricity
-weight: 5
+weight: 11
 ---
 
 ## Mahi Tuatahi
@@ -36,7 +36,7 @@ A circuit has current $1.2A$ and voltage of $12V$ and has a single bulb.
 
 ---
 
-## Constructing Circuits
+<!-- ## Constructing Circuits
 
 Use the [PhET simulation](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_en.html) to build these circuits:
 
@@ -44,7 +44,7 @@ Use the [PhET simulation](https://phet.colorado.edu/sims/html/circuit-constructi
 2. Create a parallel circuit with a bulb and a switch on each path, and one switch that controls the whole circuit.
 3. Measure the resistance of the circuit in PhET when you add resistors to the different circuit and try make a rule for what happens.
 
----
+--- -->
 
 ## Total Resistance in Circuits
 
@@ -132,42 +132,8 @@ Calculate the values for each voltmeter, ammeter, as well as the total resistanc
 
 ---
 
-## Kirchoff's Laws: Current {.c2}
+## Series and Parallel Resistors
 
-<div>
-These laws were first determined experimentally, but we now know them as __conservation of charge__.
-
-> The sum of current flowing into a junction is equal to the sum of current flowing out of it.
-
-In this circuit, $A_{1} = A_{2} + A_{3} + A_{4}$.
-</div>
-<div>
-
-![](../assets/kirchoffs-current-law.jpg)
-
-</div>
-
----
-
-## Kirchoff's Laws: Voltage {.c2}
-
-<div>
-
-> The sum of of the potential differences (voltages) in any closed loop is zero.
-
-That is to say, over a loop, the full voltage (energy) of the power supply must be consumed.
-
-</div>
-<div>
-
-![](../assets/kirchoffs-voltage-law.jpg)
-
-</div>
-
----
-
-### Whakawai / Practice
-
-1. Complete the worksheet on parallel and series circuits
-2. Complete and mark Homework Booklet Q7
-3. Textbook Page 218 Q5-6
+- Collect a Series and Parallel Resistors sheet from the front.
+- Set up a station in a small group with a hardmat to protect the bench.
+- Complete Task 1-4.

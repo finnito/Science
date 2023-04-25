@@ -3,7 +3,7 @@ title: The Dangers of Electricity
 subtitle: 12PHYS - Electricity
 author: Finn LeSueur
 date: 2019
-weight: 10
+weight: 99
 draft: true
 theme: finn
 header-includes:

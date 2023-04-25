@@ -5,7 +5,7 @@ author: Finn LeSueur
 date: 2019
 draft: true
 slug: term-2-revision
-weight: 11
+weight: 99
 theme: finn
 header-includes:
 - \usepackage{graphicx}

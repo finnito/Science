@@ -1,8 +1,8 @@
 ---
-title: Magnetism
-slug: magnetism
+title: Magnetic Fields and RH Slap Rule
+slug: magnetic-fields-and-rh-slap-rule
 subtitle: 12PHYS - Electricity
-weight: 7
+weight: 15
 ---
 
 ## Mahi Tuatahi
@@ -104,7 +104,7 @@ __Magnetic Field:__ A region in which a moving charged object experiences a forc
 - Ferromagnet: A material where the atoms are all aligned to create a permanent magnetic field
     + E.g. Iron, nickel, cobalt, and their alloys
 - Paramagnets: A material with disorderly atoms, but that can become aligned when exposed to a strong external magnetic field.
-    + E.g. Platinum, aluminium, oxygen
+    + E.g. Platinum, aluminium, oxygen, copper
 
 ---
 
@@ -177,67 +177,14 @@ A charged object ($q=1.6\times10^{-19}C$) moves to the left across a magnetic fi
 
 ---
 
+## [Cathode Ray Tube & Magnets](https://docs.google.com/document/d/18CnDWpo-05z72rtvTztYuwp9SvlM_N1OlUIsGH7a-7c/edit#)
+
+- Collect a Cathode Ray Tube and Magnets sheet
+- Come up the front where you can observe the CRT monitor.
+- Use our discussion and information at the top to answer Task 1-2.
+
+---
+
 ### Whakawai
 
 Textbook page 235 Q1-2
-
----
-
-## Mahi Tuatai
-
-Homework Booklet Q16
-
----
-
-## Formula: F=BIL
-
-Instead of thinking about the velocity of the moving charges, we can also think about the current and length of wire in the magnetic field.
-
-$$
-\begin{aligned}
-    Force &= B-Field \times Current \times Length \newline
-    F &= BIL
-\end{aligned}
-$$
-
----
-
-## Electromagnetism
-
-Electric and magnetic fields are different sides of the same coin, and one can create the other. Here are two examples.
-
----
-
-## Current-Carrying Wire {.c2}
-
-- Magnetic fields exist around current carrying wires
-- The magnetic field is circular around the wire
-- The direction of the field depends on a right hand rule!
-
-![[Source](https://physics.stackexchange.com/questions/162800/magnetic-field-direction-a-single-one-on-a-current-carrying-wire)](https://i.stack.imgur.com/4iM3O.jpg)
-
----
-
-## Solenoids {.c2}
-
-- A solenoid is a coil of wire, which generates a strong magnetic field
-- The more coils, the stronger the field!
-- Use the solenoid right hand rule to determine the direction of the field
-    + Your fingers curl in the direction of flow of positive charge! Thumb indicates the N end of the solenoid
-
-![[Source](https://en.wikipedia.org/wiki/Solenoid)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Coil_right-hand_rule.svg/330px-Coil_right-hand_rule.svg.png)
-
----
-
-![[Source](https://en.wikipedia.org/wiki/Solenoid)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/2880px-VFPt_Solenoid_correct2.svg.png)
-
----
-
-## Individual Quiet Practise
-
-1. Textbook Q1-2 on page 229-230
-2. Magnetism Worksheet #7 (Classroom)
-3. Homework Booklet Q17
-3. Homework Booklet Q18 (__M__)
-4. Homework Booklet Q15 (__M__)
-    - A more conceptually difficult problem, but not using more difficult Physics.

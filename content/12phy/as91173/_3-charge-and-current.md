@@ -2,7 +2,8 @@
 title: Charge & Current
 slug: charge-and-current
 subtitle: 12PHYS - Electricity
-weight: 3
+weight: 99
+draft: true
 ---
 
 <!-- 
@@ -29,7 +30,7 @@ Alternative definition of a Coulomb:
 
 ![[Source](https://sound.education/electric-plumbing-analogy-static-electricity/)](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsound.education%2Fwp-content%2Fuploads%2F2015%2F03%2Fwater-analogy.png&f=1&nofb=1)
  -->
-
+<!-- 
 ## Akoranga 11 Mahi Tuatahi
 
 1. What are some common carriers of charge?
@@ -65,11 +66,7 @@ Alternative definition of a Coulomb:
 
 ---
 
-<iframe width="790" height="444" src="https://www.youtube.com/embed/-n1pSHzdahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/gOT8jx4jEzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -199,3 +196,4 @@ $$
 ---
 
 ![Conventional Current](../assets/conventional-current.png "Conventional Current")
+ -->

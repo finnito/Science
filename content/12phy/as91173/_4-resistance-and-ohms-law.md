@@ -2,10 +2,10 @@
 title: Resistance & Ohm's Law
 slug: resistance-and-ohms-law
 subtitle: 12PHYS - Electricity
-weight: 4
+weight: 99
 ---
 
-## Mahi Tuatahi / Do Now
+<!-- ## Mahi Tuatahi / Do Now
 
 Homework booklet __Electric Fields Question Five__
 
@@ -135,3 +135,4 @@ $$
 ---
 
 <iframe width="1119" height="629" src="https://www.youtube.com/embed/RPvYjrSWCUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ -->
