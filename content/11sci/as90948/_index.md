@@ -12,7 +12,7 @@ menu:
         parent: "11SCI"
 ---
 
-## Learning Outcomes _/ Ngā Whāinga Ako_
+<!-- ## Learning Outcomes _/ Ngā Whāinga Ako_
 
 1. Understand the relationship between cells, nuclei, chromosomes, genes, alleles and DNA.
 2. Understand the role DNA plays in carrying instructions to the next generation and determining phenotype.
@@ -34,11 +34,11 @@ menu:
 12. Understand and use the terms “genotype and phenotype”, “homozygous and heterozygous” and “dominant and recessive”.
 13. Know how to carry out genetic crosses using punnet squares and determine genotypic and phenotypic ratios.
 14. Know how to use pedigree charts to determine genotype and phenotype.
-15. Understand how to use a ‘test cross’.
+15. Understand how to use a ‘test cross’. -->
 
 {{< slides >}}
 
-## Unit Plan _/ Mahere Kōwae_
+<!-- ## Unit Plan _/ Mahere Kōwae_
 
 |        | Akoranga 1                                         | Akoranga 2                  | Akoranga 3                         | Akoranga 4                    |
 |:-------|:---------------------------------------------------|:----------------------------|:-----------------------------------|:------------------------------|
@@ -47,4 +47,4 @@ menu:
 | Week 3 | Mitosis                                            | Mitosis                     | Meiosis                            | Meiosis                       |
 | Week 4 | Advantages & Disadvantages of Asexual Reproduction | Sexual Reproduction         | Compare & Contrast Meiosis/Mitosis | Mutations                     |
 | Week 5 | Genetic Terms                                      | Genetic Crosses             | _Athletics Day_                    | Phenotypic & Genotypic Ratios |
-| Week 6 | Pedigree Charts                                    | Test Crosses                | __Revision__                       | __TEST__                      |
+| Week 6 | Pedigree Charts                                    | Test Crosses                | __Revision__                       | __TEST__                      | -->
