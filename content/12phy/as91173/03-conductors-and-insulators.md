@@ -23,7 +23,7 @@ weight: 3
 #### Whakatika
 
 - $q_{e} = -0.000,000,000,000,000,000,16 C =-1.6 \times  10^{-19}C$.
-- __Pātai__: How many electrons are needed to carry $1C$ of charge?
+- __Pātai__: How many electrons are needed to carry $-1C$ of charge?
 
 ---
 
@@ -32,14 +32,14 @@ weight: 3
 $$
 \begin{aligned}
     num_{e} &= \frac{Q_{total}}{q_{e}} \newline
-    num_{e} &= \frac{1}{1.6 \times 10^{-19}} \newline
+    num_{e} &= \frac{-1}{-1.6 \times 10^{-19}} \newline
     num_{e} &= 6,250,000,000,000,000,000 = 6.25 \times 10^{18}
 \end{aligned}
 $$
 
 $6.25 \times 10^{18} electrons = -1 C$
 
-> $1C$ is the amount of charge carried by $6.25 \times 10^{18}$ electrons.
+> $-1C$ is the amount of charge carried by $6.25 \times 10^{18}$ electrons.
 
 ---
 

@@ -7,11 +7,10 @@ weight: 5
 
 ## Mahi Tuatahi
 
-1. <mark>Write the date in your book</mark>
-2. Draw two parallel charged plates
-3. Make one plate positive, and the other negative
-4. Draw field lines between the two (use a ruler)
-5. Describe some important features of the lines
+1. Draw two parallel charged plates
+2. Make one plate positive, and the other negative
+3. Draw field lines between the two (use a ruler)
+4. Describe some important features of the lines
 
 ---
 

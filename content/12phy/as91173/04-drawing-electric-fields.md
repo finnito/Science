@@ -7,36 +7,9 @@ weight: 4
 
 ## Mahi Tuatahi
 
-1. If a balloon has charge of $-0.5C$: did the balloon lose or gain electrons, and how many?
-2. If a Van der Graaff generator has charge of $4C$ did it lose or gain electrons, and how many?
-
----
-
-### Whakatika Tahi
-
-1. If a balloon has charge of $-0.5C$: did the balloon lose or gain electrons, and how many?
-
-$$
-\begin{aligned}
-    & \text{Negative C means electrons are gained (negative charge)} \newline
-    num_{e} &= \frac{-0.5}{-1.6 \times 10^{-19}} \newline
-    num_{e} &= 3.125 \times 10^{18} \text{ electrons gained}
-\end{aligned}
-$$
-
----
-
-## Whakatika Rua
-
-2. If a Van der Graaff generator has charge of $4C$ did it lose or gain electrons, and how many?
-
-$$
-\begin{aligned}
-    & \text{Positive C means electrons are lost (positive charge)} \newline
-    num_{e} &= \frac{4}{1.6 \times 10^{-19}} \newline
-    num_{e} &= 2.5 \times 10^{19} \text{ electrons lost}
-\end{aligned}
-$$
+1. A Van der Graaff generator has charge of $4C$. Did it lose or gain electrons?
+2. How many electrons did it gain/lose?
+3. If those electrons were lost over a period of 30s, what was the current during that time?
 
 ---
 
@@ -52,7 +25,7 @@ $$
 > An electric field is an area of influence in which a <mark>charged object will feel a force</mark>.
 
 - A field can exist in a vacuum or inside matter.
-- An electric field exists in the space around a charged objects e.g. Van der Graaf generator, electrons, protons or a charged balloon.
+- An electric field exists in the space around electrically charged objects e.g. Van der Graaf generator, electrons, protons or a charged balloon.
 
 ![[Source](https://www.765754.com/learn/tutorials/what-is-electricity/electric-fields)](https://www.765754.com/cdn/assets/2/d/5/0/0/519fd3c7ce395f974c000000.png)
 <!-- 

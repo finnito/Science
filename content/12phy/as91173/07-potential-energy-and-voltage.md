@@ -41,11 +41,16 @@ $$
 
 ---
 
-## Electric Potential Energy
+## Electric Potential Energy {.c2}
 
+<div>
 Electric potential energy is similar to gravitational potential energy. Moving a charged particle against the direction of the field is similar to lifting an object up in a gravitational potential field.
 
 Therefore, different points in an electric field will have different _potential energies_
+</div>
+
+![](../assets/potential-energy.png)
+
 
 ---
 
