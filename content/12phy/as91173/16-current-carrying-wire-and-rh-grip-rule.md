@@ -5,9 +5,9 @@ subtitle: 12PHYS - Electricity
 weight: 16
 ---
 
-## Formula: F=BIL
+## Magnetic Force: Wires
 
-Instead of thinking about the velocity of the moving charges, we can also think about the current and length of wire in the magnetic field.
+Instead of thinking about individual particles, we can think about the aggregate of them as current in a wire.
 
 $$
 \begin{aligned}
@@ -18,9 +18,16 @@ $$
 
 ---
 
+## Current in Magnetic Field
+
+- When a current-carrying wire is placed in a magnetic field it will experience a force.
+- We can use the RH slap rule to deermine the direction of the force experienced by the current-carrying wire.
+
+---
+
 ## Electromagnetism
 
-Electric and magnetic fields are different sides of the same coin, and one can create the other. Our first example is current-carrying wire.
+Electric and magnetic fields are different sides of the same coin, and one can create the other. Our first example is the current-carrying wire.
 
 - Collect a Current-Carrying Wire sheet
 - Come up the front where you can observe the setup.

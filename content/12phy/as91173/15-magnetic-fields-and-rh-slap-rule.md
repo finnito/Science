@@ -67,6 +67,8 @@ Think, pair and share!
 
 ---
 
+## Magnetic Force: Particles
+
 The force ($F$) that the charge experiences as it moves through the field depends on three things:
 
 - Magnetic field strength ($B$, measured in Tesla ($T$))
@@ -132,7 +134,7 @@ $$
 
 ---
 
-## Right Hand Slap Rule (+ve Charges)
+## Right-Hand Slap Rule (+ve Charges)
 
 > Thumb in the direction of positive charge velocity, finger-tips indicate the $B$ field strength, and the __palm__ shows the direction of force on the positive charge.
 
@@ -142,7 +144,7 @@ $$
 
 ### Back-Hand Slap Rule (-ve Charges)
 
-> Thumb in the direction of __NEGATIVE__ charge velocity, finger-tips indicate the $B$ field strength, and the __back of the hand__ shows the direction of force on the __NEGATIVE__ charge.
+> Thumb in the direction of __NEGATIVE__ charge velocity, finger-tips indicate the $B$ field direction, and the __back of the hand__ shows the direction of force on the __NEGATIVE__ charge.
 
 By default we use the +ve charge rule because we tend to think about __conventional current__ (the flow of +ve charge).
 
@@ -164,6 +166,10 @@ A cross means current going into the page down a wire; a dot means current comin
 2. Force into the page
 3. Force down
 4. Force up
+
+---
+
+<iframe width="966" height="543" src="https://www.youtube.com/embed/1_zwLuNJ5Ck?t=149"b title="Radioactive sources in a cloud chamber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 

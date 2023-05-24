@@ -5,11 +5,19 @@ subtitle: 12PHYS - Electricity
 weight: 13
 ---
 
+## Mahi Tuatahi
+
+Calculate the voltage used by each resistor. <br/>__Strategy:__ Start by calculating the total resistance and the total current.
+
+![](../assets/kirchoff-voltage-law-mt.png)
+
+---
+
 ## Kirchoff's Laws: Voltage {.c2}
 
 <div>
 
-> The sum of of the potential differences (voltages) in any closed loop is zero.<br/>
+> The sum of the potential differences (voltages) in any closed loop is zero.<br/>
 > OR: That is to say, over a loop, the full voltage (energy) of the power supply must be consumed.
 
 $$
@@ -25,6 +33,24 @@ $$
 ![](../assets/kirchoffs-voltage-law.jpg)
 
 </div>
+
+---
+
+### Pātai: Harder
+
+Calculate all unknown values.<br/>__Strategy:__ You should start by calculating the total resistance and total current. Then, calculate the voltage used by the resistor in series with the power supply.
+
+![](../assets/kirchoffs-voltage-law-harder.png)
+
+---
+
+### Practice
+
+- Textbook Activity 18B Q1, 3
+- Homework Booklet: B1
+- Fast Finishers: B3
+
+__Homework:__ A5, B2 due Monday!
 
 ---
 

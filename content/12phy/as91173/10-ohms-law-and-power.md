@@ -13,7 +13,7 @@ Homework booklet __Electric Fields Question Five__
 
 So far we have covered the concepts of:
 
-- Charge carries (electrons or otherwise),
+- Charge carriers (electrons or otherwise),
 - movement of charge carriers as __current__,
 - charge carriers as the movers of __energy__,
 - voltage as a __difference in electric potential energy__.

@@ -32,7 +32,7 @@ A circuit has current $1.2A$ and voltage of $12V$ and has a single bulb.
 - The current is shared between paths (like a river)
 - The voltage is shared between components on each separate path
 
-![[Source](https://rsdacademy.net/textbooks/dcelectronics/Part4/PageSetup.php?Page=35&FileName=KirchhoffsCurrentLaw&ReferingPage=)](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frsdacademy.net%2Ftextbooks%2Fdcelectronics%2FPart4%2FParallelCircuitCurrentFlow.png&f=1&nofb=1)
+![](https://i.stack.imgur.com/kqqlu.jpg)
 
 ---
 
@@ -49,8 +49,8 @@ Use the [PhET simulation](https://phet.colorado.edu/sims/html/circuit-constructi
 ## Total Resistance in Circuits
 
 - When you add resistors in series, the total resistance __increases__
-- When you add resistors in parallel the total total resistance __decreases__
-    + Because there are more paths for the current to flow through.
+- When you add resistors in parallel the total resistance __decreases__
+    + Because there are more paths for the current to flow through (the _pipe_ is bigger)
 
 ---
 

@@ -8,11 +8,10 @@ weight: 12
 ## Kirchoff's Laws: Current {.c2}
 
 <div>
-These laws were first determined experimentally, but we now know them as __conservation of charge__.
+These laws were first determined experimentally, but now understand them as a result of __conservation of charge__ because current is just charge per time.
 
 > The sum of current flowing into a junction is equal to the sum of current flowing out of it.
 
-In this circuit, $A_{1} = A_{2} + A_{3} + A_{4}$.
 </div>
 <div>
 
