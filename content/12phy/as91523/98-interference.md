@@ -1,7 +1,7 @@
 ---
 title: Interference
 subtitle: 12PHY - Wave Systems
-weight: 5
+weight: 98
 slug: interference
 ---
 

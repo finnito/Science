@@ -11,7 +11,7 @@ weight: 1
 - AS91523
 - 4 Credits, Level 3 (External)
 - Not in the school exams!
-- End of topic test in Term 3 Week 8
+- End of topic test in Term 3 Week 9 (≃Sep. 12th)
 
 ---
 
@@ -21,7 +21,8 @@ To start this unit off we are going to spend a week doing some learning about th
 
 ## Pātai: What is a wave?
 
-Energy can be transferred from one place to another through either kinetic or electromagnetic waves.
+> The movement of energy from one place to another.
+> Either through mechanical or electromagnetic waves.
 
 ---
 
@@ -37,7 +38,7 @@ __NB:__ They __require__ a medium in which to travel.
 
 Waves that are part of the electromagnetic spectrum (light, radio waves, infrared, etc).
 
-__NB:__ They __do not require__ a medium in which to travel. Can travel through the vaccuum.
+__NB:__ They __do not require__ a medium in which to travel --> can travel through the vaccuum.
 
 ---
 
@@ -59,7 +60,7 @@ The waves that we will be looking at this year have repetition in their motion, 
 ![](https://media.giphy.com/media/G7Pc0fNwuVzYk/source.gif "")
 
 ---
- 
+
 ## Labelling a Wave
 
 __Task:__ Sketch this unlabelled wave into your book on the axis.
@@ -101,47 +102,6 @@ Collect a sheet each, follow the instructions to sort the statement about period
 
 ---
 
-The period is very closely linked to the frequency as you can see from their definitions. There is a very simple formula for converting between them:
-
-$$
-\begin{aligned}
-    T &= \frac{1}{f} \newline
-    f &= \frac{1}{T}
-\end{aligned}
-$$
-
----
-
-## The Wave Equation
-
-We can also relate the __velocity__, __frequency__, and __wavelength__ with the __wave equation__:
-
-$$
-\begin{aligned}
-    v &= f\lambda
-\end{aligned}
-$$
-
-<p class="ins">Label each part of this equation with its name and unit.</p>
-
----
-
-### Pātai
-
-Mathieu is surfing at Taylors Mistake and decides to count the waves. He notices that 3 waves pass him over 60s.
-
-1. What is the frequency of the waves?
-2. What is the period of the waves?
-3. A lifeguard measures the velocity of the waves to $300cms^{-1}$. What is their wavelength?
-
----
-
-### Ngohe / Task
-
-Worksheet!
-
----
-
 ### Mahi Tuatahi
 
 Red light has a wavelength of approximately $400nm$ and travels at approximately $3\times10^{8}ms^{-1}$.
@@ -149,119 +109,3 @@ Red light has a wavelength of approximately $400nm$ and travels at approximately
 1. Calculate the frequency of this wavelength light.
 2. Calculate the period of this light wave.
 2. Explain, in words, what frequency means in this context.
-
----
-
-<iframe width="1200" height="800" src="https://www.youtube.com/embed/IXxZRZxafEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-### Interference {.c2}
-
-- When waves intersect each other, they __interfere__. This is where the amplitudes of the waves are combined (add positive and negative amplitudes).
-- __Constructive Interference__: When two peaks meet and the resulting amplitude is greater
-- __Destructive Interference__: When a peak and a trough meet and the resulting amplitude is less (or in some cases, zero)
-
-![](../assets/interference.gif "")
-
----
-
-### Nodes and Anti-Nodes
-
-When waves interfere, they combine!
-
-- A __node__ (think: no amplitude) is a place of _minimum_ amplitude (destructive)
-- An __anti-node__ is a place of _maximum_ amplitude (constructive)
-
-![](../assets/nodes-antinodes.png "")
-
----
-
-#### Task/Ngohe
-
-- Worksheet on adding waves
-
----
-
-## Mahi Tuatahi
-
-You have 15min max!
-
-1. Collect a handout
-2. Glue it in
-3. Complete Q1-6 in the Waves Calculations section
-
----
-
-## Pulses & Reflection {.c2}
-
-- Wave pulses that travel down a medium can be reflected by a _fixed point_ (e.g. wall).
-- The reflected pulse is inverted
-- Assuming no $E$ lost to surroundings, the reflected pulse has the same amplitude
-
-![[Source](https://physics.stackexchange.com/questions/560033/why-do-waves-reflect-in-phase-off-of-soft-boundaries)](https://i.stack.imgur.com/W0fWO.gif)
-
----
-
-### Changing Medium Densities
-
-- When pulses arrive at a more dense medium, the speed is reduced
-- When a pulse arrives at a less dense medium, the speed is increased
-- In both cases, a small amount of energy is _reflected_, and therefore the transmitted amplitude is less
-
-![[Source](https://www.acs.psu.edu/drussell/demos/reflect/reflect.html)](https://www.acs.psu.edu/drussell/Demos/reflect/lo-hi.gif) 
-
----
-
-### Frequency at Boundaries
-
-- When waves move from one medium to another their _velocity_ changes.
-- Waves travel more slowly in dense mediums, and faster in less dense mediums.
-- Wavelength is compressed in dense mediums, and expanded in faster mediums.
-- <mark>Frequency is __constant__ across mediums</mark>
-
-$$
-\begin{aligned}
-    f_{thick} &= f_{thin} && \text{Substitute $v=f\lambda$} \newline
-    \frac{v_{thick}}{\lambda_{thick}} &= \frac{v_{thin}}{\lambda_{thin}}
-\end{aligned}
-$$
-
----
-
-<iframe width="958" height="766" src="https://www.youtube.com/embed/jUQkG1A0_Sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-### Task / Ngohe
-
-1. Collect a sheet.
-2. Use your notes to help you write a paragraph to describe each wave situation.
-
----
-
-#### Whakatika Tahi
-
-As the wave impacts the wall its energy is reflected. Because the wall is a fixed point, the wave is inverted. In this case, we can see that no energy is lost (ideal world) because the amplitude has not changed. As it is travelling in the same medium the speed is the same, and given a constant frequency, the wavelength is also the same.
-
----
-
-#### Whakatika Rua
-
-As the incident pulse encounters the change in medium most of the energy is transmitted, but some is reflected. This reflected pulse is not inverted. The transmitted pulse therefore has less energy and less amplitude. In the less dense medium it travels faster, but due to constant frequency it must have a longer wavelength which we can see.
-
----
-
-## Frequency and Sound
-
-- The frequency of a sound wave determines the _pitch_ that you hear
-- A low frequency is a low pitch (low note)
-- A high frequency is a high pitch (high note)
-
-[https://www.onlinetonegenerator.com/hearingtest.html](https://www.onlinetonegenerator.com/hearingtest.html)
-
----
-
-#### Task/Ngohe
-
-Homework Booklet Q6!

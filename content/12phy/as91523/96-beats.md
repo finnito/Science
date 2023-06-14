@@ -2,7 +2,7 @@
 title: Beats
 slug: beats
 subtitle: 12PHYS - Wave Systems
-weight: 3
+weight: 96
 ---
 
 ## Ngā Whāinga Ako

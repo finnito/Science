@@ -2,7 +2,7 @@
 title: Diffraction Gratings
 slug: diffraction-gratings
 subtitle: 12PHY - Wave Systems
-weight: 6
+weight: 99
 ---
 
 <iframe width="1060" height="596" src="https://www.youtube.com/embed/F6dZjuw1KUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

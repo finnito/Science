@@ -2,7 +2,7 @@
 title: Standing Waves
 slug: standing-waves
 subtitle: 12PHYS - Wave Systems
-weight: 4
+weight: 97
 ---
 
 ## Ngā Whāinga Ako
