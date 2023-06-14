@@ -9,6 +9,7 @@ weight: 17
 
 - A solenoid is a coil of wire, which generates a strong magnetic field
 - Increasing the number of turns or the current increases the strength of the magnetic field generated.
+- Adding a ferromagnetic core also increases the magnetic field strength
 - Use the solenoid right hand rule to determine the direction of the field
     + Your fingers curl in the direction of flow of positive charge! Thumb indicates the N end of the solenoid
 
@@ -20,4 +21,4 @@ weight: 17
 
 ---
 
-
+Activity 19A: Magnets Q3, 4, 5

@@ -44,8 +44,8 @@ $$
 
 - $V$ is the induced voltage (V, Volts)
 - $B$ is the magnetic field strength (T, Tesla)
-- $v$ is the velocity of the wire ($ms^{-1}$)
-- $L$ is the length of wire in the field ($m$)
+- $v$ is the velocity of the condutor ($ms^{-1}$)
+- $L$ is the length of the condutor in the field ($m$)
 
 ---
 

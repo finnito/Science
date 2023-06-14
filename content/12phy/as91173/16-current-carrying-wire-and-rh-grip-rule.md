@@ -16,6 +16,8 @@ $$
 \end{aligned}
 $$
 
+Use it for Textbook 19B Q1, 2
+
 ---
 
 ## Current in Magnetic Field
@@ -40,6 +42,8 @@ Electric and magnetic fields are different sides of the same coin, and one can c
 
 - Magnetic fields exist around current carrying wires
 - The magnetic field is circular around the wire
-- The direction of the field depends on a right hand rule!
+- The direction of the field depends on a right hand grip rule!
 
 ![[Source](https://physics.stackexchange.com/questions/162800/magnetic-field-direction-a-single-one-on-a-current-carrying-wire)](https://i.stack.imgur.com/4iM3O.jpg)
+
+Open Homework Booklet C2!
