@@ -1,6 +1,6 @@
 ---
 title: Period, Frequency and Wavelength
-slug: wave-basics
+slug: period-frequency-wavelength
 subtitle: 12PHYS - Wave Systems
 weight: 2
 ---
