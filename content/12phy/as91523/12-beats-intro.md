@@ -1,8 +1,8 @@
 ---
-title: Beats
-slug: beats
+title: Beats Intro
+slug: beats-intro
 subtitle: 12PHYS - Wave Systems
-weight: 96
+weight: 12
 ---
 
 ## Ngā Whāinga Ako
@@ -21,15 +21,6 @@ weight: 96
 
 ---
 
-### Recall: Doppler Shift {.c2}
-
-- __A change in wave frequency due to the motion of emitter or observer__
-- Moving towards gives a higher frequency, and away a lower frequency
-
-![](../assets/doppler-effect.png)
-
----
-
 ## Beats
 
 > A periodic change in __loudness__ of a sound.
@@ -44,6 +35,11 @@ weight: 96
 ---
 
 ![[Source](https://www.animations.physics.unsw.edu.au/jw/beats.htm)](https://www.animations.physics.unsw.edu.au/jw/images/beats_files/beats.gif)
+
+- Observation 1: The two waves (y1, y2) have a high frequency
+- Observation 2: The beat they produce has a much lower frequency
+
+This is due to y1 and y2 being _very_ close in frequency.
 
 ---
 
@@ -108,69 +104,9 @@ On paper we cannot tell which of the frequencies the key should have. In person,
 
 ---
 
-## Beats Caused by Doppler
+### Practice
 
-- Because movement of a sound source can cause a change of frequency (Doppler effect), this can cause beats to occur
-- For example, two identical devices where one is moving towards/away from the other can cause a slight change in frequency, causing beats to arise
-
----
-
-### Pātai Toru
-
-Both Josh and Zak are holding identical devices emitting a frequency of $100Hz$. Josh walks away from him again while Zak listens. Zak observes a beat frequency of $3Hz$. The speed of sound is $343ms^{-1}$.
-
-__SHOW that Josh is walking at a speed of $v_{s} = 10.6ms^{-1}$.__
-
-__Step 1__: Calculate $f'$ that Zak is observing from Josh's device ($f_{b} = |f_{2} - f_{1}|$)
-
-__Step 2__: Use this value to find $v_{s}$ in $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$
-
----
-
-#### Whakatika Toru a)
-
-$$
-\begin{aligned}
-    f_{b} &= |f_{2} - f_{1}| \newline
-    f &= 103 \text{ or } 97
-\end{aligned}
-$$
-
-Because Josh is walking __away__, the frequency should be lower, so $90Hz$.
-
----
-
-#### Whakatika Toru b)
-
-$$
-\begin{aligned}
-    f' &= f \frac{v_{w}}{v_{w} \pm v_{s}} \text{(+ because away)} \newline
-    97 &= 100 \frac{343}{343 + v_{s}} \newline
-    \frac{97}{100} &= \frac{343}{343 + v_{s}} \newline
-    (343 + v_{s}) \times 0.97 &= 343 \newline
-    343 + v_{s} &= \frac{343}{0.97} \newline
-    v_{s} &= \frac{343}{0.97} - 343 = 10.6ms^{-1}
-\end{aligned}
-$$
-
----
-
-## Mahi Kāinga
-
-- Mahi Kāinga Booklet Question 8, due Monday August 2nd/3rd
-
----
-
-## Tasks
-
-1. Worksheet (glue it in)
-    - Whakamātau
-    - Exercise Q1
-    - Exercise Q3
-2. Mahi Kāinga booklet Question 10
-
----
-
-## Mahi Kāinga
-
-- Mahi Kāinga Booklet Question 8, due Monday August 3rd
+- P3.3 Worksheet #2 Q2b, c, d
+- P3.3 Worksheet #2 Q5
+- P3.3 Worksheet #2 Q4
+- P3.3 Worksheet #2 Q3

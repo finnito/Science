@@ -12,6 +12,8 @@ Rearrange $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$ for $v_{s}$ when:
 1. Source is approaching the observer
 2. Source is retreating from the observer
 
+<mark>Show me your homework!</mark>
+
 ---
 
 ## Doppler Skill 4: Calculating $v_{s}$ Without $f$
@@ -39,22 +41,4 @@ $$
 
 ---
 
-## Calcuating $v_{s}$ without $f$: Homework Q9c
-
----
-
-## Ngā Pūkenga / Skills
-
-I can:
-
-1. Calculate $f'$
-2. Calculate $v_{s}$
-3. Calculate $v_{w}$
-4. Calculate $v_{s}$ without knowing $f$
-5. Explain how doppler is affected by the distance at which the object passes
-
----
-
-## Mahi Kāinga: Question 9 of the Mahi Kāinga Booklet
-
-Due Monday July 27th!
+## Calcuating $v_{s}$ without $f$: HWB Q9c
