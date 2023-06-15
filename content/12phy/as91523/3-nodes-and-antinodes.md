@@ -1,6 +1,6 @@
 ---
 title: Nodes and Antinodes
-slug: nodes-and-antinotes
+slug: nodes-and-antinodes
 subtitle: 12PHYS - Wave Systems
 weight: 3
 ---
