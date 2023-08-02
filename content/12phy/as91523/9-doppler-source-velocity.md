@@ -18,10 +18,13 @@ Rearrange $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$ for $v_{s}$ when:
 
 ## Doppler Skill 4: Calculating $v_{s}$ Without $f$
 
-- If you know both $f$, $f'$, and $v_{w}$ you choose the correct version of $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$ and solve.
-- If you do not know $f$, but know $f_{approaching}$ and $f_{receeding}$ then __you need to substitute to remove $f$.__
-- Unfortunately, $f$ is not the midpoint between $f_{a}$ and $f_{r}$ for the same reason that the average of 1/4 and 1/6 is __not__ 1/5.
+1. Rearrange $f' = f\frac{v_{w}}{v_{w} \pm v_{s}}$ to make $f$ the subject.
+2. Write two equations, one with $f_{approaching}$ and one with $f_{receeding}$ in place of $f'$.
+3. Because $f$ is constant, you can now make these two equations equal to each other.
+4. Substitute your knowns.
+5. Solve for $v_{s}$!
 
+__NB:__ Unfortunately, $f$ is not the midpoint between $f_{a}$ and $f_{r}$ for the same reason that the average of 1/4 and 1/6 is __not__ 1/5.
 
 ---
 
@@ -41,4 +44,8 @@ $$
 
 ---
 
-## Calcuating $v_{s}$ without $f$: HWB Q9c
+## Practice: Calcuating $v_{s}$ without $f$:
+
+1. HWB Q9c
+2. Textbook Activity 6A Q3
+3. P3.3 Worksheet #4 Q3a
