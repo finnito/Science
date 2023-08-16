@@ -90,8 +90,12 @@ Most musical instruments produce sound through vibration of __standing waves__ i
 
 A string has length $0.25m$ and speed of sound $330ms^{-1}$.
 
-1. Calculate the fundamental frequency
-2. Calculate the 3rd harmonic
+1. Draw a diagram of the fundamental resonant frequency
+2. Calculate the fundamental wavelength
+2. Calculate the fundamental frequency<br/><br/>
+3. Draw a diagram of the 3rd resonant frequency
+4. Calculate the 3rd harmonic wavelength
+5. Calculate the 3rd harmonic frequency
 
 ---
 
