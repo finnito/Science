@@ -21,7 +21,7 @@ Use your phones or laptops. Join as fast as you can!
 
 > Acceleration is how quickly the velocity changes.
 
-__e.g.__ A supercar will accelerate to 50km/hr faster than a cyclist. That is to say, the supercar has a greater acceleration.
+__e.g.__ A supercar will reach 50km/hr faster than a cyclist. That is to say, the supercar has a greater acceleration.
 
 ---
 
