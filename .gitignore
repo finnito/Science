@@ -3,6 +3,7 @@ public/
 out.txt
 changelog.txt
 *.pdf
+@eaDir
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
