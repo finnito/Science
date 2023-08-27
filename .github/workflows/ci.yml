@@ -12,7 +12,9 @@ jobs:
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.KEY }}
         port: ${{ secrets.PORT }}
-        script: bash --login |
+        script: |
+          bash
+          source ~/.bashrc
           git stash
           git pull origin
           git checkout master
