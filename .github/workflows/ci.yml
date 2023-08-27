@@ -15,7 +15,7 @@ jobs:
         script: |
           bash
           source ~/.bashrc
-		  cd /volume1/web/putaiao.nz/
+          cd /volume1/web/putaiao.nz/
           git stash
           git pull origin
           git checkout master
