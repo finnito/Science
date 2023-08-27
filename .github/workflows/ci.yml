@@ -1,12 +1,15 @@
 name: SSH Remote CI
 uses: appleboy/ssh-action@v1.0.0
-with:
-  host: ${{ secrets.HOST }}
-  username: ${{ secrets.USERNAME }}
-  key: ${{ secrets.KEY }}
-  port: ${{ secrets.PORT }}
-  script: git stash |
-    git pull origin
-    git checkout master
-    bash build.sh
+on: push
+jobs:
+  deploy:
+    with:
+      host: ${{ secrets.HOST }}
+      username: ${{ secrets.USERNAME }}
+      key: ${{ secrets.KEY }}
+      port: ${{ secrets.PORT }}
+      script: git stash |
+        git pull origin
+        git checkout master
+        bash build.sh
 
