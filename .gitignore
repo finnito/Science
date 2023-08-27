@@ -4,6 +4,7 @@ out.txt
 changelog.txt
 *.pdf
 @eaDir
+**/.DS_Store
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
