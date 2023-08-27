@@ -165,7 +165,7 @@ callPandoc() {
     # $name=$1
     # $numberlessName=$2
     year=$(date +"%Y")
-    "$SCRIPT_DIR"/pandoc "${name}.md" \
+    pandoc "${name}.md" \
         --to=revealjs \
         --template=default.revealjs \
         --mathjax\
@@ -209,7 +209,7 @@ runHugo() {
     if rm -rf public; then
         echo "Emptied the 'public' directory"
     fi
-    "$SCRIPT_DIR"/hugo \
+    hugo \
         --cleanDestinationDir \
         --gc \
         --minify
