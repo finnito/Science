@@ -27,6 +27,8 @@ while getopts hdf:p: opt; do
     esac
 done
 
+SCRIPT_DIR="$(pwd)"
+
 MODULES=(
     '09scie/introduction-to-science'
     '09scie/reactions-matter'
@@ -39,7 +41,7 @@ MODULES=(
     '10scie/electricity'
     '10scie/end-of-year'
     '10scie/geology'
-    '10scie/human-diseases'
+    '10scie/humans-and-diseases'
     '10scie/introduction'
     '10scie/junior-exams'
     '10scie/phun-reactions'
@@ -102,7 +104,7 @@ main() {
         for i in "${MODULES[@]}"; do
             if cd "$i"; then 
                 echo "Entered $i"
-                #tidyFolders
+                tidyFolders
                 slides=(!(_index).md)
                 createSlides "${slides[@]}"
                 cd ../../
@@ -163,7 +165,7 @@ callPandoc() {
     # $name=$1
     # $numberlessName=$2
     year=$(date +"%Y")
-    pandoc "${name}.md" \
+    "$SCRIPT_DIR"/pandoc "${name}.md" \
         --to=revealjs \
         --template=default.revealjs \
         --mathjax\
@@ -207,7 +209,7 @@ runHugo() {
     if rm -rf public; then
         echo "Emptied the 'public' directory"
     fi
-    hugo \
+    "$SCRIPT_DIR"/hugo \
         --cleanDestinationDir \
         --gc \
         --minify
