@@ -76,6 +76,8 @@ Sitting on your chair, are the forces acting on you balanced or unbalanced? How 
 
 ---
 
+For each situation, determine if the forces are balanced or unbalanced, what the net force is, and in what direction the van is accelerating (if any).
+
 ![](../assets/balanced-and-unbalanced.jpg)
 
 ---
