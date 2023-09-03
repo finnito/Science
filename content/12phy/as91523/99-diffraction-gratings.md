@@ -21,26 +21,30 @@ weight: 99
 
 ### Double-Slit vs. Diffraction Gratings
 
-- A double slit has only two openings, while a diffraction grating has thousands of equally spaced openings!
-- This increases the amount of interference that is occurring, which makes the fringes narrower
-- This is because there is more interference occuring while results is more areas of destructive interference
+- A double slit has only two openings, while <mark>a diffraction grating has thousands of equally spaced openings</mark>!
+- This <mark>increases the amount of interference</mark> that is occurring, which <mark>makes the fringes narrower</mark>
+- This is because there is more interference occurring which results <mark>more areas of destructive interference</mark>.
 
 ---
 
 ### Comparing {.c2}
 
 <div>
+
 Here is a double-slit interference pattern.
-![[Source](https://www.discovery.com/science/Double-Slit-Experiment)](https://discovery.sndimg.com/content/dam/images/discovery/editorial/Curiosity/2020/3/Double-Slit-Experiment_Jordgette_Wikimedia%20Commons.jpg.rend.hgtvcom.616.347.suffix/1583453002808.jpeg)
+![](https://www.interaliamag.org/wp-content/uploads/2014/12/double-slit-interference.jpg)
+
 </div>
 <div>
+
 Here is a diffraction grating interference pattern.
 ![[Source](http://www.webexhibits.org/causesofcolor/15F.html)](http://www.webexhibits.org/causesofcolor/images/content/415slits.jpg)
+
 </div>
 
 ---
 
-And here you can see how the pattern changes progressivly as more slits are added to a barrier.
+And here you can see how the pattern changes progressively as more slits are added to a barrier.
 
 ![[Source](http://labman.phys.utk.edu/phys222core/modules/m9/interference.htm)](http://labman.phys.utk.edu/phys222core/modules/m9/images/ipat.jpg)
 
@@ -52,8 +56,8 @@ And here you can see how the pattern changes progressivly as more slits are adde
 - Instead of having two slits, diffraction gratings often have tens, hundreds or thousands
 - <mark>Their spacing is typically extremely small, this means the spacing between fringes is much larger than double-slits</mark>
 - <mark>The slits are extremely thin, so the light is diffracted over almost 180 degrees</mark>
-- There are a large number of slits, so the fringes are bright
-- <mark>In the case of white light, Within each fringe (n) the individual wavelengths are also split up</mark>
+- There are a large number of slits, so interference is predominantly destructive, with small areas of constructive interference.
+- <mark>In the case of white light, within each fringe (n) the individual wavelengths are also split up</mark>
 
 ![](https://www.daviddarling.info/images/diffraction_grating.jpg)
 
@@ -61,16 +65,22 @@ And here you can see how the pattern changes progressivly as more slits are adde
 
 ### Colours {.c2}
 
-- We should notice, as mentioned before, red light diffracts the most and blue/purple the least. This means for __each fringe__ red is on the outside and blue on the inside.
-- For the central white fringe, all the colours have arrived in-phase and with a path difference of 0, therefore they recombine into white light.
+- We should notice, as mentioned before, red light diffracts the most and blue/purple the least. This means for __each fringe__ red is on the outside and blue/violet on the inside.
+- For the central white fringe, each different wavelength has arrived in-phase ($pd=n\lambda$), therefore their antinodes recombine into white light.
 
 ![](https://www.daviddarling.info/images/diffraction_grating.jpg)
 
 ---
 
+### Task
+
+Diffraction gratings cloze. Collect one, glue it in and fill in the blanks.
+
+---
+
 ## Doing Calculations
 
-- We can still use our equations from before $n\lambda = dsin(\theta)$
+- We can still use our equations from before $pd = dsin(\theta)$
 - However, diffraction gratings are typically described like this: _"2000 lines per cm"_. <mark>We need to calculate $d$, slit separation, from this number.</mark>
 
 ---
@@ -113,3 +123,10 @@ $$
 \end{aligned}
 $$
 </div>
+
+---
+
+## Practice
+
+- Textbook Activity 4C: Diffraction Gratings Q1,2 (and more)
+- Homework Booklet Q16
