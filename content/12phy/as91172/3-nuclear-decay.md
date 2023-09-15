@@ -91,7 +91,7 @@ Polonium-211 is an unstable isotope and goes through __alpha decay__ to become a
 ---
 
 - Least penetration ability (stopped by a sheet of paper)
-- Greatest ionizing ability (cause serious harm when ingested)
+- Greatest ionizing ability (causes serious harm on impact/ingestion)
 
 ---
 
