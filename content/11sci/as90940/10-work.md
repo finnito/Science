@@ -27,7 +27,7 @@ weight: 10
 
 > The amount of energy transferred/transformed (gained/lost).
 
-E.g. When you lift your backpack off the ground you are transferring some __chemical potential energy__ in your muscles into __gravitational potential energy__ in the backpack. You are doing __work__ on your backpack.
+E.g. When you lift your backpack off the ground you are transferring some __chemical potential energy__ in your muscles into __gravitational potential energy__ in the backpack. You are doing __work__ on your backpack. <mark>If the overall energy does not change, no work is done.</mark>
 
 ---
 
