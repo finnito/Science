@@ -205,7 +205,7 @@ $$
 
 ### Whakawai / Practice
 
-Complete Q33 from your homework booklet.
+Complete Q33 then Q32 from your homework booklet.
 
 $$
 \begin{aligned}
