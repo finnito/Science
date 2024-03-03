@@ -188,7 +188,7 @@ Worksheet - everything up to but not including the __Work__ section.
 
 ![](../assets/hw-q30-a-answers.png)
 
-- What force do we know is __not__ acting due to the cars movement?<br>_Thrust, because it is not accelerating._<br><br>
+- What force do we know is __not__ acting due to the cars movement?<br>_Thrust, because it is parked_.<br><br>
 - Therefore, what three forces __are__ acting?<br>_Weight, friction and support._<br><br>
 - Draw a force diagram illustrating these forces and their relative magnitude. Ensure you label them!
 
@@ -211,7 +211,7 @@ Worksheet - everything up to but not including the __Work__ section.
 
 - What do we know about the motion of the car?<br>_It is stationary (constant velocity)._<br><br>
 - Therefore, what can we say about its acceleration, forces and state of equilibrium?<br> $a=0, F_{net}=0$ and is therefore __in equilibrium__.<br><br>
-- Therefore, what do we know the vector diagram will look like?<br>_The vectors will form a closed loop._ <br><br>
+- Therefore, what do we know the vector diagram will look like?<br>_The vectors will form a closed diagram._ <br><br>
 - Draw a diagram.
 
 ---
