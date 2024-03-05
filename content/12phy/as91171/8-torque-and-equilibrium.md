@@ -35,7 +35,7 @@ $$
 \end{aligned}
 $$
 
-2. If the engine is producing $6000N$ for the above acceleration, why is this $6000N$ different from your calculation?
+2. If the engine is producing $6000N$ of thrust, why is this different from your calculation?
 
 ---
 
@@ -62,7 +62,7 @@ $$
 - A small force at a small distance produces a small torque,
 - the same small force at a larger distance produces a larger torque.
 - <mark>The force is in a straight line</mark>
-- <mark>The torque is circular (CW or ACW)</mark>
+- <mark>The torque is circular (CW or CCW)</mark>
 
 ![](../assets/torque.gif)
 
@@ -113,7 +113,7 @@ __Clockwise or Anticlockwise__
 
 ## Equilibrium, Expanded
 
-_Newton's First Law_ tells us equilibrium is when an object is __at rest__ or __moving uniformly__.
+_Newton's First Law_ tells us equilibrium is when an object is __at rest__ or __moving uniformly__ ($F_{net}=0$).
 
 For this to occur we need two things to be true. <mark>You must state these assumptions when doing any equilibrium question.</mark>
 
@@ -176,7 +176,7 @@ The plank may not be massless. You may need to take it into account.
 
 ![](../assets/torque-due-to-plank.png)
 
-- The mass of the plank acts through its __center of gravity__
+- The mass of the plank acts through its __centre of gravity__
 - Because the plank is uniform, this is the middle of the plank
 
 ---
@@ -198,7 +198,7 @@ The plank may not be massless. You may need to take it into account.
 
 - $d_{1}=30cm$, $d_{2}=70cm$, $m_{1}=900g$, $m_{2}=300g$, \cr see-saw mass = $100g$.
 - __Is the system in equilibrium?__
-- Step 1: calculate the total anticlockwise moment
+- Step 1: Calculate the total anticlockwise moment
 - Step 2: Calculate the total clockwise moment
 - Check if they are balanced.
 
