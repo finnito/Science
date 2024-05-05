@@ -221,6 +221,10 @@ $$
 - Come up to the front and observe the demonstration.
 - Use the observations to answer Task 1-4 on your sheet.
 
+---
+
+<iframe width="1276" height="718" src="https://www.youtube.com/embed/a7_8Gc_Llr8" title="What&#39;s In A Candle Flame?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <!-- ---
 
 ### Tūhura / Investigation {.c2}
