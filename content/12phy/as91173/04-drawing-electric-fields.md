@@ -26,8 +26,10 @@ weight: 4
 
 - A field can exist in a vacuum or inside matter.
 - An electric field exists in the space around electrically charged objects e.g. Van der Graaf generator, electrons, protons or a charged balloon.
+- The electric field strength diminishes with the inverse square law ($\textbf{E}\propto\frac{1}{r^{2}}$). Doubling the distance from the field source reduces the strength to 1/4.
 
-![[Source](https://www.765754.com/learn/tutorials/what-is-electricity/electric-fields)](https://www.765754.com/cdn/assets/2/d/5/0/0/519fd3c7ce395f974c000000.png)
+![](https://www.sciencefacts.net/wp-content/uploads/2021/03/Electric-Field.jpg)
+
 <!-- 
 ---
 
@@ -44,7 +46,7 @@ weight: 4
 - Lines close together indicate a strong field
 - Lines far apart indicate a weak field
 
-![[Source](http://physics.bu.edu/py106/notes/Electricfield.html)](http://buphy.bu.edu/~duffy/PY106/2e.GIF)
+![](../assets/test-charges.png)
 
 ---
 
