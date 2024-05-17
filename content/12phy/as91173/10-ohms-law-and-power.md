@@ -148,6 +148,8 @@ $$
 \end{aligned}
 $$
 
+The more power a component uses, the more energy is transformed (e.g. into light, heat, etc.)
+
 ---
 
 ### Pātai
