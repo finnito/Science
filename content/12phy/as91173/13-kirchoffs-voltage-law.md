@@ -36,6 +36,14 @@ $$
 
 ---
 
+|                        | Series Circuit                                 | Parallel Circuit                                    |
+|------------------------|------------------------------------------------|-----------------------------------------------------|
+| Current (I) in Amperes, $A$ | Same through all components                    | Adds up to the supply                               |
+| Voltage (V), in Volts, $V$  | Adds up to the supply                          | Same across all equi-resistant paths                |
+| Resistance (R) in Ohms, $\Omega$ | Combine to give more resistance ($R_{T}=R_{1}+R_{2}+...$) | Combine to give less resistance ($\frac{1}{R_{T}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+...$) |
+
+---
+
 ### Pātai: Harder
 
 Calculate all unknown values.<br/>__Strategy:__ You should start by calculating the total resistance and total current. Then, calculate the voltage used by the resistor in series with the power supply.
