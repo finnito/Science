@@ -21,6 +21,7 @@ changelog.txt
 .*.l
 *.synctex.gz
 *.fdb_latexmk
+*.xdv
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
