@@ -38,19 +38,24 @@ It is not important to understand _why_ at the moment, just to know that it __do
 3. An atom of Carbon-11 absorbs a neutron. Write down the nuclear equation.
 
 ---
-
+$$
 \begin{aligned}
-		{}^{14}_{6}C \rightarrow {}^{14}_{7}N + {}^{0}_{-1}\beta \newline
-		{}^{14}_{7}N \rightarrow {}^{14}_{8}O + {}^{0}_{-1}\beta
-	\end{aligned}
+	{}^{14}_{6}C \rightarrow {}^{14}_{7}N + {}^{0}_{-1}\beta \newline
+	{}^{14}_{7}N \rightarrow {}^{14}_{8}O + {}^{0}_{-1}\beta
+\end{aligned}
+$$
 
+$$
 \begin{aligned}
 	{}^{241}_{92}U \rightarrow {}^{237}_{87}Fr + {}^{4}_{2}\alpha + {}^{0}_{-1}\beta
 \end{aligned}
+$$
 
+$$
 \begin{aligned}
 	{}^{11}_{6}C + {}^{0}_{1}n \rightarrow {}^{12}_{6}C
 \end{aligned}
+$$
 
 ---
 

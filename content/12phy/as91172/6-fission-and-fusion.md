@@ -80,10 +80,12 @@ If the protons are positively charged, why don't they repel each other and the n
 
 #### Whakatika
 
+$$
 \begin{aligned}
     & {}^{1}_{0}n + {}^{235}_{92}U \rightarrow {}^{236}_{92}U \newline
     & {}^{236}_{92}U \rightarrow {}^{92}_{36}Kr + {}^{141}_{56}Ba + 3{}^{1}_{0}n
 \end{aligned}
+$$
 
 __Extra pātai__: What do you think the three neutrons produced do?
 
@@ -104,17 +106,21 @@ __Extra pātai__: What do you think the three neutrons produced do?
 
 #### Whakatika
 
+$$
 \begin{aligned}
     & {}^{3}_{1}H + {}^{2}_{1}H \rightarrow {}^{4}_{2}He + {}^{1}_{0}n
 \end{aligned}
+$$
 
 ---
 
 ### Producing Energy: Mass Balance
 
+$$
 \begin{aligned}
     & {}^{3}_{1}H + {}^{2}_{1}H \rightarrow {}^{4}_{2}He + {}^{1}_{0}n
 \end{aligned}
+$$
 
 - Tritium (${}^{3}_{1}H$) $= 5.00641 \times 10^{-27} kg$
 - Deuterium (${}^{2}_{1}H$) $= 3.3436 \times 10^{-27} kg$
@@ -135,9 +141,11 @@ __Extra pātai__: What do you think the three neutrons produced do?
 
 During the fusion process, the total mass is not conserved because some of the mass of the fusing nuclei is converted to energy.
 
+$$
 \begin{aligned}
     & E = mc^{2}
 \end{aligned}
+$$
 
 - $E =$ energy
 - $m =$ mass

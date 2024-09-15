@@ -45,7 +45,8 @@ This means that the atomic number of the decaying atom is ________ by ________ a
 
 ---
 
-\begin{aligned}
+$$
+begin{aligned}
     & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}He \newline
     & {}^{214}_{81}Tl \rightarrow {}^{210}_{79}Au + {}^{4}_{2}\alpha \newline
 \end{aligned}
@@ -87,10 +88,12 @@ This means that the atomic number of the decay atom is ________ by ________ and 
 
 #### Whakatika Toru
 
-\begin{aligned}
+$$
+begin{aligned}
     & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}e \newline
     & {}^{218}_{84}Po \rightarrow {}^{218}_{85}At + {}^{0}_{-1}\beta \newline
 \end{aligned}
+$$
 
 ---
 
@@ -122,9 +125,11 @@ In a gamma ($\gamma$) emission, the decaying atom only loses ________, which mea
 
 #### Whakatika Rimu
 
-\begin{aligned}
+$$
+begin{aligned}
     & {}^{201}_{79}Au \rightarrow {}^{201}_{79}Au + \gamma \newline
 \end{aligned}
+$$
 
 ---
 
@@ -139,12 +144,14 @@ In a gamma ($\gamma$) emission, the decaying atom only loses ________, which mea
 
 ### Ngā Whakatika 1-4
 
-\begin{aligned}
+$$
+begin{aligned}
     & {}^{218}_{84}Po \rightarrow {}^{214}_{82}Pb + {}^{4}_{2}He \newline
     & {}^{3}_{1}H \rightarrow {}^{3}_{2}He + {}^{0}_{-1}\beta \newline
     & {}^{14}_{6}C \rightarrow {}^{4}_{6}C + \gamma \newline
     & {}^{13}_{6}C + {}^{1}_{0}n \rightarrow {}^{14}_{6}C
 \end{aligned}
+$$
 
 ---
 
@@ -157,9 +164,11 @@ In a gamma ($\gamma$) emission, the decaying atom only loses ________, which mea
 
 ### Ngā Whakatika 5-8
 
-\begin{aligned}
+$$
+begin{aligned}
     & {}^{234}_{92}U \rightarrow {}^{226}_{88}Ra + 2{}^{4}_{2}He \newline
     & {}^{222}_{88}Ra \rightarrow {}^{216}_{84}Po + 2{}^{4}_{2}He \newline
     & {}^{234}_{90}Th \rightarrow {}^{234}_{92}U + 2{}^{0}_{-1}\beta \newline
     & {}^{210}_{83}Bi \rightarrow {}^{210}_{85}At + 2{}^{0}_{-1}\beta
 \end{aligned}
+$$
