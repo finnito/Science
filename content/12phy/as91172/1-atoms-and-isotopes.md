@@ -143,7 +143,7 @@ Now add the atomic and mass numbers to __oxygen__, __sodium__, __aluminium__ and
 - However, an atom may lose (or gain) one or more electrons, in which case they become ‘ions’ – having a positive (or negative) charge. Losing or gaining electron(s) is called ionisation.
 - Atoms are neutral, ions are charged.
 
-![[Source](http://funi.lotap.renstra.fr09.org/ion-diagram.html)](https://static-cdn.imageservice.cloud/3528258/igcse-chemistry-2017-140-draw-dot-and-cross-diagrams-to-show-the.jpg)
+![[Source](https://atelier-yuwa.ciao.jp/ahsoka-tano-green-lightsabers/ahsoka-tano-green-lightsabers/ahsoka-tano-green-lightsabers/what-are-difference-between-atom-and-ion-definition-types-nn-22547378)](https://d20khd7ddkh5ls.cloudfront.net/chlorine_vs_chloride.jpeg)
 
 ---
 
