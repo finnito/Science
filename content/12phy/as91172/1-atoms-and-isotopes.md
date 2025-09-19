@@ -57,12 +57,6 @@ In the modern day, we now know that everything is made up of about 119 elements.
 
 ---
 
-We know that each element is made up of a unique type atom
-
-![](../assets/1-elements.png)
-
----
-
 # Atoms
 
 - Atoms are made of three subatomic particles.
